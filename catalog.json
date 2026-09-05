@@ -1,0 +1,1782 @@
+{
+  "movies": [
+    {
+      "titulo": "Five Nights at Freddy's",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg",
+      "rating": "8.9",
+      "anio": 2023,
+      "duracion": "1h 49min",
+      "genero": "Terror, Suspenso",
+      "descripcion": "Un hombre comienza un trabajo como guardia de seguridad nocturna en Freddy Fazbear's Pizza, donde descubre que los animatrónicos se mueven por la noche.",
+      "director": "Emma Tammi",
+      "reparto": "Josh Hutcherson, Piper Rubio, Elizabeth Lail, Matthew Lillard",
+      "embedUrl": "https://cuevana3.gs/player.php?t=Y0NDOpzHJ_hyxx3Wwx9gMMOGt6Ak6fB8u8OT-6RaOjOqiq60A8B0EI8hCFdcG2xnV-c744pnz2OWPNCZREC3sA&server=vimeos"
+    },
+    {
+      "titulo": "Spider-Man: Cruzando el Multiverso",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/37WcNMgNOMxdhT87MFl7tq7FM1.jpg",
+      "rating": "8.2",
+      "anio": 2023,
+      "duracion": "2h 29min",
+      "genero": "Animación, Acción, Aventura",
+      "descripcion": "Miles Morales se reencuentra con Gwen y viaja por el Multiverso, donde conoce a otros Spider-Man.",
+      "director": "Joaquim Dos Santos, Kemp Powers",
+      "reparto": "Shameik Moore, Hailee Steinfeld, Brian Tyree Henry",
+      "embedUrl": "https://cuevana3.gs/player.php?t=xKOsQ8H3ZDFx8veUA1HrDzUQmh-rKa2Qj2vuAhxXxL0rEubDKDxco1i6rAuiHN8A5qaX2V6BQgCmBTYCzsie6Q&server=vimeos"
+    },
+    {
+      "titulo": "Spider-Man: De regreso a casa",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/bRl6C6FwzTndk0MBGZZ68nRFlw3.jpg",
+      "rating": "8.6",
+      "anio": 2017,
+      "duracion": "2h 13min",
+      "genero": "Acción, Aventura",
+      "descripcion": "Peter Parker intenta equilibrar su vida como estudiante y superhéroe mientras recibe la guía de Tony Stark.",
+      "director": "Jon Watts",
+      "reparto": "Tom Holland, Michael Keaton, Robert Downey Jr.",
+      "embedUrl": "https://cuevana3.gs/player.php?t=tov-i_0JzseLHwY64zAPCTS5CQuwa15Thx-vezxQo7B_YVjnRvRujzOVSZNXxvWH7C8buAtM98_c33-FiXgCsA&server=vimeos"
+    },
+    {
+      "titulo": "Super Mario Galaxy la película",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",
+      "rating": "7.8",
+      "anio": 2026,
+      "duracion": "1h 38min",
+      "genero": "Familia, Comedia, Aventura, Fantasía, Animación",
+      "descripcion": "Mario y Luigi se enfrentan a una nueva amenaza en Bowser Jr.",
+      "director": "Aaron Horvath y Michael Jelenic",
+      "reparto": "Chris Pratt, Charlie Day, Anya Taylor-Joy, Jack Black",
+      "embedUrl": "https://vimeos.net/embed-v7hdakih9470.html"
+    },
+    {
+      "titulo": "Avatar: Fuego y ceniza",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg",
+      "rating": "7.8",
+      "anio": 2025,
+      "duracion": "3h 17min",
+      "genero": "Ciencia ficción, Aventura, Fantasía",
+      "descripcion": "Jake Sully y Neytiri deben proteger a su familia y a Pandora.",
+      "director": "James Cameron",
+      "reparto": "Sam Worthington, Zoe Saldaña, Sigourney Weaver",
+      "embedUrl": "https://vimeos.net/embed-t0asskfapj18.html"
+    },
+    {
+      "titulo": "Backrooms: Sin salida",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "rating": "8.4",
+      "anio": 2026,
+      "duracion": "1h 51min",
+      "genero": "Terror, Misterio, Ciencia Ficción",
+      "descripcion": "Aparece una puerta extraña en el sótano de una sala de exposiciones de muebles.",
+      "director": "Kane Parsons",
+      "reparto": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass",
+      "embedUrl": "https://vimeos.net/embed-bv19oh01kdb9.html"
+    },
+    {
+      "titulo": "Saw X",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/u7Lp1Hi8aBS73jv4KRMIv5aK4ax.jpg",
+      "rating": "8.5",
+      "anio": 2023,
+      "duracion": "2h 32min",
+      "genero": "Terror, Misterio",
+      "descripcion": "John Kramer viaja a México buscando un tratamiento experimental, pero descubre que todo es una estafa.",
+      "director": "Kevin Greutert",
+      "reparto": "Tobin Bell, Shawnee Smith, Synnøve Macody Lund",
+      "embedUrl": "https://vimeos.net/embed-7rz3zvwg7o9e.html"
+    },
+    {
+      "titulo": "Jurassic World Rebirth",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+      "rating": "8.9",
+      "anio": 2025,
+      "duracion": "2h 46min",
+      "genero": "Ciencia Ficción, Aventura, Acción",
+      "descripcion": "Zora Bennett lidera una misión secreta para obtener material genético de tres enormes dinosaurios.",
+      "director": "Gareth Edwards",
+      "reparto": "Scarlett Johansson, Mahershala Ali, Jonathan Bailey",
+      "embedUrl": "https://vimeos.net/embed-p7mkty83khe9.html"
+    },
+    {
+      "titulo": "Evil Dead Rise",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",
+      "rating": "8.2",
+      "anio": 2023,
+      "duracion": "1h 36min",
+      "genero": "Terror, Thriller",
+      "descripcion": "Un reencuentro entre dos hermanas distanciadas se ve truncado por el surgimiento de demonios.",
+      "director": "Lee Cronin",
+      "reparto": "Lily Sullivan, Alyssa Sutherland, Morgan Davies",
+      "embedUrl": "https://cuevana3.gs/player.php?t=BO5oncwwFQZhpi_vRWGFxgUOSqaCtcn3BD6Qf5ombZ39xB6AEN7vuC2-te7KW_PDnvPK1V8mc6SYjPrqrszdqQ&server=vimeos"
+    },
+    {
+      "titulo": "Bad Boys para Siempre",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+      "rating": "8.3",
+      "anio": 2020,
+      "duracion": "2h 4min",
+      "genero": "Thriller, Acción, Crimen",
+      "descripcion": "Marcus y Mike regresan a la acción junto al nuevo equipo AMMO.",
+      "director": "Adil El Arbi y Bilall Fallah",
+      "reparto": "Will Smith, Martin Lawrence, Vanessa Hudgens",
+      "embedUrl": "https://vimeos.net/embed-cg3mcmop1ct4.html"
+    },
+    {
+      "titulo": "Barbie",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "rating": "7.0",
+      "anio": 2023,
+      "duracion": "1h 54min",
+      "genero": "Comedia, Fantasía",
+      "descripcion": "Barbie vive en Barbieland hasta que es expulsada al mundo real.",
+      "director": "Greta Gerwig",
+      "reparto": "Margot Robbie, Ryan Gosling, America Ferrera",
+      "embedUrl": "https://vimeos.net/embed-nvnyl2mw5s34.html"
+    },
+    {
+      "titulo": "John Wick 4",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "rating": "7.7",
+      "anio": 2023,
+      "duracion": "2h 49min",
+      "genero": "Acción, Crimen",
+      "descripcion": "John Wick descubre un camino para derrotar a la Alta Mesa.",
+      "director": "Chad Stahelski",
+      "reparto": "Keanu Reeves, Donnie Yen, Bill Skarsgård",
+      "embedUrl": "https://vimeos.net/embed-f4tp8s5fk17z.html"
+    },
+    {
+      "titulo": "Mission: Impossible - Dead Reckoning",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "rating": "7.8",
+      "anio": 2023,
+      "duracion": "2h 43min",
+      "genero": "Acción, Aventura",
+      "descripcion": "Ethan Hunt y su equipo deben encontrar una peligrosa arma antes de que caiga en manos equivocadas.",
+      "director": "Christopher McQuarrie",
+      "reparto": "Tom Cruise, Hayley Atwell, Ving Rhames",
+      "embedUrl": "https://vimeos.net/embed-d45hedrv1by8.html"
+    },
+    {
+      "titulo": "Guardianes de la Galaxia Vol. 3",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "rating": "7.9",
+      "anio": 2023,
+      "duracion": "2h 30min",
+      "genero": "Ciencia Ficción, Aventura",
+      "descripcion": "Los Guardianes se embarcan en una misión para proteger a Rocket de su pasado.",
+      "director": "James Gunn",
+      "reparto": "Chris Pratt, Zoe Saldana, Dave Bautista",
+      "embedUrl": "https://vimeos.net/embed-r9w8kqjiq3pb.html"
+    },
+    {
+      "titulo": "Super Mario Bros. La película",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "rating": "7.1",
+      "anio": 2023,
+      "duracion": "1h 32min",
+      "genero": "Animación, Aventura",
+      "descripcion": "Mario y Luigi se embarcan en una aventura épica en el Reino Champiñón.",
+      "director": "Aaron Horvath, Michael Jelenic",
+      "reparto": "Chris Pratt, Anya Taylor-Joy, Jack Black",
+      "embedUrl": "https://cuevana3.gs/player.php?t=OMgNIyCGIOmd0hPr3bo_p-NtDaf6Fh91qX3HLQODdnLhJS8tcSARgs1ulTnFzsm8aIZV0blpDQQaABsTn4xSzw&server=vimeos"
+    },
+    {
+      "titulo": "Fast X",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "rating": "5.9",
+      "anio": 2023,
+      "duracion": "2h 21min",
+      "genero": "Acción, Crimen",
+      "descripcion": "Dom Toretto y su familia se enfrentan a un nuevo enemigo del pasado.",
+      "director": "Louis Leterrier",
+      "reparto": "Vin Diesel, Jason Momoa, Michelle Rodriguez",
+      "embedUrl": "https://vimeos.net/embed-ib4j9frlk3bi.html"
+    },
+    {
+      "titulo": "Transformers: El despertar de las bestias",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+      "rating": "6.1",
+      "anio": 2023,
+      "duracion": "2h 7min",
+      "genero": "Acción, Ciencia Ficción",
+      "descripcion": "Los Autobots se unen a los Maximals para salvar la Tierra.",
+      "director": "Steven Caple Jr.",
+      "reparto": "Anthony Ramos, Dominique Fishback, Peter Cullen",
+      "embedUrl": "https://vimeos.net/embed-wsicrksh3kzw.html"
+    },
+    {
+      "titulo": "The Flash",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "rating": "6.7",
+      "anio": 2023,
+      "duracion": "2h 24min",
+      "genero": "Acción, Ciencia Ficción",
+      "descripcion": "Barry Allen viaja en el tiempo para salvar a su madre.",
+      "director": "Andy Muschietti",
+      "reparto": "Ezra Miller, Michael Keaton, Sasha Calle",
+      "embedUrl": "https://vimeos.net/embed-f93k796ofpv6.html"
+    },
+    {
+      "titulo": "Aquaman y el Reino Perdido",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg",
+      "rating": "5.7",
+      "anio": 2023,
+      "duracion": "2h 4min",
+      "genero": "Acción, Fantasía",
+      "descripcion": "Aquaman debe proteger la Atlántida de una antigua amenaza.",
+      "director": "James Wan",
+      "reparto": "Jason Momoa, Patrick Wilson, Amber Heard",
+      "embedUrl": "https://vimeos.net/embed-jriijgw0pdum.html"
+    },
+    {
+      "titulo": "The Marvels",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+      "rating": "5.6",
+      "anio": 2023,
+      "duracion": "1h 45min",
+      "genero": "Acción, Ciencia Ficción",
+      "descripcion": "Carol Danvers, Kamala Khan y Monica Rambeau unen fuerzas para salvar el universo.",
+      "director": "Nia DaCosta",
+      "reparto": "Brie Larson, Teyonah Parris, Iman Vellani",
+      "embedUrl": "https://vimeos.net/embed-oybsudgyo6fi.html"
+    },
+    {
+      "titulo": "Indiana Jones y el dial del destino",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
+      "rating": "6.6",
+      "anio": 2023,
+      "duracion": "2h 34min",
+      "genero": "Aventura, Acción",
+      "descripcion": "Indiana Jones se embarca en una última aventura para encontrar un antiguo artefacto.",
+      "director": "James Mangold",
+      "reparto": "Harrison Ford, Phoebe Waller-Bridge, Mads Mikkelsen",
+      "embedUrl": "https://vimeos.net/embed-r5vsr7frszen.html"
+    },
+    {
+      "titulo": "Elemental",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+      "rating": "6.9",
+      "anio": 2023,
+      "duracion": "1h 41min",
+      "genero": "Animación, Comedia",
+      "descripcion": "En una ciudad donde conviven fuego, agua, tierra y aire, una joven de fuego y un chico de agua se conocen.",
+      "director": "Peter Sohn",
+      "reparto": "Leah Lewis, Mamoudou Athie, Ronnie del Carmen",
+      "embedUrl": "https://vimeos.net/embed-j7e93zhr5gls.html"
+    },
+    {
+      "titulo": "Venom",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "rating": "6.7",
+      "anio": 2018,
+      "duracion": "1h 52min",
+      "genero": "Acción, Ciencia Ficción",
+      "descripcion": "Un periodista adquiere poderes sobrehumanos tras unirse a un simbionte alienígena.",
+      "director": "Ruben Fleischer",
+      "reparto": "Tom Hardy, Michelle Williams, Riz Ahmed",
+      "embedUrl": "https://vimeos.net/embed-blbnnxp41i0i.html"
+    },
+    {
+      "titulo": "El Conjuro",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+      "rating": "8.4",
+      "anio": 2013,
+      "duracion": "1h 52min",
+      "genero": "Terror, Thriller",
+      "descripcion": "Los investigadores paranormales Ed y Lorraine Warren afrontan un caso aterrador.",
+      "director": "James Wan",
+      "reparto": "Vera Farmiga, Patrick Wilson, Lili Taylor",
+      "embedUrl": "https://vimeos.net/embed-o7kj1vz9hkbb.html"
+    },
+    {
+      "titulo": "El Conjuro 2",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg",
+      "rating": "8.5",
+      "anio": 2016,
+      "duracion": "2h 14min",
+      "genero": "Terror",
+      "descripcion": "Lorraine y Ed Warren viajan al norte de Londres para ayudar a una madre soltera.",
+      "director": "James Wan",
+      "reparto": "Vera Farmiga, Patrick Wilson, Frances O'Connor",
+      "embedUrl": "https://vimeos.net/embed-c7b5ase9682n.html"
+    },
+    {
+      "titulo": "El Conjuro 3",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+      "rating": "8.5",
+      "anio": 2021,
+      "duracion": "1h 51min",
+      "genero": "Terror, Misterio, Thriller",
+      "descripcion": "Los investigadores paranormales Ed y Lorraine Warren se encuentran con un caso sensacional.",
+      "director": "Michael Chaves",
+      "reparto": "Vera Farmiga, Patrick Wilson, Ruairi O'Connor",
+      "embedUrl": "https://vimeos.net/embed-c7d2oqp83sx9.html"
+    },
+    {
+      "titulo": "La monja",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
+      "rating": "8.8",
+      "anio": 2018,
+      "duracion": "1h 36min",
+      "genero": "Terror",
+      "descripcion": "Un sacerdote y una novicia son enviados a Rumanía para investigar la muerte de una monja.",
+      "director": "Corin Hardy",
+      "reparto": "Taissa Farmiga, Demián Bichir, Jonas Bloquet",
+      "embedUrl": "https://vimeos.net/embed-g1444ti13rmx.html"
+    },
+    {
+      "titulo": "La monja II",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",
+      "rating": "8.7",
+      "anio": 2023,
+      "duracion": "1h 50min",
+      "genero": "Terror",
+      "descripcion": "En Francia de 1956, un sacerdote es asesinado y la hermana Irene comienza a investigar.",
+      "director": "Michael Chaves",
+      "reparto": "Taissa Farmiga, Jonas Bloquet, Storm Reid",
+      "embedUrl": "https://vimeos.net/embed-rhr9z7ad5hqm.html"
+    },
+    {
+      "titulo": "Stuart Little 2",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/hjfeMLWqJY44mqqJKZSa6jx4Y1j.jpg",
+      "rating": "8.0",
+      "anio": 2000,
+      "duracion": "1h 18m",
+      "genero": "Familia, Aventura, Comedia",
+      "descripcion": "Stuart sigue viviendo feliz con su familia adoptiva, los Little.",
+      "director": "Rob Minkoff",
+      "reparto": "Michael J. Fox, Geena Davis, Hugh Laurie, Jonathan Lipnicki",
+      "embedUrl": "https://vimeos.net/embed-u9d388mvzr9y.html"
+    },
+    {
+      "titulo": "Titanic",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "rating": "8.0",
+      "anio": 1997,
+      "duracion": "3h 14m",
+      "genero": "Drama, Romance",
+      "descripcion": "Rose cuenta la historia de su vida a bordo del Titanic.",
+      "director": "James Cameron",
+      "reparto": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",
+      "embedUrl": "https://vimeos.net/embed-gkydkzkvctxk.html"
+    },
+    {
+      "titulo": "Interestelar",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "rating": "8.0",
+      "anio": 2014,
+      "duracion": "2h 49m",
+      "genero": "Aventura, Drama, Ciencia Ficción",
+      "descripcion": "Un grupo de exploradores utiliza un agujero de gusano para superar las limitaciones de los viajes espaciales.",
+      "director": "Christopher Nolan",
+      "reparto": "Matthew McConaughey, Anne Hathaway, Jessica Chastain, Michael Caine",
+      "embedUrl": "https://vimeos.net/embed-voyzexg50uaj.html"
+    },
+    {
+      "titulo": "Megalodón 2",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+      "rating": "8.0",
+      "anio": 2023,
+      "duracion": "1h 56m",
+      "genero": "Acción, Ciencia Ficción, Terror",
+      "descripcion": "Una misión exploratoria en las profundidades del océano se convierte en una lucha por sobrevivir.",
+      "director": "Ben Wheatley",
+      "reparto": "Jason Statham, Wu Jing, Sophia Shuya Cai",
+      "embedUrl": "https://gscdn.cam/video/embed/yd9jvwx1ct8d"
+    },
+    {
+      "titulo": "Sonic La Película",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+      "rating": "8.0",
+      "anio": 2020,
+      "duracion": "1h 39m",
+      "genero": "Acción, Ciencia Ficción, Comedia, Familia",
+      "descripcion": "Sonic abraza su nuevo hogar en la Tierra y se enfrenta a nuevos enemigos.",
+      "director": "Jeff Fowler",
+      "reparto": "Ben Schwartz, James Marsden, Jim Carrey",
+      "embedUrl": "https://vimeos.net/embed-weoww4ee4f80.html"
+    },
+    {
+      "titulo": "Sonic 2",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+      "rating": "8.0",
+      "anio": 2022,
+      "duracion": "2h 3m",
+      "genero": "Acción, Aventura, Familia, Comedia",
+      "descripcion": "Sonic quiere demostrar que puede ser un verdadero héroe.",
+      "director": "Jeff Fowler",
+      "reparto": "Ben Schwartz, James Marsden, Jim Carrey, Idris Elba",
+      "embedUrl": "https://vimeos.net/embed-cyj0ugagvis1.html"
+    },
+    {
+      "titulo": "Sonic 3",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+      "rating": "8.0",
+      "anio": 2024,
+      "duracion": "1h 50m",
+      "genero": "Acción, Ciencia Ficción, Comedia, Familia",
+      "descripcion": "Sonic, Knuckles y Tails se enfrentan a Shadow.",
+      "director": "Jeff Fowler",
+      "reparto": "Jim Carrey, Ben Schwartz, Keanu Reeves, James Marsden",
+      "embedUrl": "https://vimeos.net/embed-5z0kyms1zyct.html"
+    },
+    {
+      "titulo": "Oppenheimer",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "rating": "8.0",
+      "anio": 2023,
+      "duracion": "3h 1m",
+      "genero": "Drama, Historia",
+      "descripcion": "La historia del papel de J. Robert Oppenheimer en el desarrollo de la bomba atómica.",
+      "director": "Christopher Nolan",
+      "reparto": "Cillian Murphy, Emily Blunt, Matt Damon, Robert Downey Jr.",
+      "embedUrl": "https://vimeos.net/embed-klxgsdzm21sx.html"
+    },
+    {
+      "titulo": "Terrifier",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
+      "rating": "8.0",
+      "anio": 2018,
+      "duracion": "1h 24m",
+      "genero": "Terror",
+      "descripcion": "Art el Payaso aterroriza a tres jóvenes durante la noche de Halloween.",
+      "director": "Damien Leone",
+      "reparto": "David Howard Thornton, Jenna Kanell, Samantha Scaffidi",
+      "embedUrl": "https://vimeos.net/embed-yf8nujvfjro9.html"
+    },
+    {
+      "titulo": "Terrifier 2: El Payaso Siniestro",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/qEAlwXbYk6IHA4ztoS2XFFaa7Xo.jpg",
+      "rating": "8.0",
+      "anio": 2022,
+      "duracion": "2h 18m",
+      "genero": "Terror",
+      "descripcion": "Art el Payaso regresa de entre los muertos para sembrar el terror.",
+      "director": "Damien Leone",
+      "reparto": "David Howard Thornton, Lauren LaVera, Elliott Fullam",
+      "embedUrl": "https://vimeos.net/embed-ku8mprxh0ef8.html"
+    },
+    {
+      "titulo": "Terrifier 3 Payaso Siniestro",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/ju10W5gl3PPK3b7TjEmVOZap51I.jpg",
+      "rating": "8.0",
+      "anio": 2024,
+      "duracion": "2h 5m",
+      "genero": "Terror",
+      "descripcion": "Sienna y Jonathan intentan reconstruir sus vidas después de la masacre.",
+      "director": "Damien Leone",
+      "reparto": "David Howard Thornton, Lauren LaVera, Samantha Scaffidi",
+      "embedUrl": "https://vimeos.net/embed-nnuybxi6bsta.html"
+    },
+    {
+      "titulo": "Superman",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+      "rating": "8.0",
+      "anio": 2025,
+      "duracion": "2h 10m",
+      "genero": "Ciencia Ficción, Aventura, Acción",
+      "descripcion": "Superman intenta reconciliar su herencia kriptoniana con su educación humana como Clark Kent.",
+      "director": "James Gunn",
+      "reparto": "David Corenswet, Rachel Brosnahan, Nicholas Hoult",
+      "embedUrl": "https://vimeos.net/embed-ncph02w1zpi2.html"
+    },
+    {
+      "titulo": "Michael",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "rating": "8.0",
+      "anio": 2026,
+      "duracion": "2h 8m",
+      "genero": "Música, Teatro",
+      "descripcion": "La película narra la vida de Michael Jackson desde sus inicios hasta convertirse en uno de los artistas más influyentes.",
+      "director": "Antoine Fuqua",
+      "reparto": "Jaafar Jackson, Nia Long, Colman Domingo, Miles Teller",
+      "embedUrl": "https://vimeos.net/embed-85qzksqyf42k.html"
+    },
+    {
+      "titulo": "Evil Dead En llamas",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+      "rating": "8.0",
+      "anio": 2026,
+      "duracion": "1h 50m",
+      "genero": "Terror",
+      "descripcion": "Tras la muerte de su marido, Alice busca consuelo con su familia restante.",
+      "director": "Sébastien Vaniček",
+      "reparto": "Lily Sullivan, Alyssa Sutherland, Nell Fisher",
+      "embedUrl": "https://vimeos.net/embed-72cgndb5cklj.html"
+    },
+    {
+      "titulo": "Deadpool & Wolverine",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+      "rating": "8.0",
+      "anio": 2024,
+      "duracion": "2h 8m",
+      "genero": "Acción, Comedia, Ciencia Ficción",
+      "descripcion": "Wade Wilson vuelve a convertirse en Deadpool y se une a Wolverine.",
+      "director": "Shawn Levy",
+      "reparto": "Ryan Reynolds, Hugh Jackman, Emma Corrin, Morena Baccarin",
+      "embedUrl": "https://vimeos.net/embed-tmbjqufb955w.html"
+    },
+    {
+      "titulo": "Lilo y Stitch",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg",
+      "rating": "8.0",
+      "anio": 2025,
+      "duracion": "1h 48m",
+      "genero": "Familia, Ciencia Ficción, Comedia",
+      "descripcion": "Una chica hawaiana solitaria conoce a un alienígena fugitivo.",
+      "director": "Dean Fleischer Camp",
+      "reparto": "Maia Kealoha, Sydney Agudong, Chris Sanders",
+      "embedUrl": "https://vimeos.net/embed-uzilzbe2bjz3.html"
+    },
+    {
+      "titulo": "Five Nights at Freddy's 2",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+      "rating": "8.0",
+      "anio": 2025,
+      "duracion": "1h 44m",
+      "genero": "Terror, Thriller",
+      "descripcion": "La pesadilla sobrenatural de Freddy Fazbear's Pizza regresa con nuevos secretos.",
+      "director": "Emma Tammi",
+      "reparto": "Josh Hutcherson, Elizabeth Lail, Piper Rubio, Matthew Lillard",
+      "embedUrl": "https://vimeos.net/embed-coi7n8m5bafw.html"
+    },
+    {
+      "titulo": "Minions & Monsters",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "rating": "8.0",
+      "anio": 2026,
+      "duracion": "1h 30m",
+      "genero": "Aventura, Animación, Comedia, Familia y Fantasía",
+      "descripcion": "Esta es la historia bulliciosa, ridícula y totalmente real de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar el planeta del caos que acababan de crear",
+      "director": "Pierre Coffin, Patrick Delage",
+      "reparto": "Pierre Coffin, Trey Parker, Allison Janney, Christoph Waltz, Jeff Bridges, Jesse Eisenberg, Zoey Deutch, Bobby Moynihan, Phil LaMarr",
+      "embedUrl": "https://vimeos.net/embed-rxibp0g06k4r.html"
+    },
+    {
+      "titulo": "Supergirl (2026)",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "rating": "6.0",
+      "anio": 2026,
+      "duracion": "1h 48m",
+      "genero": "Acción, aventura y ciencia ficción",
+      "descripcion": "Cuando un adversario inesperado y despiadado ataca demasiado cerca, Kara Zor-El, también conocida como Supergirl, se une a regañadientes a una compañera improbable en un épico viaje interestelar de venganza y justicia",
+      "director": "Craig Gillespie",
+      "reparto": "Milly Alcock (Supergirl/Kara Zor-El), Jason Momoa (Lobo), Matthias Schoenaerts (Krem), Eve Ridley (Ruthye Marye Knoll), David Krumholtz (Zor-El), Emily Beecham (Alura In-Ze), David Corenswet (Superman)",
+      "embedUrl": "https://bysedikamoum.com/e/huq852hqvut8"
+    },
+    {
+      "titulo": "Mufasa El Rey León",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+      "rating": "6.6",
+      "anio": 2024,
+      "duracion": "1h 58m",
+      "genero": "Aventura, familia y animación",
+      "descripcion": "Mufasa, un cachorro perdido y solo, conoce a un león comprensivo llamado Taka, heredero de una línea real. Este encuentro fortuito pone en marcha un extenso viaje de un grupo de inadaptados en busca de su destino",
+      "director": "Barry Jenkins",
+      "reparto": "Aaron Pierre, Kelvin Harrison Jr., Tiffany Boone, Kagiso Lediga, Preston Nyman, Blue Ivy Carter, John Kani, Mads Mikkelsen, Seth Rogen, Billy Eichner, Thandiwe Newton, Lennie James, Anika Noni Rose, Keith David, Donald Glover, Beyoncé",
+      "embedUrl": "https://bysedikamoum.com/e/5waymb242tc5"
+    },
+    {
+      "titulo": "Intensa Mente 2",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+      "rating": "7.5",
+      "anio": 2024,
+      "duracion": "1h 37m",
+      "genero": "Animación, Aventura, Comedia y Familia",
+      "descripcion": "La sede mental de la adolescente Riley está siendo demolida de repente para dar paso a algo totalmente inesperado: ¡nuevas Emociones! Alegría, Tristeza, Ira, Miedo y Asco, que llevan tiempo gestionando una operación exitosa según todos los informes, no saben cómo sentirse cuando aparece la Ansiedad. Y parece que no está sola",
+      "director": "Kelsey Mann",
+      "reparto": "Amy Poehler, Maya Hawke, Kensington Tallman, Liza Lapira, Tony Hale, Lewis Black, Phyllis Smith, Ayo Edebiri, Adèle Exarchopoulos, Paul Walter Hauser, Diane Lane, Kyle MacLachlan",
+      "embedUrl": "https://bysedikamoum.com/e/6b37sjd2pk1r"
+    },
+    {
+      "titulo": "Garfield: Fuera de casa",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg",
+      "rating": "5.7",
+      "anio": 2024,
+      "duracion": "1h 41m",
+      "genero": "Aventura, Animación, Comedia y Familia",
+      "descripcion": "Garfield, el famoso gato de interior mundialmente famoso que odia los lunes y ama la lasaña, ¡está a punto de vivir una aventura salvaje al aire libre! Tras un reencuentro inesperado con su padre perdido hace mucho tiempo – el desaliñado gato callejero Vic – Garfield y su amigo canino Odie se ven obligados a dejar su vida perfectamente mimada para unirse a Vic en un atraco hilarante y de alto riesgo",
+      "director": "Mark Dindal",
+      "reparto": "Chris Pratt, Samuel L. Jackson, Hannah Waddingham, Ving Rhames, Nicholas Hoult, Cecily Strong, Harvey Guillén, Brett Goldstein, Bowen Yang, Snoop Dogg, Janelle James, Angus Cloud",
+      "embedUrl": "https://bysedikamoum.com/e/xmkly9l9kopm"
+    },
+    {
+      "titulo": "Lightyear",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/ox4goZd956BxqJH6iLwhWPL9ct4.jpg",
+      "rating": "6.1",
+      "anio": 2022,
+      "duracion": "1h 45m",
+      "genero": "Animación, Ciencia Ficción, Familia y Aventura",
+      "descripcion": "El legendario Ranger Espacial Buzz Lightyear se embarca en una aventura intergaláctica junto a un grupo de ambiciosos reclutas y su compañero robot Sox",
+      "director": "Angus MacLane",
+      "reparto": "Chris Evans, Keke Palmer, Peter Sohn, Taika Waititi, Dale Soules, James Brolin, Uzo Aduba, Isiah Whitlock Jr., Mary McDonald-Lewis, Bill Hader, Efren Ramirez",
+      "embedUrl": "https://bysedikamoum.com/e/76s1fzi3irwg"
+    },
+    {
+      "titulo": "Jumanji El siguiente nivel",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
+      "rating": "6.6",
+      "anio": 2019,
+      "duracion": "2h 3m",
+      "genero": "Aventura, Comedia y Fantasía",
+      "descripcion": "Cuando el grupo regresa a Jumanji para rescatar a uno de los suyos, descubren que nada es como esperaban. Los jugadores tendrán que enfrentarse a lugares desconocidos y inexplorados para escapar del juego más peligroso del mundo",
+      "director": "Jake Kasdan",
+      "reparto": "Dwayne Johnson, Jack Black, Kevin Hart, Karen Gillan, Awkwafina, Nick Jonas, Alex Wolff, Morgan Turner, Madison Iseman, Ser'Darius Blain, Danny DeVito, Danny Glover, Rhys Darby, Colin Hanks, Rory McCann",
+      "embedUrl": "https://bysedikamoum.com/e/kgwdqvoj2lsu"
+    },
+    {
+      "titulo": "Shazam",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+      "rating": "7.0",
+      "anio": 2019,
+      "duracion": "2h 12m",
+      "genero": "Acción, Comedia y Fantasía",
+      "descripcion": "A un niño se le otorga la habilidad de convertirse en un superhéroe adulto en momentos de necesidad con una sola palabra mágica",
+      "director": "David F. Sandberg",
+      "reparto": "Zachary Levi, Mark Strong, Asher Angel, Jack Dylan Grazer, Adam Brody, Djimon Hounsou, Faithe Herman, Meagan Good, Grace Caroline Currey, Michelle Borth, Ian Chen, Ross Butler, Jovan Armand, D.J. Cotrona, Marta Milans, Cooper Andrews",
+      "embedUrl": "https://bysedikamoum.com/e/b92ufhvd5cdl"
+    },
+    {
+      "titulo": "Hellboy",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg",
+      "rating": "5.3",
+      "anio": 2019,
+      "duracion": "2h 1m",
+      "genero": "Fantasía, Terror, Acción y Aventura",
+      "descripcion": "Hellboy llega a Inglaterra, donde debe derrotar a Nimue, la consorte de Merlín y la Reina de Sangre. Pero su batalla provocará el fin del mundo, un destino que él intenta desesperadamente alejar",
+      "director": "Neil Marshall",
+      "reparto": "David Harbour, Milla Jovovich, Ian McShane, Sasha Lane, Daniel Dae Kim, Thomas Haden Church, Penelope Mitchell, Sophie Okonedo, Brian Gleeson, Alistair Petrie, Laila Morse, Stephen Graham",
+      "embedUrl": "https://bysedikamoum.com/e/5nyo2c3e9a7o"
+    },
+    {
+      "titulo": "Toy Story 5",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "rating": "7.5",
+      "anio": 2026,
+      "duracion": "1h 42m",
+      "genero": "Animación, Familia, Comedia y Aventura",
+      "descripcion": "Cuando Bonnie recibe una tableta de lirio como regalo y se obsesiona, los trabajos de Buzz, Woody, Jessie y el resto de la pandilla se vuelven exponencialmente más difíciles cuando tienen que enfrentarse a la nueva amenaza para el tiempo de juego",
+      "director": "Andrew Stanton; co-directora: McKenna Harris",
+      "reparto": "Tom Hanks, Tim Allen, Joan Cusack, Conan O'Brien, Greta Lee, Scarlett Spears, Shelby Rabara, Mykal-Michelle Harris, Craig Robinson, Tony Hale, Wallace Shawn, Blake Clark, Ernie Hudson, Bonnie Hunt, Kristen Schaal, Keanu Reeves, John Ratzenberger, Annie Potts",
+      "embedUrl": "https://vimeos.net/embed-q0siugndjwh2.html"
+    },
+    {
+      "titulo": "Avengers Infinity War",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "rating": "8.2",
+      "anio": 2018,
+      "duracion": "2h 29m",
+      "genero": "Aventura, Acción y Ciencia Ficción",
+      "descripcion": "Mientras los Vengadores y sus aliados han seguido protegiendo el mundo de amenazas demasiado grandes para que un solo héroe las maneje, ha surgido un nuevo peligro de las sombras cósmicas: Thanos. Déspota de infamia intergaláctica, su objetivo es reunir las seis Gemas del Infinito, artefactos de poder inimaginable, y usarlos para imponer su retorcida voluntad a toda la realidad. Todo por lo que los Vengadores han luchado ha llevado hasta este momento: el destino de la Tierra y de la existencia misma nunca ha sido tan incierto",
+      "director": "Anthony Russo y Joe Russo",
+      "reparto": "Robert Downey Jr., Chris Hemsworth, Josh Brolin, Mark Ruffalo, Chris Evans, Scarlett Johansson, Don Cheadle, Benedict Cumberbatch, Tom Holland, Chadwick Boseman, Zoe Saldaña, Karen Gillan, Tom Hiddleston, Paul Bettany, Elizabeth Olsen, Anthony Mackie, Sebastian Stan, Danai Gurira, Letitia Wright, Dave Bautista, Chris Pratt, Vin Diesel, Bradley Cooper, Benedict Wong, Pom Klementieff, Peter Dinklage, Idris Elba, Gwyneth Paltrow, Benicio del Toro y William Hurt",
+      "embedUrl": "https://bysedikamoum.com/e/j4gsxa2z22cp"
+    },
+    {
+      "titulo": "Matrix Resurrecciones",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "rating": "5.9",
+      "anio": 2021,
+      "duracion": "2h 28m",
+      "genero": "Ciencia Ficción, Acción y Aventura",
+      "descripcion": "Atormentado por extraños recuerdos, la vida de Neo da un giro inesperado cuando se encuentra de nuevo dentro de la Matriz",
+      "director": "Lana Wachowski",
+      "reparto": "Keanu Reeves, Carrie-Anne Moss, Yahya Abdul-Mateen II, Jessica Henwick, Jonathan Groff, Neil Patrick Harris, Priyanka Chopra Jonas, Jada Pinkett Smith, Lambert Wilson, Daniel Bernhardt",
+      "embedUrl": "https://bysedikamoum.com/e/wltislvjhc7x"
+    },
+    {
+      "titulo": "Godzilla vs Kong",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "rating": "7.6",
+      "anio": 2021,
+      "duracion": "1h 54m",
+      "genero": "Acción, Ciencia Ficción y Aventura",
+      "descripcion": "En una época en la que los monstruos caminan por la Tierra, la lucha de la humanidad por su futuro pone a Godzilla y Kong en curso de colisión que hará que las dos fuerzas más poderosas de la naturaleza del planeta choquen en una batalla espectacular para la historia",
+      "director": "Adam Wingard",
+      "reparto": "Alexander Skarsgård, Millie Bobby Brown, Rebecca Hall, Brian Tyree Henry, Kaylee Hottle, Julian Dennison, Kyle Chandler, Demián Bichir, Eiza González, Shun Oguri",
+      "embedUrl": "https://vimeos.net/embed-bfimugde6nk7.html"
+    },
+    {
+      "titulo": "La cita de Carl",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/wakoF2UgsEE3fGs5KpuwMWsaNr2.jpg",
+      "rating": "7.4",
+      "anio": 2023,
+      "duracion": "8m",
+      "genero": "Animación, Familia, Comedia y Romance",
+      "descripcion": "Carl Fredricksen acepta a regañadientes salir con una amiga, pero admite que no tiene ni idea de cómo funcionan las citas hoy en día. Siempre un amigo servicial, Dug interviene para calmar los nervios previos a la cita de Carl y ofrece algunos consejos probados para hacer amigos, si eres un perro",
+      "director": "Bob Peterson",
+      "reparto": "Edward Asner, Bob Peterson",
+      "embedUrl": "https://vimeos.net/embed-u5ww00qbar75.html"
+    },
+    {
+      "titulo": "El Gato con Botas El último deseo",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+      "rating": "8.2",
+      "anio": 2022,
+      "duracion": "1h 43m",
+      "genero": "Animación, Aventura, Fantasía, Comedia y Familia",
+      "descripcion": "El Gato con Botas descubre que su pasión por la aventura ha pasado factura: ha quemado ocho de sus nueve vidas, quedándose solo con una vida. El Gato emprende un viaje épico para encontrar al mítico Último Deseo y restaurar sus nueve vidas",
+      "director": "Joel Crawford y Januel Mercado",
+      "reparto": "Antonio Banderas, Salma Hayek, Harvey Guillén, Florence Pugh, Olivia Colman, Wagner Moura, John Mulaney, Ray Winstone, Samson Kayo, Da'Vine Joy Randolph",
+      "embedUrl": "https://vimeos.net/embed-yb8zj9s2l9zh.html"
+    },
+    {
+      "titulo": "Black Adam",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/rCtreCr4xiYEWDQTebybolIh6Xe.jpg",
+      "rating": "6.9",
+      "anio": 2022,
+      "duracion": "2h 5m",
+      "genero": "Acción, aventura y ciencia ficción",
+      "descripcion": "Casi 5.000 años después de que le otorgaran los poderes todopoderosos de los dioses egipcios—y fueran encarcelados con la misma rapidez—Black Adam es liberado de su tumba terrenal, listo para desatar su forma única de justicia en el mundo moderno",
+      "director": "Jaume Collet-Serra",
+      "reparto": "Dwayne Johnson, Aldis Hodge, Pierce Brosnan, Noah Centineo, Sarah Shahi, Quintessa Swindell, Marwan Kenzari, Mohammed Amer y James Cusati-Moyer",
+      "embedUrl": "https://vimeos.net/embed-c75ckby8vk61.html"
+    },
+    {
+      "titulo": "Lluvia de Hamburguesas",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg",
+      "rating": "6.9",
+      "anio": 2009,
+      "duracion": "1h 30m",
+      "genero": "Animación, Comedia y Familia",
+      "descripcion": "El inventor Flint Lockwood crea una máquina que hace que las nubes lluevan comida, permitiendo que los ciudadanos desfavorecidos de Golondriza Chewandswallow se alimenten por sí mismos. Pero cuando la caída de la comida alcanza proporciones gigantescas, Flint debe apresurarse para evitar el desastre. ¿Podrá recuperar el control de la máquina y acabar con el tiempo salvaje antes de que el pueblo sea destruido?",
+      "director": "Phil Lord, Christopher Miller",
+      "reparto": "Bill Hader, Anna Faris, James Caan, Andy Samberg, Bruce Campbell, Mr. T, Bobb'e J. Thompson, Benjamin Bratt, Neil Patrick Harris, Al Roker, Lauren Graham, Will Forte",
+      "embedUrl": "https://gscdn.cam/video/embed/8ofwgt75741i"
+    },
+    {
+      "titulo": "Lluvia de Hamburguesas 2",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/ss5NcK2NWFg2YcKKYXLrk8q1myS.jpg",
+      "rating": "6.3",
+      "anio": 2013,
+      "duracion": "1h 35m",
+      "genero": "Animación, familia y comedia",
+      "descripcion": "Tras la desastrosa tormenta de comida en la primera película, Flint y sus amigos se ven obligados a abandonar el pueblo. Flint acepta la invitación de su ídolo Chester V para unirse a The Live Corp Company, encargada de limpiar la isla, donde los mejores inventores del mundo crean tecnologías para el bienestar de la humanidad. Cuando Flint descubre que su máquina sigue funcionando y ahora crea bestias mutantes como pepinillos vivientes, tacodilos hambrientos, shrimpacés y maratones de tartas de manzana, él y sus amigos deben regresar para salvar el mundo",
+      "director": "Cody Cameron, Kris Pearn",
+      "reparto": "Bill Hader, Anna Faris, Will Forte, Neil Patrick Harris, James Caan, Andy Samberg, Benjamin Bratt, Terry Crews",
+      "embedUrl": "https://vimeos.net/embed-j25qu1l6j9bp.html"
+    },
+    {
+      "titulo": "Coraline",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+      "rating": "7.8",
+      "anio": 2009,
+      "duracion": "1h 40m",
+      "genero": "Animación, Familia y Fantasía",
+      "descripcion": "Mientras deambula por su antigua y desvarotada casa en su aburrida nueva ciudad, Coraline, de 11 años, descubre una puerta oculta hacia una versión extrañamente idealizada de su vida. Para permanecer en la fantasía, debe hacer un sacrificio aterradoramente real",
+      "director": "Henry Selick",
+      "reparto": "Dakota Fanning, Teri Hatcher, John Hodgman, Jennifer Saunders, Dawn French, Keith David, Robert Bailey Jr, Ian McShane",
+      "embedUrl": "https://gscdn.cam/video/embed/gacqoeasz0lf"
+    },
+    {
+      "titulo": "Alicia en el país de las maravillas",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg",
+      "rating": "7.8",
+      "anio": 2010,
+      "duracion": "1h 48m",
+      "genero": "Familia, fantasía y aventura",
+      "descripcion": "Alice, ahora con 19 años, regresa al mundo caprichoso en el que se adentró de niña y emprende un viaje para descubrir su verdadero destino",
+      "director": "Tim Burton",
+      "reparto": "Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway, Crispin Glover, Matt Lucas, Alan Rickman, Stephen Fry, Michael Sheen, Timothy Spall, Christopher Lee",
+      "embedUrl": "https://gscdn.cam/video/embed/2e0zh7hicw9j"
+    },
+    {
+      "titulo": "Alicia a través del espejo",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/kbGamUkYfgKIYIrU8kW5oc0NatZ.jpg",
+      "rating": "6.2",
+      "anio": 2016,
+      "duracion": "1h 53m",
+      "genero": "Aventura, familia y fantasía",
+      "descripcion": "Alice Kingsleigh regresa a Underland y se enfrenta a una nueva aventura para salvar al Sombrerero Loco",
+      "director": "James Bobin",
+      "reparto": "Mia Wasikowska, Johnny Depp, Helena Bonham Carter, Anne Hathaway, Sacha Baron Cohen, Rhys Ifans, Matt Lucas, Lindsay Duncan, Alan Rickman, Stephen Fry, Timothy Spall",
+      "embedUrl": "https://gscdn.cam/video/embed/phgbwwnwydxn"
+    },
+    {
+      "titulo": "Gato con botas",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/7a5Jzjr9TmffGy76y1SZhn3sCiz.jpg",
+      "rating": "6.6",
+      "anio": 2011,
+      "duracion": "1h 30m",
+      "genero": "Acción, Aventura, Animación, Comedia y Familia",
+      "descripcion": "Mucho antes de conocer a Shrek, el notorio luchador, amante y forajido Gato con Botas se convierte en un héroe cuando se embarca en una aventura con la dura y astuta Kitty Softpaws y el cerebro Humpty Dumpty para salvar su pueblo. Esta es la historia real de El Gato, El Mito, La Leyenda Las Botas",
+      "director": "Chris Miller",
+      "reparto": "Antonio Banderas, Salma Hayek, Zach Galifianakis, Billy Bob Thornton, Amy Sedaris, Constance Marie, Guillermo del Toro",
+      "embedUrl": "https://gscdn.cam/video/embed/mpc8n2bb4nga"
+    },
+    {
+      "titulo": "Aladdín",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg",
+      "rating": "6.9",
+      "anio": 2019,
+      "duracion": "2h 7m",
+      "genero": "Aventura, fantasía, romance y familia",
+      "descripcion": "Un niño de la calle de buen corazón llamado Aladdín se embarca en una aventura mágica tras encontrar una lámpara que libere a un genio sarcástico, mientras un Gran Visir sediento de poder compite por la misma lámpara que cumpla sus deseos más profundos",
+      "director": "Guy Ritchie",
+      "reparto": "Will Smith, Mena Massoud, Naomi Scott, Marwan Kenzari, Navid Negahban, Nasim Pedrad, Billy Magnussen, Numan Acar",
+      "embedUrl": "https://gscdn.cam/video/embed/o130p6dhaury"
+    },
+    {
+      "titulo": "WALL·E",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+      "rating": "8.4",
+      "anio": 2006,
+      "duracion": "1h 38m",
+      "genero": "Animación, familia y ciencia ficción",
+      "descripcion": "Tras cientos de años haciendo para lo que fue creado, WALL•E un robot diseñado para limpiar la Tierra descubre un nuevo propósito en la vida cuando conoce a un elegante robot de búsqueda llamado EVE. EVE se da cuenta de que WALL•E ha tropezado inadvertidamente con la clave del futuro del planeta, y corre de vuelta al espacio para informar a los humanos. Mientras tanto, WALL•E persigue a EVE por toda la galaxia y pone en marcha una de las aventuras más imaginativas jamás llevadas a la gran pantalla",
+      "director": "Andrew Stanton",
+      "reparto": "Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard, John Ratzenberger, Kathy Najimy, Sigourney Weaver",
+      "embedUrl": "https://bysedikamoum.com/e/bfmwl44l2ke4"
+    },
+    {
+      "titulo": "Terminator Salvación",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg",
+      "rating": "6.5",
+      "anio": 2009,
+      "duracion": "1h 55m",
+      "genero": "Acción, Ciencia Ficción y Thriller",
+      "descripcion": "Ya adulto en el 2018 postapocalíptico, John Connor debe liderar la resistencia humana contra los robots militaristas cada vez más dominantes. Pero cuando aparece Marcus Wright, su existencia confunde la misión mientras Connor intenta determinar si Wright ha venido del futuro o del pasado y si es amigo o enemigo",
+      "director": "McG",
+      "reparto": "Christian Bale, Sam Worthington, Anton Yelchin, Moon Bloodgood, Helena Bonham Carter, Bryce Dallas Howard, Common, Michael Ironside",
+      "embedUrl": "https://gscdn.cam/video/embed/l7r2byzqzaa5"
+    },
+    {
+      "titulo": "Quieren volverme loco",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/guDkMD4wrZ1BGUO7DFFBVzaiGij.jpg",
+      "rating": "4.8",
+      "anio": 2005,
+      "duracion": "1h 35m",
+      "genero": "Comedia, aventura, familiar",
+      "descripcion": "El incipiente romance entre Nick, un soltero playboy, y Suzanne, una madre divorciada de dos hijos, se ve amenazado por una Nochevieja especialmente angustiosa. Cuando el trabajo de Suzanne la mantiene en Vancouver durante las fiestas, Nick se ofrece a traer a sus hijos a la ciudad desde Portland, Oregón. Los niños, que nunca han gustado de ninguno de los hombres con los que sale su madre, están decididos a convertir el viaje en una pesadilla para Nick",
+      "director": "Brian Levant",
+      "reparto": "Ice Cube, Nia Long, Aleisha Allen, Philip Bolden, Jay Mohr, M.C. Gainey, Tracy Morgan y Henry Simmons",
+      "embedUrl": "https://goodstream.one/embed-4f5xlj3nxuhz.html"
+    },
+    {
+      "titulo": "Bob Esponja En busca de los pantalones cuadrados",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
+      "rating": "5.7",
+      "anio": 2025,
+      "duracion": "1h 28m",
+      "genero": "Aventura, Animación, Comedia, Familia y Fantasía",
+      "descripcion": "Desesperado por ser un tipo grande, Bob Esponja se propone demostrar su valentía al Sr. Cangrejo siguiendo al Holandés Errante un misterioso pirata fantasma y espadachine en una aventura marítima que le lleva a las profundidades del mar profundo, donde ninguna Esponja había llegado antes",
+      "director": "Derek Drymon",
+      "reparto": "Tom Kenny, Clancy Brown, Rodger Bumpass, Bill Fagerbakke, Carolyn Lawrence, Mr. Lawrence, Mark Hamill, Regina Hall, George Lopez, Ice Spice, Arturo Castro y Sherry Cola",
+      "embedUrl": "https://vimeos.net/embed-i4ygri4smcjw.html?tt=3ky8ADWEb8AsmPG14YaLakOkaKAjeyGi3EBP%2BK8FlkzIpQ3mVHHbLTEt0%2F8Ph%2B7ebacXOO6v382RIXu9Ak7gQA%3D%3D"
+    },
+    {
+      "titulo": "Efsunlu Ayin",
+      "poster": "https://image.tmdb.org/t/p/w500/AiXD4BAb5BdQ2NiC7iybIHbofgh.jpg",
+      "rating": "7.2",
+      "anio": 2020,
+      "duracion": "1h 32min",
+      "genero": "Terror",
+      "descripcion": "Ebru estudia periodismo y no presta atención a las historias que se cuentan sobre la desaparición de chicas de la residencia. Pero tras vivir experiencias aterradoras, Ebru decide investigar los casos, descubriendo rápidamente terribles verdades. Pronto se encuentra en medio de un ritual que romperá el acuerdo entre humanos y espíritus que ha existido durante años",
+      "director": "Uğur Kaplan",
+      "reparto": "Eylül Ezgi Yılmaz, Sedef Şahin, Reyhan İlhan",
+      "embedUrl": "https://vimeos.net/embed-g6898q7isuuy.html"
+    },
+    {
+      "titulo": "Ritual maldito",
+      "poster": "https://image.tmdb.org/t/p/w500/fYw6hMTAces9aWbiE4Nscr50E38.jpg",
+      "rating": "5.6",
+      "anio": 2021,
+      "duracion": "1h 22min",
+      "genero": "Terror, Suspense",
+      "descripcion": "Un niño mudo está atrapado en su apartamento con un monstruo siniestro cuando pide cumplir el mayor deseo de su corazón.",
+      "director": "David Charbonier",
+      "reparto": "Ezra Dewey, Rob Brownstein, Tevy Poe, John Erickson, Donald Pitts, Jilbert Daniel, Isaiah Dell, Omaryus Luckett, Collin Joe",
+      "embedUrl": "https://vimeos.net/embed-gzwucepg63ob.html"
+    },
+    {
+      "titulo": "The Haunting at Saint Joseph's",
+      "poster": "https://image.tmdb.org/t/p/w500/ck9tMVSvGmkPuQvOezhfpYJMgs8.jpg",
+      "rating": "6.3",
+      "anio": 2023,
+      "duracion": "1h 40min",
+      "genero": "Terror, Suspense",
+      "descripcion": "Una doctora comprometida y sus amigos se van de vacaciones a St. Joseph’s Guesthouse, sin saber que fue el lugar del sacrificio de un inocente siglos antes. Llegan a creer que está embrujado a medida que sus emociones y deseos aumentan",
+      "director": "Jon Cohen",
+      "reparto": "Tim Spriggs, Melissa Brattoni, Brandon Krum, Davida Tal, Alex Snow, Tara Jay, Elke Hinrichsen, Marvin Maddicks Jr., Rudy Ledbetter",
+      "embedUrl": "https://vimeos.net/embed-wy9dajqn7yqf.html"
+    },
+    {
+      "titulo": "Fuerza Bruta: Sin salida",
+      "poster": "https://image.tmdb.org/t/p/w500/cB607Cz7Mpdwepnz6RncXOW9gDD.jpg",
+      "rating": "7.2",
+      "anio": 2023,
+      "duracion": "1h 45min",
+      "genero": "Acción, Crimen, Suspense",
+      "descripcion": "El detective Ma Seok-do cambia su afiliación de la comisaría de Geumcheon al Equipo de Investigación Metropolitana, para erradicar a los gánsteres japoneses que ingresan a Corea para cometer crímenes atroces.",
+      "director": "이상용",
+      "reparto": "Don Lee, 이준혁, Munetaka Aoki, 이범수, 김민재, Lee Ji‑hoon, 김도건, 고규필, 전석호, Jun Kunimura, 박지환, Ahn Se‑ho",
+      "embedUrl": "https://vimeos.net/embed-4r25prarh7ap.html"
+    },
+    {
+      "titulo": "Project Silence",
+      "poster": "https://image.tmdb.org/t/p/w500/2nqPij6Vm0isaIa3sYWnHs1K1bB.jpg",
+      "rating": "6.8",
+      "anio": 2024,
+      "duracion": "1h 36min",
+      "genero": "Suspense, Acción, Terror, Ciencia ficción, Aventura",
+      "descripcion": "Debido al repentino deterioro de las condiciones meteorológicas, la visibilidad en el puente del aeropuerto se ve gravemente afectada, lo que deja a las personas atrapadas y en riesgo de que el puente se derrumbe debido a una serie de colisiones en cadena y explosiones. En medio del caos, los sujetos caninos \"Echo\" del experimento militar \"Proyecto Silencio\", que estaban siendo transportados en secreto, se liberan y todos los supervivientes humanos se convierten en blanco de ataques implacables.",
+      "director": "Kim Tae-gon",
+      "reparto": "Lee Sun-kyun, Ju Ji-hoon, 김희원, 문성근, 예수정, 김태우, Park Hee Bon, 박주현, 김수안, 하도권, Jang Kwang, 최정우",
+      "embedUrl": "https://vimeos.net/embed-c03fq4f2ygyn.html"
+    },
+    {
+      "titulo": "El precio del poder",
+      "poster": "https://image.tmdb.org/t/p/w500/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg",
+      "rating": "8.2",
+      "anio": 1983,
+      "duracion": "2h 50min",
+      "genero": "Acción, Crimen, Drama",
+      "descripcion": "Un emigrante cubano frío y sanguinario, Tony Montana, llega de Cuba para instalarse en Miami, donde se propone hacerse con un nombre dentro del crimen organizado de Florida. Junto a su amigo, Manny Rivera, inicia una ascendente carrera delictiva.",
+      "director": "Brian De Palma",
+      "reparto": "Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio, Robert Loggia, Miriam Colon, F. Murray Abraham, Paul Shenar, Harris Yulin, Ángel Salazar, Arnaldo Santana, Pepe Serna",
+      "embedUrl": "https://vimeos.net/embed-bgtrrsxh58mf.html"
+    },
+    {
+      "titulo": "Ciudad sin ley",
+      "poster": "https://image.tmdb.org/t/p/w500/cL2GQORmn0UDfIuGfDKOYyjxZ3j.jpg",
+      "rating": "7.7",
+      "anio": 2017,
+      "duracion": "2h 1min",
+      "genero": "Acción, Crimen, Suspense",
+      "descripcion": "Jang Chen llega de China y trabaja como prestamista en una sórdida zona de Chinatown en Seúl. Está respaldado por sus esbirros sanguinarios Wei Sung-Rak y Yang-Tae. Mientras tanto, Ma Suk-Do es un detective en el área de Chinatown de Seúl. Él trata de mantener la paz, mientras que dos pandillas chino-coreanas luchan por el poder.",
+      "director": "Kang Yun-sung",
+      "reparto": "Don Lee, 윤계상, 조재윤, 최귀화, 임형준, 진선규, 홍기준, 허동원, Ha Jun, Kim Sung-kyu, 박지환, 허성태",
+      "embedUrl": "https://vimeos.net/embed-hxcremrx5ftl.html"
+    },
+    {
+      "titulo": "Karate Kid: Legends",
+      "poster": "https://image.tmdb.org/t/p/w500/jP1OIX4KI7eFjxNpHyJff9VcBcP.jpg",
+      "rating": "7.0",
+      "anio": 2025,
+      "duracion": "1h 34min",
+      "genero": "Acción, Aventura, Drama",
+      "descripcion": "Tras una tragedia familiar, el prodigio del kung fu Li Fong se ve obligado a abandonar su hogar en Pekín y trasladarse a Nueva York con su madre. Li lucha por dejar atrás su pasado mientras intenta encajar con sus nuevos compañeros de clase y, aunque no quiere pelear, los problemas parecen encontrarle en todas partes. Cuando un nuevo amigo necesita su ayuda, Li se presenta a una competición de kárate, pero sus habilidades no son suficientes. El profesor de kung fu de Li, el Sr. Han, pide ayuda al Karate Kid original, Daniel LaRusso, y Li aprende una nueva forma de luchar, fusionando sus dos estilos en uno solo para el enfrentamiento definitivo de artes marciales. Nueva película de la saga \"Karate Kid\", conectada al universo de \"Cobra Kai\".",
+      "director": "Jonathan Entwistle",
+      "reparto": "Jackie Chan, Ben Wang, Joshua Jackson, Sadie Stanley, Ming-Na Wen, Wyatt Oleff, Aramis Knight, Ralph Macchio, Olivia Yang Avis, Aaron Wang, Nicholas Carella, Shaunette Renée Wilson",
+      "embedUrl": "https://vimeos.net/embed-vps3xcruxazs.html"
+    },
+    {
+      "titulo": "Pokémon Detective Pikachu",
+      "poster": "https://image.tmdb.org/t/p/w500/ttTX80AzrOlLIpwPiW1DsYHqWWA.jpg",
+      "rating": "6.9",
+      "anio": 2019,
+      "duracion": "1h 45min",
+      "genero": "Acción, Aventura, Fantasía",
+      "descripcion": "Ryme City, una metrópoli futurista en la que los humanos y los Pokémon conviven en armonía. Tras la misteriosa desaparición de su padre, toda una leyenda en la ciudad, el joven Tim Goodman (Justice Smith) comienza una investigación para buscarle y averiguar lo que le ha sucedido. En esta misión le ayudará el adorable súper-detective Pikachu, un inteligente Pokémon que habla, aunque curiosamente el chico es el único que puede entenderle. Ambos unirán sus fuerzas y trabajarán juntos para resolver este gran misterio, con la ayuda de Lucy (Kathryn Newton), una reportera que trabaja en su primera gran historia. Será una aventura en la que descubrirán a entrañables personajes del universo Pokémon, además de una trama espeluznante que podría amenazar la convivencia pacífica de todo este universo.",
+      "director": "Rob Letterman",
+      "reparto": "Ryan Reynolds, Justice Smith, Kathryn Newton, Bill Nighy, Ken Watanabe, Chris Geere, Suki Waterhouse, Josette Simon, Alejandro De Mesa, Rita Ora, Karan Soni, Max Fincham",
+      "embedUrl": "https://vimeos.net/embed-2hm9rg1rh7vy.html"
+    },
+    {
+      "titulo": "King Kong",
+      "poster": "https://image.tmdb.org/t/p/w500/tSfZ6LoZgnz8BOrSQVo24vqv4nW.jpg",
+      "rating": "6.9",
+      "anio": 2005,
+      "duracion": "3h 0min",
+      "genero": "Aventura, Drama, Acción",
+      "descripcion": "La suerte de Ann Darrow cambia cuando conoce a Carl Denham, un empresario que lucha para abrirse camino en el mundo del espectáculo. A ellos se une Jack Driscoll, un autor de teatro neoyorquino. Los tres emprenden un viaje que los llevará hasta una remota isla, donde Denham tiene previsto dirigir una película. Allí descubren un ser increíble, un gorila gigante, King Kong, que habita en una frondosa selva, donde criaturas prehistóricas han vivido ocultas durante millones de años. Denham, con un apetito insaciable de grandeza, enseguida ve la fama que puede reportarle la captura del gorila y su exhibición en Nueva York.",
+      "director": "Peter Jackson",
+      "reparto": "Naomi Watts, Adrien Brody, Jack Black, Andy Serkis, Colin Hanks, Thomas Kretschmann, Jamie Bell, Kyle Chandler, Evan Parke, Lobo Chan, John Sumner, Craig Hall",
+      "embedUrl": "https://vimeos.net/embed-pidilovf6uvd.html"
+    },
+    {
+      "titulo": "Angry Birds: La película",
+      "poster": "https://image.tmdb.org/t/p/w500/wHlxud7DzsolgvasBFt6gFHIUwP.jpg",
+      "rating": "6.3",
+      "anio": 2016,
+      "duracion": "1h 38min",
+      "genero": "Animación, Aventura, Comedia, Familia",
+      "descripcion": "Basada en la colección de videojuegos \"Angry Birds\", la historia se desarrolla en una isla poblada por aves felices que no vuelan. En este paraíso, Red, un pájaro con muy mal genio, el veloz Chuck y el volátil Bomb nunca han terminado de encajar. Pero cuando llegan a la isla unos misteriosos cerdos verdes, serán estos tres marginados los que averigüen qué traman los extraños visitantes.",
+      "director": "Clay Kaytis",
+      "reparto": "Jason Sudeikis, Josh Gad, Danny McBride, Maya Rudolph, Bill Hader, Peter Dinklage, Sean Penn, Keegan-Michael Key, Kate McKinnon, Tony Hale, Hannibal Buress, Ike Barinholtz",
+      "embedUrl": "https://vimeos.net/embed-89j9mio7isut.html"
+    },
+    {
+      "titulo": "Cry of Silence",
+      "poster": "https://image.tmdb.org/t/p/w500/4E28fTYzVZ0CZpFUQHNETDbgLcP.jpg",
+      "rating": "5.8",
+      "anio": 2024,
+      "duracion": "1h 55min",
+      "genero": "Suspense, Drama, Acción",
+      "descripcion": "Profundamente enamorados, Frank y Maggie comienzan su nueva vida juntos, sin saber que un asesino en serie aterroriza a la comunidad. Maggie es acosada y finalmente desaparece sin dejar rastro.",
+      "director": "Allen Kool",
+      "reparto": "Jen Gardiner, Charlot Daysh, Jaden Goetz, Jeff Mallysh, Erica Sherwood, Jake Shannon, Olivia Hammond",
+      "embedUrl": "https://vimeos.net/embed-ol6l55mnh8zz.html"
+    },
+    {
+      "titulo": "Insidious: La puerta roja",
+      "poster": "https://image.tmdb.org/t/p/w500/wD4eLIHUaTvrXQqAzlfduHQ1NYg.jpg",
+      "rating": "6.5",
+      "anio": 2023,
+      "duracion": "1h 47min",
+      "genero": "Terror, Suspense",
+      "descripcion": "Para enterrar sus demonios de una vez por todas, Josh Lambert y un ya universitario Dalton Lambert, deberán profundizar en El Mas Allá (The Further) más que nunca, enfrentándose al oscuro pasado familiar y a un huésped de nuevos horrores terroríficos que acechan tras la puerta roja.",
+      "director": "Patrick Wilson",
+      "reparto": "Ty Simpkins, Patrick Wilson, Sinclair Daniel, Hiam Abbass, Andrew Astor, David Call, Steve Coulter, Peter Dager, Rose Byrne, Lin Shaye, Juliana Davies, Joseph Bishara",
+      "embedUrl": "https://vimeos.net/embed-z50jtvukbfiq.html"
+    },
+    {
+      "titulo": "Bloodshot",
+      "poster": "https://image.tmdb.org/t/p/w500/b0Sokh7DazDAxGOpt0ln9soTTET.jpg",
+      "rating": "6.7",
+      "anio": 2020,
+      "duracion": "1h 49min",
+      "genero": "Acción, Ciencia ficción, Aventura",
+      "descripcion": "Ray Garrison, también conocido como Bloodshot, es resucitado por la compañía Rising Spirit Technologies a través del uso de nanotecnología. Mientras lucha por recuperar la memoria, Ray trata de volver a ser el que era antes de sufrir el accidente que le dejaría amnésico.",
+      "director": "David S. F. Wilson",
+      "reparto": "Vin Diesel, Eiza González, Sam Heughan, Toby Kebbell, Talulah Riley, Lamorne Morris, Guy Pearce, Jóhannes Haukur Jóhannesson, Alex Hernandez, Siddharth Dhananjay, Tamer Burjaq, Clyde Berning",
+      "embedUrl": "https://bysedikamoum.com/e/dxf1l0lm9uae"
+    },
+    {
+      "titulo": "Onward",
+      "poster": "https://image.tmdb.org/t/p/w500/tHWeWBBOlkPYdlZcjSKeToQvgZg.jpg",
+      "rating": "7.6",
+      "anio": 2020,
+      "duracion": "1h 42min",
+      "genero": "Aventura, Animación, Comedia, Familia, Fantasía",
+      "descripcion": "Ambientado en un mundo de fantasía suburbana, dos hermanos elfos adolescentes, Ian y Barley Lightfood, se embarcan en una aventura en la que se proponen descubrir si existe aún algo de magia en el mundo que les permita pasar un último día con su padre, que falleció cuando ellos eran aún muy pequeños como para poder recordarlo.",
+      "director": "Dan Scanlon",
+      "reparto": "Tom Holland, Chris Pratt, Julia Louis-Dreyfus, Octavia Spencer, Mel Rodriguez, Kyle Bornheimer, Lena Waithe, Ali Wong, Grey DeLisle, Tracey Ullman, Wilmer Valderrama, John Ratzenberger",
+      "embedUrl": "https://bysedikamoum.com/e/953cz66xje7u"
+    },
+    {
+      "titulo": "Abominable",
+      "poster": "https://image.tmdb.org/t/p/w500/436T2Ct0SyQlb262ogsHLumepwi.jpg",
+      "rating": "7.5",
+      "anio": 2019,
+      "duracion": "1h 37min",
+      "genero": "Familia, Animación, Aventura, Comedia, Fantasía",
+      "descripcion": "Yi es una adolescente más en la enorme ciudad de Shanghai. Un día, se encuentra a un joven yeti en la azotea de su edificio. La supuestamente “abominable” criatura, que se ha escapado del laboratorio donde estaba encerrado, está siendo buscada por toda la ciudad. Junto con sus ingeniosos amigos Jin y Peng, Yi decide ayudarle a huir, le bautizan como “Everest” y los cuatro se embarcan en una épica aventura para reunir a la mítica criatura con su familia en el pico más alto del mundo.",
+      "director": "Jill Culton",
+      "reparto": "Chloe Bennet, Albert Tsai, Suzy Eddie Izzard, Tenzing Norgay Trainor, Joseph Izzo, Sarah Paulson, Tsai Chin, Michelle Wong, Rich Dietl, James Hong, Christine Lin, Kym Miller",
+      "embedUrl": "https://bysedikamoum.com/e/g0my9ytjazpa"
+    },
+    {
+      "titulo": "Rambo: Last Blood",
+      "poster": "https://image.tmdb.org/t/p/w500/kG3pY61LWGAzcaSne12CGEeRvtg.jpg",
+      "rating": "6.5",
+      "anio": 2019,
+      "duracion": "1h 41min",
+      "genero": "Acción, Suspense, Drama",
+      "descripcion": "Después de luchar contra sus demonios durante décadas, John Rambo vive ahora en paz en su rancho familiar en Arizona, pero su descanso se ve interrumpido cuando Gabriela, la nieta de su ama de llaves María, desaparece después de cruzar la frontera con México con el propósito de conocer a su padre biológico. Rambo, que con los años se ha convertido para Gabriela en una verdadera figura paterna, emprende un desesperado y peligroso viaje para encontrarla.",
+      "director": "Adrian Grünberg",
+      "reparto": "Sylvester Stallone, Paz Vega, Sergio Peris Mencheta, Adriana Barraza, Yvette Monreal, Joaquín Cosío, Pascacio López, Óscar Jaenada, Nicholas Wittman, Jessica Madsen, Louis Mandylor, Fenessa Pineda",
+      "embedUrl": "https://bysedikamoum.com/e/2z51q0ma3tmg"
+    },
+    {
+      "titulo": "Dumbo",
+      "poster": "https://image.tmdb.org/t/p/w500/tLbijKcpZfFRgKTNs1HBWFrEGqp.jpg",
+      "rating": "6.6",
+      "anio": 2019,
+      "duracion": "1h 51min",
+      "genero": "Familia, Fantasía, Aventura",
+      "descripcion": "Holt Farrier (Colin Farrell) cuenta con la ayuda de sus hijos Milly (Nico Parker) y Joe (Finley Hobbins) para cuidar a un elefante recién nacido cuyas orejas gigantes le hacer ser el hazmerreír en un Circo que no pasa por su mejor momento. La familia circense de Holt incluye además a la señorita Atlantis (Sharon Rooney), Rongo (DeObia Oparei), Pramesh Singh (Roshan Seth) y su sobrino (Ragevan Vasan), La grandiosa Catherine (Zenaida Alcalde) y el magnífico Iván (Miguel Muñoz). Max Medici (Danny DeVito) dueño del circo, se decepciona al saber sobre las enormes orejas del pequeño paquidermo hasta que descubre que es capaz de volar, llevando al circo de regreso a la prosperidad.",
+      "director": "Tim Burton",
+      "reparto": "Colin Farrell, Michael Keaton, Danny DeVito, Eva Green, Nico Parker, Finley Hobbins, Alan Arkin, Roshan Seth, Deobia Oparei, Joseph Gatt, Douglas Reith, Sharon Rooney",
+      "embedUrl": "https://bysedikamoum.com/e/6cd7hguktgvr"
+    },
+    {
+      "titulo": "Bumblebee",
+      "poster": "https://image.tmdb.org/t/p/w500/lOW8vBMJqWHWcMxHbigVAytqiBn.jpg",
+      "rating": "6.7",
+      "anio": 2018,
+      "duracion": "1h 54min",
+      "genero": "Acción, Aventura, Ciencia ficción",
+      "descripcion": "Sexta entrega de la saga 'Transformers', esta vez centrada en el \"hermano pequeño\" de los Autobots, Bumblebee. Tratando de escapar, en el año 1987, Bumblebee encuentra refugio en un depósito de chatarra en una pequeña ciudad en la costa Californiana. Charlie (Hailee Steinfeld), a punto de cumplir 18 años y tratando de encontrar su lugar en el mundo, descubre a Bumblebee, dañado durante una batalla y descompuesto. Cuando Charlie lo revive, aprende rápidamente que éste no es un VW amarillo ordinario.",
+      "director": "Travis Knight",
+      "reparto": "Dylan O'Brien, Hailee Steinfeld, John Cena, Jorge Lendeborg Jr., John Ortiz, Stephen Schneider, Jason Ian Drucker, Pamela Adlon, Len Cariou, Glynn Turman, Peter Cullen, Angela Bassett",
+      "embedUrl": "https://bysedikamoum.com/e/rte02huzogiu"
+    },
+    {
+      "titulo": "Good Boy",
+      "poster": "https://image.tmdb.org/t/p/w500/6rZOKB5EhGcTLaSPoyX8La44ZDT.jpg",
+      "rating": "6.6",
+      "anio": 2025,
+      "duracion": "1h 13min",
+      "genero": "Terror",
+      "descripcion": "Un perro leal se muda a una casa rural con su dueño Todd. Allí descubre fuerzas sobrenaturales que acechan en las sombras. Mientras oscuras entidades amenazan a su compañero humano, el valiente cachorro debe luchar para proteger a quien más quiere.",
+      "director": "Ben Leonberg",
+      "reparto": "Shane Jensen, Arielle Friedman, Larry Fessenden, Stuart Rudin, Anya Krawcheck, Hunter Goetz, Bandit",
+      "embedUrl": "https://bysedikamoum.com/e/p43d08gkqusg"
+    },
+    {
+      "titulo": "Cuando acecha la maldad",
+      "poster": "https://image.tmdb.org/t/p/w500/9Ly4S99McgnhO50XikTGguPFNvo.jpg",
+      "rating": "7.2",
+      "anio": 2023,
+      "duracion": "1h 40min",
+      "genero": "Terror, Suspense",
+      "descripcion": "En una aldea remota donde dos hermanos encuentran a un hombre infectado por un demonio que está a punto de dar a luz al mal mismo. En un momento en que el exorcismo parece ser de poca utilidad para protegerse del mal, después de advertir a los vecinos de la ciudad, deciden deshacerse del hombre, pero simplemente logran ayudarlo a librar el infierno.",
+      "director": "Demián Rugna",
+      "reparto": "Ezequiel Rodríguez, Demián Salomón, Silvina Sabater, Luis Ziembrowski, Marcelo Michinaux, Emilio Vodanovich, Virginia Garófalo, Paula Rubinsztein, Lucrecia Niron Talazac, Isabel Quinteros, Desirée Salgueiro, Federico Liss",
+      "embedUrl": "https://bysedikamoum.com/e/5flznataqkl2"
+    },
+    {
+      "titulo": "M3GAN",
+      "poster": "https://image.tmdb.org/t/p/w500/tv3Yjn78U8hFGFrkSypiIhHNUh3.jpg",
+      "rating": "7.0",
+      "anio": 2022,
+      "duracion": "1h 42min",
+      "genero": "Ciencia ficción, Terror",
+      "descripcion": "M3GAN es una maravilla de la inteligencia artificial, una muñeca realista programada para ser la mejor compañera de los niños y la mayor aliada de los padres. Diseñada por Gemma, M3GAN es capaz de escuchar, observar y aprender mientras se convierte en amiga, profesora, compañera de juegos y protectora del niño al que se vincule. Cuando, inesperadamente, Gemma se convierte en la tutora legal de Cady, su sobrina huérfana de 9 años, no sabe muy bien qué hacer ni se siente preparada para ejercer de madre. Sometida a un intenso estrés laboral, Gemma decide vincular su prototipo de M3GAN a Cady en un intento de resolver ambos problemas, pero no tardará en descubrir las inimaginables consecuencias de su decisión.",
+      "director": "Gerard Johnstone",
+      "reparto": "Allison Williams, Violet McGraw, Amie Donald, Jenna Davis, Ronny Chieng, Brian Jordan Alvarez, Jen Van Epps, Stephane Garneau-Monten, Lori Dungey, Amy Usherwood, Jack Cassidy, Michael Saccente",
+      "embedUrl": "https://bysedikamoum.com/e/t40w3iza6325"
+    },
+    {
+      "titulo": "La casa del terror (Haunt)",
+      "poster": "https://image.tmdb.org/t/p/w500/6fuNWZzY0RijO1Xpw46soazDFMb.jpg",
+      "rating": "6.7",
+      "anio": 2019,
+      "duracion": "1h 32min",
+      "genero": "Terror, Suspense",
+      "descripcion": "En Halloween, seis amigos deciden entrar en una casa encantada que promete ofrecer una experiencia extrema a base de explotar sus miedos más profundos. La noche se volverá mortal cuando se den cuenta de que algunos monstruos son reales.",
+      "director": "Bryan Woods",
+      "reparto": "Katie Stevens, Will Brittain, Lauryn McClain, Shazi Raja, Andrew Lewis Caldwell, Schuyler Helford, Chaney Morrow, Damian Maffei, Terri Partyka, Justin Marxen, Justin Rose, Schuyler White",
+      "embedUrl": "https://bysedikamoum.com/e/2mkbd4gizuhe"
+    },
+    {
+      "titulo": "Ouija",
+      "poster": "https://image.tmdb.org/t/p/w500/gwjHlGjK2xXKpjd65BWyAMwzTWC.jpg",
+      "rating": "5.1",
+      "anio": 2014,
+      "duracion": "1h 29min",
+      "genero": "Terror",
+      "descripcion": "Después de que uno de sus amigos sea brutalmente asesinado por un malvado ente oscuro, un grupo de amigos juega a la ouija para intentar hablar con él desde el más allá. Sin embargo, lo que consiguen es despertar a un antiguo espíritu y a los demonios más salvajes. Los chicos tendrán que hacer frente a sus miedos más profundos e intentar acabar con ellos. Han descubierto que la ouija no es un juego de niños, es algo mucho más real.",
+      "director": "Stiles White",
+      "reparto": "Daren Kagasoff, Matthew Settle, Olivia Cooke, Ana Coto, Shelley Hennig, Bianca A. Santos, Douglas Smith, Robyn Lively, Sierra Hawkins, Lin Shaye, Claudia Katz Minnick, Afra Sophia Tully",
+      "embedUrl": "https://bysedikamoum.com/e/9vwygur9gm44"
+    },
+    {
+      "titulo": "Cómo entrenar a tu dragón",
+      "poster": "https://image.tmdb.org/t/p/w500/9Zr7ZyiMpgMhhxJQi1tQJp9LGho.jpg",
+      "rating": "7.9",
+      "anio": 2025,
+      "duracion": "2h 5min",
+      "genero": "Fantasía, Familia, Acción, Aventura",
+      "descripcion": "En la escarpada isla de Mema, donde vikingos y dragones han sido enemigos acérrimos durante generaciones, Hipo se desmarca desafiando siglos de tradición cuando entabla amistad con Desdentao, un temido dragón Furia Nocturna. Su insólito vínculo revela la verdadera naturaleza de los dragones y desafía los cimientos de la sociedad vikinga.",
+      "director": "Dean DeBlois",
+      "reparto": "Mason Thames, Nico Parker, Gerard Butler, Nick Frost, Gabriel Howell, Julian Dennison, Bronwyn James, Harry Trevaldwyn, Murray McArthur, Peter Serafinowicz, Naomi Wirthner, Ruth Codd",
+      "embedUrl": "https://bysedikamoum.com/e/8hxaho3cr2ic"
+    }
+  ],
+  "series": [
+    {
+      "titulo": "Euphoria",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/ypmtwojDd751Peszi62DVLytqqC.jpg",
+      "rating": "8.3",
+      "anio": 2019,
+      "genero": "Drama",
+      "descripcion": "Un grupo de estudiantes de instituto navega entre el amor y la amistad en un mundo de drogas, sexo, traumas y redes sociales",
+      "creador": "Sam Levinson",
+      "reparto": "Zendaya, Hunter Schafer, Maude Apatow, Angus Cloud, Eric Dane, Alexa Demie, Jacob Elordi, Sydney Sweeney, Barbie Ferreira, Nika King, Storm Reid, Algee Smith, Austin Abrams, Javon Walton, Colman Domingo",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2019,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Piloto",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-sbo8fqhvho8t.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Presumiendo como mi papá",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-7ds95pp3rw5y.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Haz que te miren",
+              "duracion": "56 min",
+              "embedUrl": "https://vimeos.net/embed-6aynxdmo1p56.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Problemas",
+              "duracion": "56 min",
+              "embedUrl": "https://vimeos.net/embed-qfj8q1xhn4wn.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Bonnie y Clyde del 2003",
+              "duracion": "53 min",
+              "embedUrl": "https://gscdn.cam/video/embed/wxx7e5n98jge"
+            },
+            {
+              "numero": 6,
+              "nombre": "El siguiente episodio",
+              "duracion": "51 min",
+              "embedUrl": "https://vimeos.net/embed-kpmzp09raqg3.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Las pruebas y tribulaciones de intentar orinar mientras estás deprimida",
+              "duracion": "59 min",
+              "embedUrl": "https://vimeos.net/embed-wmqwtpsat9og.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Y sal detrás de ti la tierra",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-y8e3h66o72cr.html"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "anio": 2022,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Intentando llegar al cielo antes de que cierren la puerta",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-hzi0smnzt2q7.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Fuera de contacto",
+              "duracion": "57 min",
+              "embedUrl": "https://vimeos.net/embed-46sbj4rn5fgr.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Reflexiones: Grandes y pequeños abusones",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-7yjp31ehi2fk.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Tú, que no puedes ver, piensa en aquellos que sí pueden",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-zk37k57cogiq.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Quédate quieto como el colibrí",
+              "duracion": "54 min",
+              "embedUrl": "https://vimeos.net/embed-gg9u0rqmvwqx.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Mil pequeños árboles de sangre",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-v525to3x2yh9.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "El teatro y su doble",
+              "duracion": "58 min",
+              "embedUrl": "https://vimeos.net/embed-iacsu1s369ea.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Toda mi vida, mi corazón ha anhelado algo que no puedo nombrar",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-i5np3meu8ztf.html"
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Ándale",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-fs26q51y2mn6.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "América, mi sueño",
+              "duracion": "59 min",
+              "embedUrl": "https://vimeos.net/embed-ur23bly7wcx5.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "La balada de Paladín",
+              "duracion": "59 min",
+              "embedUrl": "https://vimeos.net/embed-04o9s9c09hbj.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "A Kitty le gusta bailar",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-yftxbv34qda2.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Este cerdito",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-0ktvi0p22l1r.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Una vez y ya está",
+              "duracion": "59 min",
+              "embedUrl": "https://vimeos.net/embed-tjdfu8ynrunk.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Llueva o truene",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-ihtf3g07m2ls.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Confiamos en Dios",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-kjgs1gc3u5k3.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Merlina",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+      "rating": "8.3",
+      "anio": 2022,
+      "genero": "Ciencia ficción y fantasía, misterio y comedia",
+      "descripcion": "Inteligente, sarcástica y un poco muerta por dentro, Wednesday Addams investiga misterios retorcidos mientras hace nuevos amigos y enemigos en la Academia Nevermore",
+      "creador": "Alfred Gough y Miles Millar",
+      "reparto": "Jenna Ortega, Emma Myers, Hunter Doohan, Gwendoline Christie, Percy Hynes White, Joy Sunday, Catherine Zeta-Jones, Luis Guzmán, Christina Ricci, Riki Lindhome, Jamie McShane, Moosa Mostafa, Georgie Farmer, Naomi J. Ogawa, Victor Dorobantu, Isaac Ordonez y Fred Armisen",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2022,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Y un sombrío día nació",
+              "duracion": "59 min",
+              "embedUrl": "https://vimeos.net/embed-yv67lc852vee.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "El sombrío encanto de la soledad",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-dxoplkmfctcw.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Amistad, sombrío tesoro",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-8j78s1thuag7.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Una sombría noche de baile",
+              "duracion": "49 min",
+              "embedUrl": "https://gscdn.cam/video/embed/xphnsi73shfl"
+            },
+            {
+              "numero": 5,
+              "nombre": "Cosecharás tu sombría siembra",
+              "duracion": "52 min",
+              "embedUrl": "https://vimeos.net/embed-2pv7cqlg43l9.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Sombríamente en deuda",
+              "duracion": "50 min",
+              "embedUrl": "https://gscdn.cam/video/embed/qd94x2ppz6dm"
+            },
+            {
+              "numero": 7,
+              "nombre": "Un sombrío dilema",
+              "duracion": "47 min",
+              "embedUrl": "https://goodstream.one/embed-aib1cq8ulnsa.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Fuerzas sombrías como una bandada de cuervos",
+              "duracion": "52 min",
+              "embedUrl": "https://gscdn.cam/video/embed/ceg7hjbnfz6m"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "anio": 2025,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Otra vez, aquí estamos",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-ia9difmh59ng.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "El diablo que conoces",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-7vervr4t9o0y.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "La llamada del lamento",
+              "duracion": "59 min",
+              "embedUrl": "https://gscdn.cam/video/embed/18daydo0smgv"
+            },
+            {
+              "numero": 4,
+              "nombre": "Si estos lamentos pudieran hablar",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-fm4yakusdy9v.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Hyde y busca",
+              "duracion": "51 min",
+              "embedUrl": "https://vimeos.net/embed-sjfz9qk3s8tk.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Lamentándote a ti mismo",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-z17jn1airx54.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "¡Ay de mí, el dinero!",
+              "duracion": "55 min",
+              "embedUrl": "https://vimeos.net/embed-q00cs1ruoppd.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Esto significa lamento",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-195tdt8thu0g.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Bienvenidos a Derry",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+      "rating": "7.9",
+      "anio": 2025,
+      "genero": "Drama y misterio",
+      "descripcion": "En 1962, en medio de una oleada de desapariciones inexplicables de niños locales, un grupo de amigos inadaptados comienza a sospechar de un mal antiguo y enterrado que acecha hace mucho tiempo. Mientras los niños se disponen a averiguar qué está ocurriendo realmente, una creciente inquietud lleva a varios habitantes del pueblo a colaborar para restaurar la paz, mientras una operación militar estadounidense busca explotar Derry para sus propios fines",
+      "creador": "Andy Muschietti, Barbara Muschietti y Jason Fuchs",
+      "reparto": "Bill Skarsgård (Pennywise), Jovan Adepo, Taylour Paige, Chris Chalk, Matilda Lawler, Clara Stack y Stephen Rider",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2025,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Piloto",
+              "duracion": "53 min",
+              "embedUrl": "https://gscdn.cam/video/embed/tvgfbgz14evl"
+            },
+            {
+              "numero": 2,
+              "nombre": "La cosa en la oscuridad",
+              "duracion": "1h",
+              "embedUrl": "https://gscdn.cam/video/embed/yotbmi391yp5"
+            },
+            {
+              "numero": 3,
+              "nombre": "Ahora lo ves",
+              "duracion": "58 min",
+              "embedUrl": "https://gscdn.cam/video/embed/gp5yjz99l32y"
+            },
+            {
+              "numero": 4,
+              "nombre": "El gran mecanismo giratorio que mueve el planeta",
+              "duracion": "1h",
+              "embedUrl": "https://gscdn.cam/video/embed/xjbhtcyt5crl"
+            },
+            {
+              "numero": 5,
+              "nombre": "El 29 de la calle Neibolt",
+              "duracion": "55 min",
+              "embedUrl": "https://gscdn.cam/video/embed/k80xo2oumalz"
+            },
+            {
+              "numero": 6,
+              "nombre": "En el nombre del padre",
+              "duracion": "56 min",
+              "embedUrl": "https://gscdn.cam/video/embed/tzx4cuhwtkka"
+            },
+            {
+              "numero": 7,
+              "nombre": "El Punto Negro",
+              "duracion": "1h",
+              "embedUrl": "https://gscdn.cam/video/embed/h3duvitrdvsb"
+            },
+            {
+              "numero": 8,
+              "nombre": "El mundo es un lugar terrible",
+              "duracion": "1h",
+              "embedUrl": "https://gscdn.cam/video/embed/2b6cgjs92j7j"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Spider-Noir",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+      "rating": "7.7",
+      "anio": 2026,
+      "genero": "Drama, Misterio y Crimen",
+      "descripcion": "Ben Reilly, un investigador privado envejecido y con mala suerte en el Nueva York de los años 30, se ve obligado a enfrentarse a su vida pasada como el único superhéroe de la ciudad",
+      "creador": "Oren Uziel, Steve Lightfoot",
+      "reparto": "Nicolas Cage, Lamorne Morris, Li Jun Li, Karen Rodriguez, Brendan Gleeson, Jack Huston",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Pase a mi despacho",
+              "duracion": "46 min",
+              "embedUrl": "https://gscdn.cam/video/embed/jlroxb1y2hxb"
+            },
+            {
+              "numero": 2,
+              "nombre": "Ten cuidado",
+              "duracion": "42 min",
+              "embedUrl": "https://gscdn.cam/video/embed/wc5mf1p5kkz8"
+            },
+            {
+              "numero": 3,
+              "nombre": "Puñalada trapera",
+              "duracion": "47 min",
+              "embedUrl": "https://gscdn.cam/video/embed/rk22hzg37ejh"
+            },
+            {
+              "numero": 4,
+              "nombre": "Un error que no volveré a cometer",
+              "duracion": "49 min",
+              "embedUrl": "https://gscdn.cam/video/embed/6bqqnfhh53nu"
+            },
+            {
+              "numero": 5,
+              "nombre": "Traición",
+              "duracion": "49 min",
+              "embedUrl": "https://gscdn.cam/video/embed/8dt76m62b2uw"
+            },
+            {
+              "numero": 6,
+              "nombre": "Pesadilla en la camilla",
+              "duracion": "42 min",
+              "embedUrl": "https://gscdn.cam/video/embed/uhuxbnrc291m"
+            },
+            {
+              "numero": 7,
+              "nombre": "El héroe de nadie",
+              "duracion": "42 min",
+              "embedUrl": "https://gscdn.cam/video/embed/xfn0xevieijh"
+            },
+            {
+              "numero": 8,
+              "nombre": "El hombre de la máscara",
+              "duracion": "45 min",
+              "embedUrl": "https://gscdn.cam/video/embed/ng6m5q8t3n8c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Olaf presenta",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/mR2UwDNhzPlzRh7z8aVfVt9h51X.jpg",
+      "rating": "7.2",
+      "anio": 2021,
+      "genero": "Animación, Familia, Comedia, Sci-Fi & Fantasy",
+      "descripcion": "Olaf muestra sus dotes de artista al recontar cinco historias favoritas de Disney Animation.",
+      "creador": "Jennifer Newfield",
+      "reparto": "Josh Gad, Paul Briggs",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2021,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "La Sirenita",
+              "duracion": "2 min",
+              "embedUrl": "https://vimeos.net/embed-mdzsr7ruwena.html?tt=pPMdG3XadaiZjfuzT1D2HDaJQl%2FM0DoBSqN%2Bdcgs7JiQYsRiR%2BjQdeer0P%2BBu00N1%2BlXP2sg1R1UF6h2WHvgAA%3D%3D"
+            },
+            {
+              "numero": 2,
+              "nombre": "Vaiana",
+              "duracion": "2 min",
+              "embedUrl": "https://vimeos.net/embed-1shnh87vzg72.html?tt=udSWvGR1L5UzuDcVrxxn1KlNt9QC%2FjqNjPBb83Dw5RueF7s%2F0pt5DRln5BmO60PmrXQJR9L%2BehqcLjBiTWtMDA%3D%3D"
+            },
+            {
+              "numero": 3,
+              "nombre": "El Rey León",
+              "duracion": "2 min",
+              "embedUrl": "https://vimeos.net/embed-2y3me9wcljg1.html?tt=GqEXfeqLLYFlr0Qg7C%2BXQvd0BGJWTgn4Yi8k%2FJ1mRIDBGZFok8Llfj4ynjS3i2GBnzJYjqHqyaJ%2FKhumer6DcA%3D%3D"
+            },
+            {
+              "numero": 4,
+              "nombre": "Aladdín",
+              "duracion": "2 min",
+              "embedUrl": "https://vimeos.net/embed-lj38jsnu14qq.html?tt=2qDEqrU5T78bn5FLzvuNUk93oCd6ZY6CA%2BsKiqCemuckLARdGDTMASyA7SG2PfbA2XbZbDp4GikW2z28fQYaZA%3D%3D"
+            },
+            {
+              "numero": 5,
+              "nombre": "Enredados",
+              "duracion": "2 min",
+              "embedUrl": "https://vimeos.net/embed-th5r96yy9vss.html?tt=eKVYaX7n8Zin%2BUfwYo8ov9lCzbRyjGzR0mI9zsaxiRF7xwzI3hCGClnBBeKYJlUXwaWAoUNk9Zw2apj7HaUAkw%3D%3D"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Estamos muertos",
+      "poster": "https://image.tmdb.org/t/p/w500/8jClvC5U756Uhd8zDYek50ihO49.jpg",
+      "rating": "8.3",
+      "anio": 2022,
+      "genero": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+      "descripcion": "Un grupo de estudiantes se da cuenta de que tienen que enfrentarse con las pocas existencias que tienen a una situación de crisis extrema. Estos quedan atrapados en el instituto donde estudian mientras que un virus zombie se propaga por todo el mundo.\n\nLa escuela está llena de infectados, pero nadie puede salir de allí. El gupo de amigos deberá hacer todo lo posible para sobrevivir y salir del colegio sanos y salvos cuando el apocalipsis zombie termine.",
+      "creador": "천성일, JQ Lee, Kim Nam-su",
+      "reparto": "박지후, 윤찬영, Cho Yi-hyun, 로몬, 유인수, 이유미, 김병철, 이규형, 전배수",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2022,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El comienzo del brote",
+              "duracion": "1 h 6min",
+              "embedUrl": "https://vimeos.net/embed-ku52ul2yxvkp.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Atrapados en la escuela",
+              "duracion": "1 h 10min",
+              "embedUrl": "https://vimeos.net/embed-lykj8g39kvwd.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "El primer infectado",
+              "duracion": "1 h 2min",
+              "embedUrl": "https://vimeos.net/embed-ygmoidb817cv.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Sin escapatoria",
+              "duracion": "1 h 11min",
+              "embedUrl": "https://vimeos.net/embed-rs94lmv5kjif.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "La pelea en la biblioteca",
+              "duracion": "56 min",
+              "embedUrl": "https://vimeos.net/embed-nz64hcen7rca.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "¿Amigo o monstruo?",
+              "duracion": "1 h 6min",
+              "embedUrl": "https://videoapp.zip/e/tv/99966/1/6"
+            },
+            {
+              "numero": 7,
+              "nombre": "El camino hacia la azotea",
+              "duracion": "59 min",
+              "embedUrl": "https://vimeos.net/embed-ny5wa8ab6all.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "La última esperanza",
+              "duracion": "57 min",
+              "embedUrl": "https://videoapp.zip/e/tv/99966/1/8"
+            },
+            {
+              "numero": 9,
+              "nombre": "Abandonados",
+              "duracion": "1 h",
+              "embedUrl": "https://vimeos.net/embed-2yssfko0n2xq.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "La trampa del auditorio",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-8rzx2mh5p3ot.html"
+            },
+            {
+              "numero": 11,
+              "nombre": "El enfrentamiento final",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-9g1iahrydowe.html"
+            },
+            {
+              "numero": 12,
+              "nombre": "Los sobrevivientes",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-nlztwzp85x1m.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Chernobyl",
+      "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+      "rating": "8.7",
+      "anio": 2019,
+      "genero": "Drama",
+      "descripcion": "En Abril de 1986, la Central Nuclear de Chernóbil en Ucrania (en aquel entonces, la Unión Soviética), sufrió una explosión masiva que liberó material radioactivo en Bielorrusia, Rusia, Ucrania, así como en zonas de Escandinavia y Europa Central. La serie relata lo que aconteció en 1986, en uno de los mayores desastres provocados por el hombre en la historia reciente, así como los sacrificios realizados para salvar al continente de un desastre sin precedentes.",
+      "creador": "Craig Mazin",
+      "reparto": "Jared Harris, Stellan Skarsgård, Emily Watson, Paul Ritter, Jessie Buckley, Adam Nagaitis, Sam Troughton, Robert Emms, Con O'Neill, Adrian Rawlins, Alan Williams, David Dencik",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2019,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "1:23:45",
+              "duracion": "1 h",
+              "embedUrl": "https://gscdn.cam/video/embed/pdfoeanpm5cp"
+            },
+            {
+              "numero": 2,
+              "nombre": "Por favor, mantengan la calma",
+              "duracion": "1 h 5min",
+              "embedUrl": "https://gscdn.cam/video/embed/pbqqcl3h4uq7"
+            },
+            {
+              "numero": 3,
+              "nombre": "Tierra, ábrete",
+              "duracion": "1 h 3min",
+              "embedUrl": "https://gscdn.cam/video/embed/lc0w597f7k0g"
+            },
+            {
+              "numero": 4,
+              "nombre": "La felicidad de toda la humanidad",
+              "duracion": "1 h 6min",
+              "embedUrl": "https://gscdn.cam/video/embed/br9xl1xax7p2"
+            },
+            {
+              "numero": 5,
+              "nombre": "Memoria eterna",
+              "duracion": "1 h 12min",
+              "embedUrl": "https://gscdn.cam/video/embed/h4mqx63ml01n"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
