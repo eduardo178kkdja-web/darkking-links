@@ -2027,18 +2027,6 @@
       "director": "Destin Daniel Cretton",
       "reparto": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon, Sadie Sink, Florence Pugh, Liza Colón-Zayas, Tramell Tillman, Marisa Tomei, Naomi Watts, Michael Mando",
       "embedUrl": "https://fembed.co/embed/rgPY-bA_H21mE"
-    },
-    {
-      "titulo": "La bella y la bestia",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/9ejTG3RYW3psH0cVhFmkVtTzdJx.jpg",
-      "rating": "7.0",
-      "anio": 2017,
-      "duracion": "2h 9min",
-      "genero": "Familia, Fantasía, Romance",
-      "descripcion": "Bella, una joven hermosa y brillante, asume el lugar de su padre como prisionero en el castillo de una bestia. Poco a poco, la valiente Bella irá dándose cuenta de que el príncipe bestia no es el malvado ser que todos creen que es y tiene, en realidad, un gran corazón.",
-      "director": "Bill Condon",
-      "reparto": "Emma Watson, Dan Stevens, Luke Evans, Kevin Kline, Emma Thompson, Ewan McGregor, Josh Gad, Hattie Morahan, Haydn Gwynne, Gerard Horan, Ray Fearon, Ian McKellen",
-      "embedUrl": "https://vimeos.net/embed-qvxoi7qtw65h.html"
     }
   ],
   "series": [
@@ -2817,84 +2805,6 @@
               "nombre": "El destino",
               "duracion": "52 min",
               "embedUrl": "https://cuevana3.gs/player.php?t=KDcHXjZuFz5xMueD_azqhfwlk2mhAnawdRrryWyYgGDYWqZLdMzJuW53o5AqcqLS3Y9cWa5xLpg9icd0wtbPnQ&server=vimeos"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "titulo": "Chacal",
-      "poster": "https://image.tmdb.org/t/p/w500/69LMkzR76BHqjQ43LW0KJo1g8RB.jpg",
-      "rating": "8.2",
-      "anio": 2024,
-      "genero": "Drama, Action & Adventure, Misterio",
-      "descripcion": "El Chacal (Eddie Redmayne), un escurridizo y solitario asesino sin rival, se gana la vida trabajando para el mejor postor. Sin embargo, tras su último asesinato, su camino se cruza con el de una tenaz agente de inteligencia británica (Lashana Lynch), que empieza a seguirle la pista en una emocionante persecución a través de Europa, dejando un rastro de destrucción a su paso.",
-      "creador": "Ronan Bennett",
-      "reparto": "Eddie Redmayne, Lashana Lynch, Eleanor Matsuura, Chukwudi Iwuji, Úrsula Corberó, Adoney Díaz Barajas, Rajko Radovic",
-      "temporadas": [
-        {
-          "numero": 1,
-          "anio": 2024,
-          "capitulos": [
-            {
-              "numero": 1,
-              "nombre": "El Asesinato en Berlín",
-              "duracion": "56 min",
-              "embedUrl": "https://callistanise.com/v/0gh3c8stv8u6"
-            },
-            {
-              "numero": 2,
-              "nombre": "Reputación en Juego",
-              "duracion": "52 min",
-              "embedUrl": "https://callistanise.com/v/6rfbx5toyt8p"
-            },
-            {
-              "numero": 3,
-              "nombre": "Venganza en Múnich",
-              "duracion": "50 min",
-              "embedUrl": "https://callistanise.com/v/dvzei232omsn"
-            },
-            {
-              "numero": 4,
-              "nombre": "Huida y Nuevas Pistas",
-              "duracion": "49 min",
-              "embedUrl": "https://callistanise.com/v/gq1hjychyljf"
-            },
-            {
-              "numero": 5,
-              "nombre": "El Armero y el Cierre del Cerco",
-              "duracion": "49 min",
-              "embedUrl": "https://callistanise.com/v/ndn2uc3q0wu1"
-            },
-            {
-              "numero": 6,
-              "nombre": "Tiroteo y Reagrupación",
-              "duracion": "49 min",
-              "embedUrl": "https://callistanise.com/v/t07lw641nfqi"
-            },
-            {
-              "numero": 7,
-              "nombre": "El Asedio en Tallin",
-              "duracion": "45 min",
-              "embedUrl": "https://callistanise.com/v/hyqjka6ajvgx"
-            },
-            {
-              "numero": 8,
-              "nombre": "El Pasado de 'Duggan'",
-              "duracion": "47 min",
-              "embedUrl": "https://callistanise.com/v/d8zso3vgqqvp"
-            },
-            {
-              "numero": 9,
-              "nombre": "El Objetivo en Croacia",
-              "duracion": "49 min",
-              "embedUrl": "https://callistanise.com/v/k25kg5s1sw7m"
-            },
-            {
-              "numero": 10,
-              "nombre": "La Huida Final",
-              "duracion": "1h 4min",
-              "embedUrl": "https://callistanise.com/v/0okqq8qswapb"
             }
           ]
         }
