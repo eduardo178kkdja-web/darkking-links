@@ -2881,6 +2881,84 @@
           ]
         }
       ]
+    },
+    {
+      "titulo": "Chacal",
+      "poster": "https://image.tmdb.org/t/p/w500/69LMkzR76BHqjQ43LW0KJo1g8RB.jpg",
+      "rating": "8.2",
+      "anio": 2024,
+      "genero": "Drama, Action & Adventure, Misterio",
+      "descripcion": "El Chacal (Eddie Redmayne), un escurridizo y solitario asesino sin rival, se gana la vida trabajando para el mejor postor. Sin embargo, tras su último asesinato, su camino se cruza con el de una tenaz agente de inteligencia británica (Lashana Lynch), que empieza a seguirle la pista en una emocionante persecución a través de Europa, dejando un rastro de destrucción a su paso.",
+      "creador": "Ronan Bennett",
+      "reparto": "Eddie Redmayne, Lashana Lynch, Eleanor Matsuura, Chukwudi Iwuji, Úrsula Corberó, Adoney Díaz Barajas, Rajko Radovic",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2024,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El Asesinato en Berlín",
+              "duracion": "56 min",
+              "embedUrl": "https://fembed.co/embed/KH_Dn-WgB3JUO"
+            },
+            {
+              "numero": 2,
+              "nombre": "Reputación en Juego",
+              "duracion": "52 min",
+              "embedUrl": "https://fembed.co/embed/vl_ae-26wNPrB"
+            },
+            {
+              "numero": 3,
+              "nombre": "Venganza en Múnich",
+              "duracion": "50 min",
+              "embedUrl": "https://fembed.co/embed/pjI_1vXIe6-qd"
+            },
+            {
+              "numero": 4,
+              "nombre": "Huida y Nuevas Pistas",
+              "duracion": "49 min",
+              "embedUrl": "https://fembed.co/embed/5ZYD_J-CDUvZw"
+            },
+            {
+              "numero": 5,
+              "nombre": "El Armero y el Cierre del Cerco",
+              "duracion": "49 min",
+              "embedUrl": "https://fembed.co/embed/XU-92X03Je_BO"
+            },
+            {
+              "numero": 6,
+              "nombre": "Tiroteo y Reagrupación",
+              "duracion": "49 min",
+              "embedUrl": "https://fembed.co/embed/u_4smmg-lzDU7"
+            },
+            {
+              "numero": 7,
+              "nombre": "El Asedio en Tallin",
+              "duracion": "45 min",
+              "embedUrl": "https://vimeos.net/embed-ej7iexuu6lr8.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "El Pasado de 'Duggan'",
+              "duracion": "47 min",
+              "embedUrl": "https://vimeos.net/embed-7h9fdn3xeamq.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "El Objetivo en Croacia",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-i7mbkssurwoh.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "La Huida Final",
+              "duracion": "1h 4min",
+              "embedUrl": "https://vimeos.net/embed-0rx83029gdb4.html"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
