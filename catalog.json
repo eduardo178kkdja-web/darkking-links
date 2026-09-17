@@ -2983,6 +2983,54 @@
           ]
         }
       ]
+    },
+    {
+      "titulo": "Linternas",
+      "poster": "https://image.tmdb.org/t/p/w500/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "rating": "8.3",
+      "anio": 2026,
+      "genero": "Drama, Misterio, Sci-Fi & Fantasy",
+      "descripcion": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "creador": "Damon Lindelof, Tom King, Chris Mundy",
+      "reparto": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Garret Dillahunt, Poorna Jagannathan",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Piloto",
+              "duracion": "56 min",
+              "embedUrl": "https://videoapp.zip/e/tv/95350/1/1"
+            },
+            {
+              "numero": 2,
+              "nombre": "Salto de fe",
+              "duracion": "51 min",
+              "embedUrl": "https://videoapp.zip/e/tv/95350/1/2"
+            },
+            {
+              "numero": 3,
+              "nombre": "Paria",
+              "duracion": "53 min",
+              "embedUrl": "https://videoapp.zip/e/tv/95350/1/3"
+            },
+            {
+              "numero": 4,
+              "nombre": "La salchicha",
+              "duracion": "52 min",
+              "embedUrl": "https://videoapp.zip/e/tv/95350/1/4"
+            },
+            {
+              "numero": 5,
+              "nombre": "Luces fuera",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-6gst5ogn90o3.html"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
