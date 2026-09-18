@@ -3031,6 +3031,96 @@
           ]
         }
       ]
+    },
+    {
+      "titulo": "La corona perfecta",
+      "poster": "https://image.tmdb.org/t/p/w500/51EIbzw2pvsi73UXGtuHaZGJfQa.jpg",
+      "rating": "9.1",
+      "anio": 2026,
+      "genero": "Comedia, Drama",
+      "descripcion": "En una Corea moderna con una monarquía constitucional, una heredera de Chaebol y un príncipe impotente contraen un matrimonio por contrato, descubriendo el amor y el coraje mientras enfrentan barreras sociales y cicatrices personales.",
+      "creador": "유지원",
+      "reparto": "IU, 변우석, 노상현, 공승연, 유수빈, 이연",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "¿Me casaré con la realeza?",
+              "duracion": "1h 15min",
+              "embedUrl": "https://vimeos.net/embed-2iuplb1kruzt.html?tt=DOygtMd5JRMW2OXYGvy1EO%2F1GEP2F71rlNJDVlcRpVqYigfQtRiq%2BjfAnYGl%2BA8YrK5Hw2hclIBwH4d%2BKgGMEQ%3D%3D"
+            },
+            {
+              "numero": 2,
+              "nombre": "¿Te casarías conmigo?",
+              "duracion": "1 h 14min",
+              "embedUrl": "https://vimeos.net/embed-k1twfm68s7i8.html?tt=%2FM8It5qpKD0RqZX2XklGIA7BQzc1tlVCCbmumUM%2B7L5kheqn8IUXubqES7krgCkaxS8I2QzFrp2FlqCDEWaFDQ%3D%3D"
+            },
+            {
+              "numero": 3,
+              "nombre": "Actuaré como si te amara",
+              "duracion": "1h 09min",
+              "embedUrl": "https://vimeos.net/embed-p1kvkgi5irrq.html?tt=zWe%2FzF8pO7lCLrhci4%2BJp8NH88L8EvcYykBaiBf8YtZnXkWJZsXdDiQIZLypXNpNEMSMhxTQD8tgbjm2baas7Q%3D%3D"
+            },
+            {
+              "numero": 4,
+              "nombre": "¿Vamos juntos?",
+              "duracion": "1h 14min",
+              "embedUrl": "https://vimeos.net/embed-2j5wxwwbxr49.html?tt=6W5cDkViyFgMJaaQDXaZhB%2BruAxhkYwmqkAZaO6K%2F7D7R8AW0VqDWFZV1l%2FVG3skV%2FSQl3T11SyML8ZSNjJMSA%3D%3D"
+            },
+            {
+              "numero": 5,
+              "nombre": "No te rindas",
+              "duracion": "1h 11min",
+              "embedUrl": "https://vimeos.net/embed-hzprmnr7tpxn.html?tt=rK%2FcPyGAZAGA743UD0qzwuNKtf3dj7R1JWvQrs1aIqPbdObp68KdQJjzuU7pEVdEW9JgHSBMn3V6gIqxFtCr6A%3D%3D"
+            },
+            {
+              "numero": 6,
+              "nombre": "¿Quieres ser mi esposa?",
+              "duracion": "1h 08min",
+              "embedUrl": "https://vimeos.net/embed-3mp2u18asrb8.html?tt=DMKSOmeesrHu2P7CwYg82VZkrUQB3Jch30dUmTr3%2BJVufAqDaBJzO0uDwvErx9k2tFJ5WSluRUd%2BDh5N26QFUA%3D%3D"
+            },
+            {
+              "numero": 7,
+              "nombre": "¿Te gusto?",
+              "duracion": "1h 12min",
+              "embedUrl": "https://vimeos.net/embed-vnxv53pxnrtj.html?tt=R%2FnCEU53Gu6lYLSRhRmhhto%2FNDoq4ADHTXwGyJCp8I8hRjs8QhNh8VS%2FjnL82d7ryVmoEa3%2F%2Bfovdr2ZYaeEDQ%3D%3D"
+            },
+            {
+              "numero": 8,
+              "nombre": "Nuestra primera noche",
+              "duracion": "1h 02min",
+              "embedUrl": "https://vimeos.net/embed-cu1gxdw4p488.html?tt=AUwwgsdULSQGACtNoXKo3mYN2be%2F4uQYTN1NIEUatrBvU85LNA%2Fp1lOJtAEDOhxOHfwoadm498V82xOamFkpcg%3D%3D"
+            },
+            {
+              "numero": 9,
+              "nombre": "Tengo miedo",
+              "duracion": "1h 02min",
+              "embedUrl": "https://vimeos.net/embed-k6ba5yebvb4e.html?tt=pOH5f645UJtSyKmR6QE8FXGW4jSDSYIlDby29GMvG7Lp%2BjHWOhe8qLwxj7UXtjyC7MDRIjtsOoRKM2eXfTRNKA%3D%3D"
+            },
+            {
+              "numero": 10,
+              "nombre": "Hasta el final",
+              "duracion": "1h 11min",
+              "embedUrl": "https://vimeos.net/embed-tebce31hwm43.html?tt=0TLId32ZYi8YSHhY5AUfSF%2FUsB20DKpqUBuSLoAMiZlMxxORcw7UoGUGJuhkNrWxAToW5%2FZRLOi2YUvm6kOe9Q%3D%3D"
+            },
+            {
+              "numero": 11,
+              "nombre": "¿Hay un lugar seguro?",
+              "duracion": "1h 02min",
+              "embedUrl": "https://vimeos.net/embed-e58nzj59no07.html?tt=efkwT7wlYgs9VeVdHcuVNEMO%2B%2F6lHCE1l2Huu3gR3V5Ky%2B%2FZLK8EnzHNo7aLUbjUhwliXoggTbVmkQl%2F%2BouoxA%3D%3D"
+            },
+            {
+              "numero": 12,
+              "nombre": "Protege a Su Majestad",
+              "duracion": "1h 11min",
+              "embedUrl": "https://vimeos.net/embed-ru9dyk00tt7d.html?tt=sd8Fll8ze4fQHnHdkhi6toEh07CrryXGLwyMmn5XAgdpVZW%2Fo%2BD0TJGbmY3BuH7KJBndQW4jNMmROs0f5VM%2F4g%3D%3D"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
