@@ -2279,6 +2279,18 @@
       "director": "Dallas Jackson",
       "reparto": "Tyrese Gibson, Terrence Howard, Jeremy Piven, Lil Yachty, Ric Reitz, Laura Aleman, Caleb Spillyards, Marrese Crump, Nick Gore, Ronnie Yelverton, Jeremy Sande, Scott Green",
       "embedUrl": "https://vimeos.net/embed-c18ym920iw52.html"
+    },
+    {
+      "titulo": "En busca de la felicidad",
+      "poster": "https://image.tmdb.org/t/p/w500/qF6JFr6IdfNep0x6yw3i7S8avAb.jpg",
+      "rating": "7.9",
+      "anio": 2006,
+      "duracion": "1h 55min",
+      "genero": "Drama",
+      "descripcion": "Chris Gardner es un vendedor brillante y con talento, pero su empleo no le permite cubrir sus necesidades más básicas. Tanto es así que acaban echándolo, junto a su hijo de cinco años, de su piso de San Francisco y no tienen ningún lugar al que ir. Cuando Gardner consigue hacer unas prácticas en una prestigiosa correduría de bolsa, los dos protagonistas tendrán que afrontar muchas adversidades parar hacer realidad su sueño de una vida mejor. Basada en hechos reales.",
+      "director": "Gabriele Muccino",
+      "reparto": "Will Smith, Jaden Smith, Thandiwe Newton, Brian Howe, James Karen, Dan Castellaneta, Kurt Fuller, Takayo Fischer, Kevin West, 張佐治, David Michael Silverman, Domenic Bove",
+      "embedUrl": "https://vimeos.net/embed-tna43wc3pmj6.html"
     }
   ],
   "series": [
@@ -3417,6 +3429,252 @@
               "nombre": "La verdad",
               "duracion": "1h 8min",
               "embedUrl": "https://vimeos.net/embed-vlpf2146cjh7.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Un amor que no se agota",
+      "poster": "https://image.tmdb.org/t/p/w500/ah91RIeK91AXYPDCsKHozRSgEox.jpg",
+      "rating": "8.4",
+      "anio": 2026,
+      "genero": "Comedia, Drama",
+      "descripcion": "Una presentadora de la teletienda se va al campo para pensar en una forma de mejorar la audiencia de su programa, pero un misterioso granjero trastoca sus planes… y su corazón.",
+      "creador": "안종연, 진승희",
+      "reparto": "Ahn Hyo Seop, 채원빈, 김범, Yoon Byung-hee, 고두심, 박예영, 윤재찬, 조복래, 김서안, 안세빈, Jo Woo-ri",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El comienzo de una nueva oportunidad",
+              "duracion": "1h 4min",
+              "embedUrl": "https://vimeos.net/embed-1ule8jihigpe.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "El misterioso granjero",
+              "duracion": "1h 8min",
+              "embedUrl": "https://vimeos.net/embed-o7jcg37x9erz.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Llamadas en la noche",
+              "duracion": "1h 8min",
+              "embedUrl": "https://vimeos.net/embed-e38wvjfi3ldw.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Una inesperada cercanía",
+              "duracion": "1h 7min",
+              "embedUrl": "https://vimeos.net/embed-jibcnrrhn1cy.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Un pacto entre dos",
+              "duracion": "1h 7min",
+              "embedUrl": "https://vimeos.net/embed-3j44axwfarnn.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Compañeros de casa",
+              "duracion": "1h 7min",
+              "embedUrl": "https://vimeos.net/embed-ftblmcmld1vn.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Señales confusas",
+              "duracion": "1h 8min",
+              "embedUrl": "https://vimeos.net/embed-90hzr54vj18l.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Los sentimientos salen a la luz",
+              "duracion": "1h 8min",
+              "embedUrl": "https://vimeos.net/embed-9h5dejtmzm8c.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Los secretos del pasado",
+              "duracion": "1h 8min",
+              "embedUrl": "https://vimeos.net/embed-dmbip7ozy90q.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "Una desaparición en el pueblo",
+              "duracion": "1h 6min",
+              "embedUrl": "https://vimeos.net/embed-8a3d9di6ob2k.html"
+            },
+            {
+              "numero": 11,
+              "nombre": "El ataque al pueblo",
+              "duracion": "1h 6min",
+              "embedUrl": "https://vimeos.net/embed-d8y1qtzfbm97.html"
+            },
+            {
+              "numero": 12,
+              "nombre": "La verdad sale a la luz",
+              "duracion": "1h 8min",
+              "embedUrl": "https://vimeos.net/embed-sthqa5xc4xpf.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Así aprenderás",
+      "poster": "https://image.tmdb.org/t/p/w500/lG83nWVT7cHl3nSxonaYhOjqyWH.jpg",
+      "rating": "9.4",
+      "anio": 2026,
+      "genero": "Action & Adventure, Drama, Comedia",
+      "descripcion": "Unos inspectores insólitos entran en escena en los colegios, con lecciones duras de las que no aparecen en los libros de texto, para acabar con las reiteradas faltas de respeto.",
+      "creador": "채용택, 한가람",
+      "reparto": "김무열, 이성민, 진기주, 피오, 김종수, 하영, 이봉준",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El hijo de un poderoso político",
+              "duracion": "52 min",
+              "embedUrl": "https://vimeos.net/embed-cz5e6wgkjwit.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "La banda escolar",
+              "duracion": "57 min",
+              "embedUrl": "https://vimeos.net/embed-vu3mbagq17yp.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "La influencer escolar",
+              "duracion": "1h 12min",
+              "embedUrl": "https://vimeos.net/embed-ip8sfe0kt82j.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "El ataque al profesor",
+              "duracion": "1h 8min",
+              "embedUrl": "https://vimeos.net/embed-95telcke6nq2.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "El profesor sustituto",
+              "duracion": "1h 6min",
+              "embedUrl": "https://vimeos.net/embed-owttyxhkzijn.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Los cuatro delincuentes juveniles",
+              "duracion": "1h 9min",
+              "embedUrl": "https://vimeos.net/embed-tpa9h8rxy8ue.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "El hijo adicto al juego",
+              "duracion": "1h 4min",
+              "embedUrl": "https://vimeos.net/embed-mcslha4y5qcj.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "La madre obsesiva",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-1wqzlk0xpe2r.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Los amigos explotadores",
+              "duracion": "1h 7min",
+              "embedUrl": "https://vimeos.net/embed-vumlj5ohpwik.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "La conspiración de la banda estudiantil",
+              "duracion": "1h 1min",
+              "embedUrl": "https://vimeos.net/embed-bbzku41zn0uu.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "La luz que aún nos guía",
+      "poster": "https://image.tmdb.org/t/p/w500/pn0c1aRfPHdGdOHA6jQbNqrhI3B.jpg",
+      "rating": "7.7",
+      "anio": 2026,
+      "genero": "Drama",
+      "descripcion": "Un amor adolescente los unió, pero la vida los separó. Diez años después, unos jóvenes se reencuentran para afrontar el desamor, el presente y nuevos desafíos.",
+      "creador": "Lee Suk-yeon",
+      "reparto": "Jinyoung, 김민주, 신재하, 박세현, Kim Tae-hun, 김지현",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El primer encuentro",
+              "duracion": "1h 4min",
+              "embedUrl": "https://vimeos.net/embed-g0gxn6qkqdex.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Nuestro amor",
+              "duracion": "1h 6min",
+              "embedUrl": "https://vimeos.net/embed-hdk8apdnq58v.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Nuevos caminos",
+              "duracion": "1h 2min",
+              "embedUrl": "https://vimeos.net/embed-m4u48f8yzgs7.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Diez años después",
+              "duracion": "1h 5min",
+              "embedUrl": "https://vimeos.net/embed-glt9sxxe0liu.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Sentimientos pendientes",
+              "duracion": "1h 4min",
+              "embedUrl": "https://vimeos.net/embed-b9w0rff5jbzm.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Volver a empezar",
+              "duracion": "1h 5min",
+              "embedUrl": "https://vimeos.net/embed-e8la8w1voq40.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Problemas familiares",
+              "duracion": "1h 3min",
+              "embedUrl": "https://vimeos.net/embed-910rppj6lb7d.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "El malentendido",
+              "duracion": "1h 5min",
+              "embedUrl": "https://vimeos.net/embed-8nciyycwkjos.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "La razón de la ruptura",
+              "duracion": "1h 3min",
+              "embedUrl": "https://vimeos.net/embed-mmpienvvbqif.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "La última despedida",
+              "duracion": "1h 6min",
+              "embedUrl": "https://vimeos.net/embed-pv5ytjojvxk4.html"
             }
           ]
         }
