@@ -1,6 +1,33 @@
 {
   "movies": [
     {
+      "titulo": "El último depredador",
+      "poster": "https://image.tmdb.org/t/p/w500/25AyYjTWP5KfZMG680mxdaTF9Hx.jpg",
+      "rating": "6.4",
+      "anio": 2026,
+      "duracion": "2h 25min",
+      "genero": "Suspense, Romance",
+      "descripcion": "Un rapero de Nalasopara y una influencer del sur de Bombay ponen su relación a prueba cuando un monzón los deja atrapados con un cocodrilo letal.",
+      "director": "Bejoy Nambiar",
+      "reparto": "Adarsh Gourav, Shanaya Kapoor, Kshitee Jog, Parul Gulati, Ansh Chopra, Amrutha Srinivasan, Rajat Kaul, Parvathy Thiruvothu, Ashok Kangude, Rajsi Kinjalaskar, Anindita Bose, Mahima Joshi",
+      "embedUrl": "https://vimeos.net/embed-2bu4vbrowvjx.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El botín",
+      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/55C5loKFkw7Cj0nMLWux4FJCRHI.jpg",
+      "logo": "",
+      "rating": "7.1",
+      "anio": 2026,
+      "duracion": "1h 53min",
+      "genero": "Acción, Suspense, Crimen",
+      "descripcion": "El descubrimiento de varios millones de dólares en efectivo en un zulo abandonado de Miami quiebra la confianza de un grupo de policías. Ahora, todo y todos están bajo sospecha.",
+      "director": "Joe Carnahan",
+      "reparto": "Matt Damon, Ben Affleck, Teyana Taylor, Steven Yeun, Catalina Sandino Moreno, Sasha Calle, Kyle Chandler, Scott Adkins, Daisuke Tsuji, Nestor Carbonell, Lina Esco, Alex Hernandez",
+      "embedUrl": "https://vimeos.net/embed-9b7uadbng1z9.html",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Five Nights at Freddy's",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg",
       "rating": "8.9",
