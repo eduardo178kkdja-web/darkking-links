@@ -10,13 +10,11 @@
       "descripcion": "Un rapero de Nalasopara y una influencer del sur de Bombay ponen su relación a prueba cuando un monzón los deja atrapados con un cocodrilo letal.",
       "director": "Bejoy Nambiar",
       "reparto": "Adarsh Gourav, Shanaya Kapoor, Kshitee Jog, Parul Gulati, Ansh Chopra, Amrutha Srinivasan, Rajat Kaul, Parvathy Thiruvothu, Ashok Kangude, Rajsi Kinjalaskar, Anindita Bose, Mahima Joshi",
-      "embedUrl": "https://vimeos.net/embed-2bu4vbrowvjx.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-2bu4vbrowvjx.html"
     },
     {
       "titulo": "El botín",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/55C5loKFkw7Cj0nMLWux4FJCRHI.jpg",
-      "logo": "",
       "rating": "7.1",
       "anio": 2026,
       "duracion": "1h 53min",
@@ -24,8 +22,7 @@
       "descripcion": "El descubrimiento de varios millones de dólares en efectivo en un zulo abandonado de Miami quiebra la confianza de un grupo de policías. Ahora, todo y todos están bajo sospecha.",
       "director": "Joe Carnahan",
       "reparto": "Matt Damon, Ben Affleck, Teyana Taylor, Steven Yeun, Catalina Sandino Moreno, Sasha Calle, Kyle Chandler, Scott Adkins, Daisuke Tsuji, Nestor Carbonell, Lina Esco, Alex Hernandez",
-      "embedUrl": "https://vimeos.net/embed-9b7uadbng1z9.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-9b7uadbng1z9.html"
     },
     {
       "titulo": "Five Nights at Freddy's",
@@ -2321,6 +2318,61 @@
     }
   ],
   "series": [
+    {
+      "titulo": "El mapa de los anhelos",
+      "poster": "https://image.tmdb.org/t/p/w500/yVy4Hk8mkMBC9p8rfsBIIp6KhrF.jpg",
+      "rating": "8.2",
+      "anio": 2026,
+      "genero": "Drama",
+      "descripcion": "Greta asegura haber nacido con el propósito de salvar a su hermana Lucy, que padece leucemia, a través de sus células madre. Sin embargo, los acontecimientos toman un giro inesperado y Lucy fallece, dejando a Greta con un profundo vacío existencial. Antes de partir, Lucy crea «El mapa de los anhelos», un juego que desafía a Greta a enfrentar su dolor y descubrir su propio camino. En este viaje, Greta conocerá a Will, un enigmático joven con un pasado que lo atormenta. ¿Podemos amar a alguien sin amarnos a nosotros mismos?",
+      "creador": "Isa Sánchez",
+      "reparto": "Alícia Falcó, Pablo Álvarez, Georgina Amorós, Laia Marull, Mario de la Rosa, Ramón Barea",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El juego de Lucy",
+              "duracion": "50 min",
+              "embedUrl": "https://vimeos.net/embed-2mwta1nus90i.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Subo la apuesta",
+              "duracion": "45 min",
+              "embedUrl": "https://vimeos.net/embed-81vag76gbkf0.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Y tiro porque me toca",
+              "duracion": "45 min",
+              "embedUrl": "https://vimeos.net/embed-wycuq5haqb8v.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "All In",
+              "duracion": "35 min",
+              "embedUrl": "https://vimeos.net/embed-uispfyicjo2q.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Tocado y hundido",
+              "duracion": "45 min",
+              "embedUrl": "https://vimeos.net/embed-7jrzjb0uynuv.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Vuelve a la casilla de salida",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-mjhwj51dmg68.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
     {
       "titulo": "Euphoria",
       "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/ypmtwojDd751Peszi62DVLytqqC.jpg",
