@@ -1,6 +1,71 @@
 {
   "movies": [
     {
+      "titulo": "Red",
+      "poster": "https://image.tmdb.org/t/p/w500/djM4COTksd5YRIdd9uEl8eA3iaa.jpg",
+      "rating": "7.3",
+      "anio": 2022,
+      "duracion": "1h 40min",
+      "genero": "Animación, Familia, Comedia, Fantasía",
+      "descripcion": "Mei Lee, una niña de 13 años un poco rara pero segura de sí misma, se debate entre ser la hija obediente que su madre quiere que sea y el caos propio de la adolescencia. Ming, su protectora y ligeramente exigente madre, no se separa nunca de ella lo que es una situación poco deseable para una adolescente. Y por si los cambios en su vida y en su cuerpo no fueran suficientes, cada vez que se emociona demasiado (lo que le ocurre prácticamente todo el tiempo), se convierte en un panda rojo gigante.",
+      "director": "Domee Shi",
+      "reparto": "Rosalie Chiang, Sandra Oh, Ava Morse, Hyein Park, Maitreyi Ramakrishnan, Orion Lee, Wai Ching Ho, Tristan Allerick Chen, James Hong, Lori Tan Chinn, Mia Tagano, Sherry Cola",
+      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_StrMpcSLuAp9HjNGPhHRlb7jfn4WyYkfmsqcW_lCJkWupfI33inwZRNcu730W_zFhxyGl7KZT2Bysah6to1IzDSNOzGNJ6OtI-pzgMAQ9yR3uRA8zIIxps3f0Qits96LjSUkVzsQC3RKBURrfxc3TAKjyO_JIUCIUomE750CetF9gb-5qLT14B1fKmGCDYbLplqcn1ueWIXD_4aVKQDiXLZYCW-9AGtHcbrZo3BG1rKGrXppNPPuR5vfXwn13xIT22WHsJa99yD48Uq1zgxQsnkf4K3wHU2M5FrQkRoHc1knkGzby5clDaS-3QUZNyr79kGANMucQE6eWXmOW3m_BqYvI2rV53oA/65c6ccb664708/8fd29adcc183786f8c9432080330c8ff2de760cc34f7d894e74c05114adf845f/1080p/playlist.m3u8",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Un último disparo",
+      "poster": "https://image.tmdb.org/t/p/w500/opmrLPrV2GPSazjWbX2PhkLjxBe.jpg",
+      "rating": "7.6",
+      "anio": 2026,
+      "duracion": "1h 38min",
+      "genero": "Acción, Suspense",
+      "descripcion": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
+      "director": "James Nunn",
+      "reparto": "Scott Adkins, Steven Cree, Hannah Ware, Dolph Lundgren, ケイン・コスギ, Neil Linpow, Ray Fearon, Tom Dunne, Michel Curiel, Tom Leigh, Jack Trueman, Sofian Francis",
+      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_vZaVu8VJHijfJknKK5sIrMS6eqnwTcgvZ1URxQC6iSngafCrW9Ij6aO5hPYhzBQC88ixf67Nq8wvs6cwM21IEq7QHK--6FtY4KymjYD4i-rPtO0DYmrHpAGQG4aoNwQb8KJH_VDUsY1FxBB6iSTlQohb13oOLwofMCtQ7oJ3eR6yJfTE3YOipUTCObXsxhhXkgFfHIr0WpBn-HyaxO3yYh-9X4sP7iXfS3U4BYxmPxz5TsmUmq5B3cIUzeJ4ITFPeb4dMY3uMwYPPwU62ekH-FUtwuPCDTzlBP1N-96OABy1ABYCxHYRx4LQon4df8M7r4T_5RZsFNnjyQmxOswKIY4kTHa62EJI/65c6cc8fbee28/9e93e2edcf7cf3b02f5ada9f159d3579171357cfc076db5709da4a6cbdee5f8d/1080p/playlist.m3u8",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Una película de Minecraft",
+      "poster": "https://image.tmdb.org/t/p/w500/mFjtmmh4RtK9tLv1aPnUsl6st3m.jpg",
+      "rating": "6.2",
+      "anio": 2025,
+      "duracion": "1h 40min",
+      "genero": "Familia, Fantasía, Comedia, Aventura",
+      "descripcion": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
+      "director": "Jared Hess",
+      "reparto": "Jason Momoa, Jack Black, Sebastian Eugene Hansen, Emma Myers, Danielle Brooks, Jennifer Coolidge, Rachel House, Allan Henry, Bram Scott-Breheny, Moana Williams, Jemaine Clement, Mark Wright",
+      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX19olvUT4yHsOfCx7RJ7PObkd-e-c1GSEHajmHf9I7PZfrGsoZD_tXkZius0IOqdHooZ9jNFbJzPFM4h1ojOnsLl-aEP9xnQyR9Lm7Kku7KQNENsYIZLHCXm1JZAepCQi510oSMc6499kWQdqcomVanzrdMOrzqRz3i52nvxUpqajr9HOnNeqT5o2Rp-EaJbqHZqokvGlp-v70ft213q0MjaJXxyLcooxnYXOC2_Ml3tj-h4ZQVmUyP3juh27sNu-L03Gm5pDb7CNK4GPrCQ1NUgnC8Cz67btjTFPCgiCEXrXJfIR79QdOIhDXlxfG6ls3bo9WwCgY82ccMuVTJeM8giCp9avt_I2a4/65c6cbd5f6568/4db16748f9a66aa639dc9d8c1c033b3cb3a622352825cea4e72734d6d6af11b1/1080p/playlist.m3u8",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Snoopy presenta: Hogar, dulce hogar",
+      "poster": "https://image.tmdb.org/t/p/w500/dEXPxwI0yi41pwbG94I1PRaeVZq.jpg",
+      "rating": "8.5",
+      "anio": 2026,
+      "duracion": "0h 32min",
+      "genero": "Animación, Familia",
+      "descripcion": "Cuando la querida caseta de Snoopy desaparece, intenta encontrarla y descubre qué hace que una casa sea un hogar.",
+      "director": "Ridd Sorensen",
+      "reparto": "Riley Kai Vargas, Terry McGurrin, Rob Tinkler, Kitai O'Garro, Josephine Nisbett, Grace Nicolaou-Wood, Jo-Hannah Atchison, Lexi Perri, Athan Giazitzidis, Diego Whalen, Enzo Bezzina, Addison Wagman",
+      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX18GxkiEPqrMpGBD5epuZ-Hpzx5QdeaUmcXl5EX19UBNY1YizNHB_uv6DYHA2opicsxMVtiPnARQ8BZSO1sdPynWdwvqNCzDASomeWeSfBqpG6M0KxPEUPQuiC4ogCuK9iL8jw2iktag5uPv9KvKG_ugK1lqpb5fHwGKZ-75LLjJfz856jaT3kKVtonbB2lk01izlKn3ydf0IAWaP9DPHO11vK_3jvLopNjcmZe1zl5IN3QZC_5Ki6z96_9Zr2qTWuJ0Hx6eImGUb_WzXVnSjE9snbx6W31pS7lySWl6f651pMhVS9oD-tB_h6tbM8WAgUmHg14nKa77DHo5wKa910ivbpJG64slCp0/65c6cc10c67d8/ffd08349e52c550998e53b22727a0585fb237b5a7396c0748ac41f78533be095/1080p/playlist.m3u8",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Acero puro",
+      "poster": "https://image.tmdb.org/t/p/w500/gqjKG4Z24pjYxcOfCd9p6WAnYlG.jpg",
+      "rating": "7.1",
+      "anio": 2011,
+      "duracion": "2h 6min",
+      "genero": "Acción, Ciencia ficción, Drama",
+      "descripcion": "En un futuro no muy lejano, el boxeo es robótico: en los combates ya no se enfrentan seres humanos, sino robots humanoides, sofisticadas máquinas diseñadas para luchar. Charlie Kenton, un antiguo púgil que casi llegó a alcanzar la gloria, está pasando una mala racha como promotor de combates. Un día, encuentra un viejo robot desechado y, al comprobar que es un gran boxeador, decide entrenarlo.",
+      "director": "Shawn Levy",
+      "reparto": "Hugh Jackman, Dakota Goyo, Evangeline Lilly, Kevin Durand, Anthony Mackie, Hope Davis, James Rebhorn, Karl Yune, Sophie Levy, Tess Levy, Olga Fonda, John Gatins",
+      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX18_Jvl8t3hNw99NxN8Zo24ae8NVEkw7I8yjS_m6fa3j51E7IqO71LI-3bjDPOujbPn_eHpKk4I3_4AOQfG7FdK6vUYFIGuRZ7VKn_Pva4fkXmuFtByIKGVz0_nX3wZVmCTzdjnf9iXfuLHqxrgCMwJDRI68m1v315e9rW6Z0QUMeq9NBmhStTN6D2TrMVxzKrAXVVhcer1KhsF6bXMp6Pp6gLGBjv4tmJZiI8yN4wYUZ7vf84A4_Pn5mcRhYgUt-dGdYUNBxR_YNYbn1nHkKk3mfWxyTkcXL-3PkgW6bZP7J4wUea1AEiV8IsIdOJfHShrGYvP-dDxPSoZdnIKF-goXn0QW3fpTdUo/65c6cb21a91c8/8e9a3e9ce5895a3b2fb13c582b9673d18fa5c827305f02d61ec9af3b5456f74d/1080p/playlist.m3u8",
+      "recienAgregado": true
+    },
+    {
       "titulo": "El último depredador",
       "poster": "https://image.tmdb.org/t/p/w500/25AyYjTWP5KfZMG680mxdaTF9Hx.jpg",
       "rating": "6.4",
