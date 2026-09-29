@@ -1,6 +1,19 @@
 {
   "movies": [
     {
+      "titulo": "Entrega al límite",
+      "poster": "https://image.tmdb.org/t/p/w500/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+      "rating": "8.1",
+      "anio": 2026,
+      "duracion": "1h 37min",
+      "genero": "Acción, Comedia",
+      "descripcion": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
+      "director": "Scott Waugh",
+      "reparto": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box, Adriana Barraza, Peta Sergeant, Scarlett Crabtree, Geraldine Hakewill, Goran D. Kleut, Gyton Grantley, Deirdree Wallace",
+      "embedUrl": "https://anonmp4.art/embed/uBSjesX7La7Cf8U",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Un canguro superduro",
       "poster": "https://image.tmdb.org/t/p/w500/s4Z4hf8L0P1fvGoQpfCFjP5oLid.jpg",
       "rating": "6.1",
