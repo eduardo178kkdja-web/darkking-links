@@ -1,6 +1,84 @@
 {
   "movies": [
     {
+      "titulo": "Un canguro superduro",
+      "poster": "https://image.tmdb.org/t/p/w500/s4Z4hf8L0P1fvGoQpfCFjP5oLid.jpg",
+      "rating": "6.1",
+      "anio": 2005,
+      "duracion": "1h 35min",
+      "genero": "Comedia, Familia, Acción",
+      "descripcion": "Un marine americano debe proteger a cinco niños de un científico asesinado que trabajar en proyectos secretos del gobierno. Ahora, Shane, un Navy Seal acostumbrado a peligrosas misiones de rescate, debe enfrentarse a dos trabajos completamente incompatibles: luchar contra los malos mientras cuida de la casa y se hace cargo de las revoltosas criaturas; además de intentar vencer al enemigo, Shane debe enfrentarse a la rebelde adolescente Zoe, y sus hermanos Seth, Lulu, Peter y el bebé Tyler.",
+      "director": "Adam Shankman",
+      "reparto": "Vin Diesel, Lauren Graham, Faith Ford, Brittany Snow, Max Thieriot, Chris Potter, Carol Kane, Brad Garrett, Morgan York, Keegan Hoover, Logan Hoover, Bo Vink",
+      "embedUrl": "https://vimeos.net/embed-2t7vmxyejg24.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "It: Capítulo 2",
+      "poster": "https://image.tmdb.org/t/p/w500/9oERKIVyTWpHNum3STVsAGD4ojz.jpg",
+      "rating": "6.8",
+      "anio": 2019,
+      "duracion": "2h 49min",
+      "genero": "Terror, Suspense, Drama",
+      "descripcion": "Han pasado casi 30 años desde que el \"Club de los Perdedores\", formado por Bill, Beverly, Richie, Ben, Eddie, Mike y Stanley, se enfrentaran al macabro y despiadado Pennywise (Bill Skarsgård). En cuanto tuvieron oportunidad, abandonaron el pueblo de Derry, en el estado de Maine, que tantos problemas les había ocasionado. Sin embargo, ahora, siendo adultos, parece que no pueden escapar de su pasado. Todos deberán enfrentarse de nuevo al temible payaso para descubrir si de verdad están preparados para superar sus traumas de la infancia.",
+      "director": "Andy Muschietti",
+      "reparto": "Jessica Chastain, James McAvoy, Bill Hader, Isaiah Mustafa, Jay Ryan, James Ransone, Andy Bean, Bill Skarsgård, Jaeden Martell, Wyatt Oleff, Jack Dylan Grazer, Finn Wolfhard",
+      "embedUrl": "https://vimeos.net/embed-rnuv57supb0c.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Pesadilla antes de Navidad",
+      "poster": "https://image.tmdb.org/t/p/w500/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg",
+      "rating": "7.8",
+      "anio": 1993,
+      "duracion": "1h 15min",
+      "genero": "Fantasía, Animación, Familia",
+      "descripcion": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
+      "director": "Henry Selick",
+      "reparto": "Danny Elfman, Chris Sarandon, Catherine O'Hara, William Hickey, Glenn Shadix, Paul Reubens, Ken Page, Edward Ivory, Susan McBride, Debi Durst, Greg Proops, Kerry Katz",
+      "embedUrl": "https://vimeos.net/embed-v19ljwy4efda.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Lorax. En busca de la trúfula perdida",
+      "poster": "https://image.tmdb.org/t/p/w500/gb5L2hjGOWlb5tJfQtcf4V5KI9q.jpg",
+      "rating": "6.5",
+      "anio": 2012,
+      "duracion": "1h 34min",
+      "genero": "Animación, Familia",
+      "descripcion": "Un chico se propone conquistar el afecto de la chica de sus sueños. Para conseguirlo, debe averiguar la historia del Lorax, una encantadora aunque gruñona criatura que lucha por proteger un mundo en vías de extinción.",
+      "director": "Chris Renaud",
+      "reparto": "Danny DeVito, Ed Helms, Zac Efron, Rob Riggle, Taylor Swift, Jenny Slate, Betty White, Nasim Pedrad, Joel Swetow, Michael Beattie, Elmarie Wendel, Dave B. Mitchell",
+      "embedUrl": "https://vimeos.net/embed-e6vclgyri15n.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "The Punisher: One Last Kill",
+      "poster": "https://image.tmdb.org/t/p/w500/p1eqHRxfIxfgtDgfjWcpEESeEvF.jpg",
+      "rating": "8.3",
+      "anio": 2026,
+      "duracion": "48min",
+      "genero": "Acción, Drama, Crimen",
+      "descripcion": "Mientras Frank Castle busca propósito más allá de la venganza, una fuerza inesperada lo arrastra de nuevo a la lucha.",
+      "director": "Reinaldo Marcus Green",
+      "reparto": "Jon Bernthal, Deborah Ann Woll, Jason R. Moore, Judith Light, Kelli Barrett, Andre Royo, John Douglas Thompson, Colton Hill, Nick Koumalatsos, Addie Bernthal, Mila Jaymes, Eduardo Campirano III",
+      "embedUrl": "https://vimeos.net/embed-w6xsos8sv3h9.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El padrino",
+      "poster": "https://image.tmdb.org/t/p/w500/5HlLUsmsv60cZVTzVns9ICZD6zU.jpg",
+      "rating": "8.7",
+      "anio": 1972,
+      "duracion": "2h 55min",
+      "genero": "Drama, Crimen",
+      "descripcion": "Don Vito Corleone, conocido dentro de los círculos del hampa como \"El Padrino\", es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York (Estados Unidos) durante la década de 1940. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando Vito reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+      "director": "Francis Ford Coppola",
+      "reparto": "Marlon Brando, Al Pacino, James Caan, Robert Duvall, Richard S. Castellano, Diane Keaton, Talia Shire, Gianni Russo, Sterling Hayden, John Marley, Richard Conte, Al Lettieri",
+      "embedUrl": "https://vimeos.net/embed-ry3hotkpqu1b.html",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Red",
       "poster": "https://image.tmdb.org/t/p/w500/djM4COTksd5YRIdd9uEl8eA3iaa.jpg",
       "rating": "7.3",
@@ -10,8 +88,7 @@
       "descripcion": "Mei Lee, una niña de 13 años un poco rara pero segura de sí misma, se debate entre ser la hija obediente que su madre quiere que sea y el caos propio de la adolescencia. Ming, su protectora y ligeramente exigente madre, no se separa nunca de ella lo que es una situación poco deseable para una adolescente. Y por si los cambios en su vida y en su cuerpo no fueran suficientes, cada vez que se emociona demasiado (lo que le ocurre prácticamente todo el tiempo), se convierte en un panda rojo gigante.",
       "director": "Domee Shi",
       "reparto": "Rosalie Chiang, Sandra Oh, Ava Morse, Hyein Park, Maitreyi Ramakrishnan, Orion Lee, Wai Ching Ho, Tristan Allerick Chen, James Hong, Lori Tan Chinn, Mia Tagano, Sherry Cola",
-      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_StrMpcSLuAp9HjNGPhHRlb7jfn4WyYkfmsqcW_lCJkWupfI33inwZRNcu730W_zFhxyGl7KZT2Bysah6to1IzDSNOzGNJ6OtI-pzgMAQ9yR3uRA8zIIxps3f0Qits96LjSUkVzsQC3RKBURrfxc3TAKjyO_JIUCIUomE750CetF9gb-5qLT14B1fKmGCDYbLplqcn1ueWIXD_4aVKQDiXLZYCW-9AGtHcbrZo3BG1rKGrXppNPPuR5vfXwn13xIT22WHsJa99yD48Uq1zgxQsnkf4K3wHU2M5FrQkRoHc1knkGzby5clDaS-3QUZNyr79kGANMucQE6eWXmOW3m_BqYvI2rV53oA/65c6ccb664708/8fd29adcc183786f8c9432080330c8ff2de760cc34f7d894e74c05114adf845f/1080p/playlist.m3u8",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/eq77ss0wyz0s"
     },
     {
       "titulo": "Un último disparo",
@@ -23,8 +100,7 @@
       "descripcion": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
       "director": "James Nunn",
       "reparto": "Scott Adkins, Steven Cree, Hannah Ware, Dolph Lundgren, ケイン・コスギ, Neil Linpow, Ray Fearon, Tom Dunne, Michel Curiel, Tom Leigh, Jack Trueman, Sofian Francis",
-      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_vZaVu8VJHijfJknKK5sIrMS6eqnwTcgvZ1URxQC6iSngafCrW9Ij6aO5hPYhzBQC88ixf67Nq8wvs6cwM21IEq7QHK--6FtY4KymjYD4i-rPtO0DYmrHpAGQG4aoNwQb8KJH_VDUsY1FxBB6iSTlQohb13oOLwofMCtQ7oJ3eR6yJfTE3YOipUTCObXsxhhXkgFfHIr0WpBn-HyaxO3yYh-9X4sP7iXfS3U4BYxmPxz5TsmUmq5B3cIUzeJ4ITFPeb4dMY3uMwYPPwU62ekH-FUtwuPCDTzlBP1N-96OABy1ABYCxHYRx4LQon4df8M7r4T_5RZsFNnjyQmxOswKIY4kTHa62EJI/65c6cc8fbee28/9e93e2edcf7cf3b02f5ada9f159d3579171357cfc076db5709da4a6cbdee5f8d/1080p/playlist.m3u8",
-      "recienAgregado": true
+      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_vZaVu8VJHijfJknKK5sIrMS6eqnwTcgvZ1URxQC6iSngafCrW9Ij6aO5hPYhzBQC88ixf67Nq8wvs6cwM21IEq7QHK--6FtY4KymjYD4i-rPtO0DYmrHpAGQG4aoNwQb8KJH_VDUsY1FxBB6iSTlQohb13oOLwofMCtQ7oJ3eR6yJfTE3YOipUTCObXsxhhXkgFfHIr0WpBn-HyaxO3yYh-9X4sP7iXfS3U4BYxmPxz5TsmUmq5B3cIUzeJ4ITFPeb4dMY3uMwYPPwU62ekH-FUtwuPCDTzlBP1N-96OABy1ABYCxHYRx4LQon4df8M7r4T_5RZsFNnjyQmxOswKIY4kTHa62EJI/65c6cc8fbee28/9e93e2edcf7cf3b02f5ada9f159d3579171357cfc076db5709da4a6cbdee5f8d/1080p/playlist.m3u8"
     },
     {
       "titulo": "Una película de Minecraft",
@@ -36,8 +112,7 @@
       "descripcion": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
       "director": "Jared Hess",
       "reparto": "Jason Momoa, Jack Black, Sebastian Eugene Hansen, Emma Myers, Danielle Brooks, Jennifer Coolidge, Rachel House, Allan Henry, Bram Scott-Breheny, Moana Williams, Jemaine Clement, Mark Wright",
-      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX19olvUT4yHsOfCx7RJ7PObkd-e-c1GSEHajmHf9I7PZfrGsoZD_tXkZius0IOqdHooZ9jNFbJzPFM4h1ojOnsLl-aEP9xnQyR9Lm7Kku7KQNENsYIZLHCXm1JZAepCQi510oSMc6499kWQdqcomVanzrdMOrzqRz3i52nvxUpqajr9HOnNeqT5o2Rp-EaJbqHZqokvGlp-v70ft213q0MjaJXxyLcooxnYXOC2_Ml3tj-h4ZQVmUyP3juh27sNu-L03Gm5pDb7CNK4GPrCQ1NUgnC8Cz67btjTFPCgiCEXrXJfIR79QdOIhDXlxfG6ls3bo9WwCgY82ccMuVTJeM8giCp9avt_I2a4/65c6cbd5f6568/4db16748f9a66aa639dc9d8c1c033b3cb3a622352825cea4e72734d6d6af11b1/1080p/playlist.m3u8",
-      "recienAgregado": true
+      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX19olvUT4yHsOfCx7RJ7PObkd-e-c1GSEHajmHf9I7PZfrGsoZD_tXkZius0IOqdHooZ9jNFbJzPFM4h1ojOnsLl-aEP9xnQyR9Lm7Kku7KQNENsYIZLHCXm1JZAepCQi510oSMc6499kWQdqcomVanzrdMOrzqRz3i52nvxUpqajr9HOnNeqT5o2Rp-EaJbqHZqokvGlp-v70ft213q0MjaJXxyLcooxnYXOC2_Ml3tj-h4ZQVmUyP3juh27sNu-L03Gm5pDb7CNK4GPrCQ1NUgnC8Cz67btjTFPCgiCEXrXJfIR79QdOIhDXlxfG6ls3bo9WwCgY82ccMuVTJeM8giCp9avt_I2a4/65c6cbd5f6568/4db16748f9a66aa639dc9d8c1c033b3cb3a622352825cea4e72734d6d6af11b1/1080p/playlist.m3u8"
     },
     {
       "titulo": "Snoopy presenta: Hogar, dulce hogar",
@@ -49,8 +124,7 @@
       "descripcion": "Cuando la querida caseta de Snoopy desaparece, intenta encontrarla y descubre qué hace que una casa sea un hogar.",
       "director": "Ridd Sorensen",
       "reparto": "Riley Kai Vargas, Terry McGurrin, Rob Tinkler, Kitai O'Garro, Josephine Nisbett, Grace Nicolaou-Wood, Jo-Hannah Atchison, Lexi Perri, Athan Giazitzidis, Diego Whalen, Enzo Bezzina, Addison Wagman",
-      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX18GxkiEPqrMpGBD5epuZ-Hpzx5QdeaUmcXl5EX19UBNY1YizNHB_uv6DYHA2opicsxMVtiPnARQ8BZSO1sdPynWdwvqNCzDASomeWeSfBqpG6M0KxPEUPQuiC4ogCuK9iL8jw2iktag5uPv9KvKG_ugK1lqpb5fHwGKZ-75LLjJfz856jaT3kKVtonbB2lk01izlKn3ydf0IAWaP9DPHO11vK_3jvLopNjcmZe1zl5IN3QZC_5Ki6z96_9Zr2qTWuJ0Hx6eImGUb_WzXVnSjE9snbx6W31pS7lySWl6f651pMhVS9oD-tB_h6tbM8WAgUmHg14nKa77DHo5wKa910ivbpJG64slCp0/65c6cc10c67d8/ffd08349e52c550998e53b22727a0585fb237b5a7396c0748ac41f78533be095/1080p/playlist.m3u8",
-      "recienAgregado": true
+      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX18GxkiEPqrMpGBD5epuZ-Hpzx5QdeaUmcXl5EX19UBNY1YizNHB_uv6DYHA2opicsxMVtiPnARQ8BZSO1sdPynWdwvqNCzDASomeWeSfBqpG6M0KxPEUPQuiC4ogCuK9iL8jw2iktag5uPv9KvKG_ugK1lqpb5fHwGKZ-75LLjJfz856jaT3kKVtonbB2lk01izlKn3ydf0IAWaP9DPHO11vK_3jvLopNjcmZe1zl5IN3QZC_5Ki6z96_9Zr2qTWuJ0Hx6eImGUb_WzXVnSjE9snbx6W31pS7lySWl6f651pMhVS9oD-tB_h6tbM8WAgUmHg14nKa77DHo5wKa910ivbpJG64slCp0/65c6cc10c67d8/ffd08349e52c550998e53b22727a0585fb237b5a7396c0748ac41f78533be095/1080p/playlist.m3u8"
     },
     {
       "titulo": "Acero puro",
@@ -62,8 +136,7 @@
       "descripcion": "En un futuro no muy lejano, el boxeo es robótico: en los combates ya no se enfrentan seres humanos, sino robots humanoides, sofisticadas máquinas diseñadas para luchar. Charlie Kenton, un antiguo púgil que casi llegó a alcanzar la gloria, está pasando una mala racha como promotor de combates. Un día, encuentra un viejo robot desechado y, al comprobar que es un gran boxeador, decide entrenarlo.",
       "director": "Shawn Levy",
       "reparto": "Hugh Jackman, Dakota Goyo, Evangeline Lilly, Kevin Durand, Anthony Mackie, Hope Davis, James Rebhorn, Karl Yune, Sophie Levy, Tess Levy, Olga Fonda, John Gatins",
-      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX18_Jvl8t3hNw99NxN8Zo24ae8NVEkw7I8yjS_m6fa3j51E7IqO71LI-3bjDPOujbPn_eHpKk4I3_4AOQfG7FdK6vUYFIGuRZ7VKn_Pva4fkXmuFtByIKGVz0_nX3wZVmCTzdjnf9iXfuLHqxrgCMwJDRI68m1v315e9rW6Z0QUMeq9NBmhStTN6D2TrMVxzKrAXVVhcer1KhsF6bXMp6Pp6gLGBjv4tmJZiI8yN4wYUZ7vf84A4_Pn5mcRhYgUt-dGdYUNBxR_YNYbn1nHkKk3mfWxyTkcXL-3PkgW6bZP7J4wUea1AEiV8IsIdOJfHShrGYvP-dDxPSoZdnIKF-goXn0QW3fpTdUo/65c6cb21a91c8/8e9a3e9ce5895a3b2fb13c582b9673d18fa5c827305f02d61ec9af3b5456f74d/1080p/playlist.m3u8",
-      "recienAgregado": true
+      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX18_Jvl8t3hNw99NxN8Zo24ae8NVEkw7I8yjS_m6fa3j51E7IqO71LI-3bjDPOujbPn_eHpKk4I3_4AOQfG7FdK6vUYFIGuRZ7VKn_Pva4fkXmuFtByIKGVz0_nX3wZVmCTzdjnf9iXfuLHqxrgCMwJDRI68m1v315e9rW6Z0QUMeq9NBmhStTN6D2TrMVxzKrAXVVhcer1KhsF6bXMp6Pp6gLGBjv4tmJZiI8yN4wYUZ7vf84A4_Pn5mcRhYgUt-dGdYUNBxR_YNYbn1nHkKk3mfWxyTkcXL-3PkgW6bZP7J4wUea1AEiV8IsIdOJfHShrGYvP-dDxPSoZdnIKF-goXn0QW3fpTdUo/65c6cb21a91c8/8e9a3e9ce5895a3b2fb13c582b9673d18fa5c827305f02d61ec9af3b5456f74d/1080p/playlist.m3u8"
     },
     {
       "titulo": "El último depredador",
@@ -2007,7 +2080,7 @@
       "descripcion": "En una última misión agotadora durante el entrenamiento para ser ranger, un ingeniero de combate debe liderar a su unidad contra una gigantesca máquina asesina de otro mundo.",
       "director": "Patrick Hughes",
       "reparto": "Alan Ritchson, Stephan James, Blake Richardson, Dennis Quaid, Esai Morales, Jai Courtney, Alex King, Keiynan Lonsdale, Jack Patten, James Beaufort, Jacob Hohua, Daniel Webber",
-      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_bJrghtBOkxO4I3hQXo5TAtzPY94b4UNuHLZhLwcTl_fe4NvyoKKgLZvoBki4ezipuZxpzN78OMo2X7Sp6_7pjuBFYrmrMLfgqbS3rHJIVKuPHR0orvAL0ORMcirNMxmhkwvdNUWyUTl_NpIgPmv1VlTfsY61j5x4cCVyUgQr47m5XZrn29lWxhPWmZM0jXHIYB3UO0Gmfb5UaV7TLacMNvThwkaAOgQxqjo4CriImjXNj6-2Bq1PKoy4vxgX5c5u60iLr3Dtf9MLRvFv9p-BfeCAVhtmBwbdMjVqJhOADIhNlE9CFnMI0pYqNydO6XE7NBG7WnUAnifUEO8DKEB1hB_37F7PXN7rS1IWGM9sjCPw0IHQxc-1L/65c67ee855008/172a74b9e281c561c70cfde55054d0b6240e8f8b061f04573188a26595bc0ac8/1080p/playlist.m3u8"
+      "embedUrl": "https://vimeos.net/embed-gu0ui9l378lj.html"
     },
     {
       "titulo": "Monjas Oscuras",
@@ -2383,6 +2456,97 @@
     }
   ],
   "series": [
+    {
+      "titulo": "¿Cómo se traduce este amor?",
+      "poster": "https://image.tmdb.org/t/p/w500/zFZaqf3SYbnXNx18TdmT9NflgY6.jpg",
+      "rating": "8.4",
+      "anio": 2026,
+      "genero": "Drama, Comedia",
+      "descripcion": "Una artista y su intérprete viajan por varios países grabando un programa mientras sus emociones se desvanecen entre subtítulos invisibles. ¿Logrará el amor hacerse entender?",
+      "creador": "홍정은, 홍미란, 유영은",
+      "reparto": "김선호, 고윤정, Sota Fukushi, 이이담, 최우성",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Un encuentro",
+              "duracion": "1h 2m",
+              "embedUrl": "https://vimeos.net/embed-p8h98thufoby.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "La superestrella",
+              "duracion": "1h 8m",
+              "embedUrl": "https://vimeos.net/embed-jaf17kmqugcz.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Viaje romántico",
+              "duracion": "58m",
+              "embedUrl": "https://vimeos.net/embed-9n3st0ck99li.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Nuevos sentimientos",
+              "duracion": "1h 9m",
+              "embedUrl": "https://vimeos.net/embed-iv4bdoefzwc1.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Más cerca",
+              "duracion": "1h 5m",
+              "embedUrl": "https://vimeos.net/embed-51h5qx12j0il.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Un secreto",
+              "duracion": "1h 6m",
+              "embedUrl": "https://vimeos.net/embed-ge5kazmqljpj.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Confusión",
+              "duracion": "1h 9m",
+              "embedUrl": "https://vimeos.net/embed-h8am0d5z23xu.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Una decisión",
+              "duracion": "1h 4m",
+              "embedUrl": "https://vimeos.net/embed-7sd52p2tthho.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "En Italia",
+              "duracion": "1h 5m",
+              "embedUrl": "https://goodstream.one/embed-gi40vuev444r.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "La verdad",
+              "duracion": "1h 22m",
+              "embedUrl": "https://vimeos.net/embed-tg97r8ebr0ax.html"
+            },
+            {
+              "numero": 11,
+              "nombre": "Consecuencias",
+              "duracion": "56m",
+              "embedUrl": "https://goodstream.one/embed-nklmn01oct1w.html"
+            },
+            {
+              "numero": 12,
+              "nombre": "El final",
+              "duracion": "1h 3m",
+              "embedUrl": "https://goodstream.one/embed-o9q200by6wzp.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
     {
       "titulo": "El mapa de los anhelos",
       "poster": "https://image.tmdb.org/t/p/w500/yVy4Hk8mkMBC9p8rfsBIIp6KhrF.jpg",
