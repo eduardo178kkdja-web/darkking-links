@@ -1,6 +1,71 @@
 {
   "movies": [
     {
+      "titulo": "Los desenredos del amor",
+      "poster": "https://image.tmdb.org/t/p/w500/osrlCIHYOlqOJaDh7zAaeaqh1LF.jpg",
+      "rating": "8.2",
+      "anio": 2025,
+      "duracion": "2h 1min",
+      "genero": "Romance, Drama, Comedia",
+      "descripcion": "Una adolescente enamoradiza planea conquistar al rompecorazones del instituto alisando su melena rizada... hasta que un nuevo alumno lo cambia todo.",
+      "director": "남궁선",
+      "reparto": "신은수, 공명, Cha Woo-min, 윤상현, 강미나, 최규리, 이소이, 손희림, 류승수, 김지영, 홍은희, 조복래",
+      "embedUrl": "https://bysedikamoum.com/e/qrf14mo96u9q",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Embestida",
+      "poster": "https://image.tmdb.org/t/p/w500/osYy4GDE4nr69MGTJxRaZlqU82S.jpg",
+      "rating": "6.2",
+      "anio": 2026,
+      "duracion": "1h 24min",
+      "genero": "Terror, Suspense",
+      "descripcion": "Cuando un catastrófico huracán azota un pueblo costero, el nivel del mar sube rápidamente y sus habitantes deben sobrevivir a un montón de hambrientos tiburones.",
+      "director": "Tommy Wirkola",
+      "reparto": "Phoebe Dynevor, Whitney Peak, Djimon Hounsou, Alyla Browne, Stacy Clausen, Dante Ubaldi, Matt Nable, Andrew Lees, Sami Afuni, Tyler Coppin, Adam Dunn, Chai Hansen",
+      "embedUrl": "https://bysedikamoum.com/e/suqup9y2yv49",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Scream 7",
+      "poster": "https://image.tmdb.org/t/p/w500/jgJCp2TOtTMGWS766tQhNcuFhjs.jpg",
+      "rating": "6.2",
+      "anio": 2026,
+      "duracion": "1h 54min",
+      "genero": "Terror, Misterio, Crimen",
+      "descripcion": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
+      "director": "Kevin Williamson",
+      "reparto": "Neve Campbell, Courteney Cox, Isabel May, Jasmin Savoy Brown, Mason Gooding, Roger L. Jackson, Anna Camp, Joel McHale, Celeste O'Connor, Sam Rechner, Asa Germann, Mckenna Grace",
+      "embedUrl": "https://bysedikamoum.com/e/uzk57706xk2l",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El final de Oak Street",
+      "poster": "https://image.tmdb.org/t/p/w500/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+      "rating": "7.1",
+      "anio": 2026,
+      "duracion": "1h 40min",
+      "genero": "Ciencia ficción, Misterio, Suspense",
+      "descripcion": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+      "director": "David Robert Mitchell",
+      "reparto": "Anne Hathaway, Ewan McGregor, Maisy Stella, Christian Convery, Jordan Alexa Davis, P.J. Byrne, Hudson Meek, Anne Gee Byrd, Emily Kuroda, Simms May, Grayson Thorne Kilpatrick, Pilot Bunch",
+      "embedUrl": "https://bysedikamoum.com/e/gduouk1zxtql",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Return to Silent Hill",
+      "poster": "https://image.tmdb.org/t/p/w500/5d55Yl0JL1zlOHX021VL36unOlY.jpg",
+      "rating": "5.3",
+      "anio": 2026,
+      "duracion": "1h 46min",
+      "genero": "Terror, Misterio",
+      "descripcion": "Impulsado por las sombras de su pasado, James Sunderland regresa a Silent Hill para encontrar a su amor perdido, Mary Crane. Pero el pequeño pueblo oscuro y deprimente ya no es el lugar de sus recuerdos. James se encuentra con personajes que le parecen demasiado familiares y que intentan distraerlo de su búsqueda de Mary. Cuanto más busca a Mary, más comienza a preguntarse si esto sigue siendo la realidad, o si ha caído en el oscuro inframundo de Jacob Crane.",
+      "director": "Christophe Gans",
+      "reparto": "Jeremy Irvine, Hannah Emily Anderson, Ljiljana Velimirov, Giulia Pelagatti, Evie Templeton, Robert Strange, Pearse Egan, Nicola Alexis, Eve Macklin, Emily Carding, Lara Duru, Karya Duru",
+      "embedUrl": "https://bysedikamoum.com/e/ypg6hlc8oi8q",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Un canguro superduro",
       "poster": "https://image.tmdb.org/t/p/w500/s4Z4hf8L0P1fvGoQpfCFjP5oLid.jpg",
       "rating": "6.1",
@@ -10,8 +75,7 @@
       "descripcion": "Un marine americano debe proteger a cinco niños de un científico asesinado que trabajar en proyectos secretos del gobierno. Ahora, Shane, un Navy Seal acostumbrado a peligrosas misiones de rescate, debe enfrentarse a dos trabajos completamente incompatibles: luchar contra los malos mientras cuida de la casa y se hace cargo de las revoltosas criaturas; además de intentar vencer al enemigo, Shane debe enfrentarse a la rebelde adolescente Zoe, y sus hermanos Seth, Lulu, Peter y el bebé Tyler.",
       "director": "Adam Shankman",
       "reparto": "Vin Diesel, Lauren Graham, Faith Ford, Brittany Snow, Max Thieriot, Chris Potter, Carol Kane, Brad Garrett, Morgan York, Keegan Hoover, Logan Hoover, Bo Vink",
-      "embedUrl": "https://vimeos.net/embed-2t7vmxyejg24.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-2t7vmxyejg24.html"
     },
     {
       "titulo": "It: Capítulo 2",
@@ -23,8 +87,7 @@
       "descripcion": "Han pasado casi 30 años desde que el \"Club de los Perdedores\", formado por Bill, Beverly, Richie, Ben, Eddie, Mike y Stanley, se enfrentaran al macabro y despiadado Pennywise (Bill Skarsgård). En cuanto tuvieron oportunidad, abandonaron el pueblo de Derry, en el estado de Maine, que tantos problemas les había ocasionado. Sin embargo, ahora, siendo adultos, parece que no pueden escapar de su pasado. Todos deberán enfrentarse de nuevo al temible payaso para descubrir si de verdad están preparados para superar sus traumas de la infancia.",
       "director": "Andy Muschietti",
       "reparto": "Jessica Chastain, James McAvoy, Bill Hader, Isaiah Mustafa, Jay Ryan, James Ransone, Andy Bean, Bill Skarsgård, Jaeden Martell, Wyatt Oleff, Jack Dylan Grazer, Finn Wolfhard",
-      "embedUrl": "https://vimeos.net/embed-rnuv57supb0c.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-rnuv57supb0c.html"
     },
     {
       "titulo": "Pesadilla antes de Navidad",
@@ -36,8 +99,7 @@
       "descripcion": "Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.",
       "director": "Henry Selick",
       "reparto": "Danny Elfman, Chris Sarandon, Catherine O'Hara, William Hickey, Glenn Shadix, Paul Reubens, Ken Page, Edward Ivory, Susan McBride, Debi Durst, Greg Proops, Kerry Katz",
-      "embedUrl": "https://vimeos.net/embed-v19ljwy4efda.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-v19ljwy4efda.html"
     },
     {
       "titulo": "Lorax. En busca de la trúfula perdida",
@@ -49,8 +111,7 @@
       "descripcion": "Un chico se propone conquistar el afecto de la chica de sus sueños. Para conseguirlo, debe averiguar la historia del Lorax, una encantadora aunque gruñona criatura que lucha por proteger un mundo en vías de extinción.",
       "director": "Chris Renaud",
       "reparto": "Danny DeVito, Ed Helms, Zac Efron, Rob Riggle, Taylor Swift, Jenny Slate, Betty White, Nasim Pedrad, Joel Swetow, Michael Beattie, Elmarie Wendel, Dave B. Mitchell",
-      "embedUrl": "https://vimeos.net/embed-e6vclgyri15n.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-e6vclgyri15n.html"
     },
     {
       "titulo": "The Punisher: One Last Kill",
@@ -62,8 +123,7 @@
       "descripcion": "Mientras Frank Castle busca propósito más allá de la venganza, una fuerza inesperada lo arrastra de nuevo a la lucha.",
       "director": "Reinaldo Marcus Green",
       "reparto": "Jon Bernthal, Deborah Ann Woll, Jason R. Moore, Judith Light, Kelli Barrett, Andre Royo, John Douglas Thompson, Colton Hill, Nick Koumalatsos, Addie Bernthal, Mila Jaymes, Eduardo Campirano III",
-      "embedUrl": "https://vimeos.net/embed-w6xsos8sv3h9.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-w6xsos8sv3h9.html"
     },
     {
       "titulo": "El padrino",
@@ -75,8 +135,7 @@
       "descripcion": "Don Vito Corleone, conocido dentro de los círculos del hampa como \"El Padrino\", es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York (Estados Unidos) durante la década de 1940. Don Corleone tiene cuatro hijos: una chica, Connie, y tres varones; Sonny, Michael y Fredo. Cuando Vito reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
       "director": "Francis Ford Coppola",
       "reparto": "Marlon Brando, Al Pacino, James Caan, Robert Duvall, Richard S. Castellano, Diane Keaton, Talia Shire, Gianni Russo, Sterling Hayden, John Marley, Richard Conte, Al Lettieri",
-      "embedUrl": "https://vimeos.net/embed-ry3hotkpqu1b.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-ry3hotkpqu1b.html"
     },
     {
       "titulo": "Red",
@@ -2260,7 +2319,7 @@
       "descripcion": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
       "director": "Michael Tiddes",
       "reparto": "Marlon Wayans, Shawn Wayans, Anna Faris, Regina Hall, Olivia Rose Keegan, Cameron Scott Roberts, Savannah Lee Nassif, Sydney Park, Gregg Wayans, Benny Zielke, Ruby Snowber, Dave Sheridan",
-      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_Rx-4Q-4Ky1d7i6E2Lbp-bSmjPns24xpWaj4Po_rjN5-Z8mccsOBPASgBLHJWRC7K6gq2QyTur6L2Rid0q5ai9xUaXqS3_5pmg_xFqL1mgFEieXBTPLO7DlG9pqRyP77nibhRkIsLB_phUYU9IpD-HZBs0mLuioKbbyY7EXKXRCecl9hzpDYO92xneeHRIlbbr_AcfbWY9tJWr2nCddBtvvm42vtIb9wPnaJMNclOGlAalrYhiEu2C3T6q-iijqtb8Fr5cAzCMT4tjfSm2GFPsvGmndtBiE4wEOXxFydVnZAunR-ISJ_-ODWOqEiqGZytTlhOhWWhCvP-b87F2sXrP7LM2g7kK7KoYgIv-gdEng07XIiVKe-8P/65c67ffabc510/0cc2c451476826e0c45c29d8da81085544670643963772e7b2540856513a4063/720p/playlist.m3u8"
+      "embedUrl": "https://bysedikamoum.com/e/vi1mpt0d83f1"
     },
     {
       "titulo": "Coco",
@@ -2544,8 +2603,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "El mapa de los anhelos",
@@ -2556,7 +2614,6 @@
       "descripcion": "Greta asegura haber nacido con el propósito de salvar a su hermana Lucy, que padece leucemia, a través de sus células madre. Sin embargo, los acontecimientos toman un giro inesperado y Lucy fallece, dejando a Greta con un profundo vacío existencial. Antes de partir, Lucy crea «El mapa de los anhelos», un juego que desafía a Greta a enfrentar su dolor y descubrir su propio camino. En este viaje, Greta conocerá a Will, un enigmático joven con un pasado que lo atormenta. ¿Podemos amar a alguien sin amarnos a nosotros mismos?",
       "creador": "Isa Sánchez",
       "reparto": "Alícia Falcó, Pablo Álvarez, Georgina Amorós, Laia Marull, Mario de la Rosa, Ramón Barea",
-      "recienAgregado": true,
       "temporadas": [
         {
           "numero": 1,
