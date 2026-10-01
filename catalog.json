@@ -1,6 +1,45 @@
 {
   "movies": [
     {
+      "titulo": "La milla verde",
+      "poster": "https://image.tmdb.org/t/p/w500/aBQiJRxGRrX0mXFMjxyzWYFtEnf.jpg",
+      "rating": "8.5",
+      "anio": 1999,
+      "duracion": "3h 9min",
+      "genero": "Fantasía, Drama, Crimen",
+      "descripcion": "En el sur de los Estados Unidos, en plena Depresión, Paul Edgecomb es un vigilante penitenciario a cargo de la Milla Verde, un pasillo que separa las celdas de los reclusos condenados a la silla eléctrica. Esperando su ejecución está John Coffey, un gigantesco negro acusado de asesinar brutalmente a dos hermanas de nueve años. Tras una personalidad ingenua, Coffey esconde un don sobrenatural prodigioso. A medida que transcurre la historia, Paul Edgecomb aprende que los milagros ocurren... incluso en los lugares más insospechados.",
+      "director": "Frank Darabont",
+      "reparto": "Tom Hanks, David Morse, Bonnie Hunt, Michael Clarke Duncan, James Cromwell, Michael Jeter, Graham Greene, Doug Hutchison, Sam Rockwell, Barry Pepper, Jeffrey DeMunn, Patricia Clarkson",
+      "embedUrl": "https://vimeos.net/embed-2kupxu762wze.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Encanto",
+      "poster": "https://image.tmdb.org/t/p/w500/d0ezQ1Jz0lpNsX1skEmIvqRL7mN.jpg",
+      "rating": "7.6",
+      "anio": 2021,
+      "duracion": "1h 42min",
+      "genero": "Animación, Comedia, Familia, Fantasía",
+      "descripcion": "Los Madrigal son una familia extraordinaria que vive en una casa mágica de un pueblo vibrante en las montañas de Colombia, escondidas en un 'Encanto'. La magia ha bendecido a cada niño de la familia con un don único, desde la superfuerza hasta el poder de sanar. A todos, excepto Mirabel, quien desea ser tan especial como el resto de su familia.  Pero cuando la magia que rodea al Encanto está en peligro, Mirabel decide que ella, la única Madrigal sin ningún tipo de don único, puede ser la única esperanza de su excepcional familia.",
+      "director": "Byron Howard",
+      "reparto": "Stephanie Beatriz, María Cecilia Botero, John Leguizamo, Mauro Castillo, Jess Darrow, Angie Cepeda, Carolina Gaitán, Diane Guerrero, Wilmer Valderrama, Rhenzy Feliz, Ravi Cabot-Conyers, Adassa",
+      "embedUrl": "https://bysedikamoum.com/e/xt81g11crq2v",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Venganza",
+      "poster": "https://image.tmdb.org/t/p/w500/ggJGx8fwwy21gEIXYusIlHcUn8z.jpg",
+      "rating": "7.5",
+      "anio": 2026,
+      "duracion": "1h 43min",
+      "genero": "Acción, Suspense",
+      "descripcion": "Carlos y Miguel son dos soldados de élite de las fuerzas especiales mexicanas y mejores amigos cuyas vidas cambian para siempre cuando Carlos es testigo del brutal asesinato de su esposa por manos de un despiadado asesino. Determinado a buscar justicia, emprende un peligroso viaje de venganza, alimentado por el dolor y armado con una lotería que cambia su vida.",
+      "director": "Rodrigo Valdes",
+      "reparto": "Omar Chaparro, Alejandro Speitzer, Paola Nuñez, Natalia Solián, Luis Alberti, Iazua Larios, Lizeth Selene, Gustavo Sánchez Parra, Vasil Simeonov, Manuel Cruz Vivas, Pablo Cruz, José Salof",
+      "embedUrl": "https://vimeos.net/embed-ofamjf8qpqj8.html",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Los desenredos del amor",
       "poster": "https://image.tmdb.org/t/p/w500/osrlCIHYOlqOJaDh7zAaeaqh1LF.jpg",
       "rating": "8.2",
