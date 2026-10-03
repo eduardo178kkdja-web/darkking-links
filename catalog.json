@@ -1,6 +1,409 @@
 {
   "movies": [
     {
+      "titulo": "Depredador dominante",
+      "poster": "https://image.tmdb.org/t/p/w500/mV7uFS1U8iP0p4CcXZp4znBVpch.jpg",
+      "rating": "6.9",
+      "anio": 2026,
+      "duracion": "1h 36min",
+      "genero": "Acción, Suspense",
+      "descripcion": "Una mujer en duelo se adentra en la naturaleza de Australia para ponerse a prueba y queda atrapada en un juego mortal con un astuto asesino que la considera su presa.",
+      "director": "Baltasar Kormákur",
+      "reparto": "Charlize Theron, Taron Egerton, Eric Bana, Caitlin Stasey, Bessie Holland, Zachary Garred, Matt Whelan, Rob Carlton, Aaron Pedersen, Duncan Fellows, Julia Ohannessian, Niam Hogan",
+      "embedUrl": "https://vimeos.net/embed-1jat4owoqebm.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Sangre asesina",
+      "poster": "https://image.tmdb.org/t/p/w500/16TvbhCP8CfiGEbxcbtQLYWO6WG.jpg",
+      "rating": "8.6",
+      "anio": 2026,
+      "duracion": "2h 8min",
+      "genero": "Acción, Drama, Romance",
+      "descripcion": "A una mujer le espera una bala con su nombre por culpa de su extraño grupo sanguíneo, pero encuentra cobijo en los brazos del asesino al que ama, y juntos luchan por sobrevivir.",
+      "director": "Taweewat Wantha",
+      "reparto": "พิมพ์ชนก ลือวิเศษไพบูลย์, ธนภพ ลีรัตนขจร, ศิวกร อดุลสุทธิกุล, ชาตโยดม หิรัญยัติ, ธีรชัย วิมลชัยฤกษ์, Teerawat Mulvilai, ชูพงษ์ ช่างปรุง, เกศริน เอกธวัชกุล, ชนุดม สุขสถิตย์, Nikorn Saetang, Namo Benedict Rebillet, วิน สกุลแสงประภา",
+      "embedUrl": "https://vimeos.net/embed-7b9qdv5hsvpj.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Tormento",
+      "poster": "https://image.tmdb.org/t/p/w500/9v6DEfjYQpmSuMXatAbQDQ9WgZ6.jpg",
+      "rating": "6.7",
+      "anio": 2025,
+      "duracion": "1h 20min",
+      "genero": "Terror",
+      "descripcion": "Un guardia de seguridad agotado es trasladado a una morgue y, en su primera noche, descubre que las sombras y los silencios esconden un tormento del cual puede no haber vuelta atrás",
+      "director": "Olallo Rubio",
+      "reparto": "Natalia Solián, Hoze Meléndez, Guillermo Nava, Fernando Banda, René Martínez, Juan Clemente Dávila Cueva, Dolores Espinoza, Isabella Arroyo",
+      "embedUrl": "https://vimeos.net/embed-xz5hgxy9gzq7.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Acusada",
+      "poster": "https://image.tmdb.org/t/p/w500/5e98uGz4dafgJQkujLwTBqaAp7G.jpg",
+      "rating": "5.7",
+      "anio": 2026,
+      "duracion": "1h 47min",
+      "genero": "Suspense, Misterio, Drama",
+      "descripcion": "La vida de una ginecóloga se desboca cuando una serie de acusaciones graves ponen en peligro su trabajo y su matrimonio. Mientras tanto, su esposa busca la verdad.",
+      "director": "Anubhuti Kashyap",
+      "reparto": "कोंकणा सेन शर्मा, प्रतिभा रांटा, Aditya Nanda, Mashhoor Amrohi, Monica Mahendru, Sukant Goel, Kallirroi Tziafeta, Keshav Bhardwaj, Christopher Jones, Daniele Secondi, Barbara Blum, Anuj Sachdeva",
+      "embedUrl": "https://vimeos.net/embed-4lq6k7ef67tg.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Psicópata: El Asesino del Conejo Blanco",
+      "poster": "https://image.tmdb.org/t/p/w500/7tIgfsTWuzXKR2kLRUPrLRTbcuo.jpg",
+      "rating": "7.1",
+      "anio": 2026,
+      "duracion": "1h 39min",
+      "genero": "Suspense, Terror",
+      "descripcion": "Sigue a un psicópata \"ultraviolento e inteligente\" que desafía a la policía dejando un conejo de papel blanco en cada escena del crimen, conectándolos a todos.",
+      "director": "J. Xavier Velasco",
+      "reparto": "Adriana Llabrés, Hoze Meléndez, Andrés Almeida, Horacio García Rojas, Ruth Jazmín Ramos, Nailea Norvind, Gerardo Trejoluna, Myriam Bravo, Ana Rivero, Andrés Delgado, Sara Juárez, Aaron Aguilar",
+      "embedUrl": "https://vimeos.net/embed-r79u10398e8e.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "BTS: el regreso",
+      "poster": "https://image.tmdb.org/t/p/w500/9IRXB8YV0Fn9Yu6Izx7vGjlSrKw.jpg",
+      "rating": "",
+      "anio": 2026,
+      "duracion": "1h 33min",
+      "genero": "Documental, Música",
+      "descripcion": "¡Han vuelto! En este documental que sigue al grupo en su nueva etapa, BTS se reúne en Los Ángeles para grabar su álbum 'ARIRANG'.",
+      "director": "Bao Nguyen",
+      "reparto": "알엠, 진, 슈가, 제이홉, 지민, 뷔, 정국",
+      "embedUrl": "https://vimeos.net/embed-4egr5nnv67fq.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Llamada perdida",
+      "poster": "https://image.tmdb.org/t/p/w500/31FCVfcjrStD5CwhVd1Q2e6qDAP.jpg",
+      "rating": "5.4",
+      "anio": 2008,
+      "duracion": "1h 26min",
+      "genero": "Terror, Misterio, Suspense",
+      "descripcion": "Una joven estudiante ve cómo sus amigos comienzan a recibir mensajes en el movil que les muestran su futura y próxima muerte. Cuando ella recibe un mensaje, tendrá tres días para escapar de su propia muerte, con la ayuda de un detective.",
+      "director": "Eric Valette",
+      "reparto": "Shannyn Sossamon, Edward Burns, Ana Claudia Talancón, Ray Wise, Azura Skye, Johnny Lewis, Meagan Good, Jason Beghe, Rhoda Griffis, Ariel Winter, Margaret Cho, Dawn Dininger",
+      "embedUrl": "https://vimeos.net/embed-2h9m2ym7j7yo.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "La huérfana",
+      "poster": "https://image.tmdb.org/t/p/w500/3NSeL6kdni2lIxkLGmNcGWuixar.jpg",
+      "rating": "7.0",
+      "anio": 2009,
+      "duracion": "2h 3min",
+      "genero": "Terror, Suspense",
+      "descripcion": "Cuando Kate y John Coleman pierden al bebé que estaban esperando, todo se derrumba a su alrededor. Su matrimonio se tambalea y la mente de Kate se llena de pesadillas, miedos y temores. Para intentar recuperar la normalidad, la pareja se dirige a un orfanato local con la intención de adoptar a un niño. Allí se sienten enigmáticamente atraídos por una niña de rostro angelical llamada Esther. Pero las cosas se tuercen tras la llegada de la muchacha a la casa de los Coleman, donde empiezan a ocurrir cosas extrañas. Cuando Kate empieza a darse cuenta de que Esther esconde un terrible secreto, intentará descubrir qué es, pero quizá sea demasiado tarde...",
+      "director": "Jaume Collet Serra",
+      "reparto": "Vera Farmiga, Peter Sarsgaard, Isabelle Fuhrman, CCH Pounder, Jimmy Bennett, Margo Martindale, Karel Roden, Aryana Engineer, Rosemary Dunsmore, Jamie Young, Lorry Ayers, Brendan Wall",
+      "embedUrl": "https://vimeos.net/embed-dan3kn3swuvv.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Hasta el final",
+      "poster": "https://image.tmdb.org/t/p/w500/vaedoBmTuQ3zutjUxDvd2YpsHyQ.jpg",
+      "rating": "7.2",
+      "anio": 2026,
+      "duracion": "1h 42min",
+      "genero": "Acción, Drama",
+      "descripcion": "Lo dio todo para ser madre. Cuando su hijo pequeño enferma, Jada hará cuanto sea necesario para encontrar un donante y salvarlo, cueste lo que cueste.",
+      "director": "Nawell Madani",
+      "reparto": "Nawell Madani, Guillaume Gouix, Aissatou Diallo Sagna, Majida Ghomari, Nicolas Briançon, David Salles, Manmathan Basky, Steve Tientcheu",
+      "embedUrl": "https://vimeos.net/embed-ibulxtdx7cpj.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Pequeño pero matón",
+      "poster": "https://image.tmdb.org/t/p/w500/k1R2gKOAIwOGpNRNBbRszTEAKYU.jpg",
+      "rating": "5.9",
+      "anio": 2006,
+      "duracion": "1h 38min",
+      "genero": "Comedia, Crimen",
+      "descripcion": "Tras salir de prisión, el enano criminal Calvin Sims se une a su hermano Percy, el imbécil, para robar un enorme y costoso diamante de una joyería para el mafioso Walken. La policía los persigue, y Calvin esconde la piedra en el bolso de la ejecutiva Vanessa Edwards, cuyo esposo, Darryl Edwards, desea tener un hijo. Percy convence a Calvin de que se vista como un bebé y lo dejen frente a la casa de los Edwards para entrar y recuperar el diamante. Darryl y Vanessa se quedan con Calvin durante el fin de semana y deciden adoptarlo, mientras Walken amenaza a Darryl para recuperar la piedra.",
+      "director": "Keenen Ivory Wayans",
+      "reparto": "Marlon Wayans, Shawn Wayans, Kerry Washington, John Witherspoon, Tracy Morgan, Lochlyn Munro, Rob Schneider, David Alan Grier, Dave Sheridan, Anthony Harrison, Molly Shannon, Brittany Daniel",
+      "embedUrl": "https://vimeos.net/embed-ot9gcfleovh1.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Solo en casa 2: Perdido en Nueva York",
+      "poster": "https://image.tmdb.org/t/p/w500/7sdiRUyc0ANHJptPhsgb1KL6hoq.jpg",
+      "rating": "6.8",
+      "anio": 1992,
+      "duracion": "2h 0min",
+      "genero": "Comedia, Familia, Aventura",
+      "descripcion": "En plenas fiestas navideñas, el pequeño Kevin y su familia están a punto de coger un avión para disfrutar de unas pequeñas vacaciones, pero Kevin se equivoca y embarca en un avión que lo lleva a Nueva York, donde vuelve a encontrarse solo y desprotegido.",
+      "director": "Chris Columbus",
+      "reparto": "Macaulay Culkin, Joe Pesci, Daniel Stern, Catherine O'Hara, John Heard, Brenda Fricker, Tim Curry, Devin Ratray, Gerry Bamman, Rob Schneider, Michael C. Maronna, Terrie Snell",
+      "embedUrl": "https://vimeos.net/embed-v09nm1ozudg6.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Solo en casa",
+      "poster": "https://image.tmdb.org/t/p/w500/rjc2a9N5pro1xGsSvvnJ1JDXRGm.jpg",
+      "rating": "7.5",
+      "anio": 1990,
+      "duracion": "1h 42min",
+      "genero": "Comedia, Familia",
+      "descripcion": "Kevin McAllister es un niño de ocho años, miembro de una familia numerosa, que accidentalmente se queda abandonado en su casa cuando toda la familia se marcha a pasar las vacaciones a Francia. Kevin aprende a valerse por sí mismo e incluso a protegerse de Harry y Marv, dos bribones que se proponen asaltar todas las casas cerradas de su vecindario. Cuando su madre Kate lo hecha en falta, realiza un pintoresco viaje de vuelta contra reloj a Chicago para recuperar a su hijo.",
+      "director": "Chris Columbus",
+      "reparto": "Macaulay Culkin, Joe Pesci, Daniel Stern, John Heard, Roberts Blossom, Catherine O'Hara, Angela Goethals, Devin Ratray, Gerry Bamman, Hillary Wolf, John Candy, Larry Hankin",
+      "embedUrl": "https://vimeos.net/embed-t7yp5r7f9uvy.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Simpsley",
+      "poster": "https://image.tmdb.org/t/p/w500/e0ienqvJZUPbVH7ym0ShQOwhb5z.jpg",
+      "rating": "8.1",
+      "anio": 2026,
+      "duracion": "22min",
+      "genero": "Animación, Comedia, Crimen",
+      "descripcion": "Cuando Marge Bouvier, una estafadora sin un céntimo, es enviada a Italia para convencer al rico incauto Seymour Skinner de que vuelva a casa, se ve tentada por las apariencias de su lujoso estilo de vida. Pero hay un gran inconveniente: Homer Simpsley, el huésped de Skinner, un parásito pegajoso y poco inteligente. Mentiras, lujuria y liras italianas abundan en este 'Simpsons noir",
+      "director": "Debbie Bruce Mahan",
+      "reparto": "Dan Castellaneta, Julie Kavner, Nancy Cartwright, Yeardley Smith, Hank Azaria, Harry Shearer, Tress MacNeille, Alex Désert, Maggie Roswell",
+      "embedUrl": "https://vimeos.net/embed-vuizkuloy8aw.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Los Simpson en Plusniversario",
+      "poster": "https://image.tmdb.org/t/p/w500/y48Hg3jyL0TljAlRdSa0AX2PbcQ.jpg",
+      "rating": "6.4",
+      "anio": 2021,
+      "duracion": "4min",
+      "genero": "Animación, Comedia, Fantasía",
+      "descripcion": "Los Simpson organizan una fiesta de Disney + Day y todos están en la lista ... excepto Homer. Con amigos de todo el servicio y música digna de una princesa de Disney, Plusaversary es el evento del año de Springfield.",
+      "director": "David Silverman",
+      "reparto": "Dan Castellaneta, Nancy Cartwright, Yeardley Smith, Hank Azaria, Tress MacNeille",
+      "embedUrl": "https://vimeos.net/embed-g6hw1r7a27rn.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Historias corrientes: La película",
+      "poster": "https://image.tmdb.org/t/p/w500/7eWLv7mxAKnFPqbtPOJy6iHb2Bx.jpg",
+      "rating": "7.9",
+      "anio": 2015,
+      "duracion": "1h 8min",
+      "genero": "Animación, Comedia, Ciencia ficción, Aventura",
+      "descripcion": "Mordecai y Rigby viajan al pasado para detener un experimento fallido de su época escolar que amenaza con destruir el tejido del tiempo. Junto a sus compañeros del parque, deben enfrentar a un antiguo profesor vengativo y salvar el universo. En el proceso, su amistad se pone a prueba al revelarse un secreto que cambió sus vidas para siempre.",
+      "director": "J.G. Quintel",
+      "reparto": "J.G. Quintel, William Salyers, Sam Marin, Mark Hamill, Minty Lewis, Jason Mantzoukas, David Koechner, Roger Craig Smith, Ali Hillis, Kurtwood Smith, Eddie Pepitone, Paul F. Tompkins",
+      "embedUrl": "https://vimeos.net/embed-i4gwa6gt3tw9.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Minions y sus amigos: Volumen 2",
+      "poster": "https://image.tmdb.org/t/p/w500/iSIdTy2WzpS6Ojh8miyIZ3WTq.jpg",
+      "rating": "7.4",
+      "anio": 2022,
+      "duracion": "0h 54min",
+      "genero": "Comedia, Familia, Animación",
+      "descripcion": "Esta colección de 11 cortometrajes producida por Illumination incluye: De la franquicia \"Gru: Mi Villano Favorito\": Mower Minions (2016); Yellow Is the New Black (2018); Competition (2015); Cro Minion (2015); Binky Nelson Unpacified (2015); Panic in the Mailroom (2013). De la franquicia \"Secret Life of Pets\": Super Gidget (2019). De la franquicia \"Sing\": Eddie's Life Coach (2017); Gunter Babysits (2017). De la franquicia \"Lorax\": Serenade (2012); Wagon Ho! (2012).",
+      "director": "Bruno Chauffard",
+      "reparto": "Reese Witherspoon, Nick Kroll, Nick Offerman, Oscar Jennings, Leo Jennings, Caspar Jennings, Asa Jennings, Pierre Coffin, Jody Gelb, Dave Rosenbaum, Eric Osmond, Chris Renaud",
+      "embedUrl": "https://vimeos.net/embed-tqbm2708rdz3.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Mickey descubre la Navidad",
+      "poster": "https://image.tmdb.org/t/p/w500/54KDm2yE3YcHtNoLTPL2ceZcTsP.jpg",
+      "rating": "7.1",
+      "anio": 1999,
+      "duracion": "1h 8min",
+      "genero": "Animación, Familia, Comedia",
+      "descripcion": "La estrella más conocida de Disney brilla en una fascinante y mágica película que seguramente pasará a convertirse en un nuevo clásico. Mickey, Minnie y sus famosos amigos Goofy, Donald, Daisy y Pluto recuerdan juntos las Navidades pasadas en estas tres maravillosas historias. Los famosos sobrinos de Donald: Jorgito, Juanito y Jaimito sueñan con que cada día sea Navidad. Lo desean con tantas fuerzas que su deseo se ve cumplido. A la mañana siguiente vuelve a ser Navidad, pasan los días y sigue siendo Navidad hasta que terminan por aburrirse y empiezan a ver el otro significado que tiene la Navidad, no sólo regalos y juguetes, sino también amor, amistad y cariño. Goofy y Max reviven juntos divertidas historias...",
+      "director": "Alex Mann",
+      "reparto": "Kelsey Grammer, Wayne Allwine, Russi Taylor, Tony Anselmo, Diane Michelle, Tress MacNeille, Alan Young, Bill Farmer, Corey Burton, Shaun Fleming, Jim Cummings, Jeff Bennett",
+      "embedUrl": "https://vimeos.net/embed-zkb3h87hk2q2.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Tom y Jerry: la película",
+      "poster": "https://image.tmdb.org/t/p/w500/7LVlL5My8lftjb3HKJdrxcDE586.jpg",
+      "rating": "6.4",
+      "anio": 1992,
+      "duracion": "1h 20min",
+      "genero": "Animación, Comedia, Familia",
+      "descripcion": "La famosa pareja conoce a Robyn Starling quien tras escaparse de su casa necesita la ayuda de Tom y Jerry para encontrar a su desaparecido padre. A pesar de sus esfuerzos heróicos, Tom y Jerry son capturados por la malvada tía de Robyn, Tía Gordis, y su abogado Lambis y encarcelados en una cárcel de animales por el perverso doctor Caradulce Cachetín. Tom y Jerry planean una fuga genial y liberan a sus nuevos amigos Puggsy y Frankie la Pulga. (FILMAFFINITY)",
+      "director": "Phil Roman",
+      "reparto": "Richard Kind, Dana Hill, Anndi McAfee, Tony Jay, Rip Taylor, Henry Gibson, Michael Bell, Ed Gilbert, David L. Lander, Howard Morris, Sydney Lassick, Raymond McLeod",
+      "embedUrl": "https://vimeos.net/embed-pkh82ydqachn.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El alucinante mundo de Norman",
+      "poster": "https://image.tmdb.org/t/p/w500/bezAm2iDqShEumdYsGqAjT0CCXE.jpg",
+      "rating": "7.1",
+      "anio": 2012,
+      "duracion": "1h 32min",
+      "genero": "Familia, Animación, Aventura, Comedia",
+      "descripcion": "Los aterrorizados habitantes de un pueblo asediado por zombis solo pueden pedir ayuda al incomprendido Norman, un joven que sabe hablar con los muertos. Además de plantar cara a los muertos vivientes, tendrá que enfrentarse a fantasmas, brujas y, lo que es peor, a adultos de lo más atontados para salvar a su pueblo de una maldición milenaria.",
+      "director": "Sam Fell",
+      "reparto": "Kodi Smit-McPhee, Tucker Albrizzi, Anna Kendrick, Casey Affleck, Christopher Mintz-Plasse, Leslie Mann, Jeff Garlin, Elaine Stritch, Bernard Hill, Jodelle Ferland, Tempestt Bledsoe, Alex Borstein",
+      "embedUrl": "https://vimeos.net/embed-gt040hkpm8b5.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Turbo",
+      "poster": "https://image.tmdb.org/t/p/w500/lDARMqluCrWaFgybY9KHLY96L3n.jpg",
+      "rating": "6.3",
+      "anio": 2013,
+      "duracion": "1h 35min",
+      "genero": "Animación, Familia",
+      "descripcion": "Turbo es un caracol de jardín con un sueño imposible: convertirse en el caracol más rápido del mundo. Cuando un extraño accidente le da el poder de la súper-velocidad, Turbo intentará cumplir su sueño. Primero se hará amigo de una peculiar pandilla de caracoles callejeros tuneados y obsesionados con la velocidad, y allí Turbo aprenderá que nadie llega a tener éxito por sí solo. Así que coloca su corazón y su concha en la línea de salida dispuesto a ayudar a sus colegas a lograr sus sueños, antes de intentar alcanzar su sueño imposible: ganar las 500 millas de Indianápolis.",
+      "director": "David Soren",
+      "reparto": "Ryan Reynolds, Paul Giamatti, Michael Peña, Samuel L. Jackson, Luis Guzmán, Bill Hader, Snoop Dogg, Maya Rudolph, Ben Schwartz, Richard Jenkins, Ken Jeong, Michelle Rodríguez",
+      "embedUrl": "https://vimeos.net/embed-r7ynbr2vzlu1.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Alvin y las ardillas: Fiesta sobre ruedas",
+      "poster": "https://image.tmdb.org/t/p/w500/isz4uh337srL6PIYiKXTS5Htssq.jpg",
+      "rating": "6.0",
+      "anio": 2015,
+      "duracion": "1h 26min",
+      "genero": "Familia, Comedia, Aventura, Animación",
+      "descripcion": "Tras una serie de malentendidos Alvin, Simon y Theodore piensan que Dave se va a declarar a su nueva novia en Nueva York... y por tanto se olvidará de ellos. Tienen tres días para llegar e intentar romper el \"compromiso\" y salvarse así de la pérdida de Dave.",
+      "director": "Walt Becker",
+      "reparto": "Jason Lee, Justin Long, Matthew Gray Gubler, Jesse McCartney, Kimberly Williams-Paisley, Josh Green, Tony Hale, Bella Thorne, Eddie Steeples, Christina Applegate, Kaley Cuoco, Anna Faris",
+      "embedUrl": "https://vimeos.net/embed-m19oa4e9d9ax.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Emoji: La película",
+      "poster": "https://image.tmdb.org/t/p/w500/3Gsc5NFpeT22l43sEHd7rVZSbXK.jpg",
+      "rating": "5.4",
+      "anio": 2017,
+      "duracion": "1h 30min",
+      "genero": "Animación, Familia, Comedia",
+      "descripcion": "Los protagonistas habitarán la misteriosa tierra de Textopolis, donde todos los emojis favoritos de la gente cobran vida, mientras esperan ser seleccionados por el usuario del teléfono. Todos los personajes tienen una sola expresión facial a excepción de Gen, un emoji que nació sin filtro y se llena de múltiples expresiones. Para lograr ser normal, Gen se embarcará en una aventura o “app-ventura”, junto a sus amigos Hi-5 y Jailbreak. Pero pronto, una gran amenaza hará que el destino de estos personajes dependa de los tres amigos, teniendo que salvar su mundo antes que sea borrado por completo.",
+      "director": "Tony Leondis",
+      "reparto": "T.J. Miller, James Corden, Anna Faris, Maya Rudolph, Steven Wright, Jennifer Coolidge, Jake T. Austin, Christina Aguilera, Sofía Vergara, Patrick Stewart, Rob Riggle, Sean Hayes",
+      "embedUrl": "https://vimeos.net/embed-p90ybvb1q2p7.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Trolls 2: Gira mundial",
+      "poster": "https://image.tmdb.org/t/p/w500/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg",
+      "rating": "7.2",
+      "anio": 2020,
+      "duracion": "1h 31min",
+      "genero": "Familia, Animación, Comedia, Fantasía, Aventura, Música",
+      "descripcion": "En una aventura que les llevará más allá de todo lo que habían conocido, Poppy y Branch descubren que su tribu de Trolls es solo una de las seis que existen, que el resto están repartidas en seis reinos y consagradas a seis tipos distintos de música: funk, country, tecno, clásica, pop y rock. La reina Bárbara, miembro de la realeza del hard rock, y su padre, el Rey Metal, quieren acabar con el resto de géneros musicales e imponer el reinado del rock. Con el destino del mundo en juego, Poppy y Branch, junto con el resto de la pandilla — Grandullón, Chanelle, Satén, Cooper y Guy Diamante—, visitarán los demás reinos para unir a los Trolls contra los planes de Barb de eclipsarlos a todos.",
+      "director": "Walt Dohrn",
+      "reparto": "Anna Kendrick, Justin Timberlake, Ron Funches, Rachel Bloom, James Corden, Kelly Clarkson, Anderson .Paak, Sam Rockwell, George Clinton, Mary J. Blige, Kenan Thompson, Kunal Nayyar",
+      "embedUrl": "https://vimeos.net/embed-whyqk1jytz1h.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Trolls",
+      "poster": "https://image.tmdb.org/t/p/w500/grCBNLzAGbRrGMzF4eTM9EXwP78.jpg",
+      "rating": "6.6",
+      "anio": 2016,
+      "duracion": "1h 35min",
+      "genero": "Aventura, Animación, Comedia, Familia, Fantasía",
+      "descripcion": "Conocidos por sus pelos de colores, locos y mágicos, los Trolls son las criaturas más felices y alegres que irrumpen en el mundo de la canción. Pero su mundo de arco iris y cupcakes cambiará para siempre cuando su líder Poppy debe embarcarse en una misión de rescate que la llevará muy lejos del único mundo que siempre ha conocido.",
+      "director": "Mike Mitchell",
+      "reparto": "Anna Kendrick, Justin Timberlake, Zooey Deschanel, Christopher Mintz-Plasse, Christine Baranski, Russell Brand, James Corden, Jeffrey Tambor, Ron Funches, Aino Jawo, Caroline Hjelt, Kunal Nayyar",
+      "embedUrl": "https://vimeos.net/embed-i4pwtx4zj09a.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El Grinch",
+      "poster": "https://image.tmdb.org/t/p/w500/o3b6DOiePNlNOiqLCzCvqvDvHpL.jpg",
+      "rating": "6.9",
+      "anio": 2018,
+      "duracion": "1h 30min",
+      "genero": "Animación, Comedia, Familia, Fantasía",
+      "descripcion": "El Grinch, la película de animación basada en el popular clásico navideño del Dr. Seuss, cuenta la historia de un cínico cascarrabias que se propone robar la Navidad hasta que el desbordante espíritu navideño de una niña le hace cambiar de opinión. Divertida, enternecedora y visualmente impactante, se trata de una historia universal sobre el indómito poder del optimismo.",
+      "director": "Yarrow Cheney",
+      "reparto": "Benedict Cumberbatch, Rashida Jones, Kenan Thompson, Cameron Seely, Angela Lansbury, Pharrell Williams, Ramone Hamilton, Sam Lavagnino, Scarlett Estevez, Michael Beattie, Scott Mosier, Lori Alan",
+      "embedUrl": "https://vimeos.net/embed-d18iqnwf71u8.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Ratatouille",
+      "poster": "https://image.tmdb.org/t/p/w500/nGUelOVetiRpY2wTBMHTbrTIGYC.jpg",
+      "rating": "7.8",
+      "anio": 2007,
+      "duracion": "1h 51min",
+      "genero": "Animación, Comedia, Familia, Fantasía",
+      "descripcion": "Remy es una simpática rata que sueña con convertirse en un gran chef francés a pesar de la oposición de su familia y del problema evidente que supone ser una rata en una profesión que detesta a los roedores. El destino lleva entonces a Remy a las alcantarillas de París, pero su situación no podría ser mejor, ya que se encuentra justo debajo de un restaurante que se ha hecho famoso gracias a Auguste Gusteau, una estrella de la cuisine. A pesar del peligro que representa ser un visitante poco común (y desde luego nada deseado) en los fogones de un exquisito restaurante francés, la pasión de Remy por la cocina pone patas arriba el mundo culinario parisino en una trepidante y emocionante aventura.",
+      "director": "Brad Bird",
+      "reparto": "Patton Oswalt, Lou Romano, Ian Holm, Brian Dennehy, Peter Sohn, Peter O'Toole, Brad Garrett, Janeane Garofalo, Will Arnett, Julius Callahan, James Remar, John Ratzenberger",
+      "embedUrl": "https://vimeos.net/embed-gibb3mti43dd.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "La novia cadáver",
+      "poster": "https://image.tmdb.org/t/p/w500/3ALM0VeZjGUryAqWo6pqohzbLDh.jpg",
+      "rating": "7.6",
+      "anio": 2005,
+      "duracion": "1h 17min",
+      "genero": "Romance, Fantasía, Animación",
+      "descripcion": "Ambientada en un pueblecito europeo en el siglo XIX, esta película de animación fotograma a fotograma cuenta la historia de Victor, un joven que es llevado de repente al infierno, donde se casa con una misteriosa Novia Cadáver, mientras que su verdadera novia, Victoria espera en el mundo de los vivos. A pesar de que la tierra de los muertos resulta ser más colorista que su estricta educación victoriana, Victor aprende que no hay nada en este mundo, ni en el siguiente, que pueda separarle de su único y verdadero amor.",
+      "director": "Tim Burton",
+      "reparto": "Johnny Depp, Helena Bonham Carter, Emily Watson, Tracey Ullman, Paul Whitehouse, Joanna Lumley, Albert Finney, Richard E. Grant, Christopher Lee, Michael Gough, Jane Horrocks, Enn Reitel",
+      "embedUrl": "https://vimeos.net/embed-m3fs84aylfk7.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El reino de los cielos",
+      "poster": "https://image.tmdb.org/t/p/w500/pIrjgBmZYnwKvx4WoTkhyhKSHTp.jpg",
+      "rating": "7.1",
+      "anio": 2005,
+      "duracion": "2h 24min",
+      "genero": "Drama, Acción, Aventura, Historia, Bélica",
+      "descripcion": "Balián de Ibelín viaja a Jerusalén durante las cruzadas del siglo XII, donde será el defensor de su pueblo.",
+      "director": "Ridley Scott",
+      "reparto": "Orlando Bloom, Eva Green, Jeremy Irons, David Thewlis, غسان مسعود, Liam Neeson, Brendan Gleeson, Marton Csokas, Alexander Siddig, Michael Sheen, Khaled El Nabawy, Nikolaj Coster-Waldau",
+      "embedUrl": "https://vimeos.net/embed-uwhkzsfs96wm.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Mensajes de voz para Isabelle",
+      "poster": "https://image.tmdb.org/t/p/w500/ohIYxdaO7WV1zsSPFZVddWNEWkk.jpg",
+      "rating": "8.3",
+      "anio": 2026,
+      "duracion": "1h 59min",
+      "genero": "Romance, Comedia, Drama",
+      "descripcion": "Una joven deja mensajes de voz bastante explícitos a su difunta hermana, sin saber que los recibe un desconocido que comienza a enamorarse de ella.",
+      "director": "Leah McKendrick",
+      "reparto": "Zoey Deutch, Nick Robinson, Harry Shum Jr., Leah McKendrick, Ciara Bravo, Toby Sandeman, Nick Offerman, Lukas Gage, Megan Danso, Tanis Dolman, Gil Bellows, Alice Comer",
+      "embedUrl": "https://vimeos.net/embed-p6mnzih6umkl.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Escuadrón letal",
+      "poster": "https://image.tmdb.org/t/p/w500/ftBCLqEhDvgKRcux0fk5TriVhMD.jpg",
+      "rating": "8.3",
+      "anio": 2025,
+      "duracion": "2h 22min",
+      "genero": "Acción, Crimen, Drama, Suspense",
+      "descripcion": "Unos astutos y traicioneros ladrones desafian a la Policía Judicial de Macao. La Policía, que se encontraba en una dura batalla, invita de nuevo al experto en rastreo Huang De Zhong, retirado desde hace muchos años, a unir fuerzas con la joven élite del Departamento de Investigación Criminal de la Policía Judicial. Bajo la colisión de las técnicas tradicionales de rastreo y la alta tecnología, la policía y los criminales luchan con ingenio y valentía, y se lanzan a un duelo entre el bien y el mal parecido al juego del gato y el ratón.",
+      "director": "杨子",
+      "reparto": "Jackie Chan, 张子枫, 梁家輝, 此沙, 文俊辉, 周政杰, 王杍逸, 郎月婷, 林秋楠, 王振威, 李哲坤, 黃錦燊",
+      "embedUrl": "https://bysedikamoum.com/e/nsnmkwbxhjms",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Humint",
+      "poster": "https://image.tmdb.org/t/p/w500/3xI81SsZHRKY0ltVKbILbvU3wa4.jpg",
+      "rating": "7.4",
+      "anio": 2026,
+      "duracion": "2h 0min",
+      "genero": "Suspense, Acción, Drama",
+      "descripcion": "Un agente surcoreano investiga una red de narcotráfico en Rusia y debe colaborar con un agente norcoreano, lo cual los lleva correr riesgos y descubrir secretos muy turbios.",
+      "director": "류승완",
+      "reparto": "조인성, 박정민, 박해준, 신세경, Robert Maaser, 정유진, Park Myung-shin, 이신기, 강하경, 이준영, 김의성, 장현성",
+      "embedUrl": "https://bysedikamoum.com/e/6vj1rqliy09z",
+      "recienAgregado": true
+    },
+    {
       "titulo": "La milla verde",
       "poster": "https://image.tmdb.org/t/p/w500/aBQiJRxGRrX0mXFMjxyzWYFtEnf.jpg",
       "rating": "8.5",
@@ -10,8 +413,7 @@
       "descripcion": "En el sur de los Estados Unidos, en plena Depresión, Paul Edgecomb es un vigilante penitenciario a cargo de la Milla Verde, un pasillo que separa las celdas de los reclusos condenados a la silla eléctrica. Esperando su ejecución está John Coffey, un gigantesco negro acusado de asesinar brutalmente a dos hermanas de nueve años. Tras una personalidad ingenua, Coffey esconde un don sobrenatural prodigioso. A medida que transcurre la historia, Paul Edgecomb aprende que los milagros ocurren... incluso en los lugares más insospechados.",
       "director": "Frank Darabont",
       "reparto": "Tom Hanks, David Morse, Bonnie Hunt, Michael Clarke Duncan, James Cromwell, Michael Jeter, Graham Greene, Doug Hutchison, Sam Rockwell, Barry Pepper, Jeffrey DeMunn, Patricia Clarkson",
-      "embedUrl": "https://vimeos.net/embed-2kupxu762wze.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-2kupxu762wze.html"
     },
     {
       "titulo": "Encanto",
@@ -23,8 +425,7 @@
       "descripcion": "Los Madrigal son una familia extraordinaria que vive en una casa mágica de un pueblo vibrante en las montañas de Colombia, escondidas en un 'Encanto'. La magia ha bendecido a cada niño de la familia con un don único, desde la superfuerza hasta el poder de sanar. A todos, excepto Mirabel, quien desea ser tan especial como el resto de su familia.  Pero cuando la magia que rodea al Encanto está en peligro, Mirabel decide que ella, la única Madrigal sin ningún tipo de don único, puede ser la única esperanza de su excepcional familia.",
       "director": "Byron Howard",
       "reparto": "Stephanie Beatriz, María Cecilia Botero, John Leguizamo, Mauro Castillo, Jess Darrow, Angie Cepeda, Carolina Gaitán, Diane Guerrero, Wilmer Valderrama, Rhenzy Feliz, Ravi Cabot-Conyers, Adassa",
-      "embedUrl": "https://bysedikamoum.com/e/xt81g11crq2v",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/xt81g11crq2v"
     },
     {
       "titulo": "Venganza",
@@ -36,8 +437,7 @@
       "descripcion": "Carlos y Miguel son dos soldados de élite de las fuerzas especiales mexicanas y mejores amigos cuyas vidas cambian para siempre cuando Carlos es testigo del brutal asesinato de su esposa por manos de un despiadado asesino. Determinado a buscar justicia, emprende un peligroso viaje de venganza, alimentado por el dolor y armado con una lotería que cambia su vida.",
       "director": "Rodrigo Valdes",
       "reparto": "Omar Chaparro, Alejandro Speitzer, Paola Nuñez, Natalia Solián, Luis Alberti, Iazua Larios, Lizeth Selene, Gustavo Sánchez Parra, Vasil Simeonov, Manuel Cruz Vivas, Pablo Cruz, José Salof",
-      "embedUrl": "https://vimeos.net/embed-ofamjf8qpqj8.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-ofamjf8qpqj8.html"
     },
     {
       "titulo": "Los desenredos del amor",
@@ -49,8 +449,7 @@
       "descripcion": "Una adolescente enamoradiza planea conquistar al rompecorazones del instituto alisando su melena rizada... hasta que un nuevo alumno lo cambia todo.",
       "director": "남궁선",
       "reparto": "신은수, 공명, Cha Woo-min, 윤상현, 강미나, 최규리, 이소이, 손희림, 류승수, 김지영, 홍은희, 조복래",
-      "embedUrl": "https://bysedikamoum.com/e/qrf14mo96u9q",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/qrf14mo96u9q"
     },
     {
       "titulo": "Embestida",
@@ -62,8 +461,7 @@
       "descripcion": "Cuando un catastrófico huracán azota un pueblo costero, el nivel del mar sube rápidamente y sus habitantes deben sobrevivir a un montón de hambrientos tiburones.",
       "director": "Tommy Wirkola",
       "reparto": "Phoebe Dynevor, Whitney Peak, Djimon Hounsou, Alyla Browne, Stacy Clausen, Dante Ubaldi, Matt Nable, Andrew Lees, Sami Afuni, Tyler Coppin, Adam Dunn, Chai Hansen",
-      "embedUrl": "https://bysedikamoum.com/e/suqup9y2yv49",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/suqup9y2yv49"
     },
     {
       "titulo": "Scream 7",
@@ -75,8 +473,7 @@
       "descripcion": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
       "director": "Kevin Williamson",
       "reparto": "Neve Campbell, Courteney Cox, Isabel May, Jasmin Savoy Brown, Mason Gooding, Roger L. Jackson, Anna Camp, Joel McHale, Celeste O'Connor, Sam Rechner, Asa Germann, Mckenna Grace",
-      "embedUrl": "https://bysedikamoum.com/e/uzk57706xk2l",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/uzk57706xk2l"
     },
     {
       "titulo": "El final de Oak Street",
@@ -88,8 +485,7 @@
       "descripcion": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
       "director": "David Robert Mitchell",
       "reparto": "Anne Hathaway, Ewan McGregor, Maisy Stella, Christian Convery, Jordan Alexa Davis, P.J. Byrne, Hudson Meek, Anne Gee Byrd, Emily Kuroda, Simms May, Grayson Thorne Kilpatrick, Pilot Bunch",
-      "embedUrl": "https://bysedikamoum.com/e/gduouk1zxtql",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/gduouk1zxtql"
     },
     {
       "titulo": "Return to Silent Hill",
@@ -101,8 +497,7 @@
       "descripcion": "Impulsado por las sombras de su pasado, James Sunderland regresa a Silent Hill para encontrar a su amor perdido, Mary Crane. Pero el pequeño pueblo oscuro y deprimente ya no es el lugar de sus recuerdos. James se encuentra con personajes que le parecen demasiado familiares y que intentan distraerlo de su búsqueda de Mary. Cuanto más busca a Mary, más comienza a preguntarse si esto sigue siendo la realidad, o si ha caído en el oscuro inframundo de Jacob Crane.",
       "director": "Christophe Gans",
       "reparto": "Jeremy Irvine, Hannah Emily Anderson, Ljiljana Velimirov, Giulia Pelagatti, Evie Templeton, Robert Strange, Pearse Egan, Nicola Alexis, Eve Macklin, Emily Carding, Lara Duru, Karya Duru",
-      "embedUrl": "https://bysedikamoum.com/e/ypg6hlc8oi8q",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/ypg6hlc8oi8q"
     },
     {
       "titulo": "Un canguro superduro",
