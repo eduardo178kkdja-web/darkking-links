@@ -1,6 +1,45 @@
 {
   "movies": [
     {
+      "titulo": "El hombre que desafió al rey",
+      "poster": "https://image.tmdb.org/t/p/w500/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg",
+      "rating": "7.9",
+      "anio": 2026,
+      "duracion": "2h 7min",
+      "genero": "Historia, Drama, Acción",
+      "descripcion": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
+      "director": "Paul Greengrass",
+      "reparto": "Andrew Garfield, Jamie Bell, Stephen Dillane, Woody Norman, Tom Hollander, Cosmo Jarvis, Thomasin McKenzie, Jonny Lee Miller, Katherine Waterston, Stanley Townsend, Sky Yang, Dónal Finn",
+      "embedUrl": "https://bysevepoin.com/e/xdmcswztyez2",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Entrega al límite",
+      "poster": "https://image.tmdb.org/t/p/w500/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+      "rating": "8.3",
+      "anio": 2026,
+      "duracion": "1h 37min",
+      "genero": "Acción, Comedia",
+      "descripcion": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
+      "director": "Scott Waugh",
+      "reparto": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box, Peta Sergeant, Cecilia Toussaint, Geraldine Hakewill, Goran D. Kleut, Scarlett Crabtree, Gyton Grantley, Deirdree Wallace",
+      "embedUrl": "https://bysevepoin.com/e/3t09jm9oxqoz",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Insidious: Fuera del más allá",
+      "poster": "https://image.tmdb.org/t/p/w500/uIMddTcnM9P6PrJiDjsXIeYp902.jpg",
+      "rating": "6.5",
+      "anio": 2026,
+      "duracion": "1h 46min",
+      "genero": "Terror, Suspense",
+      "descripcion": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
+      "director": "Jacob Chase",
+      "reparto": "Amelia Eve, Island Austin, Brandon Perea, Lin Shaye, Maisie Richardson-Sellers, Sam Spruell, Joseph Lopez, Robina Beard, Susan Gray, Laura Gordon, Charli Penton, Zahra Newman",
+      "embedUrl": "https://bysevepoin.com/e/fq5yv285pms6",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Karate Kid",
       "poster": "https://image.tmdb.org/t/p/w500/tHoASPhXRGJM6XFvDooJHIFcP3r.jpg",
       "rating": "6.6",
