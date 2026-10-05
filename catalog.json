@@ -2944,6 +2944,97 @@
   ],
   "series": [
     {
+      "titulo": "Acaramelados",
+      "poster": "https://image.tmdb.org/t/p/w500/5laJkwsXQ6YnOzzfYoTaf4cIMqI.jpg",
+      "rating": "8.8",
+      "anio": 2026,
+      "genero": "Drama, Comedia",
+      "descripcion": "Una fiscal ambiciosa pierde la memoria y acaba conviviendo con un entrenador de boxeo que asegura ser su novio. ¿Puede el amor verdadero nacer de una mentira?",
+      "creador": "김장한, 모지혜",
+      "reparto": "Jung Hae-in, 하영, 허성태, 김영옥, 전배수, 서정연, Jang Hye-jin, 차청화, 김미화, 최유주, 은종건, 오경화",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "La pérdida de memoria",
+              "duracion": "51 min",
+              "embedUrl": "https://vimeos.net/embed-a1gw4qbo8r34.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "¿Puedo confiar en él?",
+              "duracion": "1h 3min",
+              "embedUrl": "https://vimeos.net/embed-iayinu08ljrw.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Una salida inesperada",
+              "duracion": "1h 1min",
+              "embedUrl": "https://vimeos.net/embed-hch0dyrtk6gv.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Regreso a Seúl",
+              "duracion": "59 min",
+              "embedUrl": "https://vimeos.net/embed-jux4j1web4kp.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Un amor que crece",
+              "duracion": "1h 7min",
+              "embedUrl": "https://vimeos.net/embed-5u2agua69v8i.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Rumores en el pueblo",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-0av3la0a4ivv.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "La desaparición de Eun-sae",
+              "duracion": "1h 3min",
+              "embedUrl": "https://vimeos.net/embed-vjwq5ne9gi1u.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "El plan de escape",
+              "duracion": "1h 1min",
+              "embedUrl": "https://vimeos.net/embed-pg935z01yspe.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "La memoria regresa",
+              "duracion": "1h 6min",
+              "embedUrl": "https://vimeos.net/embed-2k5ugzmk6ydh.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "Entre el amor y el trabajo",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-7kdea3o3r30o.html"
+            },
+            {
+              "numero": 11,
+              "nombre": "Una verdad impactante",
+              "duracion": "42 min",
+              "embedUrl": "https://vimeos.net/embed-raph3zsg9ivy.html"
+            },
+            {
+              "numero": 12,
+              "nombre": "Juntos hasta el final",
+              "duracion": "52 min",
+              "embedUrl": "https://vimeos.net/embed-74xxmll7gor5.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
       "titulo": "Monstruo: La historia de Lizzie Borden",
       "poster": "https://image.tmdb.org/t/p/w500/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
       "rating": "7.0",
