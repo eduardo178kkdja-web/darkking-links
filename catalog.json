@@ -1,6 +1,32 @@
 {
   "movies": [
     {
+      "titulo": "Dead Residents Evil",
+      "poster": "https://image.tmdb.org/t/p/w500/yX8ziNTZ5aOszJ3l4R3BlT2gBIa.jpg",
+      "rating": "5.3",
+      "anio": 2026,
+      "duracion": "1h 26min",
+      "genero": "Terror",
+      "descripcion": "Un padre lucha contra un ejercito de no-muertos junto a su hija, gravemente herida, para llegar a la cura antes de que ella se transforme. Si logra llegar al laboratorio con la vacuna a tiempo, cree que su hija estará a salvo. Lamentablemente, el desafío más horrible lo espera en su destino final.",
+      "director": "Ryan Ebert",
+      "reparto": "John Wells, Isabel Ramirez, Thandiwe McMillan, Hamid-Reza Benjamin Thompson, Jarod Brock, Sai Piña, Chase Breithoff, Rob Eubanks, Tevin Paul",
+      "embedUrl": "https://bysevepoin.com/e/limta4hxrjx5",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "No dejes a los niños solos",
+      "poster": "https://image.tmdb.org/t/p/w500/jxg1sLzG0TJRDPSNU6AmR4wR4Ce.jpg",
+      "rating": "7.0",
+      "anio": 2026,
+      "duracion": "1h 37min",
+      "genero": "Terror, Drama, Suspense",
+      "descripcion": "Una madre se muda a una casa nueva con sus dos hijos. Una noche, debe dejar a los hermanos solos en casa. Lo que comienza como un juego despreocupado pronto se convierte en una historia de terror claustrofóbica",
+      "director": "Emilio Portes",
+      "reparto": "Ana Serradilla, Juan Pablo Velasco, Ricardo Galina, Jesús Zavala, José Sefami, Paloma Woolrich, Armando Silva, Ayelen Bonacina",
+      "embedUrl": "https://bysevepoin.com/e/272fjk1b05yo",
+      "recienAgregado": true
+    },
+    {
       "titulo": "El hombre que desafió al rey",
       "poster": "https://image.tmdb.org/t/p/w500/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg",
       "rating": "7.9",
