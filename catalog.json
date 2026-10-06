@@ -1,6 +1,19 @@
 {
   "movies": [
     {
+      "titulo": "La hipótesis del amor",
+      "poster": "https://image.tmdb.org/t/p/w500/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg",
+      "rating": "8.1",
+      "anio": 2026,
+      "duracion": "1h 50min",
+      "genero": "Romance, Comedia",
+      "descripcion": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
+      "director": "Claire Scanlon",
+      "reparto": "Lili Reinhart, Tom Bateman, Rachel Marsh, Jaboukie Young-White, Nicholas Duvernay, Arty Froushan, Jeananne Goossen, Aladeen Tawfeek, Kenny Wong, Daniel Brochu, Alexandra Petrachuk, Howard Bilerman",
+      "embedUrl": "https://bysevepoin.com/e/smxshj16sr5z",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Dead Residents Evil",
       "poster": "https://image.tmdb.org/t/p/w500/yX8ziNTZ5aOszJ3l4R3BlT2gBIa.jpg",
       "rating": "5.3",
