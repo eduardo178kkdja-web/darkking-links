@@ -1,6 +1,71 @@
 {
   "movies": [
     {
+      "titulo": "San Andrés",
+      "poster": "https://image.tmdb.org/t/p/w500/pQaasF8uf1TEeC72KdIP6y1V1xa.jpg",
+      "rating": "6.3",
+      "anio": 2015,
+      "duracion": "1h 54min",
+      "genero": "Acción, Drama, Suspense",
+      "descripcion": "La falla de San Andrés acaba cediendo ante las temibles fuerzas telúricas y desencadena un terremoto de magnitud 9 en California. Ante tal catástrofe, el piloto de helicóptero de búsqueda y rescate Ray y su ex esposa Emma viajan juntos desde Los Ángeles hasta San Francisco para salvar a su única hija, Blake. Pero su tortuoso viaje hacia el norte solamente es el comienzo del desomoronamiento de todo lo que creían firme en su vida.",
+      "director": "Brad Peyton",
+      "reparto": "Dwayne Johnson, Alexandra Daddario, Carla Gugino, Ioan Gruffudd, Archie Panjabi, Paul Giamatti, Hugo Johnstone-Burt, Art Parkinson, Will Yun Lee, Kylie Minogue, Colton Haynes, Todd Williams",
+      "embedUrl": "https://vimeos.net/embed-lvmahvoyx1si.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El bebé jefazo",
+      "poster": "https://image.tmdb.org/t/p/w500/5HYjDVlDjGO9th3ksojOey8oNfv.jpg",
+      "rating": "6.5",
+      "anio": 2017,
+      "duracion": "1h 37min",
+      "genero": "Animación, Comedia, Familia",
+      "descripcion": "La llegada de un hermanito trastoca por completo la idílica vida del pequeño Tim, hasta entonces hijo único de 7 años y el ojito derecho de sus padres. Su nuevo hermano es un peculiar bebé, que viste traje y corbata y lleva maletín. Tim comienza a sospechar de él, hasta que descubre que puede hablar.",
+      "director": "Tom McGrath",
+      "reparto": "Miles Bakshi, Alec Baldwin, Jimmy Kimmel, Lisa Kudrow, Steve Buscemi, Tobey Maguire, James McGrath, Conrad Vernon, ViviAnn Yee, Eric Bell Jr., David Soren, Edie Mirman",
+      "embedUrl": "https://vimeos.net/embed-cx3nzixhyc0j.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Dangerous Animals",
+      "poster": "https://image.tmdb.org/t/p/w500/dztGSM9IL23Be7uGxw0khy8dfE1.jpg",
+      "rating": "6.5",
+      "anio": 2025,
+      "duracion": "1h 38min",
+      "genero": "Terror, Suspense",
+      "descripcion": "Zephyr, una surfista inteligente y de espíritu libre, que es secuestrada por un asesino en serie obsesionado con los tiburones. Cautiva en su barco, debe averiguar cómo escapar antes de que él lleve a cabo un ritual de alimentación a los tiburones.",
+      "director": "Sean Byrne",
+      "reparto": "Hassie Harrison, Jai Courtney, Josh Heuston, Rob Carlton, Ella Newton, Liam Greinke, Ali Basoka, Mike Goldman, Carla Haynes, Dylan Eastland, Jon Quested, James Munn",
+      "embedUrl": "https://bysedikamoum.com/e/14n2oywfu5xx",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "En mar abierto",
+      "poster": "https://image.tmdb.org/t/p/w500/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
+      "rating": "7.4",
+      "anio": 2026,
+      "duracion": "1h 47min",
+      "genero": "Terror, Suspense, Aventura",
+      "descripcion": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
+      "director": "Renny Harlin",
+      "reparto": "Aaron Eckhart, Ben Kingsley, Molly Belle Wright, Angus Sampson, Elijah Tamati, Zhao Simei, 李汶翰, 那尔那茜, Richard Crouchley, Madeleine West, Kate Fitzpatrick, Lakota Johnson",
+      "embedUrl": "https://bysedikamoum.com/e/kney96oaec1l",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Hoppers",
+      "poster": "https://image.tmdb.org/t/p/w500/hJRMZZv1WUKWMYQ73VB8hdFq8tq.jpg",
+      "rating": "8.1",
+      "anio": 2026,
+      "duracion": "1h 44min",
+      "genero": "Aventura, Animación, Comedia, Familia, Ciencia ficción",
+      "descripcion": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
+      "director": "Daniel Chong",
+      "reparto": "Piper Curda, Bobby Moynihan, Jon Hamm, Kathy Najimy, Dave Franco, Eduardo Franco, Aparna Nancherla, Tom Law, Sam Richardson, Melissa Villaseñor, Isiah Whitlock Jr., Steve Purcell",
+      "embedUrl": "https://bysedikamoum.com/e/764yddtc2wsv",
+      "recienAgregado": true
+    },
+    {
       "titulo": "La hipótesis del amor",
       "poster": "https://image.tmdb.org/t/p/w500/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg",
       "rating": "8.1",
@@ -10,8 +75,7 @@
       "descripcion": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
       "director": "Claire Scanlon",
       "reparto": "Lili Reinhart, Tom Bateman, Rachel Marsh, Jaboukie Young-White, Nicholas Duvernay, Arty Froushan, Jeananne Goossen, Aladeen Tawfeek, Kenny Wong, Daniel Brochu, Alexandra Petrachuk, Howard Bilerman",
-      "embedUrl": "https://bysevepoin.com/e/smxshj16sr5z",
-      "recienAgregado": true
+      "embedUrl": "https://bysevepoin.com/e/smxshj16sr5z"
     },
     {
       "titulo": "Dead Residents Evil",
@@ -23,8 +87,7 @@
       "descripcion": "Un padre lucha contra un ejercito de no-muertos junto a su hija, gravemente herida, para llegar a la cura antes de que ella se transforme. Si logra llegar al laboratorio con la vacuna a tiempo, cree que su hija estará a salvo. Lamentablemente, el desafío más horrible lo espera en su destino final.",
       "director": "Ryan Ebert",
       "reparto": "John Wells, Isabel Ramirez, Thandiwe McMillan, Hamid-Reza Benjamin Thompson, Jarod Brock, Sai Piña, Chase Breithoff, Rob Eubanks, Tevin Paul",
-      "embedUrl": "https://bysevepoin.com/e/cmk7lec7aey9",
-      "recienAgregado": true
+      "embedUrl": "https://bysevepoin.com/e/cmk7lec7aey9"
     },
     {
       "titulo": "No dejes a los niños solos",
@@ -36,8 +99,7 @@
       "descripcion": "Una madre se muda a una casa nueva con sus dos hijos. Una noche, debe dejar a los hermanos solos en casa. Lo que comienza como un juego despreocupado pronto se convierte en una historia de terror claustrofóbica",
       "director": "Emilio Portes",
       "reparto": "Ana Serradilla, Juan Pablo Velasco, Ricardo Galina, Jesús Zavala, José Sefami, Paloma Woolrich, Armando Silva, Ayelen Bonacina",
-      "embedUrl": "https://bysevepoin.com/e/tssj69u3aic4",
-      "recienAgregado": true
+      "embedUrl": "https://bysevepoin.com/e/tssj69u3aic4"
     },
     {
       "titulo": "El hombre que desafió al rey",
@@ -49,8 +111,7 @@
       "descripcion": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
       "director": "Paul Greengrass",
       "reparto": "Andrew Garfield, Jamie Bell, Stephen Dillane, Woody Norman, Tom Hollander, Cosmo Jarvis, Thomasin McKenzie, Jonny Lee Miller, Katherine Waterston, Stanley Townsend, Sky Yang, Dónal Finn",
-      "embedUrl": "https://bysevepoin.com/e/xdmcswztyez2",
-      "recienAgregado": true
+      "embedUrl": "https://bysevepoin.com/e/xdmcswztyez2"
     },
     {
       "titulo": "Entrega al límite",
@@ -62,8 +123,7 @@
       "descripcion": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
       "director": "Scott Waugh",
       "reparto": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box, Peta Sergeant, Cecilia Toussaint, Geraldine Hakewill, Goran D. Kleut, Scarlett Crabtree, Gyton Grantley, Deirdree Wallace",
-      "embedUrl": "https://bysevepoin.com/e/3t09jm9oxqoz",
-      "recienAgregado": true
+      "embedUrl": "https://bysevepoin.com/e/3t09jm9oxqoz"
     },
     {
       "titulo": "Insidious: Fuera del más allá",
@@ -75,8 +135,7 @@
       "descripcion": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
       "director": "Jacob Chase",
       "reparto": "Amelia Eve, Island Austin, Brandon Perea, Lin Shaye, Maisie Richardson-Sellers, Sam Spruell, Joseph Lopez, Robina Beard, Susan Gray, Laura Gordon, Charli Penton, Zahra Newman",
-      "embedUrl": "https://bysevepoin.com/e/fq5yv285pms6",
-      "recienAgregado": true
+      "embedUrl": "https://bysevepoin.com/e/fq5yv285pms6"
     },
     {
       "titulo": "Karate Kid",
@@ -88,8 +147,7 @@
       "descripcion": "Dre Parker podría haber sido el más popular en Detroit, pero la carrera profesional de su madre los lleva a ambos a China. Allí logra hacer conexión con su compañera de clase Mei Ying y el sentimiento es mutuo, hasta que las diferencias culturales hacen que su amistad sea imposible. Para que la situación empeore, Dre se consigue un enemigo, el peleonero de la clase, Cheng. Dre no tiene amigos a quién acudir, excepto el encargado de mantenimiento, el Sr. Han.",
       "director": "Harald Zwart",
       "reparto": "Jaden Smith, Jackie Chan, Taraji P. Henson, Wenwen Han, 王振威, 于荣光, Wu Zhensu, 王姬, Tess Liu, Xu Ming, 赵毅, 吕世佳",
-      "embedUrl": "https://vimeos.net/embed-cl8qikpatner.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-cl8qikpatner.html"
     },
     {
       "titulo": "Shelter: El Protector",
@@ -3109,8 +3167,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Monstruo: La historia de Lizzie Borden",
@@ -3121,7 +3178,6 @@
       "descripcion": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
       "creador": "Ian Brennan",
       "reparto": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall, Billie Lourd, Jessica Barden",
-      "recienAgregado": true,
       "temporadas": [
         {
           "numero": 1,
