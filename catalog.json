@@ -1,6 +1,97 @@
 {
   "movies": [
     {
+      "titulo": "El retumbar en la oscuridad",
+      "poster": "https://image.tmdb.org/t/p/w500/gqYOpjuK9c5v4JcBpzTn6w8CZnB.jpg",
+      "rating": "6.3",
+      "anio": 2023,
+      "duracion": "1h 56min",
+      "genero": "Suspense, Acción",
+      "descripcion": "En el oscuro paisaje del Mississippi Delta, un ex peleador debe ganar una última pelea para pagar sus deudas con el jefe local de la mafia y salvar su hogar de infancia, donde las apuestas son nada menos que de vida o muerte",
+      "director": "Parker Phillips",
+      "reparto": "Aaron Eckhart, Bella Thorne, Marianne Jean-Baptiste, Ritchie Coster, Virginia Newcomb, Derek Russo, Mike McColl, Liz Fenning, Joe Hursley, Ritchie Montgomery, Darryl W. Handy, Susan McPhail",
+      "embedUrl": "https://bysedikamoum.com/e/9maopf3i4md3",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Armor",
+      "poster": "https://image.tmdb.org/t/p/w500/hSUmtSJOslBLULMtoYK6XlqfWu7.jpg",
+      "rating": "5.5",
+      "anio": 2024,
+      "duracion": "1h 29min",
+      "genero": "Acción, Crimen, Suspense",
+      "descripcion": "Un padre y un hijo trabajan como guardias de seguridad para una empresa de camiones blindados. Cuando se encuentran con un equipo de posibles ladrones mientras están atrapados en un puente, deben idear un plan para escapar y asegurar su supervivencia.",
+      "director": "Justin Routt",
+      "reparto": "Jason Patric, Sylvester Stallone, Josh Wiggins, Dash Mihok, Blake Shields, Josh Whites, Jeff Chase, Martin Bats Bradford, Erin Ownbey, Justin William Davis, Matthew Rimmer, Joel Cohen",
+      "embedUrl": "https://bysedikamoum.com/e/fialjwhgn85b",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Te van a matar",
+      "poster": "https://image.tmdb.org/t/p/w500/9dEn8a12dqkQw48zxQhPcpQ7D5W.jpg",
+      "rating": "6.9",
+      "anio": 2026,
+      "duracion": "1h 34min",
+      "genero": "Acción, Comedia, Terror, Suspense",
+      "descripcion": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
+      "director": "Кирилл Соколов",
+      "reparto": "Zazie Beetz, Patricia Arquette, Myha'la, Paterson Joseph, Tom Felton, Heather Graham, Willie Ludik, David Viviers, Gabe Gabriel, Виктория Короткова, James Remar, Dorothy Ann Gould",
+      "embedUrl": "https://bysedikamoum.com/e/e5o838z2wspl",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Zeta",
+      "poster": "https://image.tmdb.org/t/p/w500/tEFMZGcmxBDCodbLAqmrjdjCTwm.jpg",
+      "rating": "6.7",
+      "anio": 2026,
+      "duracion": "2h 13min",
+      "genero": "Drama, Suspense",
+      "descripcion": "Cuatro ex-oficiales de inteligencia españoles son asesinados al mismo tiempo en distintas embajadas del mundo. El CNI descubre que todos participaron hace 35 años en la oculta “Operación Ciénaga”, que ocurrió en Colombia y donde un quinto oficial de inteligencia el único que ha escapado de los asesinos estuvo implicado. Encontrarle será el primer objetivo para el CNI, que pone al frente de la misión a su mejor miembro: Zeta.",
+      "director": "Dani de la Torre",
+      "reparto": "Mario Casas, Mariela Garriga, Luis Zahera, Nora Navas, Christian Tappan, Cristina Umaña, Ricardo de Barreiro, Luisa Vides Galiano, David Villamil, Amanda Goldsmith, Juan Sánchez McDonell, Ander Jiménez",
+      "embedUrl": "https://bysedikamoum.com/e/9wknwnkv0ldz",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Frankenweenie",
+      "poster": "https://image.tmdb.org/t/p/w500/4WZaUjHswR2mak767GEXgiWYxeq.jpg",
+      "rating": "7.0",
+      "anio": 2012,
+      "duracion": "1h 27min",
+      "genero": "Animación, Comedia, Familia, Terror, Ciencia ficción",
+      "descripcion": "De la mente del director Tim Burton ('Alicia en el país de las maravillas', 'La leyenda de Sleepy Hollow'), surge 'Frankenweenie', la tierna historia de un chico y su mascota. Cuando el pequeño perro Sparky fallece, Víctor (su amo y amigo) trata de usar diversas técnicas científicas para intentar revivir al animal, y traerlo de vuelta al mundo de los vivos, todo ello mediante algunos ajustes corporales. Aunque el chico intenta que nadie vea a su \"monstruo\", el perro Sparky consigue escapar, los amigos del colegio del niño, sus profesores e incluso todos sus vecinos sabrán que construir una nueva vida puede llegar a ser algo terrible y escalofriante.",
+      "director": "Tim Burton",
+      "reparto": "Charlie Tahan, Catherine O'Hara, Martin Short, Martin Landau, Atticus Shaffer, Winona Ryder, Robert Capron, James Hiroyuki Liao, Conchata Ferrell, Tom Kenny, Frank Welker, Dee Bradley Baker",
+      "embedUrl": "https://bysedikamoum.com/e/nox7zmiar7jl",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El otro lado de la puerta",
+      "poster": "https://image.tmdb.org/t/p/w500/hOZItBnneK6BbzFUlWzqsaIt6xn.jpg",
+      "rating": "5.5",
+      "anio": 2016,
+      "duracion": "1h 36min",
+      "genero": "Terror, Suspense",
+      "descripcion": "Una familia lleva una vida idílica en el extranjero hasta que un trágico accidente se lleva la vida de su hijo pequeño. La inconsolable madre descubre un antiguo ritual que puede traer a su hijo de vuelta para decirle un último adiós. Viaja a un antiguo templo, en el que hay una puerta misteriosa, que sirve de puente entre dos mundos. Sin embargo, cuando desobedece una norma sagrada por la que nunca se debe abrir la puerta, altera el equilibrio entre la vida y la muerte.",
+      "director": "Johannes Roberts",
+      "reparto": "Sarah Wayne Callies, Jeremy Sisto, Sofia Rosinsky, Logan Creran, Jax Malcolm, Suchitra Pillai, Javier Botet, Vijay Gupta, Anup Kumar Sharma, Rahil Gilani, Amarjeet Singh",
+      "embedUrl": "https://bysedikamoum.com/e/qnb1bxgjlcw7",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Alien. Romulus",
+      "poster": "https://image.tmdb.org/t/p/w500/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg",
+      "rating": "7.2",
+      "anio": 2024,
+      "duracion": "1h 59min",
+      "genero": "Terror, Ciencia ficción",
+      "descripcion": "Mientras rebuscan en las profundidades de una estación espacial abandonada, un grupo de jóvenes colonizadores del espacio se encuentra cara a cara con la forma de vida más aterradora del universo. Nueva película de la saga Alien.",
+      "director": "Fede Álvarez",
+      "reparto": "Cailee Spaeny, David Jonsson, Archie Renaux, Isabela Merced, Spike Fearn, Aileen Wu, Rosie Ede, Soma Simon, Bence Okeke, Viktor Orizu, Robert Bobroczkyi, Trevor Newlin",
+      "embedUrl": "https://bysedikamoum.com/e/lrfv8sxirpc8",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Unabomber",
       "poster": "https://image.tmdb.org/t/p/w500/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
       "rating": "6.6",
@@ -192,8 +283,7 @@
       "descripcion": "La falla de San Andrés acaba cediendo ante las temibles fuerzas telúricas y desencadena un terremoto de magnitud 9 en California. Ante tal catástrofe, el piloto de helicóptero de búsqueda y rescate Ray y su ex esposa Emma viajan juntos desde Los Ángeles hasta San Francisco para salvar a su única hija, Blake. Pero su tortuoso viaje hacia el norte solamente es el comienzo del desomoronamiento de todo lo que creían firme en su vida.",
       "director": "Brad Peyton",
       "reparto": "Dwayne Johnson, Alexandra Daddario, Carla Gugino, Ioan Gruffudd, Archie Panjabi, Paul Giamatti, Hugo Johnstone-Burt, Art Parkinson, Will Yun Lee, Kylie Minogue, Colton Haynes, Todd Williams",
-      "embedUrl": "https://vimeos.net/embed-lvmahvoyx1si.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-lvmahvoyx1si.html"
     },
     {
       "titulo": "El bebé jefazo",
@@ -205,8 +295,7 @@
       "descripcion": "La llegada de un hermanito trastoca por completo la idílica vida del pequeño Tim, hasta entonces hijo único de 7 años y el ojito derecho de sus padres. Su nuevo hermano es un peculiar bebé, que viste traje y corbata y lleva maletín. Tim comienza a sospechar de él, hasta que descubre que puede hablar.",
       "director": "Tom McGrath",
       "reparto": "Miles Bakshi, Alec Baldwin, Jimmy Kimmel, Lisa Kudrow, Steve Buscemi, Tobey Maguire, James McGrath, Conrad Vernon, ViviAnn Yee, Eric Bell Jr., David Soren, Edie Mirman",
-      "embedUrl": "https://vimeos.net/embed-cx3nzixhyc0j.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-cx3nzixhyc0j.html"
     },
     {
       "titulo": "Dangerous Animals",
@@ -218,8 +307,7 @@
       "descripcion": "Zephyr, una surfista inteligente y de espíritu libre, que es secuestrada por un asesino en serie obsesionado con los tiburones. Cautiva en su barco, debe averiguar cómo escapar antes de que él lleve a cabo un ritual de alimentación a los tiburones.",
       "director": "Sean Byrne",
       "reparto": "Hassie Harrison, Jai Courtney, Josh Heuston, Rob Carlton, Ella Newton, Liam Greinke, Ali Basoka, Mike Goldman, Carla Haynes, Dylan Eastland, Jon Quested, James Munn",
-      "embedUrl": "https://bysedikamoum.com/e/14n2oywfu5xx",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/14n2oywfu5xx"
     },
     {
       "titulo": "En mar abierto",
@@ -231,8 +319,7 @@
       "descripcion": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
       "director": "Renny Harlin",
       "reparto": "Aaron Eckhart, Ben Kingsley, Molly Belle Wright, Angus Sampson, Elijah Tamati, Zhao Simei, 李汶翰, 那尔那茜, Richard Crouchley, Madeleine West, Kate Fitzpatrick, Lakota Johnson",
-      "embedUrl": "https://bysedikamoum.com/e/kney96oaec1l",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/kney96oaec1l"
     },
     {
       "titulo": "Hoppers",
@@ -244,8 +331,7 @@
       "descripcion": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
       "director": "Daniel Chong",
       "reparto": "Piper Curda, Bobby Moynihan, Jon Hamm, Kathy Najimy, Dave Franco, Eduardo Franco, Aparna Nancherla, Tom Law, Sam Richardson, Melissa Villaseñor, Isiah Whitlock Jr., Steve Purcell",
-      "embedUrl": "https://bysedikamoum.com/e/764yddtc2wsv",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/764yddtc2wsv"
     },
     {
       "titulo": "La hipótesis del amor",
@@ -2945,7 +3031,7 @@
       "descripcion": "Francia, 1942. Gilles es arrestado por soldados de las SS junto con otros judíos y enviado a un campo de concentración en Alemania. Allí consigue evitar la ejecución al jurar a los guardias que no es judío, sino persa. Gracias a esta artimaña, Gilles consigue mantenerse con vida, pero tendrá que enseñar un idioma que no conoce a uno de los oficiales del campo, interesado en aprenderlo. Al tiempo que la relación entre ellos aumenta, las sospechas de los soldados van en incremento.",
       "director": "Вадим Перельман",
       "reparto": "Nahuel Pérez Biscayart, Lars Eidinger, Jonas Nay, Leonie Benesch, Alexander Beyer, David Schütter, Luisa-Céline Gaffron, Andreas Hofer, Giuseppe Schillaci, Antonin Chalon, Lola Bessis, Mehdi Rahim-Silvioli",
-      "embedUrl": "1"
+      "embedUrl": "https://bysevepoin.com/e/ur07tcl2kfwd"
     },
     {
       "titulo": "Susurran tu nombre",
