@@ -1,6 +1,97 @@
 {
   "movies": [
     {
+      "titulo": "Pinocho: Desatado",
+      "poster": "https://image.tmdb.org/t/p/w500/kuPRjis9YN1V9m4ud0hePtREUCo.jpg",
+      "rating": "6.5",
+      "anio": 2026,
+      "duracion": "1h 22min",
+      "genero": "Terror, Fantasía, Misterio",
+      "descripcion": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo para convertirse en un niño de verdad",
+      "director": "Rhys Frake-Waterfield",
+      "reparto": "Jude Evan Lloyd, Cameron Bell, Richard Brake, Jessica Balmer, Jack Art Gray, Robert Englund, Emma Tate, Toni Olabanji, Luca Marandola, Karolina Ugrenyuk, Mya Brown, Scott Chambers",
+      "embedUrl": "https://bysezoxexe.com/e/4uuk49aikpxq",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Destino final: Lazos de sangre",
+      "poster": "https://image.tmdb.org/t/p/w500/frNkbclQpexf3aUzZrnixF3t5Hw.jpg",
+      "rating": "7.0",
+      "anio": 2025,
+      "duracion": "1h 50min",
+      "genero": "Terror, Misterio",
+      "descripcion": "Acosada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie se dirige a casa para localizar a la única persona que podría ser capaz de romper el ciclo y salvar a su familia de la espeluznante muerte que inevitablemente les espera a todos.",
+      "director": "Zach Lipovsky",
+      "reparto": "Kaitlyn Santa Juana, Teo Briones, Rya Kihlstedt, Richard Harmon, Owen Patrick Joyner, Anna Lore, Alex Zahara, April Telek, Tinpo Lee, Tony Todd, Brec Bassinger, Gabrielle Rose",
+      "embedUrl": "https://bysezoxexe.com/e/bls3z17hzn4p",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "La señal del apocalipsis",
+      "poster": "https://image.tmdb.org/t/p/w500/vK9tTyWlVKlBGPTFp1e4WPGMJ7w.jpg",
+      "rating": "6.5",
+      "anio": 2026,
+      "duracion": "1h 46min",
+      "genero": "Acción, Ciencia ficción, Suspense",
+      "descripcion": "En un futuro caótico, Jemma, agente de una unidad especial internacional, sufre visiones inquietantes. Cuando niños desaparecen en todo el mundo, descubre un patrón ligado a una antigua profecía apocalíptica. Con el caos en aumento, deberá descifrar sus visiones para evitar una catástrofe global.",
+      "director": "Łukasz Róg",
+      "reparto": "Andrea Tivadar, Jord Knotter, Jack McEvoy, Elijah Rowen, Małgorzata Klara, Mayu Gralińska Sakai, Jakub Ormaniec, Milena Grzybek, Monika Gieron, Natalia Filak, Noah Culbreth, Aleksandra Bąk",
+      "embedUrl": "https://bysezoxexe.com/e/p7z1i3jo5pzn",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "The Mongoose",
+      "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "rating": "",
+      "anio": 2026,
+      "duracion": "1h 39min",
+      "genero": "Acción, Suspense",
+      "descripcion": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, con la ayuda de sus compañeros de armas y de un público comprensivo que anima su huida.",
+      "director": "Mark Vanselow",
+      "reparto": "Liam Neeson, Marisa Tomei, Ving Rhames, Michael Chiklis, Brett Tucker, Stella Stocker, Hamish Michael, Toby Truslove, Eddie Baroo, Maurice Marvel Meredith, Nicole Chapman, Jack Kenny",
+      "embedUrl": "https://bysezoxexe.com/e/okn2m8773bkb",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Dulce sabor a muerte",
+      "poster": "https://image.tmdb.org/t/p/w500/uVuP2ZTYLn5hdL1aUOe4BiFD6d3.jpg",
+      "rating": "4.8",
+      "anio": 2026,
+      "duracion": "1h 26min",
+      "genero": "Comedia, Terror, Suspense",
+      "descripcion": "Lo que comienza siendo un verano idílico, en un pequeño y tranquilo pueblo vacacional, se convierte en una auténtica pesadilla cuando los más pequeños comienzan a mostrar instintos asesinos y deseos insaciables por acabar con todos los adultos. Son víctimas de una curiosa maldición provocada por los helados que comen que afecta a todos, menos a tres niños que tendrán que intentar escapar y salvar a todo el pueblo.",
+      "director": "Eli Roth",
+      "reparto": "Ari Millen, Charlie Zeltzer, Shiloh O’Reilly, Kiori Mirza Waldman, Sarah Abbott, Benjamin Byron Davis, Karen Cliche, Dylan Hawco, Eli Roth, Lorenzo Antonucci, Luke Dietz, Eli Massillon",
+      "embedUrl": "https://bysezoxexe.com/e/cohdl20yo4l7",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Zip Wire",
+      "poster": "https://image.tmdb.org/t/p/w500/eLMHUOQ4mCMxePMbv0TIVB48zfe.jpg",
+      "rating": "7.7",
+      "anio": 2026,
+      "duracion": "1h 35min",
+      "genero": "Acción, Suspense",
+      "descripcion": "Cuando le roban su revolucionario descubrimiento farmacéutico y asesinan a su compañero, la investigadora Amy debe enfrentarse a su miedo a las alturas para escapar de unos atacantes sin escrúpulos, siendo la única vía de salvación una traicionera pasarela aérea. Para burlar a sus misteriosos perseguidores, tendrá que reunir hasta la última pizca de valor para proteger el descubrimiento científico que cambiará el mundo, y a sí misma, antes de que sea demasiado tarde.",
+      "director": "Howard J. Ford",
+      "reparto": "MyAnna Buring, Joseph Millson, Saffron Burrows, Michael Amariah, Silvia Presente",
+      "embedUrl": "https://bysezoxexe.com/e/ximyomnr5y2s",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "La Boca del Diablo",
+      "poster": "https://image.tmdb.org/t/p/w500/cPsXFr7g39Kjul7Wx8XBpZwkOS4.jpg",
+      "rating": "6.5",
+      "anio": 2026,
+      "duracion": "1h 46min",
+      "genero": "Terror, Suspense",
+      "descripcion": "La aventura de un grupo de amigos universitarios en Tailandia se vuelve mortal cuando quedan atrapados en unas cuevas sumergidas con un peligroso depredador. A medida que el oxígeno se agota, los conflictos del pasado emergen en su desesperada lucha por la supervivencia.",
+      "director": "Jeff Wadlow",
+      "reparto": "Kathryn Newton, Lana Condor, Nico Hiraga, Gavin Casalegno, Tommi Rose, Tayme Thapthimthong, สหจักร บุญธนกิจ, Harrison Luna",
+      "embedUrl": "https://bysezoxexe.com/e/hu06pjw0lv60",
+      "recienAgregado": true
+    },
+    {
       "titulo": "San Andrés",
       "poster": "https://image.tmdb.org/t/p/w500/pQaasF8uf1TEeC72KdIP6y1V1xa.jpg",
       "rating": "6.3",
@@ -2871,7 +2962,7 @@
       "descripcion": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
       "director": "Jean-François Richet",
       "reparto": "Jason Statham, Annabelle Wallis, Roland Møller, Ramon Tikaram, Arnas Fedaravičius, Jason Wong, Adrian Lester, Chaneil Kular, Andrew John Tait, Simon Kluth, Andrei Nova, Donking Rongavilla",
-      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX19cp6B14a9dzxcreRfe9ZmS-bNHceNP3PfFy-1WdFucKKOuKP-m71zKTYzv0Fy4tQM-dazZN5OG77WJfABT3lYHc9EoDjqfDICwzZrDP2tBxBpadBQjgZZKGZSM-0RqLQxXsEcLCYgJeh31-x-A1zFnjjFq4H0DX7gptc5kWlZjgE0h7kL_2dxIoFqSgiZkBlpoksuS2dzoHNnPfWi3hfLXJSh81Tr3XD-hl5u77Uhyvkcd8ggQ-NcKw14aX1jiOo47S5j6JCgnDJSS8TrPB6PFR_HsUYHwDWnnYJzkG1Y8WjRg-It4mxl4lgXRsiB21-bXQACvyE63hoDEEXxXO8KOUCrnA_Kg6MMgZUClaP_r4CWoqHUoNCn0/65c6805b1d2b0/ae90e8c9de294b20044bcd91485a8373b24705e88402c8396644f6146b6b0da8/720p/playlist.m3u8"
+      "embedUrl": "https://bysezoxexe.com/e/k5gy8sej4zly"
     },
     {
       "titulo": "Scary Movie: Terrorificamente Incorrecta",
