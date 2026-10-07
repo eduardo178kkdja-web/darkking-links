@@ -1,6 +1,97 @@
 {
   "movies": [
     {
+      "titulo": "Unabomber",
+      "poster": "https://image.tmdb.org/t/p/w500/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
+      "rating": "6.6",
+      "anio": 2026,
+      "duracion": "1h 41min",
+      "genero": "Suspense, Drama, Crimen",
+      "descripcion": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
+      "director": "Janus Metz",
+      "reparto": "Russell Crowe, Jacob Tremblay, Shailene Woodley, Annabelle Wallis, Alexander Ludwig, Marc Menchaca, Steven Ogg, Mark Camacho, David Webster, Bruce Ramsay, Michelle Leblanc, Gus Halper",
+      "embedUrl": "https://bysezoxexe.com/e/vlpby7nzmerl",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "LEGO Star Wars: The Mandalorian",
+      "poster": "https://image.tmdb.org/t/p/w500/6sUsn029xHGQxO8VAJXfYcHmKB7.jpg",
+      "rating": "6.6",
+      "anio": 2026,
+      "duracion": "0h 50min",
+      "genero": "Animación, Ciencia ficción, Aventura, Familia, Acción",
+      "descripcion": "El Mandaloriano y Grogu se unen a sus aliados para celebrar una fiesta épica en homenaje a su heroísmo. Mientras los amigos entretienen al público con relatos de sus aventuras, se cierne sobre ellos la amenaza de unos piratas.",
+      "director": "Chris Buckley",
+      "reparto": "Gavin Hammon, Amy Sedaris, Bill Burr, David Pasquesi, Katee Sackhoff, Emily Swallow, Giancarlo Esposito, Matthew Wood, Ming-Na Wen, Nick Nolte, Rosario Dawson, Taika Waititi",
+      "embedUrl": "https://gbsagbo.com/e/kC7DCnfwqyd04",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Soulm8te",
+      "poster": "https://image.tmdb.org/t/p/w500/eiBD9XAkH3JfsHEuyF7qMP2LhHD.jpg",
+      "rating": "7.5",
+      "anio": 2026,
+      "duracion": "1h 39min",
+      "genero": "Terror, Ciencia ficción, Suspense",
+      "descripcion": "Un hombre adquiere un androide con Inteligencia Artificial para hacer frente a la pérdida de su esposa recientemente fallecida. En un intento por crear una pareja verdaderamente sensible, sin darse cuenta convierte a un inofensivo robot del amor en un alma gemela mortal.",
+      "director": "Kate Dolan",
+      "reparto": "David Rysdahl, Lily Sullivan, Claudia Doumit, Arty Froushan, Elijah Isaiah Cook, Mara Huf, Sydney Blackburn, Isabelle Bonfrer, Emma Ramos, Oliver Cooper, Nicholas Lane, Hannah Mamalis",
+      "embedUrl": "https://bysezoxexe.com/e/td6j3qhi9d7r",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Jack Ryan. Guerra encubierta",
+      "poster": "https://image.tmdb.org/t/p/w500/dJqv61OB3jsdUEOJTaOGZ64ZLeD.jpg",
+      "rating": "6.9",
+      "anio": 2026,
+      "duracion": "1h 47min",
+      "genero": "Acción, Suspense",
+      "descripcion": "En esta nueva película, Jack Ryan se ve empujado de vuelta al espionaje cuando una misión secreta internacional destapa una conspiración mortal. Contra reloj, se une a Mike November y James Greer, sus aliados de la CIA, y a Emma Marlow, una perspicaz agente del MI6, para enfrentarse a una unidad de operaciones encubiertas en una batalla muy personal y arriesgada.",
+      "director": "Andrew Bernstein",
+      "reparto": "John Krasinski, Wendell Pierce, Sienna Miller, Michael Kelly, Max Beesley, Betty Gabriel, JJ Feild, Douglas Hodge, Dominic Mafham, Alex Brockdorff, Nick Adamson, James Allen",
+      "embedUrl": "https://bysezoxexe.com/e/dkh136o2f62t",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El pasajero nocturno",
+      "poster": "https://image.tmdb.org/t/p/w500/iX8D97TG8gVvHZ8S4clcdpCX7Uv.jpg",
+      "rating": "7.3",
+      "anio": 2026,
+      "duracion": "1h 34min",
+      "genero": "Terror, Suspense",
+      "descripcion": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos y no se detendrá hasta reclamarlos a ambos, convirtiendo su viaje en una auténtica pesadilla.",
+      "director": "André Øvredal",
+      "reparto": "Jacob Scipio, Lou Llobell, Melissa Leo, Joseph Lopez, Miles Fowler, Alan Trong, Devielle Johnson, James William Clark, Tony Doupe, Charles Leggett, June Clemons, Bonni Dichone",
+      "embedUrl": "https://bysezoxexe.com/e/a6tcu899gfol",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Barreda",
+      "poster": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
+      "rating": "7.2",
+      "anio": 2026,
+      "duracion": "1h 45min",
+      "genero": "Drama, Crimen, Historia",
+      "descripcion": "Película basada en uno de los crímenes más impactantes de la historia de Argentina. En 1992, Ricardo Barreda, un dentista de aspecto inofensivo, asesinó brutalmente a su mujer, a su suegra y a sus dos hijas adultas en el domicilio familiar. Presentándose a sí mismo como una víctima, Ricardo Barreda desató una tormenta mediática y avivó un escándalo nacional.",
+      "director": "Daniela Goggi",
+      "reparto": "Luis Machín, Carla Peterson, Mercedes Morán, Maite Lanata, Margarita Páez, Marcelo Subiotto, Paola Barrientos, Alberto Ajaka, Franco Rilla, Christian Font, Federico Formento, Natalia Chiarelli",
+      "embedUrl": "https://bysezoxexe.com/e/a6rd2fvrqz1n",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "La muerte de Robin Hood",
+      "poster": "https://image.tmdb.org/t/p/w500/pC2hVl4J522GcMVc5OghRHSs0tq.jpg",
+      "rating": "6.7",
+      "anio": 2026,
+      "duracion": "2h 3min",
+      "genero": "Aventura, Drama, Acción",
+      "descripcion": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
+      "director": "Michael Sarnoski",
+      "reparto": "Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett, Noah Jupe, Jade Croot, Faith Delaney, Tabitha Smyth, Beau Thompson, Alfie Lawless, Asher de Silva, Elijah Ungvary",
+      "embedUrl": "https://bysezoxexe.com/e/tovjisemyzgc",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Pinocho: Desatado",
       "poster": "https://image.tmdb.org/t/p/w500/kuPRjis9YN1V9m4ud0hePtREUCo.jpg",
       "rating": "6.5",
@@ -3010,7 +3101,7 @@
       "descripcion": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
       "director": "Zach Cregger",
       "reparto": "Austin Abrams, Zach Cherry, Kali Reis, Paul Walter Hauser, Johnno Wilson, Shaun W. Loeser, Zach Cregger, Emily Piggford, Will Merrick, Zoé Bellas, Chris Lew Kum Hoi, Griffin Newman",
-      "embedUrl": "1"
+      "embedUrl": "https://bysevepoin.com/e/o6ucpjuerzid"
     },
     {
       "titulo": "Tú+Yo - Solos contra todos",
@@ -3106,7 +3197,7 @@
       "descripcion": "Un grupo de influencers de redes sociales asiste a la inauguración de un nuevo hotel en una isla tropical, donde encuentran arañas mortales",
       "director": "Christopher Smith",
       "reparto": "Rose Williams, Tim McInnerny, Avani Gregg, Abraham Lewis, Carlotta Banat, Anuschka van Lent, Justin Daniels Anene, Owen Warner, Léna Mahfouf, Andy Nyman, Divian Ladwa",
-      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_WMCKHbZKlDN0_2egZDtH5Rjel1k0jpn5JYu8IJk4ALvF5UqUiIhZ2S7MI5t8ujIXRJoV4qiXDjKJkBvLHP_gdygR7M0tGTez3nBcCYRGDucxHgCSly0_wHca-KKD17eEUBRACa1oTEQB2O_KCBigNu9eMNzvvl1KANnh4jegSxR5tEDku68pbFJVsMr0RpxwaLNfEzg93ms7XDsTvFrXfVIrKRodjvZvqmZBua6SqWzwwqmi8t8-afDRj98DH7yl3CydYmdOnNmh9iIRuO5P7uVfFSS8xH19ZESBmjIva3FT4sWbp2Azjr-tzHFLO3_A5I4l--1NOMEB4YxzVXLtubHupknNR47E/65c68036dbac8/73b83bfe6e88f666e819dbae817e02404449f63821d70a3f8b38b6231fdbc2a8/1080p/playlist.m3u8"
+      "embedUrl": "https://bysezoxexe.com/e/i9od6v3u0emf"
     },
     {
       "titulo": "Dos rubias de pelo en pecho",
