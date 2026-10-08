@@ -1,6 +1,45 @@
 {
   "movies": [
     {
+      "titulo": "Hot Spot",
+      "poster": "https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
+      "rating": "4.5",
+      "anio": 2026,
+      "duracion": "1h 41min",
+      "genero": "Ciencia ficción, Acción, Crimen, Fantasía, Suspense",
+      "descripcion": "A finales del siglo XXI, un investigador y un miembro de una temida secta religiosa se unen tras un asesinato en un campo de refugiados.",
+      "director": "Agnieszka Smoczyńska",
+      "reparto": "Andrzej Konopka, Noomi Rapace, Reika Kirishima, Filippa Kaye, George Aurimas Cris, Νίκη Σερέτη, Έκτορας Λιάτσος, Ράσμη Τσόπελα, Eleni Tzangka, Thanasis Barkas, Stavros Kotas, Sylwia Gola",
+      "embedUrl": "https://bysevepoin.com/e/a0a8vutwjq83",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "La casa en el árbol",
+      "poster": "https://image.tmdb.org/t/p/w500/gogohugn7XWmDoaUewGh0H7ipG9.jpg",
+      "rating": "3.7",
+      "anio": 2025,
+      "duracion": "1h 20min",
+      "genero": "Terror",
+      "descripcion": "Una pareja disfruta de un fin de semana romántico en una casa en un árbol suspendida a más de 20 metros del suelo en un bosque. Por la noche, se despierta sobresaltada y ve a su pareja caer de la cabaña, muriendo al instante.",
+      "director": "Luis Calderón",
+      "reparto": "Sandra Escacena, Claudio Portalo, Kandido Uranga, Mala Rodríguez, Apolonia Lapiedra, Asier Hernández, Inge Ugarte",
+      "embedUrl": "https://bysevepoin.com/e/nrdv4fpzf6r7",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Peaky Blinders: El hombre inmortal",
+      "poster": "https://image.tmdb.org/t/p/w500/l9S8MLUyi2diTc2Gf3KDAOQTuVx.jpg",
+      "rating": "7.2",
+      "anio": 2026,
+      "duracion": "1h 52min",
+      "genero": "Crimen, Drama",
+      "descripcion": "El gánster Tommy Shelby regresa a Birmingham para salvar a su familia y a su país cuando su hijo, del que se ha distanciado, se ve envuelto en un complot nazi.",
+      "director": "Tom Harper",
+      "reparto": "Cillian Murphy, Barry Keoghan, Rebecca Ferguson, Tim Roth, Stephen Graham, Sophie Rundle, Ned Dennehy, Packy Lee, Ian Peck, Jay Lycurgo, Kasper Hilton-Hille, Ruby Ashbourne Serkis",
+      "embedUrl": "https://bysedikamoum.com/e/6tbkxh4zyyp2",
+      "recienAgregado": true
+    },
+    {
       "titulo": "28 años después: El templo de los huesos",
       "poster": "https://image.tmdb.org/t/p/w500/2DTPapravB7kVBWjm6RsqEWyNqn.jpg",
       "rating": "7.1",
@@ -10,8 +49,7 @@
       "descripcion": "El Dr. Kelson (Ralph Fiennes) se ve envuelto en una nueva y sorprendente relación, cuyas consecuencias podrían cambiar el mundo tal y como se conoce. Por otra parte, el encuentro de Spike (Alfie Williams) con el Gran Lord Jimmy Crystal (Jack O'Connell) se convierte en una pesadilla de la que el chico no puede escapar. En este mundo, los infectados ya no son la mayor amenaza para la supervivencia, ya que la inhumanidad de los supervivientes puede ser aún más extraña y aterradora.",
       "director": "Nia DaCosta",
       "reparto": "Ralph Fiennes, Alfie Williams, Jack O'Connell, Erin Kellyman, Chi Lewis-Parry, Connor Newall, Maura Bird, Ghazi Al Ruffai, Robert Rhodes, Emma Laird, Sam Locke, Gareth Locke",
-      "embedUrl": "https://vimeos.net/embed-sx4thm0tdw5n.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-sx4thm0tdw5n.html"
     },
     {
       "titulo": "Hermanito",
@@ -23,8 +61,7 @@
       "descripcion": "La vida perfecta de un tenso agente inmobiliario da un giro radical cuando su adorable y caótico «hermano pequeño» reaparece de repente.",
       "director": "Matt Spicer",
       "reparto": "John Cena, Eric Andre, Michelle Monaghan, Christopher Meloni, Sherry Cola, Ego Nwodim, Caleb Hearon, Bryce Gheisar, Pilot Bunch, Ben Ahlers, Sophia Bunnell, Christina Catechis",
-      "embedUrl": "https://vimeos.net/embed-mtmvoiysrrz7.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-mtmvoiysrrz7.html"
     },
     {
       "titulo": "Mayday",
@@ -36,8 +73,7 @@
       "descripcion": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exagente del KGB.",
       "director": "Jonathan Goldstein",
       "reparto": "Ryan Reynolds, Kenneth Branagh, Marcin Dorociński, Maria Bakalova, David Morse, Clark Johnson, Wendy Crewson, Louis Cancelmi, Josh Hamilton, Alex Mallari Jr., Alden Adair, Lovell Adams-Gray",
-      "embedUrl": "https://vimeos.net/embed-9jznqrxtgrm1.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-9jznqrxtgrm1.html"
     },
     {
       "titulo": "¡La novia!",
@@ -49,8 +85,7 @@
       "descripcion": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Dan vida a una mujer asesinada como la Novia, lo que desencadena un romance, el interés de la policía y un cambio social radical.",
       "director": "Maggie Gyllenhaal",
       "reparto": "Jessie Buckley, Christian Bale, Peter Sarsgaard, John Magaro, Jeannie Berlin, Annette Bening, Jake Gyllenhaal, Penélope Cruz, Zlatko Burić, Louis Cancelmi, Julianne Hough, Matthew Maher",
-      "embedUrl": "https://vimeos.net/embed-f6ts7emsrsy0.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-f6ts7emsrsy0.html"
     },
     {
       "titulo": "Whistle: El silbido del mal",
@@ -62,8 +97,7 @@
       "descripcion": "Un grupo de estudiantes inadaptados encuentra por accidente un objeto maldito: un antiguo silbato de la muerte azteca. Al soplarlo, descubren que el terrorífico sonido que produce invoca a sus propias muertes futuras para perseguirlos. Mientras las víctimas aumentan, los amigos intentan descubrir el origen del artefacto y detener la terrible cadena de sucesos que han provocado.",
       "director": "Corin Hardy",
       "reparto": "Dafne Keen, Sophie Nélisse, Sky Yang, Jhaleil Swaby, Alissa Skovbye, Percy Hynes White, Michelle Fairley, Nick Frost, Mika Amonsen, Stephen Kalyn, Conrad Coates, Lanette Ware",
-      "embedUrl": "https://vimeos.net/embed-y2b4bmk3iqti.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-y2b4bmk3iqti.html"
     },
     {
       "titulo": "Primate",
@@ -75,8 +109,7 @@
       "descripcion": "Lucy, una estudiante universitaria, pasa las vacaciones con sus amigos en la casa de su familia en Hawái, donde vive con su mascota, un chimpancé llamado Ben. Sin embargo, cuando Ben contrae rabia tras ser mordido por un animal rabioso, el grupo debe luchar por su vida para evitar al ahora violento chimpancé.",
       "director": "Johannes Roberts",
       "reparto": "Johnny Sequoyah, Jessica Alexander, Troy Kotsur, Victoria Wyant, Gia Hunter, Benjamin Cheng, Charlie Mann, Tienne Simon, Miguel Hernando Torres Umba, Amina Abdi, Robin Chalk, Joe Abercrombie",
-      "embedUrl": "https://vimeos.net/embed-aqkesuaqlkom.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-aqkesuaqlkom.html"
     },
     {
       "titulo": "El susurro",
@@ -88,8 +121,7 @@
       "descripcion": "Lucía y Adrián huyen de su padre violento a una mansión. Descubren una red de snuff y una maldición familiar.",
       "director": "Gustavo Hernández",
       "reparto": "Ana Clara Guanco, Marcelo Michinaux, Luciano Cáceres, Horacio Camandulle, Rasjid César, Luana Bovino, Gonzalo Durante, Soledad Lacassy, Eytan Lasca, Joro Gorfain, Valentina Maly, Ivan Rezk",
-      "embedUrl": "https://vimeos.net/embed-69ubzeriksdk.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-69ubzeriksdk.html"
     },
     {
       "titulo": "A la cara",
@@ -1073,7 +1105,7 @@
       "descripcion": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
       "director": "James Nunn",
       "reparto": "Scott Adkins, Steven Cree, Hannah Ware, Dolph Lundgren, ケイン・コスギ, Neil Linpow, Ray Fearon, Tom Dunne, Michel Curiel, Tom Leigh, Jack Trueman, Sofian Francis",
-      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_vZaVu8VJHijfJknKK5sIrMS6eqnwTcgvZ1URxQC6iSngafCrW9Ij6aO5hPYhzBQC88ixf67Nq8wvs6cwM21IEq7QHK--6FtY4KymjYD4i-rPtO0DYmrHpAGQG4aoNwQb8KJH_VDUsY1FxBB6iSTlQohb13oOLwofMCtQ7oJ3eR6yJfTE3YOipUTCObXsxhhXkgFfHIr0WpBn-HyaxO3yYh-9X4sP7iXfS3U4BYxmPxz5TsmUmq5B3cIUzeJ4ITFPeb4dMY3uMwYPPwU62ekH-FUtwuPCDTzlBP1N-96OABy1ABYCxHYRx4LQon4df8M7r4T_5RZsFNnjyQmxOswKIY4kTHa62EJI/65c6cc8fbee28/9e93e2edcf7cf3b02f5ada9f159d3579171357cfc076db5709da4a6cbdee5f8d/1080p/playlist.m3u8"
+      "embedUrl": "1"
     },
     {
       "titulo": "Una película de Minecraft",
@@ -2549,7 +2581,7 @@
       "descripcion": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
       "director": "Jon Favreau",
       "reparto": "Pedro Pascal, Jeremy Allen White, Sigourney Weaver, Brendan Wayne, Lateef Crowder, Steve Blum, Jonny Coyne, Matthew Willig, Martin Scorsese, Hemky Madera, Stephen McKinley Henderson, Shirley Henderson",
-      "embedUrl": "https://bysedikamoum.com/e/hp0mx6p34eih"
+      "embedUrl": "https://vimeos.net/embed-8cbjg21b2q9u.html"
     },
     {
       "titulo": "Tom y Jerry: Aventura en el tiempo",
