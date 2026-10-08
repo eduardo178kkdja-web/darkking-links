@@ -3347,6 +3347,211 @@
   ],
   "series": [
     {
+      "titulo": "Tulsa King",
+      "poster": "https://image.tmdb.org/t/p/w500/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
+      "rating": "8.3",
+      "anio": 2022,
+      "genero": "Crimen, Drama, Comedia",
+      "descripcion": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una \"tripulación\" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta.",
+      "creador": "Taylor Sheridan",
+      "reparto": "Sylvester Stallone, Martin Starr, Jay Will, Vincent Piazza, Annabella Sciorra, Chris Caldovino, McKenna Quigley Harrington, Frank Grillo, Michael Walden, James Russo, Kevin Pollak, Neal McDonough",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2023,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Vete al Oeste, Viejo",
+              "duracion": "41 min",
+              "embedUrl": "https://vimeos.net/embed-ett2ljmuq3fe.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "El Centro del Universo",
+              "duracion": "37 min",
+              "embedUrl": "https://vimeos.net/embed-pnszfsmh0gfg.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Capricho",
+              "duracion": "39 min",
+              "embedUrl": "https://vimeos.net/embed-gamqereow4ja.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "La Visita",
+              "duracion": "39 min",
+              "embedUrl": "https://vimeos.net/embed-zbhg2bzypwz5.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Adiós, Joe",
+              "duracion": "36 min",
+              "embedUrl": "https://vimeos.net/embed-5s9qg9wtawrz.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "El Establo",
+              "duracion": "39 min",
+              "embedUrl": "https://vimeos.net/embed-51pm2uovx1t1.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Los Territorios",
+              "duracion": "42 min",
+              "embedUrl": "https://vimeos.net/embed-yyoacqaqynii.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Los Muros",
+              "duracion": "36 min",
+              "embedUrl": "https://vimeos.net/embed-c1l060lkknp9.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Buen Viaje",
+              "duracion": "36 min",
+              "embedUrl": "https://vimeos.net/embed-jt4i3giwe0mu.html"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "anio": 2024,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "De vuelta en la silla",
+              "duracion": "42 min",
+              "embedUrl": "https://vimeos.net/embed-w193nriz7ah3.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Blues de Kansas City",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-j8sr36e60x0r.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Oklahoma contra Manfredi",
+              "duracion": "42 min",
+              "embedUrl": "https://vimeos.net/embed-l0aqe8chyq5h.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Héroes y villanos",
+              "duracion": "44 min",
+              "embedUrl": "https://vimeos.net/embed-6qji8eqoz2vb.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Luchando contra molinos de viento",
+              "duracion": "39 min",
+              "embedUrl": "https://vimeos.net/embed-f6ac9gusu3xw.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Navegador",
+              "duracion": "37 min",
+              "embedUrl": "https://vimeos.net/embed-3s0hkmajaf5u.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Soporte vital",
+              "duracion": "39 min",
+              "embedUrl": "https://vimeos.net/embed-73vcu33s6vy4.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Bajo nueva administración",
+              "duracion": "42 min",
+              "embedUrl": "https://vimeos.net/embed-vtlm7x0fa691.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Tríada",
+              "duracion": "36 min",
+              "embedUrl": "https://vimeos.net/embed-7axj21lfb740.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "Reconstrucción",
+              "duracion": "35 min",
+              "embedUrl": "https://vimeos.net/embed-5mzjy7o7hag5.html"
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "anio": 2025,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Sangre y bourbon",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-223uwpwofuk5.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "El cincuenta",
+              "duracion": "46 min",
+              "embedUrl": "https://vimeos.net/embed-m2hl7labh13l.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "El gánster y el veterano",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-e0vfut9jkkt0.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "De cara al peligro",
+              "duracion": "40 min",
+              "embedUrl": "https://vimeos.net/embed-5nqsomvzbtbb.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "En las rocas",
+              "duracion": "45 min",
+              "embedUrl": "https://vimeos.net/embed-gukuujwz8ozu.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Bubbles",
+              "duracion": "40 min",
+              "embedUrl": "https://vimeos.net/embed-x58gblj440aq.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "El Arte de la Guerra",
+              "duracion": "40 min",
+              "embedUrl": "https://vimeos.net/embed-deht3w4jsfgr.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Nada se Terminó",
+              "duracion": "41 min",
+              "embedUrl": "https://vimeos.net/embed-06x5jnlwvd1g.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Peso muerto",
+              "duracion": "39 min",
+              "embedUrl": "https://vimeos.net/embed-02l7mxyhp58g.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "Jesús Lagarto",
+              "duracion": "37 min",
+              "embedUrl": "https://vimeos.net/embed-iybyof4gce7h.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
       "titulo": "Carrie",
       "poster": "https://image.tmdb.org/t/p/w500/gBgiHQuHFxucfXsuILeudV5tUpx.jpg",
       "rating": "7.8",
