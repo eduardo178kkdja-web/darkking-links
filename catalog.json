@@ -1,6 +1,97 @@
 {
   "movies": [
     {
+      "titulo": "28 años después: El templo de los huesos",
+      "poster": "https://image.tmdb.org/t/p/w500/2DTPapravB7kVBWjm6RsqEWyNqn.jpg",
+      "rating": "7.1",
+      "anio": 2026,
+      "duracion": "1h 49min",
+      "genero": "Terror, Suspense, Ciencia ficción",
+      "descripcion": "El Dr. Kelson (Ralph Fiennes) se ve envuelto en una nueva y sorprendente relación, cuyas consecuencias podrían cambiar el mundo tal y como se conoce. Por otra parte, el encuentro de Spike (Alfie Williams) con el Gran Lord Jimmy Crystal (Jack O'Connell) se convierte en una pesadilla de la que el chico no puede escapar. En este mundo, los infectados ya no son la mayor amenaza para la supervivencia, ya que la inhumanidad de los supervivientes puede ser aún más extraña y aterradora.",
+      "director": "Nia DaCosta",
+      "reparto": "Ralph Fiennes, Alfie Williams, Jack O'Connell, Erin Kellyman, Chi Lewis-Parry, Connor Newall, Maura Bird, Ghazi Al Ruffai, Robert Rhodes, Emma Laird, Sam Locke, Gareth Locke",
+      "embedUrl": "https://vimeos.net/embed-sx4thm0tdw5n.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Hermanito",
+      "poster": "https://image.tmdb.org/t/p/w500/s8mudAYQcHmVoFSamqyv1Ron527.jpg",
+      "rating": "6.4",
+      "anio": 2026,
+      "duracion": "1h 41min",
+      "genero": "Comedia",
+      "descripcion": "La vida perfecta de un tenso agente inmobiliario da un giro radical cuando su adorable y caótico «hermano pequeño» reaparece de repente.",
+      "director": "Matt Spicer",
+      "reparto": "John Cena, Eric Andre, Michelle Monaghan, Christopher Meloni, Sherry Cola, Ego Nwodim, Caleb Hearon, Bryce Gheisar, Pilot Bunch, Ben Ahlers, Sophia Bunnell, Christina Catechis",
+      "embedUrl": "https://vimeos.net/embed-mtmvoiysrrz7.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Mayday",
+      "poster": "https://image.tmdb.org/t/p/w500/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
+      "rating": "8.0",
+      "anio": 2026,
+      "duracion": "1h 51min",
+      "genero": "Acción, Comedia",
+      "descripcion": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exagente del KGB.",
+      "director": "Jonathan Goldstein",
+      "reparto": "Ryan Reynolds, Kenneth Branagh, Marcin Dorociński, Maria Bakalova, David Morse, Clark Johnson, Wendy Crewson, Louis Cancelmi, Josh Hamilton, Alex Mallari Jr., Alden Adair, Lovell Adams-Gray",
+      "embedUrl": "https://vimeos.net/embed-9jznqrxtgrm1.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "¡La novia!",
+      "poster": "https://image.tmdb.org/t/p/w500/4xC5IfnCekweHkTFjqQsMOC1gca.jpg",
+      "rating": "6.1",
+      "anio": 2026,
+      "duracion": "2h 7min",
+      "genero": "Ciencia ficción, Terror, Fantasía",
+      "descripcion": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Dan vida a una mujer asesinada como la Novia, lo que desencadena un romance, el interés de la policía y un cambio social radical.",
+      "director": "Maggie Gyllenhaal",
+      "reparto": "Jessie Buckley, Christian Bale, Peter Sarsgaard, John Magaro, Jeannie Berlin, Annette Bening, Jake Gyllenhaal, Penélope Cruz, Zlatko Burić, Louis Cancelmi, Julianne Hough, Matthew Maher",
+      "embedUrl": "https://vimeos.net/embed-f6ts7emsrsy0.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Whistle: El silbido del mal",
+      "poster": "https://image.tmdb.org/t/p/w500/1gafvXyeC3vB7CatUo1IIx8a421.jpg",
+      "rating": "6.3",
+      "anio": 2026,
+      "duracion": "1h 40min",
+      "genero": "Terror, Misterio",
+      "descripcion": "Un grupo de estudiantes inadaptados encuentra por accidente un objeto maldito: un antiguo silbato de la muerte azteca. Al soplarlo, descubren que el terrorífico sonido que produce invoca a sus propias muertes futuras para perseguirlos. Mientras las víctimas aumentan, los amigos intentan descubrir el origen del artefacto y detener la terrible cadena de sucesos que han provocado.",
+      "director": "Corin Hardy",
+      "reparto": "Dafne Keen, Sophie Nélisse, Sky Yang, Jhaleil Swaby, Alissa Skovbye, Percy Hynes White, Michelle Fairley, Nick Frost, Mika Amonsen, Stephen Kalyn, Conrad Coates, Lanette Ware",
+      "embedUrl": "https://vimeos.net/embed-y2b4bmk3iqti.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Primate",
+      "poster": "https://image.tmdb.org/t/p/w500/qhJDrPqvw8Dopwc11pCkrGgfhy.jpg",
+      "rating": "6.5",
+      "anio": 2026,
+      "duracion": "1h 29min",
+      "genero": "Terror, Suspense",
+      "descripcion": "Lucy, una estudiante universitaria, pasa las vacaciones con sus amigos en la casa de su familia en Hawái, donde vive con su mascota, un chimpancé llamado Ben. Sin embargo, cuando Ben contrae rabia tras ser mordido por un animal rabioso, el grupo debe luchar por su vida para evitar al ahora violento chimpancé.",
+      "director": "Johannes Roberts",
+      "reparto": "Johnny Sequoyah, Jessica Alexander, Troy Kotsur, Victoria Wyant, Gia Hunter, Benjamin Cheng, Charlie Mann, Tienne Simon, Miguel Hernando Torres Umba, Amina Abdi, Robin Chalk, Joe Abercrombie",
+      "embedUrl": "https://vimeos.net/embed-aqkesuaqlkom.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El susurro",
+      "poster": "https://image.tmdb.org/t/p/w500/x1kKY4OvlDGxTvBn5GDyTVCYv6.jpg",
+      "rating": "7.2",
+      "anio": 2026,
+      "duracion": "1h 29min",
+      "genero": "Terror",
+      "descripcion": "Lucía y Adrián huyen de su padre violento a una mansión. Descubren una red de snuff y una maldición familiar.",
+      "director": "Gustavo Hernández",
+      "reparto": "Ana Clara Guanco, Marcelo Michinaux, Luciano Cáceres, Horacio Camandulle, Rasjid César, Luana Bovino, Gonzalo Durante, Soledad Lacassy, Eytan Lasca, Joro Gorfain, Valentina Maly, Ivan Rezk",
+      "embedUrl": "https://vimeos.net/embed-69ubzeriksdk.html",
+      "recienAgregado": true
+    },
+    {
       "titulo": "A la cara",
       "poster": "https://image.tmdb.org/t/p/w500/fzRQIB2FCCevWyBmcjwHVfvDPBl.jpg",
       "rating": "7.0",
@@ -10,8 +101,7 @@
       "descripcion": "Una famosa periodista acude a la casa de uno de sus haters para que le diga a la cara lo que escribió sobre ella en sus redes sociales. Pronto descubren que no son tan diferentes entre sí.",
       "director": "Javier Marco",
       "reparto": "Sonia Almarcha, Manolo Solo, Daniel Pérez Prada, Roberto Álamo, Helena Zumel, Mario Zorrilla, Rulo Pardo, Arantxa Zambrano, Celia Castro, Luis Jaspe, Mara Caballero",
-      "embedUrl": "https://bysevepoin.com/e/ex5a3tyaz4vx",
-      "recienAgregado": true
+      "embedUrl": "https://bysevepoin.com/e/ex5a3tyaz4vx"
     },
     {
       "titulo": "El retumbar en la oscuridad",
@@ -23,8 +113,7 @@
       "descripcion": "En el oscuro paisaje del Mississippi Delta, un ex peleador debe ganar una última pelea para pagar sus deudas con el jefe local de la mafia y salvar su hogar de infancia, donde las apuestas son nada menos que de vida o muerte",
       "director": "Parker Phillips",
       "reparto": "Aaron Eckhart, Bella Thorne, Marianne Jean-Baptiste, Ritchie Coster, Virginia Newcomb, Derek Russo, Mike McColl, Liz Fenning, Joe Hursley, Ritchie Montgomery, Darryl W. Handy, Susan McPhail",
-      "embedUrl": "https://bysedikamoum.com/e/9maopf3i4md3",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/9maopf3i4md3"
     },
     {
       "titulo": "Armor",
@@ -36,8 +125,7 @@
       "descripcion": "Un padre y un hijo trabajan como guardias de seguridad para una empresa de camiones blindados. Cuando se encuentran con un equipo de posibles ladrones mientras están atrapados en un puente, deben idear un plan para escapar y asegurar su supervivencia.",
       "director": "Justin Routt",
       "reparto": "Jason Patric, Sylvester Stallone, Josh Wiggins, Dash Mihok, Blake Shields, Josh Whites, Jeff Chase, Martin Bats Bradford, Erin Ownbey, Justin William Davis, Matthew Rimmer, Joel Cohen",
-      "embedUrl": "https://bysedikamoum.com/e/fialjwhgn85b",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/fialjwhgn85b"
     },
     {
       "titulo": "Te van a matar",
@@ -49,8 +137,7 @@
       "descripcion": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
       "director": "Кирилл Соколов",
       "reparto": "Zazie Beetz, Patricia Arquette, Myha'la, Paterson Joseph, Tom Felton, Heather Graham, Willie Ludik, David Viviers, Gabe Gabriel, Виктория Короткова, James Remar, Dorothy Ann Gould",
-      "embedUrl": "https://bysedikamoum.com/e/e5o838z2wspl",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/e5o838z2wspl"
     },
     {
       "titulo": "Zeta",
@@ -62,8 +149,7 @@
       "descripcion": "Cuatro ex-oficiales de inteligencia españoles son asesinados al mismo tiempo en distintas embajadas del mundo. El CNI descubre que todos participaron hace 35 años en la oculta “Operación Ciénaga”, que ocurrió en Colombia y donde un quinto oficial de inteligencia el único que ha escapado de los asesinos estuvo implicado. Encontrarle será el primer objetivo para el CNI, que pone al frente de la misión a su mejor miembro: Zeta.",
       "director": "Dani de la Torre",
       "reparto": "Mario Casas, Mariela Garriga, Luis Zahera, Nora Navas, Christian Tappan, Cristina Umaña, Ricardo de Barreiro, Luisa Vides Galiano, David Villamil, Amanda Goldsmith, Juan Sánchez McDonell, Ander Jiménez",
-      "embedUrl": "https://bysedikamoum.com/e/9wknwnkv0ldz",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/9wknwnkv0ldz"
     },
     {
       "titulo": "Frankenweenie",
@@ -75,8 +161,7 @@
       "descripcion": "De la mente del director Tim Burton ('Alicia en el país de las maravillas', 'La leyenda de Sleepy Hollow'), surge 'Frankenweenie', la tierna historia de un chico y su mascota. Cuando el pequeño perro Sparky fallece, Víctor (su amo y amigo) trata de usar diversas técnicas científicas para intentar revivir al animal, y traerlo de vuelta al mundo de los vivos, todo ello mediante algunos ajustes corporales. Aunque el chico intenta que nadie vea a su \"monstruo\", el perro Sparky consigue escapar, los amigos del colegio del niño, sus profesores e incluso todos sus vecinos sabrán que construir una nueva vida puede llegar a ser algo terrible y escalofriante.",
       "director": "Tim Burton",
       "reparto": "Charlie Tahan, Catherine O'Hara, Martin Short, Martin Landau, Atticus Shaffer, Winona Ryder, Robert Capron, James Hiroyuki Liao, Conchata Ferrell, Tom Kenny, Frank Welker, Dee Bradley Baker",
-      "embedUrl": "https://bysedikamoum.com/e/nox7zmiar7jl",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/nox7zmiar7jl"
     },
     {
       "titulo": "El otro lado de la puerta",
@@ -88,8 +173,7 @@
       "descripcion": "Una familia lleva una vida idílica en el extranjero hasta que un trágico accidente se lleva la vida de su hijo pequeño. La inconsolable madre descubre un antiguo ritual que puede traer a su hijo de vuelta para decirle un último adiós. Viaja a un antiguo templo, en el que hay una puerta misteriosa, que sirve de puente entre dos mundos. Sin embargo, cuando desobedece una norma sagrada por la que nunca se debe abrir la puerta, altera el equilibrio entre la vida y la muerte.",
       "director": "Johannes Roberts",
       "reparto": "Sarah Wayne Callies, Jeremy Sisto, Sofia Rosinsky, Logan Creran, Jax Malcolm, Suchitra Pillai, Javier Botet, Vijay Gupta, Anup Kumar Sharma, Rahil Gilani, Amarjeet Singh",
-      "embedUrl": "https://bysedikamoum.com/e/qnb1bxgjlcw7",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/qnb1bxgjlcw7"
     },
     {
       "titulo": "Alien. Romulus",
@@ -101,8 +185,7 @@
       "descripcion": "Mientras rebuscan en las profundidades de una estación espacial abandonada, un grupo de jóvenes colonizadores del espacio se encuentra cara a cara con la forma de vida más aterradora del universo. Nueva película de la saga Alien.",
       "director": "Fede Álvarez",
       "reparto": "Cailee Spaeny, David Jonsson, Archie Renaux, Isabela Merced, Spike Fearn, Aileen Wu, Rosie Ede, Soma Simon, Bence Okeke, Viktor Orizu, Robert Bobroczkyi, Trevor Newlin",
-      "embedUrl": "https://bysedikamoum.com/e/lrfv8sxirpc8",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/lrfv8sxirpc8"
     },
     {
       "titulo": "Unabomber",
@@ -3346,6 +3429,201 @@
     }
   ],
   "series": [
+    {
+      "titulo": "Cashman",
+      "poster": "https://image.tmdb.org/t/p/w500/h73FVzJZlgo0ZrHNqLl0swAzwHm.jpg",
+      "rating": "7.3",
+      "anio": 2025,
+      "genero": "Action & Adventure, Drama",
+      "descripcion": "Un hombre común hereda el don de una fuerza descomunal, pero un enemigo busca arrebatárselo. Lo peor es que cada vez que usa su superpoder, su cartera se resiente.",
+      "creador": "이창민, Jeon Chan-ho",
+      "reparto": "준호, 김혜준, 김병철, 김향기, 강한나",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El poder tiene un precio",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-54y76f6tr0y5.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "El señuelo",
+              "duracion": "55 min",
+              "embedUrl": "https://vimeos.net/embed-5qk9m2pb2jio.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "El objetivo",
+              "duracion": "51 min",
+              "embedUrl": "https://vimeos.net/embed-5679crfk9mwa.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Una vida normal",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-t8cmpa5d1huy.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "La trampa de Nathan",
+              "duracion": "52 min",
+              "embedUrl": "https://vimeos.net/embed-erk4owonp7hq.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Una propuesta inesperada",
+              "duracion": "47 min",
+              "embedUrl": "https://vimeos.net/embed-henn6k27lccl.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "El plan del banco",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-heys7r163pfn.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Los héroes destinados",
+              "duracion": "1h 1 min",
+              "embedUrl": "https://vimeos.net/embed-fwgeg1vcs29x.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El fuego de la venganza",
+      "poster": "https://image.tmdb.org/t/p/w500/9jQSxMZuadcnzKb1OYJ9Jn3V6g0.jpg",
+      "rating": "7.4",
+      "anio": 2026,
+      "genero": "Action & Adventure, Crimen",
+      "descripcion": "Atormentado por su pasado y perseguido por sus enemigos, un veterano de las Fuerzas Especiales lucha por salvar a una joven en las peligrosas calles de Río de Janeiro.",
+      "creador": "Kyle Killen",
+      "reparto": "Yahya Abdul-Mateen II, Billie Boullet, Scoot McNairy, Alice Braga",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El guardaespaldas",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-s262fikwk6wz.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "El secuestro",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-7lbs0x3owvua.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "La búsqueda",
+              "duracion": "44 min",
+              "embedUrl": "https://vimeos.net/embed-cqsxmr9n5ajp.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "La venganza",
+              "duracion": "42 min",
+              "embedUrl": "https://vimeos.net/embed-2thwbt3u0ghc.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Los responsables",
+              "duracion": "44 min",
+              "embedUrl": "https://vimeos.net/embed-rftajkk5kxrh.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "La verdad",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-e7zvol0ziucd.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "El ajuste de cuentas",
+              "duracion": "59 min",
+              "embedUrl": "https://vimeos.net/embed-8snv3j61rf34.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Si los deseos mataran",
+      "poster": "https://image.tmdb.org/t/p/w500/sk8icdCLOKcCbMeDGvwvTLw67mM.jpg",
+      "rating": "8.0",
+      "anio": 2026,
+      "genero": "Misterio, Drama",
+      "descripcion": "Una enigmática aplicación concede deseos, pero inicia una cuenta atrás mortal. Un grupo de adolescentes se ven atrapados en este círculo y deberán romperlo para sobrevivir.",
+      "creador": "박중섭, 박윤서",
+      "reparto": "전소영, 백선호, 강미나, 현우석, 이효제, 노재원, 전소니, 윤사봉",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El deseo de Hyeong-wook",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-o8vevis3oaqb.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "La próxima víctima",
+              "duracion": "37 min",
+              "embedUrl": "https://vimeos.net/embed-xkmog0y8ocp2.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "El lugar maldito",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-r1zzkyrcl1q1.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "El origen de Girigo",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-nvavzq08djtn.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Una verdad aterradora",
+              "duracion": "45 min",
+              "embedUrl": "https://vimeos.net/embed-hg5e4hqmyhum.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "El origen de la maldición",
+              "duracion": "52 min",
+              "embedUrl": "https://vimeos.net/embed-j5bpcv1mpe81.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "El teléfono original",
+              "duracion": "36 min",
+              "embedUrl": "https://vimeos.net/embed-t2ritmwm5btc.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "El fin de la maldición",
+              "duracion": "45 min",
+              "embedUrl": "https://vimeos.net/embed-g5v0dvc61nd8.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
     {
       "titulo": "Tulsa King",
       "poster": "https://image.tmdb.org/t/p/w500/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
