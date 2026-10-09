@@ -258,7 +258,7 @@
     },
     {
       "titulo": "Soulm8te",
-      "poster": "https://image.tmdb.org/t/p/w500/eiBD9XAkH3JfsHEuyF7qMP2LhHD.jpg",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/nIkAHDzo9kbG3kDmDckqywo6CE9.jpg",
       "rating": "7.5",
       "anio": 2026,
       "duracion": "1h 39min",
@@ -3474,6 +3474,176 @@
     }
   ],
   "series": [
+    {
+      "titulo": "Cuatro manos, dos sonatas",
+      "poster": "https://image.tmdb.org/t/p/w500/d1EaBYk2EAd9LiAEM4hX7uJraTF.jpg",
+      "rating": "9.3",
+      "anio": 2026,
+      "genero": "Drama",
+      "descripcion": "Cuando dos jóvenes pianistas de mundos completamente diferentes se conocen en una prestigiosa escuela de música, las melodías de sus vidas se entrelazan íntimamente.",
+      "creador": "Shin Yi-won",
+      "reparto": "송강, 이준영, 장규리, 윤세아, 정진영, 서재희, 성노진, 이명로, 김민, 김혜화, 김주헌, 이상준",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El rival del piano",
+              "duracion": "1h 8min",
+              "embedUrl": "https://bysevepoin.com/e/ucfydlt7oqbu"
+            },
+            {
+              "numero": 2,
+              "nombre": "Una actuación conjunta",
+              "duracion": "59 min",
+              "embedUrl": "https://bysevepoin.com/e/qxrmc9gdr1w5"
+            },
+            {
+              "numero": 3,
+              "nombre": "Bajo las luces del escenario",
+              "duracion": "1h",
+              "embedUrl": "https://bysevepoin.com/e/vaqds2ua8q2i"
+            },
+            {
+              "numero": 4,
+              "nombre": "Recuperar la pasión",
+              "duracion": "1h 3min",
+              "embedUrl": "https://bysevepoin.com/e/2v2fc5jog29e"
+            },
+            {
+              "numero": 5,
+              "nombre": "Concurso en Praga",
+              "duracion": "1h 2min",
+              "embedUrl": "https://bysevepoin.com/e/d704kwr493h4"
+            },
+            {
+              "numero": 6,
+              "nombre": "El pianista infeliz",
+              "duracion": "59 min",
+              "embedUrl": "https://bysevepoin.com/e/hop5gf7lr5am"
+            },
+            {
+              "numero": 7,
+              "nombre": "Una nueva colaboración",
+              "duracion": "1h",
+              "embedUrl": "https://bysevepoin.com/e/1hjpw85uvw1t"
+            },
+            {
+              "numero": 8,
+              "nombre": "La presión del piano",
+              "duracion": "1h 1min",
+              "embedUrl": "https://bysevepoin.com/e/qfxs51waokzj"
+            },
+            {
+              "numero": 9,
+              "nombre": "La verdad del secuestro",
+              "duracion": "1h 2min",
+              "embedUrl": "https://bysevepoin.com/e/ced7d5nv49mp"
+            },
+            {
+              "numero": 10,
+              "nombre": "Secretos revelados",
+              "duracion": "1h 1min",
+              "embedUrl": "https://bysevepoin.com/e/2wb7ybk7vhmq"
+            },
+            {
+              "numero": 11,
+              "nombre": "El concierto decisivo",
+              "duracion": "1h 1min",
+              "embedUrl": "https://bysevepoin.com/e/6111u412tqtd"
+            },
+            {
+              "numero": 12,
+              "nombre": "La última sonata",
+              "duracion": "1h 2min",
+              "embedUrl": "https://bysevepoin.com/e/a1urolaf6e0w"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Tribunal de menores",
+      "poster": "https://image.tmdb.org/t/p/w500/veMqMcqUaVREjJuuCaD1kO2eE4T.jpg",
+      "rating": "8.1",
+      "anio": 2022,
+      "genero": "Drama, Crimen",
+      "descripcion": "Una irritable jueza que desprecia a los criminales juveniles llega al tribunal de menores, en donde tiene la ardua tarea de examinar las penas para jóvenes delincuentes.",
+      "creador": "홍종찬, 김민석",
+      "reparto": "김혜수, 김무열, 이성민, Lee Jung-eun, 이상희, 박지연, 신재휘, 금광산, 박종환, 김영아",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2022,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Asesinato juvenil",
+              "duracion": "1h 2min",
+              "embedUrl": "https://bysevepoin.com/e/6p96k04wmu5n"
+            },
+            {
+              "numero": 2,
+              "nombre": "El cómplice",
+              "duracion": "59 min",
+              "embedUrl": "https://bysevepoin.com/e/qiji43de7wgx"
+            },
+            {
+              "numero": 3,
+              "nombre": "Heridas del pasado",
+              "duracion": "54 min",
+              "embedUrl": "https://bysevepoin.com/e/1miscin7s5r8"
+            },
+            {
+              "numero": 4,
+              "nombre": "Centro de menores",
+              "duracion": "1h",
+              "embedUrl": "https://bysevepoin.com/e/yeqj87i1lcws"
+            },
+            {
+              "numero": 5,
+              "nombre": "Chicas desaparecidas",
+              "duracion": "59 min",
+              "embedUrl": "https://bysevepoin.com/e/b2pk7niz4ko3"
+            },
+            {
+              "numero": 6,
+              "nombre": "Estudiantes privilegiados",
+              "duracion": "58 min",
+              "embedUrl": "https://bysevepoin.com/e/0yqy96qojfms"
+            },
+            {
+              "numero": 7,
+              "nombre": "Secretos de la jueza",
+              "duracion": "1h 6min",
+              "embedUrl": "https://bysevepoin.com/e/2ezulqy2wlsa"
+            },
+            {
+              "numero": 8,
+              "nombre": "Accidente mortal",
+              "duracion": "1h 2min",
+              "embedUrl": "https://bysevepoin.com/e/8e7b77cy1a95"
+            },
+            {
+              "numero": 9,
+              "nombre": "Abuso y justicia",
+              "duracion": "1h",
+              "embedUrl": "https://bysevepoin.com/e/h1cpn5ssnbl9"
+            },
+            {
+              "numero": 10,
+              "nombre": "Jóvenes fugitivos",
+              "duracion": "1h 9min",
+              "embedUrl": "https://bysevepoin.com/e/vy6gbxwxjen5"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
     {
       "titulo": "Un novio por suscripción",
       "poster": "https://image.tmdb.org/t/p/w500/ec87jRvLCXUryjUT2h2Xr5yDNIA.jpg",
