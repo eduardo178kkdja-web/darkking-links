@@ -3475,6 +3475,85 @@
   ],
   "series": [
     {
+      "titulo": "La chispa del amor",
+      "poster": "https://image.tmdb.org/t/p/w500/2KLblBXNDX05ZqLwubCyjeokGvZ.jpg",
+      "rating": "",
+      "anio": 2026,
+      "genero": "Sci-Fi & Fantasy, Comedia",
+      "descripcion": "El heredero de una fortuna, cuyo corazón artificial funciona con una batería, llega a un acuerdo con una chica electrizante para que lo recargue. ¿Surgirán chispas?",
+      "creador": "Park Soo-won, 송유채",
+      "reparto": "김영광, 채수빈, Cha Woo-min, 정재광, 신도현, 허동원, 김미경, 양현민, 김아영, Gong Min-jeung",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Chispa inicial",
+              "duracion": "1h 1min",
+              "embedUrl": "https://bysesukior.com/e/2nt6hscvawhq"
+            },
+            {
+              "numero": 2,
+              "nombre": "Un trato especial",
+              "duracion": "59 min",
+              "embedUrl": "https://bysesukior.com/e/mvr0irj0x603"
+            },
+            {
+              "numero": 3,
+              "nombre": "Bajo el mismo techo",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysesukior.com/e/8stvy3avlzl4"
+            },
+            {
+              "numero": 4,
+              "nombre": "Sorpresa de cumpleaños",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysesukior.com/e/5ndqntr1m964"
+            },
+            {
+              "numero": 5,
+              "nombre": "Propuesta inesperada",
+              "duracion": "1h 2min",
+              "embedUrl": "https://bysesukior.com/e/hrpo0zyke6da"
+            },
+            {
+              "numero": 6,
+              "nombre": "Celos eléctricos",
+              "duracion": "1h 7min",
+              "embedUrl": "https://bysesukior.com/e/2s467r3qydrc"
+            },
+            {
+              "numero": 7,
+              "nombre": "Lejos de ti",
+              "duracion": "1h 3min",
+              "embedUrl": "https://bysesukior.com/e/c3a4aakllaxz"
+            },
+            {
+              "numero": 8,
+              "nombre": "Nuestro primer amor",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysesukior.com/e/bv2ddowog0c5"
+            },
+            {
+              "numero": 9,
+              "nombre": "El secreto eléctrico",
+              "duracion": "1h 1min",
+              "embedUrl": "https://bysesukior.com/e/n8h23he4v1oi"
+            },
+            {
+              "numero": 10,
+              "nombre": "Un final feliz",
+              "duracion": "1h 2min",
+              "embedUrl": "https://bysesukior.com/e/4w11q7ebklv9"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
       "titulo": "Cuatro manos, dos sonatas",
       "poster": "https://image.tmdb.org/t/p/w500/d1EaBYk2EAd9LiAEM4hX7uJraTF.jpg",
       "rating": "9.3",
