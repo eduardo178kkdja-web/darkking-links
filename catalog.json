@@ -3462,6 +3462,152 @@
   ],
   "series": [
     {
+      "titulo": "Un novio por suscripción",
+      "poster": "https://image.tmdb.org/t/p/w500/ec87jRvLCXUryjUT2h2Xr5yDNIA.jpg",
+      "rating": "8.4",
+      "anio": 2026,
+      "genero": "Comedia, Sci-Fi & Fantasy, Drama",
+      "descripcion": "Seo Mi-rae vive absorbida por el trabajo —sin tiempo para el amor— hasta que un servicio de citas despierta sentimientos que creía dormidos y abre la puerta a un posible romance.",
+      "creador": "남궁도영, 김정식",
+      "reparto": "지수, 서인국, Gong Min-jeung, 조한철",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El futuro que nos espera",
+              "duracion": "50 min",
+              "embedUrl": "https://vimeos.net/embed-5qn7xvwj3pn8.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Cliché o clásico",
+              "duracion": "58 min",
+              "embedUrl": "https://vimeos.net/embed-xrcesaa48voa.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Primer amor para principiantes",
+              "duracion": "1h 3min",
+              "embedUrl": "https://vimeos.net/embed-berfpf38emta.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Riesgo mínimo y gran retorno",
+              "duracion": "59 min",
+              "embedUrl": "https://vimeos.net/embed-c1rbgzzjipq7.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "El problema de la perfección",
+              "duracion": "1h 6min",
+              "embedUrl": "https://vimeos.net/embed-3ivchhobxyvj.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Un híbrido",
+              "duracion": "55 min",
+              "embedUrl": "https://vimeos.net/embed-dg5a3f53zlo9.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "El algoritmo de los sentimientos",
+              "duracion": "56 min",
+              "embedUrl": "https://vimeos.net/embed-ghr8r5hcwfee.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "PARES O NONES",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-xtn1d4xpvxq0.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Gustar o querer",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-8uhliqrc0cvh.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "Un futuro de lo más normal",
+              "duracion": "1h 8min",
+              "embedUrl": "https://vimeos.net/embed-ikce6kivf78l.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Dear Killer Nannies: Criado por sicarios",
+      "poster": "https://image.tmdb.org/t/p/w500/rNjB5TBYUBOxXR2GjR02uukSwBw.jpg",
+      "rating": "7.6",
+      "anio": 2026,
+      "genero": "Drama, Crimen",
+      "descripcion": "Una inspiración en la niñez y la adolescencia de Juan Pablo Escobar, hijo del narcoterrorista colombiano Pablo Escobar Gaviria.",
+      "creador": "Sebastian Marroquin, Pablo Farina, Sebastián Ortega",
+      "reparto": "Janer Villareal, Miguel Tamayo, Miguel Ángel García, Sebastian Marroquin, John Leguizamo",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2025,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El fin de la inocencia",
+              "duracion": "32 min",
+              "embedUrl": "https://vimeos.net/embed-6l1i9gj5qgqq.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Enfrentar al miedo",
+              "duracion": "36 min",
+              "embedUrl": "https://vimeos.net/embed-p4fi03qlvetb.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "El hombre de la casa",
+              "duracion": "36 min",
+              "embedUrl": "https://vimeos.net/embed-tlf6c852f03o.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Aprender a renunciar",
+              "duracion": "38 min",
+              "embedUrl": "https://vimeos.net/embed-wgpx4q3811p1.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Renacer",
+              "duracion": "37 min",
+              "embedUrl": "https://vimeos.net/embed-u7ntl1miorqy.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Perder la ilusión",
+              "duracion": "36 min",
+              "embedUrl": "https://vimeos.net/embed-6e8l2cbskjne.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "La última lección",
+              "duracion": "37 min",
+              "embedUrl": "https://vimeos.net/embed-6l1m6u1pn5vx.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "No mirar atrás",
+              "duracion": "36 min",
+              "embedUrl": "https://vimeos.net/embed-xnpnfox3lgwu.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
       "titulo": "Cashman",
       "poster": "https://image.tmdb.org/t/p/w500/h73FVzJZlgo0ZrHNqLl0swAzwHm.jpg",
       "rating": "7.3",
@@ -3525,8 +3671,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "El fuego de la venganza",
@@ -3586,8 +3731,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Si los deseos mataran",
@@ -3653,8 +3797,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Tulsa King",
@@ -3858,8 +4001,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Carrie",
@@ -3925,8 +4067,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Acaramelados",
