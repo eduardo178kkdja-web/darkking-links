@@ -1,6 +1,97 @@
 {
   "movies": [
     {
+      "titulo": "Asalto al furgón blindado",
+      "poster": "https://image.tmdb.org/t/p/w500/rLHh1581RAMkNbJ1IIyeFbRQ8Rk.jpg",
+      "rating": "5.4",
+      "anio": 2013,
+      "duracion": "1h 34min",
+      "genero": "Acción, Drama",
+      "descripcion": "En 1982, dos amigos deciden dar el golpe de sus vidas y robar un depósito de vehículos blindados para hacerse con el botín. Un detective de la policía de Nueva York se pone al mando de la investigación para tratar de esclarecer lo que hasta ese momento sería el robo a un furgón blindado más importante de la historia de Estados Unidos. Basada en hechos reales.",
+      "director": "Dito Montiel",
+      "reparto": "Liam Hemsworth, Dwayne Johnson, Emma Roberts, Nikki Reed, Michael Angarano, Shenae Grimes-Beech, Lydia Hull, Jerry Ferrara, James Ransone, Chris Diamantopoulos, Michael Rispoli, Gia Mantegna",
+      "embedUrl": "https://vimeos.net/embed-5zquz152nhxs.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El mensajero",
+      "poster": "https://image.tmdb.org/t/p/w500/b9oyfaUNnNh6a3W34ZG78LhHv37.jpg",
+      "rating": "6.1",
+      "anio": 2013,
+      "duracion": "1h 52min",
+      "genero": "Acción, Drama, Suspense",
+      "descripcion": "Un padre recibe un duro golpe cuando condenan a su hijo adolescente a a una pena de treinta años de cárcel por un delito relacionado con el narcotráfico. Para conseguir que reduzcan su condena, intenta ponerse en contacto con un importante traficante.",
+      "director": "Ric Roman Waugh",
+      "reparto": "Dwayne Johnson, Barry Pepper, Susan Sarandon, Benjamin Bratt, Michael Kenneth Williams, Melina Kanakaredes, Nadine Velazquez, David Harbour, Jon Bernthal, Harold Perrineau, J. D. Pardo, Lela Loren",
+      "embedUrl": "https://vimeos.net/embed-wyd2xi8erm62.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Alerta roja",
+      "poster": "https://image.tmdb.org/t/p/w500/odBUpjZGxY3y7FBo5NBtEYGJf5r.jpg",
+      "rating": "6.7",
+      "anio": 2021,
+      "duracion": "1h 57min",
+      "genero": "Acción, Comedia, Crimen",
+      "descripcion": "Cuando la Interpol envía una \"Alerta roja\", significa que los departamentos de Policía de todo el mundo deben estar alerta para capturar a los criminales más buscados. Todas las alarmas saltan cuando un temerario robo une al mejor agente del FBI (Johnson) con dos criminales rivales entre sí (Gadot & Reynolds). Una coincidencia que hará que suceda lo impredecible.",
+      "director": "Rawson Marshall Thurber",
+      "reparto": "Dwayne Johnson, Ryan Reynolds, Gal Gadot, Ritu Arya, Chris Diamantopoulos, Ivan Mbakop, Vincenzo Amato, Rafael Petardi, Seth Michaels, Sebastien Large, Guy Nardulli, Andrew Hunter",
+      "embedUrl": "https://vimeos.net/embed-759ru3iztpsf.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El regreso de la momia",
+      "poster": "https://image.tmdb.org/t/p/w500/t6u4IhUnFE6Po9XQWKjFsl1dAwH.jpg",
+      "rating": "6.4",
+      "anio": 2001,
+      "duracion": "2h 9min",
+      "genero": "Aventura, Acción, Fantasía",
+      "descripcion": "Han pasado diez años, Rick O'Connell se ha casado con Evelyn, y ambos son padres del pequeño Alex, de ocho años. Cuando, tras una serie de acontecimientos, la momia del antiguo sacerdote egipcio Im-Ho-Tep es resucitada por una extraña secta en el British Museum, y la maldición milenaria del Rey Escorpión -que seis mil años atrás traicionó al dios Anubis- lo devuelve a la vida, el choque entre ambas fuerzas malignas desencadenará el caos en el mundo... si Rick y Evelyn no consiguen evitarlo.",
+      "director": "Stephen Sommers",
+      "reparto": "Brendan Fraser, Rachel Weisz, John Hannah, עודד פהר, Arnold Vosloo, Patricia Velásquez, Freddie Boath, Dwayne Johnson, Alun Armstrong, Adewale Akinnuoye-Agbaje, Shaun Parkes, Bruce Byron",
+      "embedUrl": "https://vimeos.net/embed-vj1ogmffye8h.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Beekeeper: El protector",
+      "poster": "https://image.tmdb.org/t/p/w500/gBdhYoROX6SHE3vVnBfEHI7Ojma.jpg",
+      "rating": "7.3",
+      "anio": 2024,
+      "duracion": "1h 45min",
+      "genero": "Acción, Crimen, Suspense",
+      "descripcion": "La brutal campaña de venganza de Adam Clay adquiere tintes nacionales tras revelarse que es un antiguo agente de una poderosa organización clandestina conocida como \"Beekeeper\".",
+      "director": "David Ayer",
+      "reparto": "Jason Statham, Emmy Raver-Lampman, Josh Hutcherson, Jeremy Irons, Bobby Naderi, David Witts, Michael Epp, Taylor James, Phylicia Rashād, Jemma Redgrave, Minnie Driver, Don Gilet",
+      "embedUrl": "https://vimeos.net/embed-53oxa4azdmf1.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Un hombre trabajador",
+      "poster": "https://image.tmdb.org/t/p/w500/eLBWBW4hariYCgTS5BL1tpMAYiG.jpg",
+      "rating": "6.7",
+      "anio": 2025,
+      "duracion": "1h 56min",
+      "genero": "Acción, Crimen, Suspense",
+      "descripcion": "Levon Cade dejó atrás una condecorada carrera militar en las operaciones encubiertas para vivir una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, que para él es como de la familia, es secuestrada por traficantes de personas, su búsqueda para traerla a casa descubre un mundo de corrupción mucho mayor de lo que jamás podría haber imaginado.",
+      "director": "David Ayer",
+      "reparto": "Jason Statham, Jason Flemyng, Merab Ninidze, Maximilian Osinski, Cokey Falkow, Michael Peña, David Harbour, Noemi Gonzalez, Arianna Rivas, Isla Gie, Emmett J. Scanlan, Eve Mauro",
+      "embedUrl": "https://vimeos.net/embed-4id4rrxl612g.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Operación Fortune: El gran engaño",
+      "poster": "https://image.tmdb.org/t/p/w500/37zlKKOEJ2CqCYTF8rmCSPYo3Dv.jpg",
+      "rating": "6.5",
+      "anio": 2023,
+      "duracion": "1h 54min",
+      "genero": "Acción, Comedia, Suspense, Aventura",
+      "descripcion": "La historia de un agente que es reclutado por una alianza de inteligencia global para rastrear y detener la venta de nuevas tecnologías de armas mortales.",
+      "director": "Guy Ritchie",
+      "reparto": "Jason Statham, Aubrey Plaza, Cary Elwes, Hugh Grant, Josh Hartnett, Bugzy Malone, Eddie Marsan, Peter Ferdinando, Nicholas Facey, Lourdes Faberes, Ian Bartholomew, Sam Douglas",
+      "embedUrl": "https://vimeos.net/embed-s9jl0m1o874i.html",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Animales",
       "poster": "https://image.tmdb.org/t/p/w500/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
       "rating": "7.1",
@@ -36,8 +127,7 @@
       "descripcion": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
       "director": "Sam Hargrave",
       "reparto": "John Cena, Jessica Biel, Sam Richardson, Arturo Castro, Teyonah Parris, Danai Gurira, Corey Stoll, Bill Camp, گلشیفته فراهانی, Daniel Bernhardt, Randeep Hooda, Graham Harvey",
-      "embedUrl": "https://bysevepoin.com/e/g0l1ev9djn1y",
-      "recienAgregado": true
+      "embedUrl": "https://bysevepoin.com/e/g0l1ev9djn1y"
     },
     {
       "titulo": "Hot Spot",
@@ -49,8 +139,7 @@
       "descripcion": "A finales del siglo XXI, un investigador y un miembro de una temida secta religiosa se unen tras un asesinato en un campo de refugiados.",
       "director": "Agnieszka Smoczyńska",
       "reparto": "Andrzej Konopka, Noomi Rapace, Reika Kirishima, Filippa Kaye, George Aurimas Cris, Νίκη Σερέτη, Έκτορας Λιάτσος, Ράσμη Τσόπελα, Eleni Tzangka, Thanasis Barkas, Stavros Kotas, Sylwia Gola",
-      "embedUrl": "https://bysevepoin.com/e/a0a8vutwjq83",
-      "recienAgregado": true
+      "embedUrl": "https://bysevepoin.com/e/a0a8vutwjq83"
     },
     {
       "titulo": "La casa en el árbol",
@@ -3768,8 +3857,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Tribunal de menores",
@@ -3847,8 +3935,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Un novio por suscripción",
