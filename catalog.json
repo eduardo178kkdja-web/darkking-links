@@ -1,6 +1,19 @@
 {
   "movies": [
     {
+      "titulo": "So Won",
+      "poster": "https://image.tmdb.org/t/p/w500/PZlNvDwKwHeHUsXnd6SEDXWZNn.jpg",
+      "rating": "8.4",
+      "anio": 2013,
+      "duracion": "2h 3min",
+      "genero": "Drama",
+      "descripcion": "Una niña llamada So Won se convierte en víctima de la violencia. Su familia pasa por la desesperación y el dolor al intentar abrir otra puerta en su vida.",
+      "director": "이준익",
+      "reparto": "설경구, 엄지원, 이레, 김상호, 김해숙, 라미란, 권태원, 강신철, 서현우, 차미경, 정민성, 안세하",
+      "embedUrl": "https://bysevepoin.com/e/hl7kpf0wcz95",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Matchbox: La película",
       "poster": "https://image.tmdb.org/t/p/w500/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
       "rating": "7.0",
