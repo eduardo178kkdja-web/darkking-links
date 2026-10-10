@@ -1,6 +1,84 @@
 {
   "movies": [
     {
+      "titulo": "Cars 3",
+      "poster": "https://image.tmdb.org/t/p/w500/4tp9W3QAbQcpanBtBceZtHD10UT.jpg",
+      "rating": "6.9",
+      "anio": 2017,
+      "duracion": "1h 42min",
+      "genero": "Animación, Drama, Familia, Aventura",
+      "descripcion": "Sorprendido por una nueva generación de corredores ultrarrápidos, el legendario Rayo McQueen queda relegado repentinamente del deporte que tanto ama. Para retomar su carrera, va a necesitar la ayuda de una joven mecánica de carreras, Cruz Ramírez, que tiene su propio plan para ganar, además de la inspiración del fallecido Fabuloso Hudson Hornet y un par de giros inesperados. ¡Y para probar que el nº95 no está ni mucho menos acabado, el campeón tendrá que poner a prueba su valía en el gran circuito de la Copa Piston!",
+      "director": "Brian Fee",
+      "reparto": "Owen Wilson, Cristela Alonzo, Chris Cooper, Nathan Fillion, Larry the Cable Guy, Armie Hammer, Ray Magliozzi, Tony Shalhoub, Bonnie Hunt, Lea DeLaria, Kerry Washington, Bob Costas",
+      "embedUrl": "https://bysedikamoum.com/e/8qj92d2hpv6q",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Cars 2",
+      "poster": "https://image.tmdb.org/t/p/w500/kxfxsxJJ8e3vCRRLSfcELHtgMLh.jpg",
+      "rating": "6.2",
+      "anio": 2011,
+      "duracion": "1h 46min",
+      "genero": "Animación, Familia, Aventura, Comedia",
+      "descripcion": "Rayo McQueen y su amigo, la grúa Mate, viajan al extranjero para participar en el primer Campeonato Mundial en el que se decidirá cuál es el coche más rápido del planeta. La primera etapa es Tokio (Japón), donde Mate tendrá que convertirse en un espía secreto al verse envuelto inesperadamente en un caso de espionaje internacional, que lo llevará a París y a Londres. También vivirán una aventura de proporciones épicas al viajar a Porto Corsa (Italia), para disputar el Campeonato. Sin embargo, los dos tendrán que renunciar a los placeres de la Riviera italiana -yates, playas y pasta al pesto- ya que Mate está muy ocupado con su labor de espía, mientras que McQueen compite contra los mejores coches del mundo.",
+      "director": "John Lasseter",
+      "reparto": "Larry the Cable Guy, Owen Wilson, Michael Caine, Emily Mortimer, Suzy Eddie Izzard, John Turturro, Brent Musburger, Joe Mantegna, Thomas Kretschmann, Peter Jacobson, Bonnie Hunt, Darrell Waltrip",
+      "embedUrl": "https://bysedikamoum.com/e/v39k1e3k9lmm",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Cars",
+      "poster": "https://image.tmdb.org/t/p/w500/hcQFxfTrkC00hAk9Jwz38wuxNV6.jpg",
+      "rating": "7.1",
+      "anio": 2006,
+      "duracion": "1h 56min",
+      "genero": "Animación, Aventura, Comedia, Familia",
+      "descripcion": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+      "director": "John Lasseter",
+      "reparto": "Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy, Cheech Marin, Tony Shalhoub, Guido Quaroni, Jenifer Lewis, Paul Dooley, Michael Wallis, George Carlin, Katherine Helmond",
+      "embedUrl": "https://bysedikamoum.com/e/ylankwcf9ka6",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Buscando a Dory",
+      "poster": "https://image.tmdb.org/t/p/w500/wXBwo2DxTm6wZ8Cbu02t9kzzoK4.jpg",
+      "rating": "7.0",
+      "anio": 2016,
+      "duracion": "1h 37min",
+      "genero": "Aventura, Animación, Familia",
+      "descripcion": "Un año después de los acontecimientos narrados en \"Buscando a Nemo\", Dory vive apaciblemente con Marlin y su hijo Nemo. Pero durante un viaje para ver cómo las mantarrayas migran de vuelta a casa, los problemas de memoria de Dory parecen desaparecer durante un segundo: recuerda que tiene una familia e inmediatamente decide emprender viaje para reencontrarse con sus padres, a los que perdió hace años.",
+      "director": "Andrew Stanton",
+      "reparto": "Ellen DeGeneres, Albert Brooks, Ed O'Neill, Hayden Rolence, Diane Keaton, Eugene Levy, Ty Burrell, Kaitlin Olson, Idris Elba, Dominic West, Kate McKinnon, Bill Hader",
+      "embedUrl": "https://bysedikamoum.com/e/h2vpeut0487k",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Ralph rompe Internet",
+      "poster": "https://image.tmdb.org/t/p/w500/wfff5XoLdGQzCt2Nb4ZF6WYNLAq.jpg",
+      "rating": "7.2",
+      "anio": 2018,
+      "duracion": "1h 52min",
+      "genero": "Animación, Comedia, Aventura, Ciencia ficción, Familia",
+      "descripcion": "Ralph sale de los recreativos, y se adentra en el mundo inexplorado, expansivo y emocionante de Internet. Ralph y su compañera Vanellope tendrán que jugárselo todo viajando por las redes en busca de una pieza de repuesto que salve Sugar Rush, el videojuego de Vanellope. Y para complicar más las cosas, ambos dependen de los ciudadanos de Internet, los llamados ‘ciudanets’ para que les ayuden a desenvolverse en ese peligroso mundo. Entre ellos está un empresario de Internet llamado Yesss, que es el algoritmo estrella y el alma de “BuzzTube”, la página web de moda del momento.",
+      "director": "Phil Johnston",
+      "reparto": "John C. Reilly, Sarah Silverman, Gal Gadot, Taraji P. Henson, Jack McBrayer, Timothy Simons, Phil Johnston, Mandy Moore, Anika Noni Rose, Irene Bedard, Kristen Bell, Ali Wong",
+      "embedUrl": "https://bysedikamoum.com/e/m0elrny5ufyy",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "A Working Man",
+      "poster": "https://image.tmdb.org/t/p/w500/eLBWBW4hariYCgTS5BL1tpMAYiG.jpg",
+      "rating": "6.7",
+      "anio": 2025,
+      "duracion": "1h 56min",
+      "genero": "Acción, Crimen, Suspense",
+      "descripcion": "Levon Cade dejó atrás una condecorada carrera militar en las operaciones encubiertas para vivir una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, que para él es como de la familia, es secuestrada por traficantes de personas, su búsqueda para traerla a casa descubre un mundo de corrupción mucho mayor de lo que jamás podría haber imaginado.",
+      "director": "David Ayer",
+      "reparto": "Jason Statham, Jason Flemyng, Merab Ninidze, Maximilian Osinski, Cokey Falkow, Michael Peña, David Harbour, Noemi Gonzalez, Arianna Rivas, Isla Gie, Emmett J. Scanlan, Eve Mauro",
+      "embedUrl": "https://vimeos.net/embed-4id4rrxl612g.html",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Asalto al furgón blindado",
       "poster": "https://image.tmdb.org/t/p/w500/rLHh1581RAMkNbJ1IIyeFbRQ8Rk.jpg",
       "rating": "5.4",
@@ -66,19 +144,6 @@
       "recienAgregado": true
     },
     {
-      "titulo": "Un hombre trabajador",
-      "poster": "https://image.tmdb.org/t/p/w500/eLBWBW4hariYCgTS5BL1tpMAYiG.jpg",
-      "rating": "6.7",
-      "anio": 2025,
-      "duracion": "1h 56min",
-      "genero": "Acción, Crimen, Suspense",
-      "descripcion": "Levon Cade dejó atrás una condecorada carrera militar en las operaciones encubiertas para vivir una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, que para él es como de la familia, es secuestrada por traficantes de personas, su búsqueda para traerla a casa descubre un mundo de corrupción mucho mayor de lo que jamás podría haber imaginado.",
-      "director": "David Ayer",
-      "reparto": "Jason Statham, Jason Flemyng, Merab Ninidze, Maximilian Osinski, Cokey Falkow, Michael Peña, David Harbour, Noemi Gonzalez, Arianna Rivas, Isla Gie, Emmett J. Scanlan, Eve Mauro",
-      "embedUrl": "https://vimeos.net/embed-4id4rrxl612g.html",
-      "recienAgregado": true
-    },
-    {
       "titulo": "Operación Fortune: El gran engaño",
       "poster": "https://image.tmdb.org/t/p/w500/37zlKKOEJ2CqCYTF8rmCSPYo3Dv.jpg",
       "rating": "6.5",
@@ -101,8 +166,7 @@
       "descripcion": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
       "director": "Ben Affleck",
       "reparto": "Ben Affleck, Kerry Washington, Gillian Anderson, Steven Yeun, Adriana Paz, Luis Gerardo Méndez, Christopher Woodley, Jacob Estrada, Ray Fisher, Taylor Cooper, Chris Gann, Matt Gerald",
-      "embedUrl": "https://vimeos.net/embed-zzk6labe17xm.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-zzk6labe17xm.html"
     },
     {
       "titulo": "So Won",
@@ -114,8 +178,7 @@
       "descripcion": "Una niña llamada So Won se convierte en víctima de la violencia. Su familia pasa por la desesperación y el dolor al intentar abrir otra puerta en su vida.",
       "director": "이준익",
       "reparto": "설경구, 엄지원, 이레, 김상호, 김해숙, 라미란, 권태원, 강신철, 서현우, 차미경, 정민성, 안세하",
-      "embedUrl": "https://bysevepoin.com/e/hl7kpf0wcz95",
-      "recienAgregado": true
+      "embedUrl": "https://bysevepoin.com/e/hl7kpf0wcz95"
     },
     {
       "titulo": "Matchbox: La película",
@@ -3588,6 +3651,363 @@
   ],
   "series": [
     {
+      "titulo": "Un amor distinto al tuyo",
+      "poster": "https://image.tmdb.org/t/p/w500/uZUo3eBpDOqVfeSRHqHBnQORzBk.jpg",
+      "rating": "6.3",
+      "anio": 2026,
+      "genero": "Drama, Comedia",
+      "descripcion": "Una historia de amor realista, emocional y cercana sobre una pareja en su décimo año de relación, que ve cómo sentimientos desconocidos ponen a prueba su estabilidad.",
+      "creador": "유수지",
+      "reparto": "서강준, 안은진, 이주안, 조아람, 이민재, 김남희, 김미경, 곽시양, 허지나, Lee Jun-hyeok, 천이슬, 송지우",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "¿Boda o ruptura?",
+              "duracion": "1h 3min",
+              "embedUrl": "https://bysevepoin.com/e/ivb0yqco05ga"
+            },
+            {
+              "numero": 2,
+              "nombre": "¿Podemos ser desconocidos?",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysevepoin.com/e/kftn98ns8bi8"
+            },
+            {
+              "numero": 3,
+              "nombre": "¿Podemos volver a sentir esa chispa?",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysevepoin.com/e/lhmf85oo6gzi"
+            },
+            {
+              "numero": 4,
+              "nombre": "¿Soñamos el mismo sueño?",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysevepoin.com/e/c20uj9kg6nmz"
+            },
+            {
+              "numero": 5,
+              "nombre": "¿Qué nos queda?",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysevepoin.com/e/2vw7fy6z7p5p"
+            },
+            {
+              "numero": 6,
+              "nombre": "¿Quién es el verdadero héroe?",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysevepoin.com/e/w92ha6yraaxo"
+            },
+            {
+              "numero": 7,
+              "nombre": "¿Somos aliados o enemigos?",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysevepoin.com/e/2gi8x15r74io"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Neagley",
+      "poster": "https://image.tmdb.org/t/p/w500/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
+      "rating": "8.1",
+      "anio": 2026,
+      "genero": "Drama, Misterio, Crimen",
+      "descripcion": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
+      "creador": "Nick Santora, Nicholas Wootton",
+      "reparto": "Maria Sten, Greyston Holt, Adeline Rudolph, Matthew Del Negro, Damon Herriman, Jasper Jones, Emily Mitchell",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Vías del tren",
+              "duracion": "57 min",
+              "embedUrl": "https://vimeos.net/embed-v9xr06pibtgw.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Dinámicas de grupo",
+              "duracion": "47 min",
+              "embedUrl": "https://vimeos.net/embed-61tprc5d5wez.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Hora de actuar",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-nmknxh17mpjv.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Allanamiento",
+              "duracion": "52 min",
+              "embedUrl": "https://vimeos.net/embed-tgt4cucnkdkd.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Viaje",
+              "duracion": "41 min",
+              "embedUrl": "https://vimeos.net/embed-qxd83irqs83t.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Golpe duro",
+              "duracion": "46 min",
+              "embedUrl": "https://vimeos.net/embed-mb7ew8fdj22e.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "LeBron no es Jordan",
+              "duracion": "46 min",
+              "embedUrl": "https://vimeos.net/embed-ymczcmboq89c.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Contacto",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-vbg4iu51gp9f.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Reacher",
+      "poster": "https://image.tmdb.org/t/p/w500/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "rating": "8.1",
+      "anio": 2022,
+      "genero": "Action & Adventure, Crimen",
+      "descripcion": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "creador": "Nick Santora",
+      "reparto": "Alan Ritchson, Agnez Mo, Sydelle Noel, Anggun, Christopher Rodriguez Marquette, Kevin Corrigan",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2022,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Bienvenidos a Margrave",
+              "duracion": "56 min",
+              "embedUrl": "https://vimeos.net/embed-hlg3kqba942p.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Primer baile",
+              "duracion": "55 min",
+              "embedUrl": "https://vimeos.net/embed-pkaz8qhtlvtn.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Cucharada",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-l9miyxe9h3ge.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "En un árbol",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-6r3y6zs2ojd9.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Sin disculpas",
+              "duracion": "51 min",
+              "embedUrl": "https://vimeos.net/embed-mmoztd8n0km7.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Papel",
+              "duracion": "50 min",
+              "embedUrl": "https://vimeos.net/embed-ghadv7ifsk68.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Reacher no habló",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-6n0zjf394p5o.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Pay",
+              "duracion": "54 min",
+              "embedUrl": "https://vimeos.net/embed-ru4ft0s3zjct.html"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "anio": 2023,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "ATM",
+              "duracion": "56 min",
+              "embedUrl": "https://vimeos.net/embed-93q8gmii7wmu.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "¿Qué sucede en Atlantic City?",
+              "duracion": "50 min",
+              "embedUrl": "https://vimeos.net/embed-khfxh4lz4yue.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Una imagen dice más que mil palabras",
+              "duracion": "47 min",
+              "embedUrl": "https://vimeos.net/embed-wmnpf5kc1rty.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Una noche en la sinfónica",
+              "duracion": "46 min",
+              "embedUrl": "https://vimeos.net/embed-i56synu43kq3.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "El entierro",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-czuoj8hr8s8k.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Lo mejor de Nueva York",
+              "duracion": "45 min",
+              "embedUrl": "https://vimeos.net/embed-pdkg1fwotghq.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Lo que se debe atravesar",
+              "duracion": "45 min",
+              "embedUrl": "https://vimeos.net/embed-kbu5azhgon6c.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "¡A volar!",
+              "duracion": "42 min",
+              "embedUrl": "https://vimeos.net/embed-behhfvkjehs0.html"
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "anio": 2025,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El inductor",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-k45uobnpkigz.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Transporte",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-zppr2n4l4dva.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Número 2 con una bala",
+              "duracion": "54 min",
+              "embedUrl": "https://vimeos.net/embed-wu69er44ze74.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Dominique",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-e3qltvo0h3hz.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Combate",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-7z678kq5nx7f.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Humo en el agua",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-s65ohm87fwr2.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Historia de L.A.",
+              "duracion": "52 min",
+              "embedUrl": "https://vimeos.net/embed-cjangqzkno65.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Asunto pendiente",
+              "duracion": "52 min",
+              "embedUrl": "https://vimeos.net/embed-c81byi6xag3z.html"
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "La ciudad del amor fraternal",
+              "duracion": "46 min",
+              "embedUrl": "https://vimeos.net/embed-th14or9q05fu.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Lucha en jaula",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-tabzf27r5we1.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Un pequeño paso",
+              "duracion": "45 min",
+              "embedUrl": "https://vimeos.net/embed-p3yfxrfrt009.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Karambits y pedazos",
+              "duracion": "44 min",
+              "embedUrl": "https://vimeos.net/embed-4nndmfd22r1e.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Puente",
+              "duracion": "47 min",
+              "embedUrl": "https://vimeos.net/embed-g7mxpmid1tx2.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Plum sin suerte",
+              "duracion": "41 min",
+              "embedUrl": "https://vimeos.net/embed-1upd55c1qkbf.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Vota por Sampson",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-3gg65u7ladnj.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Corte",
+              "duracion": "58 min",
+              "embedUrl": "https://vimeos.net/embed-dku64ug590lp.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
       "titulo": "Beso Dinamita",
       "poster": "https://image.tmdb.org/t/p/w500/md4ELajKsSVawFj9WvEaTaY5y2y.jpg",
       "rating": "8.2",
@@ -3766,8 +4186,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Cuatro manos, dos sonatas",
@@ -5675,8 +6094,7 @@
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "La corona perfecta",
