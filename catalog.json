@@ -1,6 +1,19 @@
 {
   "movies": [
     {
+      "titulo": "Animales",
+      "poster": "https://image.tmdb.org/t/p/w500/hhycOr6ji35RMGHnstHN4UKAvR4.jpg",
+      "rating": "7.1",
+      "anio": 2026,
+      "duracion": "1h 49min",
+      "genero": "Suspense, Drama",
+      "descripcion": "El secuestro de su hijo obliga a un candidato a la alcaldía de Los Ángeles y a su mujer a reunir el dinero del rescate y a tomar decisiones que podrían destruir sus vidas.",
+      "director": "Ben Affleck",
+      "reparto": "Ben Affleck, Kerry Washington, Gillian Anderson, Steven Yeun, Adriana Paz, Luis Gerardo Méndez, Christopher Woodley, Jacob Estrada, Ray Fisher, Taylor Cooper, Chris Gann, Matt Gerald",
+      "embedUrl": "https://vimeos.net/embed-zzk6labe17xm.html",
+      "recienAgregado": true
+    },
+    {
       "titulo": "So Won",
       "poster": "https://image.tmdb.org/t/p/w500/PZlNvDwKwHeHUsXnd6SEDXWZNn.jpg",
       "rating": "8.4",
@@ -49,8 +62,7 @@
       "descripcion": "Una pareja disfruta de un fin de semana romántico en una casa en un árbol suspendida a más de 20 metros del suelo en un bosque. Por la noche, se despierta sobresaltada y ve a su pareja caer de la cabaña, muriendo al instante.",
       "director": "Luis Calderón",
       "reparto": "Sandra Escacena, Claudio Portalo, Kandido Uranga, Mala Rodríguez, Apolonia Lapiedra, Asier Hernández, Inge Ugarte",
-      "embedUrl": "https://bysevepoin.com/e/nrdv4fpzf6r7",
-      "recienAgregado": true
+      "embedUrl": "https://bysevepoin.com/e/nrdv4fpzf6r7"
     },
     {
       "titulo": "Peaky Blinders: El hombre inmortal",
@@ -62,8 +74,7 @@
       "descripcion": "El gánster Tommy Shelby regresa a Birmingham para salvar a su familia y a su país cuando su hijo, del que se ha distanciado, se ve envuelto en un complot nazi.",
       "director": "Tom Harper",
       "reparto": "Cillian Murphy, Barry Keoghan, Rebecca Ferguson, Tim Roth, Stephen Graham, Sophie Rundle, Ned Dennehy, Packy Lee, Ian Peck, Jay Lycurgo, Kasper Hilton-Hille, Ruby Ashbourne Serkis",
-      "embedUrl": "https://bysedikamoum.com/e/6tbkxh4zyyp2",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/6tbkxh4zyyp2"
     },
     {
       "titulo": "28 años después: El templo de los huesos",
@@ -2547,7 +2558,7 @@
       "descripcion": "La película trata de dos  adolescentes, Josh (Luis Corbett) y Ling (Lin Li Jin), que se unen a sus  padres, en una excavación arqueológica en China. Sin embargo, no tardarán en encontrar un monstruo en la  profundidad de una cueva. Pronto se dan cuenta que es un dragón místico que ha perdido su mágica Perla, lo que provocará una batalla entre el bien y el mal.",
       "director": "Mario Andreacchio",
       "reparto": "Sam Neill, Louis Corbett, Li Lin Jin, Ji Wang, Robert Mammone, 陳小春, Chen Bao Yuan, Junkang Wang, Peter Powell",
-      "embedUrl": "1"
+      "embedUrl": "https://bysevepoin.com/e/rp7667dkzyc1"
     },
     {
       "titulo": "He-Man y los Masters del Universo",
@@ -3488,6 +3499,109 @@
   ],
   "series": [
     {
+      "titulo": "Beso Dinamita",
+      "poster": "https://image.tmdb.org/t/p/w500/md4ELajKsSVawFj9WvEaTaY5y2y.jpg",
+      "rating": "8.2",
+      "anio": 2025,
+      "genero": "Drama, Comedia",
+      "descripcion": "Una apasionada historia de amor en Jeju termina de forma repentina... hasta que el destino vuelve a juntar a un heredero y a una joven que entra en su empresa fingiendo estar casada y ser madre para poder conseguir el empleo.",
+      "creador": "김재현, 하윤아, 김현우",
+      "reparto": "장기용, 안은진, 김무준, 우다비, 최광일, 남기애, 정가희, 차미경, 서상원, 서정연, 정환, 박지아",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2025,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Ácido nítrico, ácido sulfúrico y dinamita",
+              "duracion": "1h 8min",
+              "embedUrl": "https://bysesukior.com/e/66qi51ri65nt"
+            },
+            {
+              "numero": 2,
+              "nombre": "Lo que el beso se llevó",
+              "duracion": "1h 7min",
+              "embedUrl": "https://bysesukior.com/e/tj78n8gkm4oj"
+            },
+            {
+              "numero": 3,
+              "nombre": "Pimpón, pimpón",
+              "duracion": "1h 5min",
+              "embedUrl": "https://bysesukior.com/e/22tku9xny7z7"
+            },
+            {
+              "numero": 4,
+              "nombre": "Deuda saldada",
+              "duracion": "1h 10min",
+              "embedUrl": "https://bysesukior.com/e/i56e6wgyv2q2"
+            },
+            {
+              "numero": 5,
+              "nombre": "¡Go Da-rim es mía! ¡Completita!",
+              "duracion": "1h 7min",
+              "embedUrl": "https://bysesukior.com/e/lfmtmvaemaqf"
+            },
+            {
+              "numero": 6,
+              "nombre": "Aturdimiento y locura",
+              "duracion": "1h 6min",
+              "embedUrl": "https://bysesukior.com/e/2yrqtsh91kfv"
+            },
+            {
+              "numero": 7,
+              "nombre": "Quiero casarme cuanto antes",
+              "duracion": "1h 5min",
+              "embedUrl": "https://bysesukior.com/e/5lc77hn7cqle"
+            },
+            {
+              "numero": 8,
+              "nombre": "Amor infernal",
+              "duracion": "1h 5min",
+              "embedUrl": "https://bysesukior.com/e/3et8h0i38imr"
+            },
+            {
+              "numero": 9,
+              "nombre": "No te vayas. No quiero que te vayas.",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysesukior.com/e/xals4ehslter"
+            },
+            {
+              "numero": 10,
+              "nombre": "Por eso me gustas",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysesukior.com/e/ylovr3dhggml"
+            },
+            {
+              "numero": 11,
+              "nombre": "Experto en disimulo",
+              "duracion": "1h 5min",
+              "embedUrl": "https://bysesukior.com/e/3ph3h1b30655"
+            },
+            {
+              "numero": 12,
+              "nombre": "Explosión de dulzura (Very Sweet)",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysesukior.com/e/s3vdsjotjdsz"
+            },
+            {
+              "numero": 13,
+              "nombre": "El galán del huerto",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysesukior.com/e/kyvyn48y9ari"
+            },
+            {
+              "numero": 14,
+              "nombre": "Beso dinamita",
+              "duracion": "1h 5min",
+              "embedUrl": "https://bysesukior.com/e/bb8ddyk2fwe2"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
       "titulo": "La chispa del amor",
       "poster": "https://image.tmdb.org/t/p/w500/2KLblBXNDX05ZqLwubCyjeokGvZ.jpg",
       "rating": "",
@@ -3812,8 +3926,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Dear Killer Nannies: Criado por sicarios",
@@ -3879,8 +3992,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Cashman",
