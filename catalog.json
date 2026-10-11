@@ -1,6 +1,58 @@
 {
   "movies": [
     {
+      "titulo": "Absolución",
+      "poster": "https://image.tmdb.org/t/p/w500/26D1gPCZkDB94NHcIzK7vXJeXca.jpg",
+      "rating": "5.9",
+      "anio": 2024,
+      "duracion": "1h 52min",
+      "genero": "Acción, Crimen, Suspense, Misterio",
+      "descripcion": "Un curtido y peligroso gangster (Liam Neeson) descubre que está empezando a perder la memoria. Decidido a enmendar las cosas con su hija y rectificar los errores del pasado, antes de que sea demasiado tarde intentará hacer lo que sea para redimirse. Pero las garras del mundo criminal no lo soltarán tan fácilmente y se verá obligado a enfrentarse a la organización para la que lleva más de 20 años trabajando.",
+      "director": "Hans Petter Moland",
+      "reparto": "Liam Neeson, Ron Perlman, Yolonda Ross, Frankie Shaw, Daniel Diemer, Jimmy Gonzales, Josh Drennen, Deanna Tarraza, Terrence Pulliam, Omar Moustafa Ghonim, Tom Kemp, Ryan Homchick",
+      "embedUrl": "https://bysedikamoum.com/e/78l5yp7d8307",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Las cartas de la vida",
+      "poster": "https://image.tmdb.org/t/p/w500/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg",
+      "rating": "7.7",
+      "anio": 2026,
+      "duracion": "1h 52min",
+      "genero": "Romance, Drama",
+      "descripcion": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
+      "director": "Tyler Perry",
+      "reparto": "Naomi Baker, Jay Reeves, Tamberla Perry, Karen Obilom, Jasmine Sargent, Danielle Moné Truitt, Lucky Johnson, Cornell Young IV, Gena Shaw, Tracy Tolliver, Mike Massa, Philip Fornah",
+      "embedUrl": "https://bysedikamoum.com/e/g00ydhy4uka2",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Cleaner: Rescate vertical",
+      "poster": "https://image.tmdb.org/t/p/w500/c01Y0dVtHiG8tvIiYRkpX0wcESA.jpg",
+      "rating": "6.6",
+      "anio": 2025,
+      "duracion": "1h 37min",
+      "genero": "Acción, Suspense",
+      "descripcion": "Después de que un grupo de activistas se apodere de la gala anual de una compañía energética para denunciar su corrupción, su justa causa es secuestrada por un extremista dispuesto a asesinar a las 300 personas presentes en el edificio para transmitir su mensaje anárquico. Una ex soldado convertida en limpiacristales, suspendida 50 pisos en el exterior del rascacielos londinense, es la encargada de intentar salvar a los que están atrapados dentro, incluido su hermano pequeño.",
+      "director": "Martin Campbell",
+      "reparto": "Daisy Ridley, Taz Skylar, Clive Owen, Flavia Watson, Ray Fearon, Rufus Jones, Lee Boardman, Matthew Tuck, Ruth Gemmell, Richard Hope, Stella Stocker, Akie Kotabe",
+      "embedUrl": "https://bysedikamoum.com/e/04peaplq6wdc",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Sin rastro",
+      "poster": "https://image.tmdb.org/t/p/w500/fFKcNfjOUbfaC8hPuiMxJ8PAudy.jpg",
+      "rating": "6.4",
+      "anio": 2025,
+      "duracion": "1h 50min",
+      "genero": "Suspense, Acción, Aventura",
+      "descripcion": "El mundo de una madre decidida, Mara, se viene abajo cuando su ex marido, Karim, secuestra a su hija pequeña, Amina, y huye a Oriente Medio. Desesperada por traer a su hija a casa, Mara forma equipo con Robeson, un enigmático ex marine y especialista en secuestros de niños. Su misión les lleva a Beirut, donde se ven envueltos en una traicionera red de espionaje internacional, traición y corrupción. Cuando el tiempo se agota, Mara se enfrenta a la decisión más difícil de su vida: recuperar a su hija o dejarla atrás por su propia seguridad.",
+      "director": "James Kent",
+      "reparto": "Kate Beckinsale, Scott Eastwood, Jordan Duvigneau, Matt Craven, Nowar Yusuf, Arvin Kananian, Robert Farrior, Alejandra Howard, ياسمين بوعبيد, Maria Laila Fernandez, Zeljko Matovina, Maria Georgette Saliba",
+      "embedUrl": "https://bysedikamoum.com/e/pc7zakj96ezc",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Zip Wire",
       "poster": "https://image.tmdb.org/t/p/w500/eLMHUOQ4mCMxePMbv0TIVB48zfe.jpg",
       "rating": "7.5",
@@ -214,8 +266,7 @@
       "descripcion": "Sorprendido por una nueva generación de corredores ultrarrápidos, el legendario Rayo McQueen queda relegado repentinamente del deporte que tanto ama. Para retomar su carrera, va a necesitar la ayuda de una joven mecánica de carreras, Cruz Ramírez, que tiene su propio plan para ganar, además de la inspiración del fallecido Fabuloso Hudson Hornet y un par de giros inesperados. ¡Y para probar que el nº95 no está ni mucho menos acabado, el campeón tendrá que poner a prueba su valía en el gran circuito de la Copa Piston!",
       "director": "Brian Fee",
       "reparto": "Owen Wilson, Cristela Alonzo, Chris Cooper, Nathan Fillion, Larry the Cable Guy, Armie Hammer, Ray Magliozzi, Tony Shalhoub, Bonnie Hunt, Lea DeLaria, Kerry Washington, Bob Costas",
-      "embedUrl": "https://bysedikamoum.com/e/8qj92d2hpv6q",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/8qj92d2hpv6q"
     },
     {
       "titulo": "Cars 2",
@@ -227,8 +278,7 @@
       "descripcion": "Rayo McQueen y su amigo, la grúa Mate, viajan al extranjero para participar en el primer Campeonato Mundial en el que se decidirá cuál es el coche más rápido del planeta. La primera etapa es Tokio (Japón), donde Mate tendrá que convertirse en un espía secreto al verse envuelto inesperadamente en un caso de espionaje internacional, que lo llevará a París y a Londres. También vivirán una aventura de proporciones épicas al viajar a Porto Corsa (Italia), para disputar el Campeonato. Sin embargo, los dos tendrán que renunciar a los placeres de la Riviera italiana -yates, playas y pasta al pesto- ya que Mate está muy ocupado con su labor de espía, mientras que McQueen compite contra los mejores coches del mundo.",
       "director": "John Lasseter",
       "reparto": "Larry the Cable Guy, Owen Wilson, Michael Caine, Emily Mortimer, Suzy Eddie Izzard, John Turturro, Brent Musburger, Joe Mantegna, Thomas Kretschmann, Peter Jacobson, Bonnie Hunt, Darrell Waltrip",
-      "embedUrl": "https://bysedikamoum.com/e/v39k1e3k9lmm",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/v39k1e3k9lmm"
     },
     {
       "titulo": "Cars",
@@ -240,8 +290,7 @@
       "descripcion": "El aspirante a campeón de carreras Rayo McQueen parece que está a punto de conseguir el éxito, la fama y todo lo que había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
       "director": "John Lasseter",
       "reparto": "Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy, Cheech Marin, Tony Shalhoub, Guido Quaroni, Jenifer Lewis, Paul Dooley, Michael Wallis, George Carlin, Katherine Helmond",
-      "embedUrl": "https://bysedikamoum.com/e/ylankwcf9ka6",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/ylankwcf9ka6"
     },
     {
       "titulo": "Buscando a Dory",
@@ -253,8 +302,7 @@
       "descripcion": "Un año después de los acontecimientos narrados en \"Buscando a Nemo\", Dory vive apaciblemente con Marlin y su hijo Nemo. Pero durante un viaje para ver cómo las mantarrayas migran de vuelta a casa, los problemas de memoria de Dory parecen desaparecer durante un segundo: recuerda que tiene una familia e inmediatamente decide emprender viaje para reencontrarse con sus padres, a los que perdió hace años.",
       "director": "Andrew Stanton",
       "reparto": "Ellen DeGeneres, Albert Brooks, Ed O'Neill, Hayden Rolence, Diane Keaton, Eugene Levy, Ty Burrell, Kaitlin Olson, Idris Elba, Dominic West, Kate McKinnon, Bill Hader",
-      "embedUrl": "https://bysedikamoum.com/e/h2vpeut0487k",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/h2vpeut0487k"
     },
     {
       "titulo": "Ralph rompe Internet",
@@ -266,8 +314,7 @@
       "descripcion": "Ralph sale de los recreativos, y se adentra en el mundo inexplorado, expansivo y emocionante de Internet. Ralph y su compañera Vanellope tendrán que jugárselo todo viajando por las redes en busca de una pieza de repuesto que salve Sugar Rush, el videojuego de Vanellope. Y para complicar más las cosas, ambos dependen de los ciudadanos de Internet, los llamados ‘ciudanets’ para que les ayuden a desenvolverse en ese peligroso mundo. Entre ellos está un empresario de Internet llamado Yesss, que es el algoritmo estrella y el alma de “BuzzTube”, la página web de moda del momento.",
       "director": "Phil Johnston",
       "reparto": "John C. Reilly, Sarah Silverman, Gal Gadot, Taraji P. Henson, Jack McBrayer, Timothy Simons, Phil Johnston, Mandy Moore, Anika Noni Rose, Irene Bedard, Kristen Bell, Ali Wong",
-      "embedUrl": "https://bysedikamoum.com/e/m0elrny5ufyy",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/m0elrny5ufyy"
     },
     {
       "titulo": "A Working Man",
@@ -279,8 +326,7 @@
       "descripcion": "Levon Cade dejó atrás una condecorada carrera militar en las operaciones encubiertas para vivir una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, que para él es como de la familia, es secuestrada por traficantes de personas, su búsqueda para traerla a casa descubre un mundo de corrupción mucho mayor de lo que jamás podría haber imaginado.",
       "director": "David Ayer",
       "reparto": "Jason Statham, Jason Flemyng, Merab Ninidze, Maximilian Osinski, Cokey Falkow, Michael Peña, David Harbour, Noemi Gonzalez, Arianna Rivas, Isla Gie, Emmett J. Scanlan, Eve Mauro",
-      "embedUrl": "https://vimeos.net/embed-4id4rrxl612g.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-4id4rrxl612g.html"
     },
     {
       "titulo": "Asalto al furgón blindado",
@@ -292,8 +338,7 @@
       "descripcion": "En 1982, dos amigos deciden dar el golpe de sus vidas y robar un depósito de vehículos blindados para hacerse con el botín. Un detective de la policía de Nueva York se pone al mando de la investigación para tratar de esclarecer lo que hasta ese momento sería el robo a un furgón blindado más importante de la historia de Estados Unidos. Basada en hechos reales.",
       "director": "Dito Montiel",
       "reparto": "Liam Hemsworth, Dwayne Johnson, Emma Roberts, Nikki Reed, Michael Angarano, Shenae Grimes-Beech, Lydia Hull, Jerry Ferrara, James Ransone, Chris Diamantopoulos, Michael Rispoli, Gia Mantegna",
-      "embedUrl": "https://vimeos.net/embed-5zquz152nhxs.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-5zquz152nhxs.html"
     },
     {
       "titulo": "El mensajero",
@@ -305,8 +350,7 @@
       "descripcion": "Un padre recibe un duro golpe cuando condenan a su hijo adolescente a a una pena de treinta años de cárcel por un delito relacionado con el narcotráfico. Para conseguir que reduzcan su condena, intenta ponerse en contacto con un importante traficante.",
       "director": "Ric Roman Waugh",
       "reparto": "Dwayne Johnson, Barry Pepper, Susan Sarandon, Benjamin Bratt, Michael Kenneth Williams, Melina Kanakaredes, Nadine Velazquez, David Harbour, Jon Bernthal, Harold Perrineau, J. D. Pardo, Lela Loren",
-      "embedUrl": "https://vimeos.net/embed-wyd2xi8erm62.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-wyd2xi8erm62.html"
     },
     {
       "titulo": "Alerta roja",
@@ -318,8 +362,7 @@
       "descripcion": "Cuando la Interpol envía una \"Alerta roja\", significa que los departamentos de Policía de todo el mundo deben estar alerta para capturar a los criminales más buscados. Todas las alarmas saltan cuando un temerario robo une al mejor agente del FBI (Johnson) con dos criminales rivales entre sí (Gadot & Reynolds). Una coincidencia que hará que suceda lo impredecible.",
       "director": "Rawson Marshall Thurber",
       "reparto": "Dwayne Johnson, Ryan Reynolds, Gal Gadot, Ritu Arya, Chris Diamantopoulos, Ivan Mbakop, Vincenzo Amato, Rafael Petardi, Seth Michaels, Sebastien Large, Guy Nardulli, Andrew Hunter",
-      "embedUrl": "https://vimeos.net/embed-759ru3iztpsf.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-759ru3iztpsf.html"
     },
     {
       "titulo": "El regreso de la momia",
@@ -331,8 +374,7 @@
       "descripcion": "Han pasado diez años, Rick O'Connell se ha casado con Evelyn, y ambos son padres del pequeño Alex, de ocho años. Cuando, tras una serie de acontecimientos, la momia del antiguo sacerdote egipcio Im-Ho-Tep es resucitada por una extraña secta en el British Museum, y la maldición milenaria del Rey Escorpión -que seis mil años atrás traicionó al dios Anubis- lo devuelve a la vida, el choque entre ambas fuerzas malignas desencadenará el caos en el mundo... si Rick y Evelyn no consiguen evitarlo.",
       "director": "Stephen Sommers",
       "reparto": "Brendan Fraser, Rachel Weisz, John Hannah, עודד פהר, Arnold Vosloo, Patricia Velásquez, Freddie Boath, Dwayne Johnson, Alun Armstrong, Adewale Akinnuoye-Agbaje, Shaun Parkes, Bruce Byron",
-      "embedUrl": "https://vimeos.net/embed-vj1ogmffye8h.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-vj1ogmffye8h.html"
     },
     {
       "titulo": "Beekeeper: El protector",
@@ -344,8 +386,7 @@
       "descripcion": "La brutal campaña de venganza de Adam Clay adquiere tintes nacionales tras revelarse que es un antiguo agente de una poderosa organización clandestina conocida como \"Beekeeper\".",
       "director": "David Ayer",
       "reparto": "Jason Statham, Emmy Raver-Lampman, Josh Hutcherson, Jeremy Irons, Bobby Naderi, David Witts, Michael Epp, Taylor James, Phylicia Rashād, Jemma Redgrave, Minnie Driver, Don Gilet",
-      "embedUrl": "https://vimeos.net/embed-53oxa4azdmf1.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-53oxa4azdmf1.html"
     },
     {
       "titulo": "Operación Fortune: El gran engaño",
@@ -357,8 +398,7 @@
       "descripcion": "La historia de un agente que es reclutado por una alianza de inteligencia global para rastrear y detener la venta de nuevas tecnologías de armas mortales.",
       "director": "Guy Ritchie",
       "reparto": "Jason Statham, Aubrey Plaza, Cary Elwes, Hugh Grant, Josh Hartnett, Bugzy Malone, Eddie Marsan, Peter Ferdinando, Nicholas Facey, Lourdes Faberes, Ian Bartholomew, Sam Douglas",
-      "embedUrl": "https://vimeos.net/embed-s9jl0m1o874i.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-s9jl0m1o874i.html"
     },
     {
       "titulo": "Animales",
@@ -3744,8 +3784,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Neagley",
@@ -3811,8 +3850,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Reacher",
@@ -4040,8 +4078,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Beso Dinamita",
@@ -4143,8 +4180,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "La chispa del amor",
