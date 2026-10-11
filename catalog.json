@@ -1,6 +1,18 @@
 {
   "movies": [
     {
+      "titulo": "Zip Wire",
+      "poster": "https://image.tmdb.org/t/p/w500/eLMHUOQ4mCMxePMbv0TIVB48zfe.jpg",
+      "rating": "7.5",
+      "anio": 2026,
+      "duracion": "1h 35min",
+      "genero": "Acción, Suspense",
+      "descripcion": "Cuando le roban su revolucionario descubrimiento farmacéutico y asesinan a su compañero, la investigadora Amy debe enfrentarse a su miedo a las alturas para escapar de unos atacantes sin escrúpulos, siendo la única vía de salvación una traicionera pasarela aérea. Para burlar a sus misteriosos perseguidores, tendrá que reunir hasta la última pizca de valor para proteger el descubrimiento científico que cambiará el mundo, y a sí misma, antes de que sea demasiado tarde.",
+      "director": "Howard J. Ford",
+      "reparto": "MyAnna Buring, Joseph Millson, Saffron Burrows, Michael Amariah, Silvia Presente",
+      "embedUrl": "https://bysevepoin.com/e/3oyrgcoeru17/playlist"
+    },
+    {
       "titulo": "Saw VIII",
       "poster": "https://image.tmdb.org/t/p/w500/90T0Cjx2yl6RaFhxas1eKnCphh5.jpg",
       "rating": "6.2",
