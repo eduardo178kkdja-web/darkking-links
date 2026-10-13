@@ -1,6 +1,19 @@
 {
   "movies": [
     {
+      "titulo": "Unabomber",
+      "poster": "https://image.tmdb.org/t/p/w500/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
+      "rating": "6.6",
+      "anio": 2026,
+      "duracion": "1h 41min",
+      "genero": "Suspense, Drama, Crimen",
+      "descripcion": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
+      "director": "Janus Metz",
+      "reparto": "Russell Crowe, Jacob Tremblay, Shailene Woodley, Annabelle Wallis, Alexander Ludwig, Marc Menchaca, Steven Ogg, Mark Camacho, David Webster, Bruce Ramsay, Michelle Leblanc, Gus Halper",
+      "embedUrl": "https://vimeos.net/embed-yupmsj9kuxqq.html",
+      "recienAgregado": true
+    },
+    {
       "titulo": "The Town: Ciudad de ladrones",
       "poster": "https://image.tmdb.org/t/p/w500/4VLzLzGr78AOnAUPv6iCcMNoFDB.jpg",
       "rating": "7.2",
