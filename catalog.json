@@ -1,6 +1,19 @@
 {
   "movies": [
     {
+      "titulo": "Morirás en 6 horas",
+      "poster": "https://image.tmdb.org/t/p/w500/tmZXiSht2bFjowcS2fMeI6mFFC1.jpg",
+      "rating": "6.6",
+      "anio": 2024,
+      "duracion": "1h 31min",
+      "genero": "Suspense, Misterio",
+      "descripcion": "Jeong Yoon camina por una calle, cuando un extraño la detiene y le dice que morirá en 6 horas. El extraño es Joon Woo y afirma poder ver su futuro. Para cambiar su futuro, Jeong Yoon intenta encontrar a la persona que la matará en 6 horas.",
+      "director": "이윤석",
+      "reparto": "박주현, 재현, 곽시양, 김민상, 이철우, 이수정, 류제승, 황휘, 남상도, 진대연, 채원우, 정환",
+      "embedUrl": "https://bysedikamoum.com/e/7xmi00fc2a58/morir%C3%A1s-en-6-horas",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Buddy",
       "poster": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
       "rating": "7.8",
@@ -75,8 +88,7 @@
       "descripcion": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
       "director": "Janus Metz",
       "reparto": "Russell Crowe, Jacob Tremblay, Shailene Woodley, Annabelle Wallis, Alexander Ludwig, Marc Menchaca, Steven Ogg, Mark Camacho, David Webster, Bruce Ramsay, Michelle Leblanc, Gus Halper",
-      "embedUrl": "https://vimeos.net/embed-yupmsj9kuxqq.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-yupmsj9kuxqq.html"
     },
     {
       "titulo": "The Town: Ciudad de ladrones",
@@ -88,8 +100,7 @@
       "descripcion": "En Boston se producen más de 300 robos cada año. Y un barrio llamado Charlestown ha dado más ladrones de vehículos blindados y bancos que ningún otro lugar de EE.UU. Uno de ellos es Doug MacRay, aunque no está hecho de la misma pasta que sus colegas en el crimen. A diferencia de ellos, Doug sí ha tenido una oportunidad de tener éxito, una oportunidad para evitar seguir las huellas criminales de su padre. Pero en lugar de ello, se convirtió en el líder de un grupo de implacables ladrones de bancos que se enorgullecen de coger lo que quieren de forma limpia. La única familia que tiene Doug es la de sus socios criminales. Sin embargo, todo cambia tras el último trabajo de la banda. Doug intentará cambiar de vida y de ciudad, pero no le va a resultar fácil lograrlo.",
       "director": "Ben Affleck",
       "reparto": "Ben Affleck, Jeremy Renner, Rebecca Hall, Jon Hamm, Blake Lively, George Carroll, Pete Postlethwaite, Owen Burke, Titus Welliver, Chris Cooper, Dennis McLaughlin, Corena Chase",
-      "embedUrl": "https://bysedikamoum.com/e/wdlwt45otgz1/video",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/wdlwt45otgz1/video"
     },
     {
       "titulo": "La Odisea",
@@ -101,8 +112,7 @@
       "descripcion": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
       "director": "Christopher Nolan",
       "reparto": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron, John Leguizamo, Travis Scott, Corey Hawkins, Jarreth J. Merz, Niko Nicotera, Elliot Page",
-      "embedUrl": "https://bysedikamoum.com/e/eutiedj2uyn9/la-odisea-2026",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/eutiedj2uyn9/la-odisea-2026"
     },
     {
       "titulo": "Absolución",
