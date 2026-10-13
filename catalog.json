@@ -1,6 +1,19 @@
 {
   "movies": [
     {
+      "titulo": "Buddy",
+      "poster": "https://image.tmdb.org/t/p/w500/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+      "rating": "7.8",
+      "anio": 2026,
+      "duracion": "1h 35min",
+      "genero": "Terror, Comedia, Fantasía",
+      "descripcion": "Un mágico unicornio naranja que canta retiene a su elenco como rehén en una dimensión surrealista de programa de televisión, mientras se vuelve cada vez más demente.",
+      "director": "Casper Kelly",
+      "reparto": "Keegan-Michael Key, Cristin Milioti, Delaney Quinn, Caleb Williams, Madison Skyy Polan, Tristan Borders, Patton Oswalt, Jimmica Collins, Eric Bauza, Topher Grace, Bryson JonSteele, Seamus Flynn",
+      "embedUrl": "https://bysedikamoum.com/e/ccftxs2hv88d/qnvkzhkumjayng-vose-2",
+      "recienAgregado": true
+    },
+    {
       "titulo": "La matanza de Texas",
       "poster": "https://image.tmdb.org/t/p/w500/lvwrg14ovXnAHgsmmlINnC3Oj13.jpg",
       "rating": "5.2",
