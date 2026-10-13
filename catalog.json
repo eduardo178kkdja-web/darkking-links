@@ -3775,14 +3775,14 @@
   ],
   "series": [
     {
-      "titulo": "Between steps",
-      "poster": "https://image.tmdb.org/t/p/w500/vyrpZOFIZJkQG8ZWTezmlNGav8R.jpg",
-      "rating": "7.8",
+      "titulo": "Doctor X Mafia in White",
+      "poster": "https://image.tmdb.org/t/p/w500/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+      "rating": "8.7",
       "anio": 2026,
-      "genero": "Drama, Comedia",
-      "descripcion": "Minjae, un antiguo nadador que perdió una pierna debido a una enfermedad, lleva una vida tranquila y controlada mientras estudia un doctorado. Sin embargo, todo cambia cuando conoce a Yujin, una estudiante de máster que intenta empezar de nuevo tras perder el rumbo de su vida. En un laboratorio de robótica, surge entre ellos un romance apasionado, agridulce y lleno de ternura.",
-      "creador": "민효정",
-      "reparto": "Choo Young-woo, 김소현, 김민, 이규성, 심혜진, 김민석, 박혁권, 서정연, 장인섭, 이창훈, 임진효, 이석형",
+      "genero": "Misterio, Drama, Crimen",
+      "descripcion": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
+      "creador": "편성근",
+      "reparto": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희, Kim Young-min, 이성욱, 권승우, 허준석, 김영아, 최덕문, 김정영",
       "temporadas": [
         {
           "numero": 1,
@@ -3790,21 +3790,15 @@
           "capitulos": [
             {
               "numero": 1,
-              "nombre": "Un encuentro inesperado",
-              "duracion": "1h 9min",
-              "embedUrl": "https://bysevepoin.com/e/inog9t31ca70"
+              "nombre": "a nueva cirujana",
+              "duracion": "66 min",
+              "embedUrl": "https://bysevepoin.com/e/uz7eup9i5mfw"
             },
             {
               "numero": 2,
-              "nombre": "Un accidente en el laboratorio",
-              "duracion": "1h 13min",
-              "embedUrl": "https://bysevepoin.com/e/yxepoj5zyzot"
-            },
-            {
-              "numero": 3,
-              "nombre": "Distancia entre los dos",
-              "duracion": "1h 10min",
-              "embedUrl": "https://bysevepoin.com/e/1jfz43a34clq"
+              "nombre": "a nueva cirujana",
+              "duracion": "64 min",
+              "embedUrl": "https://bysevepoin.com/e/us28etck9sy0"
             }
           ]
         }
