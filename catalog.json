@@ -1,6 +1,19 @@
 {
   "movies": [
     {
+      "titulo": "Cars: Spooky Halloween Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/n6rYvDmGAbXs0rRveyUEDbgtdBC.jpg",
+      "rating": "1.0",
+      "anio": 2026,
+      "duracion": "2min",
+      "genero": "Animación, Familia",
+      "descripcion": "Es la noche de Halloween en Radiator Springs, y el Rayo y su mejor amigo Mate disfrutan de las festividades en la tradicional y espeluznante fiesta vecinal. Pero cuando el Rayo se aburre de la gasolina con sabores, las tuercas asadas y los conos-calabaza, convence a Mate para ir a explorar el viejo garaje embrujado a las afueras del pueblo. ¿Serán lo suficientemente valientes para pasar la noche sin llevarse un buen susto?",
+      "director": "",
+      "reparto": "",
+      "embedUrl": "https://bysedikamoum.com/e/5e12ln519l48/video-mdi2-lat",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Unabomber",
       "poster": "https://image.tmdb.org/t/p/w500/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
       "rating": "6.6",
