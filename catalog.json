@@ -1,6 +1,45 @@
 {
   "movies": [
     {
+      "titulo": "La matanza de Texas",
+      "poster": "https://image.tmdb.org/t/p/w500/lvwrg14ovXnAHgsmmlINnC3Oj13.jpg",
+      "rating": "5.2",
+      "anio": 2022,
+      "duracion": "1h 23min",
+      "genero": "Terror",
+      "descripcion": "Melody (Sarah Yarkin), su hermana adolescente Lila (Elsie Fisher) y sus amigos Dante (Jacob Latimore) y Ruth (Nell Hudson) viajan al remoto pueblo de Harlow (Texas) para montar un negocio muy idealista. Pero su sueño se convierte en una auténtica pesadilla cuando molestan sin querer a Leatherface, el desquiciado asesino en serie cuyo sangriento legado sigue acechando a los habitantes de la zona, entre ellos Sally Hardesty (Olwen Fouéré), la única superviviente de su masacre de 1973, decidida a vengarse a muerte.",
+      "director": "David Blue Garcia",
+      "reparto": "Sarah Yarkin, Elsie Fisher, Mark Burnham, Jacob Latimore, Moe Dunford, Olwen Fouéré, Jessica Allain, Nell Hudson, Alice Krige, William Hope, Jolyon Coy, Sam Douglas",
+      "embedUrl": "https://bysedikamoum.com/e/ai0d5oqnqkbt/m3u",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Gran tsunami",
+      "poster": "https://image.tmdb.org/t/p/w500/qQ6sKbq0F2G2bIoFPi77Omj4UIf.jpg",
+      "rating": "4.8",
+      "anio": 2021,
+      "duracion": "1h 18min",
+      "genero": "Terror, Acción, Drama",
+      "descripcion": "Un tsunami irrumpe repentinamente, atrapando a Jiang Peng y a su hija Jiang Xiao Hu, en el barrio chino de un país del sudeste asiático. Ambos, junto con otros habitantes, se preparan para luchar contra la calamidad que se avecina. Sin embargo, después de superar el desastre natural, deberán enfrentar otra batalla de vida o muerte: un cocodrilo monstruoso y gigante.",
+      "director": "周九钦",
+      "reparto": "荣飞, 王影璐, 劉錫明, Daniella Wang, Huo Weimin, Tong Xi, Li Junru, 李延, 李栋, 李卓阳",
+      "embedUrl": "https://bysedikamoum.com/e/wvvhivwq1uye/hls",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El distrito quemado",
+      "poster": "https://image.tmdb.org/t/p/w500/3ND8h53vim8riBzLnlZt3SWPauH.jpg",
+      "rating": "6.2",
+      "anio": 2022,
+      "duracion": "1h 43min",
+      "genero": "Terror",
+      "descripcion": "Un hombre afligido descubre que el aparentemente tranquilo pueblo esconde un secreto muy aterrador. Ahora debe encontrar la forma de superar su dolor y luchar contra la oscuridad que ha consumido el pueblo y su gente.",
+      "director": "James Coleman",
+      "reparto": "Sarah Santizo, Amy Zubieta, Chad Melancon",
+      "embedUrl": "https://bysedikamoum.com/e/a0q2zxcyt1pd/index-v1-a1",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Cars: Spooky Halloween Adventure",
       "poster": "https://image.tmdb.org/t/p/w500/n6rYvDmGAbXs0rRveyUEDbgtdBC.jpg",
       "rating": "1.0",
