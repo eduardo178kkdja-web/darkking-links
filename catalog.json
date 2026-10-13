@@ -1,16 +1,17 @@
 {
   "movies": [
     {
-      "titulo": "The Odyssey",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/jSmDzN30iVBVEuHwnBAsUY9c7uB.jpg",
+      "titulo": "La odisea",
+      "poster": "https://image.tmdb.org/t/p/w500/jSmDzN30iVBVEuHwnBAsUY9c7uB.jpg",
       "rating": "4.0",
       "anio": 2026,
       "duracion": "1h 26min",
       "genero": "Aventura, Fantasía, Acción",
-      "descripcion": "El rey Odiseo regresa por fin a casa tras diez años de intensos combates y derramamiento de sangre en la guerra de Troya. Pero su arduo viaje para volver junto a su amada está plagado de monstruos peligrosos y pruebas arriesgadas, más traicioneras de lo que jamás hubiera imaginado. Versión del estudio The Asylum, compañía de cine famosa por hacer películas de bajo coste que imitan títulos grandes de Hollywood para estrenarse a la vez.",
+      "descripcion": "El rey Odiseo regresa por fin a casa tras diez años de intensos combates y derramamiento de sangre en la guerra de Troya. Pero su arduo viaje para volver junto a su amada está plagado de monstruos peligrosos y pruebas arriesgadas, más traicioneras de lo que jamás hubiera imaginado.  Versión del estudio The Asylum, compañía de cine famosa por hacer películas de bajo coste que imitan títulos grandes de Hollywood para estrenarse a la vez.",
       "director": "Marcel Walz",
-      "reparto": "",
+      "reparto": "Myrom Kingery, Morgan Flanagan, Patrick Byrnes, Dominic Keating, Llana Barron, Jordan Iverach, Tony Wood, Ashton Rogers, Angelo Kern, Martin Richard Chappell",
       "embedUrl": "https://bysedikamoum.com/e/ct39cdevn1b7/vip",
+      "tmdbId": 1698863,
       "recienAgregado": true
     },
     {
