@@ -1,6 +1,45 @@
 {
   "movies": [
     {
+      "titulo": "La odisea",
+      "poster": "https://image.tmdb.org/t/p/w500/jSmDzN30iVBVEuHwnBAsUY9c7uB.jpg",
+      "rating": "4.0",
+      "anio": 2026,
+      "duracion": "1h 26min",
+      "genero": "Aventura, Fantasía, Acción",
+      "descripcion": "El rey Odiseo regresa por fin a casa tras diez años de intensos combates y derramamiento de sangre en la guerra de Troya. Pero su arduo viaje para volver junto a su amada está plagado de monstruos peligrosos y pruebas arriesgadas, más traicioneras de lo que jamás hubiera imaginado.  Versión del estudio The Asylum, compañía de cine famosa por hacer películas de bajo coste que imitan títulos grandes de Hollywood para estrenarse a la vez.",
+      "director": "Marcel Walz",
+      "reparto": "Myrom Kingery, Morgan Flanagan, Patrick Byrnes, Dominic Keating, Llana Barron, Jordan Iverach, Tony Wood, Ashton Rogers, Angelo Kern, Martin Richard Chappell",
+      "embedUrl": "https://bysedikamoum.com/e/ct39cdevn1b7/la-odisea-2",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "The Town: Ciudad de ladrones",
+      "poster": "https://image.tmdb.org/t/p/w500/4VLzLzGr78AOnAUPv6iCcMNoFDB.jpg",
+      "rating": "7.2",
+      "anio": 2010,
+      "duracion": "2h 5min",
+      "genero": "Crimen, Drama, Suspense",
+      "descripcion": "En Boston se producen más de 300 robos cada año. Y un barrio llamado Charlestown ha dado más ladrones de vehículos blindados y bancos que ningún otro lugar de EE.UU. Uno de ellos es Doug MacRay, aunque no está hecho de la misma pasta que sus colegas en el crimen. A diferencia de ellos, Doug sí ha tenido una oportunidad de tener éxito, una oportunidad para evitar seguir las huellas criminales de su padre. Pero en lugar de ello, se convirtió en el líder de un grupo de implacables ladrones de bancos que se enorgullecen de coger lo que quieren de forma limpia. La única familia que tiene Doug es la de sus socios criminales. Sin embargo, todo cambia tras el último trabajo de la banda. Doug intentará cambiar de vida y de ciudad, pero no le va a resultar fácil lograrlo.",
+      "director": "Ben Affleck",
+      "reparto": "Ben Affleck, Jeremy Renner, Rebecca Hall, Jon Hamm, Blake Lively, George Carroll, Pete Postlethwaite, Owen Burke, Titus Welliver, Chris Cooper, Dennis McLaughlin, Corena Chase",
+      "embedUrl": "https://bysedikamoum.com/e/wdlwt45otgz1/video",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "La Odisea",
+      "poster": "https://image.tmdb.org/t/p/w500/sf2ke1nwFOLLcwLZiXu9VaMMv8e.jpg",
+      "rating": "8.0",
+      "anio": 2026,
+      "duracion": "2h 53min",
+      "genero": "Aventura, Acción, Fantasía",
+      "descripcion": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "director": "Christopher Nolan",
+      "reparto": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron, John Leguizamo, Travis Scott, Corey Hawkins, Jarreth J. Merz, Niko Nicotera, Elliot Page",
+      "embedUrl": "https://bysedikamoum.com/e/eutiedj2uyn9/la-odisea-2026",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Absolución",
       "poster": "https://image.tmdb.org/t/p/w500/26D1gPCZkDB94NHcIzK7vXJeXca.jpg",
       "rating": "5.9",
@@ -10,8 +49,7 @@
       "descripcion": "Un curtido y peligroso gangster (Liam Neeson) descubre que está empezando a perder la memoria. Decidido a enmendar las cosas con su hija y rectificar los errores del pasado, antes de que sea demasiado tarde intentará hacer lo que sea para redimirse. Pero las garras del mundo criminal no lo soltarán tan fácilmente y se verá obligado a enfrentarse a la organización para la que lleva más de 20 años trabajando.",
       "director": "Hans Petter Moland",
       "reparto": "Liam Neeson, Ron Perlman, Yolonda Ross, Frankie Shaw, Daniel Diemer, Jimmy Gonzales, Josh Drennen, Deanna Tarraza, Terrence Pulliam, Omar Moustafa Ghonim, Tom Kemp, Ryan Homchick",
-      "embedUrl": "https://bysedikamoum.com/e/78l5yp7d8307",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/78l5yp7d8307"
     },
     {
       "titulo": "Las cartas de la vida",
@@ -23,8 +61,7 @@
       "descripcion": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
       "director": "Tyler Perry",
       "reparto": "Naomi Baker, Jay Reeves, Tamberla Perry, Karen Obilom, Jasmine Sargent, Danielle Moné Truitt, Lucky Johnson, Cornell Young IV, Gena Shaw, Tracy Tolliver, Mike Massa, Philip Fornah",
-      "embedUrl": "https://bysedikamoum.com/e/g00ydhy4uka2",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/g00ydhy4uka2"
     },
     {
       "titulo": "Cleaner: Rescate vertical",
@@ -36,8 +73,7 @@
       "descripcion": "Después de que un grupo de activistas se apodere de la gala anual de una compañía energética para denunciar su corrupción, su justa causa es secuestrada por un extremista dispuesto a asesinar a las 300 personas presentes en el edificio para transmitir su mensaje anárquico. Una ex soldado convertida en limpiacristales, suspendida 50 pisos en el exterior del rascacielos londinense, es la encargada de intentar salvar a los que están atrapados dentro, incluido su hermano pequeño.",
       "director": "Martin Campbell",
       "reparto": "Daisy Ridley, Taz Skylar, Clive Owen, Flavia Watson, Ray Fearon, Rufus Jones, Lee Boardman, Matthew Tuck, Ruth Gemmell, Richard Hope, Stella Stocker, Akie Kotabe",
-      "embedUrl": "https://bysedikamoum.com/e/04peaplq6wdc",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/04peaplq6wdc"
     },
     {
       "titulo": "Sin rastro",
@@ -49,8 +85,7 @@
       "descripcion": "El mundo de una madre decidida, Mara, se viene abajo cuando su ex marido, Karim, secuestra a su hija pequeña, Amina, y huye a Oriente Medio. Desesperada por traer a su hija a casa, Mara forma equipo con Robeson, un enigmático ex marine y especialista en secuestros de niños. Su misión les lleva a Beirut, donde se ven envueltos en una traicionera red de espionaje internacional, traición y corrupción. Cuando el tiempo se agota, Mara se enfrenta a la decisión más difícil de su vida: recuperar a su hija o dejarla atrás por su propia seguridad.",
       "director": "James Kent",
       "reparto": "Kate Beckinsale, Scott Eastwood, Jordan Duvigneau, Matt Craven, Nowar Yusuf, Arvin Kananian, Robert Farrior, Alejandra Howard, ياسمين بوعبيد, Maria Laila Fernandez, Zeljko Matovina, Maria Georgette Saliba",
-      "embedUrl": "https://bysedikamoum.com/e/pc7zakj96ezc",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/pc7zakj96ezc"
     },
     {
       "titulo": "Zip Wire",
@@ -3726,6 +3761,68 @@
     }
   ],
   "series": [
+    {
+      "titulo": "Between steps",
+      "poster": "https://image.tmdb.org/t/p/w500/vyrpZOFIZJkQG8ZWTezmlNGav8R.jpg",
+      "rating": "7.8",
+      "anio": 2026,
+      "genero": "Drama, Comedia",
+      "descripcion": "Minjae, un antiguo nadador que perdió una pierna debido a una enfermedad, lleva una vida tranquila y controlada mientras estudia un doctorado. Sin embargo, todo cambia cuando conoce a Yujin, una estudiante de máster que intenta empezar de nuevo tras perder el rumbo de su vida. En un laboratorio de robótica, surge entre ellos un romance apasionado, agridulce y lleno de ternura.",
+      "creador": "민효정",
+      "reparto": "Choo Young-woo, 김소현, 김민, 이규성, 심혜진, 김민석, 박혁권, 서정연, 장인섭, 이창훈, 임진효, 이석형",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Un encuentro inesperado",
+              "duracion": "1h 9min",
+              "embedUrl": "https://bysevepoin.com/e/inog9t31ca70"
+            },
+            {
+              "numero": 2,
+              "nombre": "Un accidente en el laboratorio",
+              "duracion": "1h 13min",
+              "embedUrl": "https://bysevepoin.com/e/yxepoj5zyzot"
+            },
+            {
+              "numero": 3,
+              "nombre": "Distancia entre los dos",
+              "duracion": "1h 10min",
+              "embedUrl": "https://bysevepoin.com/e/1jfz43a34clq"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Amor, dulce amor",
+      "poster": "https://image.tmdb.org/t/p/w500/qzH80C1YNzucLsVJfW23RxvX9vS.jpg",
+      "rating": "9.5",
+      "anio": 2026,
+      "genero": "Comedia, Drama",
+      "descripcion": "En una idílica isla japonesa, la trabajadora agricultora Karin Shirahama entrega su corazón y alma a cultivar las mejores fresas posibles. Un día, Lee Yubin, un chico de ciudad con mala suerte llega a la isla y, tras un primer encuentro hilarantemente incómodo, ambos terminan pasando mucho más tiempo juntos debido a un malentendido inesperado.",
+      "creador": "이재윤",
+      "reparto": "지창욱, Mio Imada, 남윤수, Rinka Kumada, 정순원, 강남, Kim Tae-hun, 佐戸井けん太, 段田安則, Gong Jae-kyung",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Un encuentro inesperado",
+              "duracion": "47 min",
+              "embedUrl": "https://bysesukior.com/e/733yr7thug1e"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
     {
       "titulo": "Un amor distinto al tuyo",
       "poster": "https://image.tmdb.org/t/p/w500/uZUo3eBpDOqVfeSRHqHBnQORzBk.jpg",
