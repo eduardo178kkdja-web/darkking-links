@@ -1,6 +1,19 @@
 {
   "movies": [
     {
+      "titulo": "Operación Teherán",
+      "poster": "https://image.tmdb.org/t/p/w500/5uB1PWP3QHEcgMXKChsaYmtTUkQ.jpg",
+      "rating": "6.8",
+      "anio": 2026,
+      "duracion": "2h 22min",
+      "genero": "Acción, Suspense",
+      "descripcion": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una última misión y viajan a Teherán para llevar a cabo un golpe arriesgado e ilegal que podría ser su opción para perdonarse a sí mismos o para acabar del todo. Mientras el pasado los persigue y la desconfianza entre ellos va en aumento, la operación se transforma en una prueba moral en la que tendrán que decidir si ser soldados obedientes o son hombres dispuestos a recuperar el control de sus vidas.",
+      "director": "Guy Moshe",
+      "reparto": "Zachary Levi, Liam Neeson, Wes Chatham, Titus Welliver, Navid Negahban, Annet Mahendru, Grant Harvey, Augusto Aguilera, Numan Acar, Elnaaz Norouzi, Oliver Trevena, Quincy Isaiah",
+      "embedUrl": "https://bysedikamoum.com/e/7glj7lhqj4p6",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Morirás en 6 horas",
       "poster": "https://image.tmdb.org/t/p/w500/tmZXiSht2bFjowcS2fMeI6mFFC1.jpg",
       "rating": "6.6",
@@ -62,8 +75,7 @@
       "descripcion": "Un hombre afligido descubre que el aparentemente tranquilo pueblo esconde un secreto muy aterrador. Ahora debe encontrar la forma de superar su dolor y luchar contra la oscuridad que ha consumido el pueblo y su gente.",
       "director": "James Coleman",
       "reparto": "Sarah Santizo, Amy Zubieta, Chad Melancon",
-      "embedUrl": "https://bysedikamoum.com/e/a0q2zxcyt1pd/index-v1-a1",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/a0q2zxcyt1pd/index-v1-a1"
     },
     {
       "titulo": "Cars: Spooky Halloween Adventure",
@@ -75,8 +87,7 @@
       "descripcion": "Es la noche de Halloween en Radiator Springs, y el Rayo y su mejor amigo Mate disfrutan de las festividades en la tradicional y espeluznante fiesta vecinal. Pero cuando el Rayo se aburre de la gasolina con sabores, las tuercas asadas y los conos-calabaza, convence a Mate para ir a explorar el viejo garaje embrujado a las afueras del pueblo. ¿Serán lo suficientemente valientes para pasar la noche sin llevarse un buen susto?",
       "director": "",
       "reparto": "",
-      "embedUrl": "https://bysedikamoum.com/e/5e12ln519l48/video-mdi2-lat",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/5e12ln519l48/video-mdi2-lat"
     },
     {
       "titulo": "Unabomber",
@@ -3956,8 +3967,7 @@
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "Neagley",
