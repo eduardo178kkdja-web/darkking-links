@@ -1,6 +1,19 @@
 {
   "movies": [
     {
+      "titulo": "Lucky Strike",
+      "poster": "https://image.tmdb.org/t/p/w500/c4az2YuhUDmGTRYjsYdD3tFjwuG.jpg",
+      "rating": "6.6",
+      "anio": 2026,
+      "duracion": "1h 42min",
+      "genero": "Acción, Bélica",
+      "descripcion": "Un soldado estadounidense gravemente herido lucha por sobrevivir, durante la II Guerra Mundial, detrás de las líneas enemigas en la Bélgica devastada por la guerra durante la brutal Batalla de las Ardenas. Aislado y obligado a afrontar unas condiciones extremas, debe confiar en su ingenio, su entrenamiento militar y una radio dañada como su única esperanza para evadir a las tropas enemigas que lo buscan. Mientras enfrenta el peligro constante, su objetivo es desesperadamente restablecer contacto con su unidad antes de que sea demasiado tarde.",
+      "director": "Rod Lurie",
+      "reparto": "Scott Eastwood, Colin Hanks, Aunjanue Ellis-Taylor, Taylor John Smith, Lorne MacFadyen, Atanas Srebrev, Alfie Stewart, Jonathan Yunger, Timothy Blore, Laurent Maurel, Caroline Piette, Hazel Rogers",
+      "embedUrl": "https://bysedikamoum.com/e/s2cggikk3oqt/lucky-video-2026",
+      "recienAgregado": true
+    },
+    {
       "titulo": "El amor de tu vida",
       "poster": "https://image.tmdb.org/t/p/w500/nqeDR6qGU8mqguQHRkAUg2ySBZv.jpg",
       "rating": "6.5",
