@@ -1,6 +1,19 @@
 {
   "movies": [
     {
+      "titulo": "El amor de tu vida",
+      "poster": "https://image.tmdb.org/t/p/w500/nqeDR6qGU8mqguQHRkAUg2ySBZv.jpg",
+      "rating": "6.5",
+      "anio": 2026,
+      "duracion": "1h 49min",
+      "genero": "Romance, Drama",
+      "descripcion": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
+      "director": "Rachel Morrison",
+      "reparto": "Margaret Qualley, Aaron Pierre, Patrick Schwarzenegger, Gabriel Basso, Catherine Keener, Tamara Lawrance, Corey Johnson, Michael Shelford, Adam Woodward, Gayané Kaligian, Vas Constanti, Mary Pursell",
+      "embedUrl": "https://bysedikamoum.com/e/nq2pk8v3m50d/amor-pelicula",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Operación Teherán",
       "poster": "https://image.tmdb.org/t/p/w500/5uB1PWP3QHEcgMXKChsaYmtTUkQ.jpg",
       "rating": "6.8",
@@ -10,8 +23,7 @@
       "descripcion": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una última misión y viajan a Teherán para llevar a cabo un golpe arriesgado e ilegal que podría ser su opción para perdonarse a sí mismos o para acabar del todo. Mientras el pasado los persigue y la desconfianza entre ellos va en aumento, la operación se transforma en una prueba moral en la que tendrán que decidir si ser soldados obedientes o son hombres dispuestos a recuperar el control de sus vidas.",
       "director": "Guy Moshe",
       "reparto": "Zachary Levi, Liam Neeson, Wes Chatham, Titus Welliver, Navid Negahban, Annet Mahendru, Grant Harvey, Augusto Aguilera, Numan Acar, Elnaaz Norouzi, Oliver Trevena, Quincy Isaiah",
-      "embedUrl": "https://bysedikamoum.com/e/7glj7lhqj4p6",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/7glj7lhqj4p6"
     },
     {
       "titulo": "Morirás en 6 horas",
@@ -23,8 +35,7 @@
       "descripcion": "Jeong Yoon camina por una calle, cuando un extraño la detiene y le dice que morirá en 6 horas. El extraño es Joon Woo y afirma poder ver su futuro. Para cambiar su futuro, Jeong Yoon intenta encontrar a la persona que la matará en 6 horas.",
       "director": "이윤석",
       "reparto": "박주현, 재현, 곽시양, 김민상, 이철우, 이수정, 류제승, 황휘, 남상도, 진대연, 채원우, 정환",
-      "embedUrl": "https://bysedikamoum.com/e/7xmi00fc2a58/morir%C3%A1s-en-6-horas",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/7xmi00fc2a58/morir%C3%A1s-en-6-horas"
     },
     {
       "titulo": "Buddy",
@@ -36,8 +47,7 @@
       "descripcion": "Un mágico unicornio naranja que canta retiene a su elenco como rehén en una dimensión surrealista de programa de televisión, mientras se vuelve cada vez más demente.",
       "director": "Casper Kelly",
       "reparto": "Keegan-Michael Key, Cristin Milioti, Delaney Quinn, Caleb Williams, Madison Skyy Polan, Tristan Borders, Patton Oswalt, Jimmica Collins, Eric Bauza, Topher Grace, Bryson JonSteele, Seamus Flynn",
-      "embedUrl": "https://bysedikamoum.com/e/ccftxs2hv88d/qnvkzhkumjayng-vose-2",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/ccftxs2hv88d/qnvkzhkumjayng-vose-2"
     },
     {
       "titulo": "La matanza de Texas",
@@ -49,8 +59,7 @@
       "descripcion": "Melody (Sarah Yarkin), su hermana adolescente Lila (Elsie Fisher) y sus amigos Dante (Jacob Latimore) y Ruth (Nell Hudson) viajan al remoto pueblo de Harlow (Texas) para montar un negocio muy idealista. Pero su sueño se convierte en una auténtica pesadilla cuando molestan sin querer a Leatherface, el desquiciado asesino en serie cuyo sangriento legado sigue acechando a los habitantes de la zona, entre ellos Sally Hardesty (Olwen Fouéré), la única superviviente de su masacre de 1973, decidida a vengarse a muerte.",
       "director": "David Blue Garcia",
       "reparto": "Sarah Yarkin, Elsie Fisher, Mark Burnham, Jacob Latimore, Moe Dunford, Olwen Fouéré, Jessica Allain, Nell Hudson, Alice Krige, William Hope, Jolyon Coy, Sam Douglas",
-      "embedUrl": "https://bysedikamoum.com/e/ai0d5oqnqkbt/m3u",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/ai0d5oqnqkbt/m3u"
     },
     {
       "titulo": "Gran tsunami",
@@ -62,8 +71,7 @@
       "descripcion": "Un tsunami irrumpe repentinamente, atrapando a Jiang Peng y a su hija Jiang Xiao Hu, en el barrio chino de un país del sudeste asiático. Ambos, junto con otros habitantes, se preparan para luchar contra la calamidad que se avecina. Sin embargo, después de superar el desastre natural, deberán enfrentar otra batalla de vida o muerte: un cocodrilo monstruoso y gigante.",
       "director": "周九钦",
       "reparto": "荣飞, 王影璐, 劉錫明, Daniella Wang, Huo Weimin, Tong Xi, Li Junru, 李延, 李栋, 李卓阳",
-      "embedUrl": "https://bysedikamoum.com/e/wvvhivwq1uye/hls",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/wvvhivwq1uye/hls"
     },
     {
       "titulo": "El distrito quemado",
@@ -3897,11 +3905,17 @@
               "nombre": "Un encuentro inesperado",
               "duracion": "47 min",
               "embedUrl": "https://bysesukior.com/e/733yr7thug1e"
+            },
+            {
+              "numero": 2,
+              "nombre": "Un nuevo comienzo entre fresas",
+              "duracion": "48 min",
+              "embedUrl": "https://bysesukior.com/e/7sl332g5zlza"
             }
           ]
         }
       ],
-      "recienAgregado": true
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Un amor distinto al tuyo",
