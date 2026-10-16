@@ -1,6 +1,19 @@
 {
   "movies": [
     {
+      "titulo": "La tormenta",
+      "poster": "https://image.tmdb.org/t/p/w500/7hzCmg7a8nb2K3VQtm36E1YehnH.jpg",
+      "rating": "7.9",
+      "anio": 2026,
+      "duracion": "1h 41min",
+      "genero": "Comedia, Drama",
+      "descripcion": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
+      "director": "Josephine Bornebusch",
+      "reparto": "Gustaf Skarsgård, Aliette Opheim, Filip Berg, Josephine Bornebusch, Jonas Karlsson, Johan Rheborg, Henrik Dorsin, Christopher Wagelin, Sara Shirpey, Gizem Erdogan, Nils Wetterholm, Nicole Levin",
+      "embedUrl": "https://vimeos.net/embed-57ii2qmqsjdt.html",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Lucky Strike",
       "poster": "https://image.tmdb.org/t/p/w500/c4az2YuhUDmGTRYjsYdD3tFjwuG.jpg",
       "rating": "6.6",
@@ -3868,6 +3881,110 @@
     }
   ],
   "series": [
+    {
+      "titulo": "Brothers",
+      "poster": "https://image.tmdb.org/t/p/w500/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
+      "rating": "7.6",
+      "anio": 2026,
+      "genero": "Comedia",
+      "descripcion": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
+      "creador": "Matthew McConaughey, Woody Harrelson, David West Read, Lee Eisenberg",
+      "reparto": "Matthew McConaughey, Woody Harrelson, Natalie Martinez, Brittany Ishibashi, Nolan Almeida, Ella Grace Helton, Noah Carganilla, Highdee Kuan, Oona Yaffe, Holland Taylor",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "A la carretera",
+              "duracion": "34 min",
+              "embedUrl": "https://vimeos.net/embed-h0yj4x4370bs.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "La cacería",
+              "duracion": "30 min",
+              "embedUrl": "https://vimeos.net/embed-0objkm1dwiri.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Mini Woody",
+              "duracion": "32 min",
+              "embedUrl": "https://vimeos.net/embed-4yyh681u7ezh.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "El grupo",
+              "duracion": "25 min",
+              "embedUrl": "https://vimeos.net/embed-dhu77uz4vv2e.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "El Día de San Valentín",
+              "duracion": "26 min",
+              "embedUrl": "https://vimeos.net/embed-b21z4wul8ufl.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Delirio mortal",
+      "poster": "https://image.tmdb.org/t/p/w500/aJboceWct3FYptVPavlhUOjiiSe.jpg",
+      "rating": "7.6",
+      "anio": 2026,
+      "genero": "Crimen, Misterio, Drama",
+      "descripcion": "El padre de Wan (Taew Natapohn) es acusado de un asesinato mientras su matrimonio se derrumba. A punto de perderlo todo, debe encontrar al asesino antes de que sea tarde.",
+      "creador": "",
+      "reparto": "ณฐพร เตมีรักษ์, เจษฎ์พิพัฒ ติละพรพัฒน์, สุรศักดิ์ ชัยอรรถ, วชิรวิชญ์ ไพศาลกุลวงศ์, ศิราณี ญาณกิตติกานต์, TAE, นรภัทร นาคะดำรงชัย, อิสริยา จันทร์อุปละ, Samud Kugasang, ปรัชญา พาทอง",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El monstruo de Nasao",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-dxcjwhkflb74.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Un sospechoso de asesinato",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-vimb4dmex3ac.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Un caso abierto",
+              "duracion": "55 min",
+              "embedUrl": "https://vimeos.net/embed-ulacq0i0imui.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "El segundo asesino",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-qhq26fvdbvm5.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Hay algo enterrado",
+              "duracion": "50 min",
+              "embedUrl": "https://vimeos.net/embed-qzpdle7wd7p2.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "El secreto del asesino",
+              "duracion": "1 h",
+              "embedUrl": "https://vimeos.net/embed-gz2hzp7gapu4.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
     {
       "titulo": "Doctor X Mafia in White",
       "poster": "https://image.tmdb.org/t/p/w500/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
