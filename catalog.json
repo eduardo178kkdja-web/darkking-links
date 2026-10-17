@@ -1,6 +1,58 @@
 {
   "movies": [
     {
+      "titulo": "Don't Move",
+      "poster": "https://image.tmdb.org/t/p/w500/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg",
+      "rating": "5.1",
+      "anio": 2026,
+      "duracion": "1h 34min",
+      "genero": "Terror, Suspense",
+      "descripcion": "Un arácnido prehistórico aterroriza a un grupo de excursionistas perdidos que se adentran en el bosque equivocado.",
+      "director": "Maclain Nelson",
+      "reparto": "Lyndsy Fonseca, Russ, Tom Cavanagh, Hunter King, Joseph Lee Anderson, Rob Riggle, Brian Quinn, Matt Biedel, James Murray, Dee Freeman, T-Pain, Tristan Wilder Hallett",
+      "embedUrl": "https://bysedikamoum.com/e/zqm1ekgw27ww/no-te-muevas-2026",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Jitters",
+      "poster": "https://image.tmdb.org/t/p/w500/fccvkZkZ9yL6BIxojXdqFxPC8fR.jpg",
+      "rating": "5.0",
+      "anio": 2026,
+      "duracion": "1h 34min",
+      "genero": "Terror, Suspense",
+      "descripcion": "El detective Collymore, un padre soltero y divorciado, se topa con un misterioso caso relacionado con la muerte de Tiffany, inicialmente considerada natural. Al indagar más a fondo, descubre los horrores de Jitters",
+      "director": "Marc Zammit",
+      "reparto": "Fabrizio Santino, Daniel Jordan, Anto Sharp, Jessica Impiazzi, Lauren Budd, Chloe Hews, Boo Miller, Ritchi Edwards, Ketan Majmudar, Alyssa Haymor",
+      "embedUrl": "https://bysedikamoum.com/e/qcdxe1ecv3mf/jitters-2026",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Hope",
+      "poster": "https://image.tmdb.org/t/p/w500/hHPIefotew38oJm3YCJPAzpi26c.jpg",
+      "rating": "6.9",
+      "anio": 2026,
+      "duracion": "2h 37min",
+      "genero": "Ciencia ficción, Misterio, Acción",
+      "descripcion": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
+      "director": "나홍진",
+      "reparto": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender, Taylor Russell, Cameron Britton, 이상희, 음문석, 임현식, 황석정, 한우열",
+      "embedUrl": "https://bysedikamoum.com/e/d7xod88kgstz/hope-el-primer-impacto-2026",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Masterplan",
+      "poster": "https://image.tmdb.org/t/p/w500/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
+      "rating": "7.0",
+      "anio": 2026,
+      "duracion": "1h 47min",
+      "genero": "Acción, Suspense",
+      "descripcion": "Cuando un ladrón legendario pone sus ojos en la Mona Lisa, recluta a dos jóvenes desconocidos para que le ayuden: Chiara, una perspicaz experta italiana en ciberdelincuencia, y Jay, un fanfarrón especialista francés en explosivos. Además de contarles sus planes, les revelar que ambos son hermanos... y que él es su padre. Sumergidos en un reencuentro caótico que nunca pidieron, esta nueva familia debe aprender a trabajar en equipo -y tratar de no matarse entre ellos- si quieren tener alguna posibilidad de llevar a cabo el golpe del siglo.",
+      "director": "Thomas Vincent",
+      "reparto": "Stanley Tucci, Simona Tabasco, Victor Belmondo, Eliott Margueron, Bruno Bilotta, Barbara Lo Gaglio, Etienne Guillou-Kervern, Srbo Markovic, Julia Messina",
+      "embedUrl": "https://bysedikamoum.com/e/c71fwywrarr9/masterplan-2926",
+      "recienAgregado": true
+    },
+    {
       "titulo": "La tormenta",
       "poster": "https://image.tmdb.org/t/p/w500/7hzCmg7a8nb2K3VQtm36E1YehnH.jpg",
       "rating": "7.9",
