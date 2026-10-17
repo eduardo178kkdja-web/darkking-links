@@ -1,32 +1,6 @@
 {
   "movies": [
     {
-      "titulo": "Don't Move",
-      "poster": "https://image.tmdb.org/t/p/w500/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg",
-      "rating": "5.1",
-      "anio": 2026,
-      "duracion": "1h 34min",
-      "genero": "Terror, Suspense",
-      "descripcion": "Un arácnido prehistórico aterroriza a un grupo de excursionistas perdidos que se adentran en el bosque equivocado.",
-      "director": "Maclain Nelson",
-      "reparto": "Lyndsy Fonseca, Russ, Tom Cavanagh, Hunter King, Joseph Lee Anderson, Rob Riggle, Brian Quinn, Matt Biedel, James Murray, Dee Freeman, T-Pain, Tristan Wilder Hallett",
-      "embedUrl": "https://bysedikamoum.com/e/zqm1ekgw27ww/no-te-muevas-2026",
-      "recienAgregado": true
-    },
-    {
-      "titulo": "Jitters",
-      "poster": "https://image.tmdb.org/t/p/w500/fccvkZkZ9yL6BIxojXdqFxPC8fR.jpg",
-      "rating": "5.0",
-      "anio": 2026,
-      "duracion": "1h 34min",
-      "genero": "Terror, Suspense",
-      "descripcion": "El detective Collymore, un padre soltero y divorciado, se topa con un misterioso caso relacionado con la muerte de Tiffany, inicialmente considerada natural. Al indagar más a fondo, descubre los horrores de Jitters",
-      "director": "Marc Zammit",
-      "reparto": "Fabrizio Santino, Daniel Jordan, Anto Sharp, Jessica Impiazzi, Lauren Budd, Chloe Hews, Boo Miller, Ritchi Edwards, Ketan Majmudar, Alyssa Haymor",
-      "embedUrl": "https://bysedikamoum.com/e/qcdxe1ecv3mf/jitters-2026",
-      "recienAgregado": true
-    },
-    {
       "titulo": "Masterplan",
       "poster": "https://image.tmdb.org/t/p/w500/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
       "rating": "7.0",
