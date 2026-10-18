@@ -1,6 +1,19 @@
 {
   "movies": [
     {
+      "titulo": "Jitters",
+      "poster": "https://image.tmdb.org/t/p/w500/fccvkZkZ9yL6BIxojXdqFxPC8fR.jpg",
+      "rating": "5.0",
+      "anio": 2026,
+      "duracion": "1h 34min",
+      "genero": "Terror, Suspense",
+      "descripcion": "El detective Collymore, un padre soltero y divorciado, se topa con un misterioso caso relacionado con la muerte de Tiffany, inicialmente considerada natural. Al indagar más a fondo, descubre los horrores de Jitters",
+      "director": "Marc Zammit",
+      "reparto": "Fabrizio Santino, Daniel Jordan, Anto Sharp, Jessica Impiazzi, Lauren Budd, Chloe Hews, Boo Miller, Ritchi Edwards, Ketan Majmudar, Alyssa Haymor",
+      "embedUrl": "https://bysedikamoum.com/e/8wbidx77vyz1/jitters-2026",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Masterplan",
       "poster": "https://image.tmdb.org/t/p/w500/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
       "rating": "7.0",
@@ -3940,8 +3953,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Delirio mortal",
@@ -3995,8 +4007,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Doctor X Mafia in White",
@@ -4023,11 +4034,23 @@
               "nombre": "Dos vidas en juego",
               "duracion": "64 min",
               "embedUrl": "https://bysevepoin.com/e/us28etck9sy0"
+            },
+            {
+              "numero": 3,
+              "nombre": "El colapso del limpiador",
+              "duracion": "1h 3min",
+              "embedUrl": "https://bysevepoin.com/e/d6ln4d7ccvgi"
+            },
+            {
+              "numero": 4,
+              "nombre": "El recién llegado bajo vigilancia",
+              "duracion": "1h 1min",
+              "embedUrl": "https://bysevepoin.com/e/mwztksvpsb7a"
             }
           ]
         }
       ],
-      "recienAgregado": true
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Amor, dulce amor",
@@ -4057,8 +4080,7 @@
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "Un amor distinto al tuyo",
@@ -4121,10 +4143,17 @@
               "nombre": "Amor apasionado",
               "duracion": "1h 4min",
               "embedUrl": "https://bysesukior.com/e/i0yzffnyx8ej"
+            },
+            {
+              "numero": 9,
+              "nombre": "¿Recuerdas cuando nos enamoramos?",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysevepoin.com/e/an93v0rnru13"
             }
           ]
         }
-      ]
+      ],
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Neagley",
@@ -5303,6 +5332,18 @@
               "nombre": "Jesús Lagarto",
               "duracion": "37 min",
               "embedUrl": "https://vimeos.net/embed-iybyof4gce7h.html"
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Q.H.D.A.",
+              "duracion": "45 min",
+              "embedUrl": "https://bysedikamoum.com/e/sckgj3hh9lad/tulsa"
             }
           ]
         }
