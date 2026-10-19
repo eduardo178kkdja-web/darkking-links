@@ -1,6 +1,97 @@
 {
   "movies": [
     {
+      "titulo": "825 Forest Road",
+      "poster": "https://image.tmdb.org/t/p/w500/rSOYVDmg4VFoVuZzu4941X2s1fO.jpg",
+      "rating": "5.9",
+      "anio": 2025,
+      "duracion": "1h 41min",
+      "genero": "Terror, Suspense",
+      "descripcion": "Tras una tragedia familiar, Chuck Wilson espera empezar una nueva vida en Ashland Falls con su esposa María y su hermana pequeña Isabelle, pero pronto descubre que la ciudad guarda un oscuro secreto.",
+      "director": "Stephen Cognetti",
+      "reparto": "Elizabeth Vermilyea, Kathryn Miller, Joe Falcone, Diomire Keane, Darin F. Earl II, Monica Fleurette, Lorenzo Beronilla, Joe Bandelli, Leyah Rose, Claudia Langmaid, Brian Anthony Wilson, Ray Acevedo",
+      "embedUrl": "https://playlatinsrc.co/movie/tt15173952",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El último viaje del Demeter",
+      "poster": "https://image.tmdb.org/t/p/w500/dAImnw2GJNDAEVeGij9HVQNJD2c.jpg",
+      "rating": "6.7",
+      "anio": 2023,
+      "duracion": "1h 59min",
+      "genero": "Terror, Fantasía",
+      "descripcion": "Basado en un solo capítulo, el Captain's Log, de la clásica novela Drácula de 1897 de Bram Stoker, la historia se desarrolla a bordo de la goleta rusa Demeter, que fue fletada para transportar carga privada (veinticuatro cajas de madera sin marcar) desde Carpatia a Londres. La película detallará los extraños eventos que acontecieron a la tripulación condenada mientras intentan sobrevivir al viaje por el océano, acechados cada noche por una aterradora presencia a bordo del barco. Cuando finalmente llegó cerca del puerto de Whitby, estaba totalmente en ruinas. No había rastro de la tripulación.",
+      "director": "André Øvredal",
+      "reparto": "Corey Hawkins, Aisling Franciosi, David Dastmalchian, Javier Botet, Liam Cunningham, Chris Walley, Jon Jon Briones, Stefan Kapičić, Martin Furulund, Nikolai Nikolaeff, Woody Norman, Graham Turner",
+      "embedUrl": "https://playlatinsrc.co/movie/tt1001520",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Mother Mary",
+      "poster": "https://image.tmdb.org/t/p/w500/d4CWItPJIjdnnRsao1DPBO3u5AD.jpg",
+      "rating": "5.7",
+      "anio": 2026,
+      "duracion": "1h 52min",
+      "genero": "Música, Drama, Suspense",
+      "descripcion": "La intensa relación entre la cantante de pop Mary y Sam, una antigua amiga suya, diseñadora de moda, que se vuelven a reunir tras la necesidad de la primera de un vestido para su nueva gira de conciertos.",
+      "director": "David Lowery",
+      "reparto": "Anne Hathaway, Michaela Coel, Hunter Schafer, FKA twigs, Sian Clifford, Kaia Gerber, Alba Baptista, Atheena Frizzell, Jessica Brown Findlay, Isaura Barbé-Brown, Jeanne Nicole Ní Áinle, Taylor Sieve",
+      "embedUrl": "https://playlatinsrc.co/movie/tt27200708",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "La señal del apocalipsis",
+      "poster": "https://image.tmdb.org/t/p/w500/tlJ90qBSApfEoWLDNN7DBJ0wI8n.jpg",
+      "rating": "6.4",
+      "anio": 2026,
+      "duracion": "1h 46min",
+      "genero": "Acción, Ciencia ficción, Suspense",
+      "descripcion": "En un futuro caótico, Jemma, agente de una unidad especial internacional, sufre visiones inquietantes. Cuando niños desaparecen en todo el mundo, descubre un patrón ligado a una antigua profecía apocalíptica. Con el caos en aumento, deberá descifrar sus visiones para evitar una catástrofe global.",
+      "director": "Łukasz Róg",
+      "reparto": "Andrea Tivadar, Jord Knotter, Jack McEvoy, Elijah Rowen, Małgorzata Klara, Mayu Gralińska Sakai, Jakub Ormaniec, Milena Grzybek, Monika Gieron, Natalia Filak, Noah Culbreth, Aleksandra Bąk",
+      "embedUrl": "https://playlatinsrc.co/movie/tt29512655",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Tenzing",
+      "poster": "https://image.tmdb.org/t/p/w500/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
+      "rating": "8.3",
+      "anio": 2026,
+      "duracion": "2h 6min",
+      "genero": "Drama, Historia",
+      "descripcion": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
+      "director": "Jennifer Peedom",
+      "reparto": "更登彭措, Tom Hiddleston, Willem Dafoe, Samdrup Dorje Lama, Bhuchung Kata, Johnny Flynn, Lhakpa Tsamchoe, Jampa Kalsang Tamang, Elizabeth Blackmore, Brandon McClelland, Caitríona Balfe, Thinley Lhamo",
+      "embedUrl": "https://playlatinsrc.co/movie/tt6262770",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Pinocho: Desatado",
+      "poster": "https://image.tmdb.org/t/p/w500/7NpaoOzGDRKJ53znEucFpF2IszT.jpg",
+      "rating": "6.5",
+      "anio": 2026,
+      "duracion": "1h 22min",
+      "genero": "Terror, Fantasía, Misterio",
+      "descripcion": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo para convertirse en un niño de verdad",
+      "director": "Rhys Frake-Waterfield",
+      "reparto": "Jude Evan Lloyd, Cameron Bell, Richard Brake, Jessica Balmer, Jack Art Gray, Robert Englund, Emma Tate, Toni Olabanji, Luca Marandola, Karolina Ugrenyuk, Mya Brown, Scott Chambers",
+      "embedUrl": "https://playlatinsrc.co/movie/tt30887701",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Der Tiger (El tanque)",
+      "poster": "https://image.tmdb.org/t/p/w500/td8bh7p876r36OF0P9PN7fitrCG.jpg",
+      "rating": "7.1",
+      "anio": 2025,
+      "duracion": "1h 56min",
+      "genero": "Bélica, Acción, Drama",
+      "descripcion": "Frente oriental, 1943: la dotación alemana de un tanque Tiger se embarca en una peligrosa misión tras las líneas enemigas. A medida que atraviesan la mortífera tierra de nadie, deberán enfrentarse al enemigo y a sus propios fantasmas del pasado.",
+      "director": "Dennis Gansel",
+      "reparto": "Laurence Rupp, David Schütter, Sebastian Urzendowsky, Leonard Kunz, Yoran Leicher, André Hennicke, Arndt Schwering-Sohnrey, Tilman Strauss, Alžběta Malá, Samuel Himal, Yana Shevchenko",
+      "embedUrl": "https://playlatinsrc.co/movie/tt31495504",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Jitters",
       "poster": "https://image.tmdb.org/t/p/w500/fccvkZkZ9yL6BIxojXdqFxPC8fR.jpg",
       "rating": "5.0",
@@ -10,8 +101,7 @@
       "descripcion": "El detective Collymore, un padre soltero y divorciado, se topa con un misterioso caso relacionado con la muerte de Tiffany, inicialmente considerada natural. Al indagar más a fondo, descubre los horrores de Jitters",
       "director": "Marc Zammit",
       "reparto": "Fabrizio Santino, Daniel Jordan, Anto Sharp, Jessica Impiazzi, Lauren Budd, Chloe Hews, Boo Miller, Ritchi Edwards, Ketan Majmudar, Alyssa Haymor",
-      "embedUrl": "https://bysedikamoum.com/e/8wbidx77vyz1/jitters-2026",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/8wbidx77vyz1/jitters-2026"
     },
     {
       "titulo": "Masterplan",
@@ -23,8 +113,7 @@
       "descripcion": "Cuando un ladrón legendario pone sus ojos en la Mona Lisa, recluta a dos jóvenes desconocidos para que le ayuden: Chiara, una perspicaz experta italiana en ciberdelincuencia, y Jay, un fanfarrón especialista francés en explosivos. Además de contarles sus planes, les revelar que ambos son hermanos... y que él es su padre. Sumergidos en un reencuentro caótico que nunca pidieron, esta nueva familia debe aprender a trabajar en equipo -y tratar de no matarse entre ellos- si quieren tener alguna posibilidad de llevar a cabo el golpe del siglo.",
       "director": "Thomas Vincent",
       "reparto": "Stanley Tucci, Simona Tabasco, Victor Belmondo, Eliott Margueron, Bruno Bilotta, Barbara Lo Gaglio, Etienne Guillou-Kervern, Srbo Markovic, Julia Messina",
-      "embedUrl": "https://bysedikamoum.com/e/c71fwywrarr9/masterplan-2926",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/c71fwywrarr9/masterplan-2926"
     },
     {
       "titulo": "La tormenta",
@@ -36,8 +125,7 @@
       "descripcion": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
       "director": "Josephine Bornebusch",
       "reparto": "Gustaf Skarsgård, Aliette Opheim, Filip Berg, Josephine Bornebusch, Jonas Karlsson, Johan Rheborg, Henrik Dorsin, Christopher Wagelin, Sara Shirpey, Gizem Erdogan, Nils Wetterholm, Nicole Levin",
-      "embedUrl": "https://bysedikamoum.com/e/d7xod88kgstz/hope-el-primer-impacto-2026",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/d7xod88kgstz/hope-el-primer-impacto-2026"
     },
     {
       "titulo": "Lucky Strike",
@@ -49,8 +137,7 @@
       "descripcion": "Un soldado estadounidense gravemente herido lucha por sobrevivir, durante la II Guerra Mundial, detrás de las líneas enemigas en la Bélgica devastada por la guerra durante la brutal Batalla de las Ardenas. Aislado y obligado a afrontar unas condiciones extremas, debe confiar en su ingenio, su entrenamiento militar y una radio dañada como su única esperanza para evadir a las tropas enemigas que lo buscan. Mientras enfrenta el peligro constante, su objetivo es desesperadamente restablecer contacto con su unidad antes de que sea demasiado tarde.",
       "director": "Rod Lurie",
       "reparto": "Scott Eastwood, Colin Hanks, Aunjanue Ellis-Taylor, Taylor John Smith, Lorne MacFadyen, Atanas Srebrev, Alfie Stewart, Jonathan Yunger, Timothy Blore, Laurent Maurel, Caroline Piette, Hazel Rogers",
-      "embedUrl": "https://bysedikamoum.com/e/s2cggikk3oqt/lucky-video-2026",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/s2cggikk3oqt/lucky-video-2026"
     },
     {
       "titulo": "El amor de tu vida",
@@ -62,8 +149,7 @@
       "descripcion": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
       "director": "Rachel Morrison",
       "reparto": "Margaret Qualley, Aaron Pierre, Patrick Schwarzenegger, Gabriel Basso, Catherine Keener, Tamara Lawrance, Corey Johnson, Michael Shelford, Adam Woodward, Gayané Kaligian, Vas Constanti, Mary Pursell",
-      "embedUrl": "https://bysedikamoum.com/e/nq2pk8v3m50d/amor-pelicula",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/nq2pk8v3m50d/amor-pelicula"
     },
     {
       "titulo": "Operación Teherán",
