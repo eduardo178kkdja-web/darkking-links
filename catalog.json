@@ -1,6 +1,138 @@
 {
   "movies": [
     {
+      "titulo": "Hellfire",
+      "poster": "https://image.tmdb.org/t/p/w500/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
+      "rating": "5.3",
+      "anio": 2026,
+      "duracion": "1h 34min",
+      "genero": "Acción, Suspense",
+      "descripcion": "Un hombre solitario llega a un pequeño pueblo y descubre que sus habitantes viven bajo el control de un líder cruel, así que decide intervenir para intentar liberarlos.",
+      "director": "Isaac Florentine",
+      "reparto": "Stephen Lang, Harvey Keitel, Scottie Thompson, Dolph Lundgren, Chris Mullinax, Michael Sirow, Johnny Yong Bosch, Maurice Compte, Natalie Canerday, Hector Melgoza, Levon Panek, Jason Scott Morgan",
+      "embedUrl": "https://bysedikamoum.com/e/pn1eye8c10hp/hell-byse"
+    },
+    {
+      "titulo": "En directo",
+      "poster": "https://image.tmdb.org/t/p/w500/4MQDsOft2xkNxTpOHvULBwKFbbn.jpg",
+      "rating": "7.4",
+      "anio": 2026,
+      "duracion": "1h 56min",
+      "genero": "Crimen, Suspense",
+      "descripcion": "Una reportera joven y su reticente cámara buscan una historia... y acaban formando parte de una red de extracción ilegal de arena dirigida por una despiadada organización mafiosa.",
+      "director": "Dhruv Tripathi",
+      "reparto": "Parineeti Chopra, Deven Bhojani, आदिल हुसैन, Shekhar Suman, Amol Palekar, Nassar, गीता अग्रवाल शर्मा, Saswata Chatterjee, Prachee Shah, Pitobash, Sameer Kochhar",
+      "embedUrl": "https://bysedikamoum.com/e/ytj8q3qw9rz2/en-directo"
+    },
+    {
+      "titulo": "Tenzing",
+      "poster": "https://image.tmdb.org/t/p/w500/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
+      "rating": "8.3",
+      "anio": 2026,
+      "duracion": "2h 6min",
+      "genero": "Drama, Historia",
+      "descripcion": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
+      "director": "Jennifer Peedom",
+      "reparto": "更登彭措, Tom Hiddleston, Willem Dafoe, Samdrup Dorje Lama, Bhuchung Kata, Johnny Flynn, Lhakpa Tsamchoe, Jampa Kalsang Tamang, Elizabeth Blackmore, Brandon McClelland, Caitríona Balfe, Thinley Lhamo",
+      "embedUrl": "https://bysedikamoum.com/e/qz13zjwhjqmt/tenzing-conquistando"
+    },
+    {
+      "titulo": "La señal del apocalipsis",
+      "poster": "https://image.tmdb.org/t/p/w500/tlJ90qBSApfEoWLDNN7DBJ0wI8n.jpg",
+      "rating": "6.4",
+      "anio": 2026,
+      "duracion": "1h 46min",
+      "genero": "Acción, Ciencia ficción, Suspense",
+      "descripcion": "En un futuro caótico, Jemma, agente de una unidad especial internacional, sufre visiones inquietantes. Cuando niños desaparecen en todo el mundo, descubre un patrón ligado a una antigua profecía apocalíptica. Con el caos en aumento, deberá descifrar sus visiones para evitar una catástrofe global.",
+      "director": "Łukasz Róg",
+      "reparto": "Andrea Tivadar, Jord Knotter, Jack McEvoy, Elijah Rowen, Małgorzata Klara, Mayu Gralińska Sakai, Jakub Ormaniec, Milena Grzybek, Monika Gieron, Natalia Filak, Noah Culbreth, Aleksandra Bąk",
+      "embedUrl": "https://bysedikamoum.com/e/ozv5tpazmrn3/apocalipsis"
+    },
+    {
+      "titulo": "Young Washington",
+      "poster": "https://image.tmdb.org/t/p/w500/sOglmM6VNC3qKQl7FKYRqQYj7Jq.jpg",
+      "rating": "7.7",
+      "anio": 2026,
+      "duracion": "2h 1min",
+      "genero": "Historia, Bélica, Drama",
+      "descripcion": "Antes de liderar una nación, George Washington era un joven soldado en un conflicto global. Con alianzas desmoronándose y la guerra acercándose, debe elegir en quién confiar y enfrentar al líder en que se está convirtiendo.",
+      "director": "Jon Erwin",
+      "reparto": "William Franklyn-Miller, Ben Kingsley, Mary-Louise Parker, Leo Hanna, Mia Rodgers, Joel Smallbone, Kelsey Grammer, Andy Serkis, Michael Benz, Jonno Davies, John Foss, Will Joseph",
+      "embedUrl": "https://bysedikamoum.com/e/9pfjhnonm5dl"
+    },
+    {
+      "titulo": "Terminator: Destino oscuro",
+      "poster": "https://image.tmdb.org/t/p/w500/k7PuHoj2oE7nEHExwliF2FSXFnr.jpg",
+      "rating": "6.4",
+      "anio": 2019,
+      "duracion": "2h 0min",
+      "genero": "Ciencia ficción, Acción, Aventura, Suspense",
+      "descripcion": "Sarah Connor une todas sus fuerzas con una mujer cyborg para proteger a una joven de un extremadamente poderoso y nuevo Terminator.",
+      "director": "Tim Miller",
+      "reparto": "Linda Hamilton, Arnold Schwarzenegger, Mackenzie Davis, Natalia Reyes, Gabriel Luna, Diego Boneta, Ferran Fernández, Tristán Ulloa, Stephanie Gil, Tomás Álvarez, Tom Hopper, Alicia Borrachero",
+      "embedUrl": "https://bysedikamoum.com/e/ycf26p0nzxty"
+    },
+    {
+      "titulo": "Terminator Génesis",
+      "poster": "https://image.tmdb.org/t/p/w500/vky6H7mCBjSsg1GMGJtJpGUeVS1.jpg",
+      "rating": "6.0",
+      "anio": 2015,
+      "duracion": "2h 6min",
+      "genero": "Ciencia ficción, Acción, Suspense",
+      "descripcion": "Año 2032. La guerra del futuro se está librando y un grupo de rebeldes humanos tiene el sistema de inteligencia artificial Skynet contra las cuerdas. John Connor es el líder de la resistencia, y Kyle Reese es su fiel soldado, criado en las ruinas de una postapocalíptica California. Para salvaguardar el futuro, Connor envía a Reese a 1984 para salvar a su madre, Sarah de un Terminator programado para matarla con el fin de que no llegue a dar a luz a John. Pero lo que Reese encuentra en el otro lado no es como él esperaba.",
+      "director": "Alan Taylor",
+      "reparto": "Arnold Schwarzenegger, Jason Clarke, Emilia Clarke, Jai Courtney, J.K. Simmons, Dayo Okeniyi, Matt Smith, Courtney B. Vance, Lee Byung-hun, Michael Gladis, Sandrine Holt, Wayne Bastrup",
+      "embedUrl": "https://bysedikamoum.com/e/pf3wi3m04ib8"
+    },
+    {
+      "titulo": "Terminator Salvation",
+      "poster": "https://image.tmdb.org/t/p/w500/qPORLTWsJrqB27xXCkJRMjMl7fk.jpg",
+      "rating": "6.1",
+      "anio": 2009,
+      "duracion": "1h 55min",
+      "genero": "Acción, Ciencia ficción, Suspense",
+      "descripcion": "Nueva entrega de la saga de Terminator, que transcurre en un post-apocalíptico 2018, tras el día del Juicio Final. John Connor es el hombre destinado a liderar la resistencia de los humanos contra Skynet y su ejército de Terminators. Pero el futuro en el que a Connor le enseñaron a creer se ve alterado en parte por la aparición de Marcus Wright, un extraño cuyo último recuerdo es haber estado en el corredor de la muerte, y que afirma haber estado con Kyle Reese, el padre de John. Connor debe decidir si Marcus ha sido enviado desde el futuro o rescatado del pasado, todo en una carrera contrareloj mientras la Resistencia prepara su ataque final contra el corazón del centro de operaciones de Skynet.",
+      "director": "McG",
+      "reparto": "Christian Bale, Sam Worthington, Moon Bloodgood, Helena Bonham Carter, Anton Yelchin, Common, Zach McGowan, Bryce Dallas Howard, Jane Alexander, Michael Ironside, Ivan G'Vera, Dorian Nkono",
+      "embedUrl": "https://bysedikamoum.com/e/umti6bkqjq8x"
+    },
+    {
+      "titulo": "Terminator 3: La rebelión de las máquinas",
+      "poster": "https://image.tmdb.org/t/p/w500/ugVNhnnH3DKUZZ3JtzRkViIh4L9.jpg",
+      "rating": "6.2",
+      "anio": 2003,
+      "duracion": "1h 49min",
+      "genero": "Acción, Suspense, Ciencia ficción",
+      "descripcion": "Ha pasado una década desde que John Connor salvara a la humanidad de la destrucción. En la actualidad John tiene 25 años y vive en la clandestinidad: no hay ninguna prueba documental de su existencia. Así evita ser rastreado por Skynet, la sofisticada corporación de máquinas que una vez intentó acabar con su vida. Pero, ahora, desde el futuro, ha sido enviado el T-X, la máquina destructora cyborg más desarrollada de Skynet. Su misión es completar el trabajo que no pudo terminar su predecesor, el T-1000. El T-X es una máquina tan implacable como bello su aspecto humano. Ahora la única esperanza de sobrevivir para Connnor es Terminator.",
+      "director": "Jonathan Mostow",
+      "reparto": "Arnold Schwarzenegger, Nick Stahl, Claire Danes, Kristanna Loken, Earl Boen, David Andrews, Carolyn Hennesy, Jay Acovone, Mark Famiglietti, Moira Sinise, Chopper Bernet, Christopher Lawford",
+      "embedUrl": "https://bysedikamoum.com/e/0m5ji6fb8ykh"
+    },
+    {
+      "titulo": "Terminator 2: El juicio final",
+      "poster": "https://image.tmdb.org/t/p/w500/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
+      "rating": "8.2",
+      "anio": 1991,
+      "duracion": "2h 17min",
+      "genero": "Acción, Suspense, Ciencia ficción",
+      "descripcion": "Ha pasado once años desde que Sarah Connor fue marcada como objetivo para ser eliminada por un cyborg del futuro. Ahora su hijo John, el futuro líder de la resistencia, es el objetivo de un Terminator más moderno, más mortífero. Una vez más, la resistencia se las ha ingeniado para enviar un protector de vuelta al pasado para intentar salvar a John y a su madre Sarah.",
+      "director": "James Cameron",
+      "reparto": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick, Earl Boen, Joe Morton, S. Epatha Merkerson, Castulo Guerra, Danny Cooksey, Jenette Goldstein, Xander Berkeley, Leslie Hamilton Gearren",
+      "embedUrl": "https://bysedikamoum.com/e/wmspvmaeesoz"
+    },
+    {
+      "titulo": "Terminator",
+      "poster": "https://image.tmdb.org/t/p/w500/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
+      "rating": "7.7",
+      "anio": 1984,
+      "duracion": "1h 48min",
+      "genero": "Acción, Suspense, Ciencia ficción",
+      "descripcion": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
+      "director": "James Cameron",
+      "reparto": "Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield, Lance Henriksen, Rick Rossovich, Bess Motta, Earl Boen, Dick Miller, Shawn Schepps, Bruce M. Kerner, Franco Columbu",
+      "embedUrl": "https://bysedikamoum.com/e/bpup8y0paaaj"
+    },
+    {
       "titulo": "Basic",
       "poster": "https://image.tmdb.org/t/p/w500/5yk0f45lv7TqLd3qSgaNNiPX7js.jpg",
       "rating": "6.5",
@@ -10,8 +142,7 @@
       "descripcion": "Canal de Panama. 1 de Noviembre. 18:00 horas. Un huracán golpea con fuerza una base del ejército norteamericano y alrededores. Un equipo de Rangers, un cuerpo de élite de operaciones encubiertas, a las órdenes del temible sargento Nathan West (Samuel L. Jackson) se despliega en la jungla en lo que parecen unas simples maniobras. 17 horas después, el sargento y varios miembros de su equipo han desaparecido. Dos soldados son rescatados del lugar de los hechos y cada uno tiene una versión distinta de lo sucedido. El ejército convoca al brillante e indisciplinado interrogador Tom Hardy (John Travolta) para descubrir la verdad. Todo parece indicar que no se trataba de una simple misión de entrenamiento...",
       "director": "John McTiernan",
       "reparto": "John Travolta, Connie Nielsen, Samuel L. Jackson, Tim Daly, Giovanni Ribisi, Brian Van Holt, Taye Diggs, Dash Mihok, Cristián de la Fuente, Roselyn Sánchez, Harry Connick Jr., Margaret Travolta",
-      "embedUrl": "https://vimeos.net/embed-q6s2ksveocrf.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-q6s2ksveocrf.html"
     },
     {
       "titulo": "Gary",
@@ -23,8 +154,7 @@
       "descripcion": "Dos amigos emprenden un viaje de trabajo, pero se topan con retos inesperados al intentar cumplir su misión. A medida que solucionan problemas y conectan con los lugareños, la experiencia les deja una huella imborrable y les ofrece una nueva perspectiva de su amistad.",
       "director": "Christopher Storer",
       "reparto": "Ebon Moss-Bachrach, Jon Bernthal, Marin Ireland, Gillian Jacobs, Nation Sage Henrikson, T.J. Jagodowski, Elisha Evans, Richard Gomez, Lisa Beasley, Brooke Breit, Katie Klein, Laurel Krabacher",
-      "embedUrl": "https://vimeos.net/embed-yykclr0utut6.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-yykclr0utut6.html"
     },
     {
       "titulo": "Hasta el Fin del Mundo",
@@ -36,8 +166,7 @@
       "descripcion": "La vida de Manuel da un vuelco cuando Esmeralda, su amor perdido de hace quince años, lo llama inesperadamente. A pesar de estar a punto de casarse con otra persona, él se reencontrará con Esmeralda y ambos se darán cuenta de que su amor trasciende el tiempo.",
       "director": "Emiliano Castro Vizcarra",
       "reparto": "Mauricio Ochmann, Aislinn Derbez, Daniel Pérez Prada, Melina Figueroa, Miguel Ángel Jiménez, Eduardo Santacruz",
-      "embedUrl": "https://vimeos.net/embed-422jk1317z8o.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-422jk1317z8o.html"
     },
     {
       "titulo": "La última escena",
@@ -49,8 +178,7 @@
       "descripcion": "Selen posee el don de ver el futuro en sus sueños. Tras años cambiando el destino de desconocidos, una visión le muestra su propia muerte… y a un hombre que intenta salvarla. Cuando conoce a Kemal, el hombre de su visión, se ve arrastrada a algo mucho más profundo que el destino: el amor. Dividida entre el miedo y el deseo, Selen emprende un viaje en el que el romance y el peligro son inseparables, y donde el despertar de su corazón podría ser la verdadera respuesta.",
       "director": "Ali Bilgin",
       "reparto": "Hilal Altınbilek, Serkan Çayoğlu, Olcay Yusufoğlu, Bora Karakul, Sema Mumcu, Gökçen Gökçebağ, Yiğit Kalkavan, Sedat Savtak, Doruk Hasret Arı, Kuzey Özcan",
-      "embedUrl": "https://vimeos.net/embed-zgmtm5haol4j.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-zgmtm5haol4j.html"
     },
     {
       "titulo": "Una mujer sin pasado",
@@ -62,8 +190,7 @@
       "descripcion": "Tras descubrir que tiene familia y un imperio naviero, una mujer con amnesia vuelve a su pasado acomodado y aparentemente perfecto para entender por qué lo abandonó.",
       "director": "Barbara Topsøe-Rothenborg",
       "reparto": "Natalie Madueño, Claes Bang, Pål Sverre Hagen, Stina Ekblad, Ingrid Bolsø Berdal, Thea Sofie Loch Næss, Lars Simonsen, Ida Appel, Nina Christrup, David Elting, Rasmus Hammerich, Joen Højerslev",
-      "embedUrl": "https://vimeos.net/embed-nb8wat9scqyq.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-nb8wat9scqyq.html"
     },
     {
       "titulo": "No se desea buena suerte",
@@ -75,8 +202,7 @@
       "descripcion": "Sophie Birenbaum está encantada de ser la protagonista del musical de su instituto, hasta que de repente debe enfrentarse a más problemas en casa que en el escenario.",
       "director": "Julia Hart",
       "reparto": "Sunny Sandler, Melanie Lynskey, Max Greenfield, Stephanie Beatriz, Bebe Neuwirth, Steve Buscemi, Matan Friedman, Eitan Friedman, Scarlett Estevez, Emma McNulty, Jack Champion, Elyse Bell",
-      "embedUrl": "https://vimeos.net/embed-kko2w94tk90c.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-kko2w94tk90c.html"
     },
     {
       "titulo": "Dink",
@@ -88,8 +214,7 @@
       "descripcion": "A Dusty “Martillo” Boyd, un tenista profesional en declive, le vendría muy bien una victoria. En su lucha por salvar un club de campo con problemas y ganarse el respeto de su padre, Dusty rompe un voto sagrado y hace lo impensable: jugar al pickleball.",
       "director": "Josh Greenbaum",
       "reparto": "Jake Johnson, Mary Steenburgen, Chloe Fineman, Aaron Chen, Patton Oswalt, Andy Roddick, John McEnroe, Ben Stiller, Ed Harris, Cleo King, Lynne Marie Stewart, Don Lake",
-      "embedUrl": "https://vimeos.net/embed-a8f0ijbqj2qi.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-a8f0ijbqj2qi.html"
     },
     {
       "titulo": "Los creyentes",
@@ -101,8 +226,7 @@
       "descripcion": "Cuando su madre muere en extrañas circunstancias, una mujer de 30 años distanciada de su familia vuelve a casa. La relación tensa con su padre y el comportamiento cada vez más errático de éste la llevan a sospechar que él mató a su madre.",
       "director": "Roger Gual",
       "reparto": "Jose Coronado, Stéphanie Magnin, Fanny Gautier, Alberto Olmo, Israel Ruiz, Mabel del Pozo, Celine Fortenbacher, Olaya Lopez, Armando Pita, Ana Casado, Bryan Martínez, Lucas Bruton Ariza",
-      "embedUrl": "https://vimeos.net/embed-bm7cr13apkcz.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-bm7cr13apkcz.html"
     },
     {
       "titulo": "Ballistic",
@@ -114,8 +238,7 @@
       "descripcion": "Una madre desconsolada que trabaja en una fábrica de municiones descubre que la bala que mató a su hijo en Afganistán fue fabricada en su propia línea de montaje. Decidida a encontrar respuestas, se embarca en una peligrosa búsqueda de la verdad que la llevará a enfrentarse a la misma industria para la que trabaja y a los secretos detrás de la muerte de su hijo.",
       "director": "Chad Faust",
       "reparto": "Lena Headey, Hamza Haq, Amybeth McNulty, Jordan Kronis, Enrico Colantoni, Amanda Brugel, Chad Faust, Paolo Mancini, Andrew Bell, Kendall Christie, Michael Lipka, Timothy Azin",
-      "embedUrl": "https://vimeos.net/embed-g7wm4ppg4hth.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-g7wm4ppg4hth.html"
     },
     {
       "titulo": "Jack Ryan. Guerra encubierta",
@@ -127,8 +250,7 @@
       "descripcion": "En esta nueva película, Jack Ryan se ve empujado de vuelta al espionaje cuando una misión secreta internacional destapa una conspiración mortal. Contra reloj, se une a Mike November y James Greer, sus aliados de la CIA, y a Emma Marlow, una perspicaz agente del MI6, para enfrentarse a una unidad de operaciones encubiertas en una batalla muy personal y arriesgada.",
       "director": "Andrew Bernstein",
       "reparto": "John Krasinski, Wendell Pierce, Sienna Miller, Michael Kelly, Max Beesley, Betty Gabriel, JJ Feild, Douglas Hodge, Dominic Mafham, Alex Brockdorff, Nick Adamson, James Allen",
-      "embedUrl": "https://vimeos.net/embed-f5atsnouzjlu.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-f5atsnouzjlu.html"
     },
     {
       "titulo": "180",
@@ -140,8 +262,7 @@
       "descripcion": "Un inesperado incidente de tráfico deja a su hijo en estado crítico. El padre, enfurecido, se adentra en una oscura espiral de confusión emocional y venganza.",
       "director": "Alex Yazbek",
       "reparto": "Prince Grootboom, Noxolo Dlamini, Danica De La Rey, Warren Masemola, Desmond Dube, Fana Mokoena, Kabelo Thai, Bongile Mantsai, Zenobia Kloppers, Makhaola Ndebele, Mpiloenhle Sithebe, John Ncamane",
-      "embedUrl": "https://vimeos.net/embed-fvwnf5vpefdz.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-fvwnf5vpefdz.html"
     },
     {
       "titulo": "El drama",
@@ -153,8 +274,7 @@
       "descripcion": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
       "director": "Kristoffer Borgli",
       "reparto": "Zendaya, Robert Pattinson, Alana Haim, Mamoudou Athie, Hailey Benton Gates, Sydney Lemmon, Hannah Gross, Anna Baryshnikov, Jordyn Curet, Michael Abbott Jr., Zoë Winters, Dee Nelson",
-      "embedUrl": "https://vimeos.net/embed-v0f2qzieze5h.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-v0f2qzieze5h.html"
     },
     {
       "titulo": "Patrulla Nocturna",
@@ -166,8 +286,7 @@
       "descripcion": "Un policía de Los Ángeles descubre que un grupo de trabajo local oculta un secreto que pone en peligro a los vecinos del barrio de su infancia.",
       "director": "Ryan Prows",
       "reparto": "Jermaine Fowler, Justin Long, RJ Cyler, Freddie Gibbs, Phil Brooks, Dermot Mulroney, YG, Nicki Micheaux, Flying Lotus, Jon Oswald, Mike Ferguson, Evan Shafran",
-      "embedUrl": "https://vimeos.net/embed-v0v2rophvk6q.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-v0v2rophvk6q.html"
     },
     {
       "titulo": "En tierra de muertos",
@@ -179,8 +298,7 @@
       "descripcion": "Ava, una mujer desesperada cuyo marido ha desaparecido tras un catastrófico experimento militar, se une a una \"unidad de recuperación de cadáveres\", pero su búsqueda da un giro escalofriante cuando los cadáveres que está enterrando empiezan a dar señales de vida.",
       "director": "Zak Hilditch",
       "reparto": "Daisy Ridley, Brenton Thwaites, Mark Coles Smith, Matt Whelan, Chloe Hurst, Kym Jackson, Holly Hargreaves, Deanna Cooney, Elijah Williams, Salme Geransar, Luke Jai  McIntosh, Joel Jackson",
-      "embedUrl": "https://vimeos.net/embed-zt8znjqj7gvx.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-zt8znjqj7gvx.html"
     },
     {
       "titulo": "Deuda de sangre",
@@ -192,8 +310,7 @@
       "descripcion": "Terry McCaleb, un veterano investigador del FBI, anda tras la pista de un psicópata apodado por lo medios de comunicación \"el asesino del código\". Tras el último asesinato, Terry visita la escena del crimen y lo descubre entre la multitud; comienza entonces una persecución que le provocará un infarto y su retirada del servicio activo.",
       "director": "Clint Eastwood",
       "reparto": "Clint Eastwood, Jeff Daniels, Anjelica Huston, Wanda De Jesus, Tina Lifford, Paul Rodríguez, Dylan Walsh, Mason Lucero, Gerry Becker, Rick Hoffman, Alix Koromzay, Игорь Жижикин",
-      "embedUrl": "https://vimeos.net/embed-7tc72odpse63.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-7tc72odpse63.html"
     },
     {
       "titulo": "La muerte de Robin Hood",
@@ -205,8 +322,7 @@
       "descripcion": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
       "director": "Michael Sarnoski",
       "reparto": "Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett, Noah Jupe, Jade Croot, Faith Delaney, Tabitha Smyth, Beau Thompson, Alfie Lawless, Asher de Silva, Elijah Ungvary",
-      "embedUrl": "https://bysedikamoum.com/e/zfw9lb28rx6s",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/zfw9lb28rx6s"
     },
     {
       "titulo": "Prácticamente magia 2",
@@ -218,8 +334,7 @@
       "descripcion": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
       "director": "Susanne Bier",
       "reparto": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña, Lee Pace, Dianne Wiest, Stockard Channing, Solly McLeod, Ema Cavolli, Cassie Bradley, Liz Kingsman",
-      "embedUrl": "https://bysedikamoum.com/e/e2jn1i44sowj",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/e2jn1i44sowj"
     },
     {
       "titulo": "Kraken",
@@ -231,8 +346,7 @@
       "descripcion": "Johanne es una bióloga marina que está investigando en una piscifactoría de Vangsnes, una comunidad rural situada junto al fiordo, cuando se topa con varios sucesos extraños. Junto con las brutales muertes de dos adolescentes de la localidad, todos los indicios apuntan al profundo fiordo. ¿Puede haber más en las profundidades de lo que el ojo puede ver? En el fondo del fiordo más profundo de Noruega descansa un monstruo mítico tan grande como una montaña, con una miríada de brazos dispuestos a aplastar y devorar todo lo que puedan agarrar.",
       "director": "Pål Øie",
       "reparto": "Sara Khorami, Mikkel Bratt Silset, Ingvild Holthe Bygdnes, Øyvind Brandtzæg, Jenny Evensen, Steinar Klouman Hallert, Filip Bargee Ramberg, Jon Erik Myre, Hans Morten Hansen, Magnús Blöndal Jóhannsson, Jon Kennedy Dushime Niyokindi, Silje Breivik",
-      "embedUrl": "https://bysedikamoum.com/e/8fpm41ojd4ch/kraken",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/8fpm41ojd4ch/kraken"
     },
     {
       "titulo": "Mother Mary",
@@ -244,8 +358,7 @@
       "descripcion": "La intensa relación entre la cantante de pop Mary y Sam, una antigua amiga suya, diseñadora de moda, que se vuelven a reunir tras la necesidad de la primera de un vestido para su nueva gira de conciertos.",
       "director": "David Lowery",
       "reparto": "Anne Hathaway, Michaela Coel, Hunter Schafer, FKA twigs, Sian Clifford, Kaia Gerber, Alba Baptista, Atheena Frizzell, Jessica Brown Findlay, Isaura Barbé-Brown, Jeanne Nicole Ní Áinle, Taylor Sieve",
-      "embedUrl": "https://bysedikamoum.com/e/r32sky3sluvx/mother-mary-2026latino",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/r32sky3sluvx/mother-mary-2026latino"
     },
     {
       "titulo": "La primera purga: La noche de las bestias",
@@ -257,8 +370,7 @@
       "descripcion": "Para mantener durante el resto del año la tasa de criminalidad por debajo del 1%, los Nuevos Padres Fundadores de América ponen a prueba una teoría sociológica que da rienda suelta a todo tipo de agresiones durante una noche en una comunidad aislada. Pero cuando la violencia de los opresores se encuentra con la ira de los marginados, el vandalismo explota más allá de esas fronteras “experimentales” para extenderse por todo el país. Detrás de cada tradición hay una revolución. Descubre cómo toda una nación entera abrazó una brutal celebración anual: 12 horas de impunidad criminal. Bienvenidos a un movimiento que comenzó como un simple experimento.",
       "director": "Gerard McMurray",
       "reparto": "Y'lan Noel, Lex Scott Davis, Joivan Wade, Steve Harris, Mugga, Patch Darragh, Marisa Tomei, Luna Lauren Vélez, Kristen Solis, Rotimi Paul, Mo McRae, Jermel Howard",
-      "embedUrl": "https://vimeos.net/embed-6uk6ko58eih0.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-6uk6ko58eih0.html"
     },
     {
       "titulo": "Jitters",
@@ -3619,18 +3731,6 @@
       "director": "谷垣健治",
       "reparto": "谢苗, Joe Taslim, Yang Enyou, Yayan Ruhian, ฉันทธนิสา ตัง, Brian Le, 岩永ジョーイ, สหจักร บุญธนกิจ, มนัสนันท์ พันเลิศวงศ์สกุล, Winai Wiangyangkung, สหัสชัย ชุมรุม, Marut Charoensub",
       "embedUrl": "https://bysedikamoum.com/e/8wn9cxo4ybcm"
-    },
-    {
-      "titulo": "Mother Mary",
-      "poster": "https://image.tmdb.org/t/p/w500/d4CWItPJIjdnnRsao1DPBO3u5AD.jpg",
-      "rating": "5.6",
-      "anio": 2026,
-      "duracion": "1h 52min",
-      "genero": "Música, Drama, Suspense",
-      "descripcion": "La intensa relación entre la cantante de pop Mary y Sam, una antigua amiga suya, diseñadora de moda, que se vuelven a reunir tras la necesidad de la primera de un vestido para su nueva gira de conciertos.",
-      "director": "David Lowery",
-      "reparto": "Anne Hathaway, Michaela Coel, Hunter Schafer, FKA twigs, Sian Clifford, Kaia Gerber, Alba Baptista, Atheena Frizzell, Jessica Brown Findlay, Isaura Barbé-Brown, Jeanne Nicole Ní Áinle, Taylor Sieve",
-      "embedUrl": "https://bysedikamoum.com/e/10imuagdac3d"
     },
     {
       "titulo": "Jurassic World: Dominion",
