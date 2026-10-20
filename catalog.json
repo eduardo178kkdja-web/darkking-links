@@ -1,6 +1,266 @@
 {
   "movies": [
     {
+      "titulo": "Basic",
+      "poster": "https://image.tmdb.org/t/p/w500/5yk0f45lv7TqLd3qSgaNNiPX7js.jpg",
+      "rating": "6.5",
+      "anio": 2003,
+      "duracion": "1h 38min",
+      "genero": "Suspense, Crimen, Misterio",
+      "descripcion": "Canal de Panama. 1 de Noviembre. 18:00 horas. Un huracán golpea con fuerza una base del ejército norteamericano y alrededores. Un equipo de Rangers, un cuerpo de élite de operaciones encubiertas, a las órdenes del temible sargento Nathan West (Samuel L. Jackson) se despliega en la jungla en lo que parecen unas simples maniobras. 17 horas después, el sargento y varios miembros de su equipo han desaparecido. Dos soldados son rescatados del lugar de los hechos y cada uno tiene una versión distinta de lo sucedido. El ejército convoca al brillante e indisciplinado interrogador Tom Hardy (John Travolta) para descubrir la verdad. Todo parece indicar que no se trataba de una simple misión de entrenamiento...",
+      "director": "John McTiernan",
+      "reparto": "John Travolta, Connie Nielsen, Samuel L. Jackson, Tim Daly, Giovanni Ribisi, Brian Van Holt, Taye Diggs, Dash Mihok, Cristián de la Fuente, Roselyn Sánchez, Harry Connick Jr., Margaret Travolta",
+      "embedUrl": "https://vimeos.net/embed-q6s2ksveocrf.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Gary",
+      "poster": "https://image.tmdb.org/t/p/w500/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg",
+      "rating": "6.5",
+      "anio": 2026,
+      "duracion": "1h 0min",
+      "genero": "Drama, Comedia",
+      "descripcion": "Dos amigos emprenden un viaje de trabajo, pero se topan con retos inesperados al intentar cumplir su misión. A medida que solucionan problemas y conectan con los lugareños, la experiencia les deja una huella imborrable y les ofrece una nueva perspectiva de su amistad.",
+      "director": "Christopher Storer",
+      "reparto": "Ebon Moss-Bachrach, Jon Bernthal, Marin Ireland, Gillian Jacobs, Nation Sage Henrikson, T.J. Jagodowski, Elisha Evans, Richard Gomez, Lisa Beasley, Brooke Breit, Katie Klein, Laurel Krabacher",
+      "embedUrl": "https://vimeos.net/embed-yykclr0utut6.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Hasta el Fin del Mundo",
+      "poster": "https://image.tmdb.org/t/p/w500/kwuQPxbJPfjU0TKXcVpdzJ0RvJ5.jpg",
+      "rating": "8.2",
+      "anio": 2026,
+      "duracion": "1h 38min",
+      "genero": "Drama",
+      "descripcion": "La vida de Manuel da un vuelco cuando Esmeralda, su amor perdido de hace quince años, lo llama inesperadamente. A pesar de estar a punto de casarse con otra persona, él se reencontrará con Esmeralda y ambos se darán cuenta de que su amor trasciende el tiempo.",
+      "director": "Emiliano Castro Vizcarra",
+      "reparto": "Mauricio Ochmann, Aislinn Derbez, Daniel Pérez Prada, Melina Figueroa, Miguel Ángel Jiménez, Eduardo Santacruz",
+      "embedUrl": "https://vimeos.net/embed-422jk1317z8o.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "La última escena",
+      "poster": "https://image.tmdb.org/t/p/w500/hgGZnBtdQ816FKR7NqMuaC4knjN.jpg",
+      "rating": "7.3",
+      "anio": 2026,
+      "duracion": "1h 36min",
+      "genero": "Drama, Romance",
+      "descripcion": "Selen posee el don de ver el futuro en sus sueños. Tras años cambiando el destino de desconocidos, una visión le muestra su propia muerte… y a un hombre que intenta salvarla. Cuando conoce a Kemal, el hombre de su visión, se ve arrastrada a algo mucho más profundo que el destino: el amor. Dividida entre el miedo y el deseo, Selen emprende un viaje en el que el romance y el peligro son inseparables, y donde el despertar de su corazón podría ser la verdadera respuesta.",
+      "director": "Ali Bilgin",
+      "reparto": "Hilal Altınbilek, Serkan Çayoğlu, Olcay Yusufoğlu, Bora Karakul, Sema Mumcu, Gökçen Gökçebağ, Yiğit Kalkavan, Sedat Savtak, Doruk Hasret Arı, Kuzey Özcan",
+      "embedUrl": "https://vimeos.net/embed-zgmtm5haol4j.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Una mujer sin pasado",
+      "poster": "https://image.tmdb.org/t/p/w500/bf9ojBGbivquotOyAE2y669rYVO.jpg",
+      "rating": "6.6",
+      "anio": 2026,
+      "duracion": "1h 59min",
+      "genero": "Drama, Suspense, Misterio",
+      "descripcion": "Tras descubrir que tiene familia y un imperio naviero, una mujer con amnesia vuelve a su pasado acomodado y aparentemente perfecto para entender por qué lo abandonó.",
+      "director": "Barbara Topsøe-Rothenborg",
+      "reparto": "Natalie Madueño, Claes Bang, Pål Sverre Hagen, Stina Ekblad, Ingrid Bolsø Berdal, Thea Sofie Loch Næss, Lars Simonsen, Ida Appel, Nina Christrup, David Elting, Rasmus Hammerich, Joen Højerslev",
+      "embedUrl": "https://vimeos.net/embed-nb8wat9scqyq.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "No se desea buena suerte",
+      "poster": "https://image.tmdb.org/t/p/w500/eSHrRxvVxXH0JYdj2NdBD78FC6B.jpg",
+      "rating": "7.3",
+      "anio": 2026,
+      "duracion": "1h 36min",
+      "genero": "Comedia, Música, Drama",
+      "descripcion": "Sophie Birenbaum está encantada de ser la protagonista del musical de su instituto, hasta que de repente debe enfrentarse a más problemas en casa que en el escenario.",
+      "director": "Julia Hart",
+      "reparto": "Sunny Sandler, Melanie Lynskey, Max Greenfield, Stephanie Beatriz, Bebe Neuwirth, Steve Buscemi, Matan Friedman, Eitan Friedman, Scarlett Estevez, Emma McNulty, Jack Champion, Elyse Bell",
+      "embedUrl": "https://vimeos.net/embed-kko2w94tk90c.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Dink",
+      "poster": "https://image.tmdb.org/t/p/w500/5rVJLhpYrtaDzeItzhteP3xCZW7.jpg",
+      "rating": "6.4",
+      "anio": 2026,
+      "duracion": "1h 43min",
+      "genero": "Comedia",
+      "descripcion": "A Dusty “Martillo” Boyd, un tenista profesional en declive, le vendría muy bien una victoria. En su lucha por salvar un club de campo con problemas y ganarse el respeto de su padre, Dusty rompe un voto sagrado y hace lo impensable: jugar al pickleball.",
+      "director": "Josh Greenbaum",
+      "reparto": "Jake Johnson, Mary Steenburgen, Chloe Fineman, Aaron Chen, Patton Oswalt, Andy Roddick, John McEnroe, Ben Stiller, Ed Harris, Cleo King, Lynne Marie Stewart, Don Lake",
+      "embedUrl": "https://vimeos.net/embed-a8f0ijbqj2qi.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Los creyentes",
+      "poster": "https://image.tmdb.org/t/p/w500/pUvs1iFFMDy3sNp5dNmkRak1oxD.jpg",
+      "rating": "5.7",
+      "anio": 2026,
+      "duracion": "1h 46min",
+      "genero": "Suspense, Drama, Misterio",
+      "descripcion": "Cuando su madre muere en extrañas circunstancias, una mujer de 30 años distanciada de su familia vuelve a casa. La relación tensa con su padre y el comportamiento cada vez más errático de éste la llevan a sospechar que él mató a su madre.",
+      "director": "Roger Gual",
+      "reparto": "Jose Coronado, Stéphanie Magnin, Fanny Gautier, Alberto Olmo, Israel Ruiz, Mabel del Pozo, Celine Fortenbacher, Olaya Lopez, Armando Pita, Ana Casado, Bryan Martínez, Lucas Bruton Ariza",
+      "embedUrl": "https://vimeos.net/embed-bm7cr13apkcz.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Ballistic",
+      "poster": "https://image.tmdb.org/t/p/w500/f8GUHZjNPSGLjUhi7HzVn9541bY.jpg",
+      "rating": "5.8",
+      "anio": 2026,
+      "duracion": "1h 31min",
+      "genero": "Suspense, Drama",
+      "descripcion": "Una madre desconsolada que trabaja en una fábrica de municiones descubre que la bala que mató a su hijo en Afganistán fue fabricada en su propia línea de montaje. Decidida a encontrar respuestas, se embarca en una peligrosa búsqueda de la verdad que la llevará a enfrentarse a la misma industria para la que trabaja y a los secretos detrás de la muerte de su hijo.",
+      "director": "Chad Faust",
+      "reparto": "Lena Headey, Hamza Haq, Amybeth McNulty, Jordan Kronis, Enrico Colantoni, Amanda Brugel, Chad Faust, Paolo Mancini, Andrew Bell, Kendall Christie, Michael Lipka, Timothy Azin",
+      "embedUrl": "https://vimeos.net/embed-g7wm4ppg4hth.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Jack Ryan. Guerra encubierta",
+      "poster": "https://image.tmdb.org/t/p/w500/dJqv61OB3jsdUEOJTaOGZ64ZLeD.jpg",
+      "rating": "6.9",
+      "anio": 2026,
+      "duracion": "1h 47min",
+      "genero": "Acción, Suspense",
+      "descripcion": "En esta nueva película, Jack Ryan se ve empujado de vuelta al espionaje cuando una misión secreta internacional destapa una conspiración mortal. Contra reloj, se une a Mike November y James Greer, sus aliados de la CIA, y a Emma Marlow, una perspicaz agente del MI6, para enfrentarse a una unidad de operaciones encubiertas en una batalla muy personal y arriesgada.",
+      "director": "Andrew Bernstein",
+      "reparto": "John Krasinski, Wendell Pierce, Sienna Miller, Michael Kelly, Max Beesley, Betty Gabriel, JJ Feild, Douglas Hodge, Dominic Mafham, Alex Brockdorff, Nick Adamson, James Allen",
+      "embedUrl": "https://vimeos.net/embed-f5atsnouzjlu.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "180",
+      "poster": "https://image.tmdb.org/t/p/w500/4nNuv41aosADsoQYYJDg7Y829YK.jpg",
+      "rating": "5.9",
+      "anio": 2026,
+      "duracion": "1h 34min",
+      "genero": "Suspense, Crimen, Drama, Película de TV",
+      "descripcion": "Un inesperado incidente de tráfico deja a su hijo en estado crítico. El padre, enfurecido, se adentra en una oscura espiral de confusión emocional y venganza.",
+      "director": "Alex Yazbek",
+      "reparto": "Prince Grootboom, Noxolo Dlamini, Danica De La Rey, Warren Masemola, Desmond Dube, Fana Mokoena, Kabelo Thai, Bongile Mantsai, Zenobia Kloppers, Makhaola Ndebele, Mpiloenhle Sithebe, John Ncamane",
+      "embedUrl": "https://vimeos.net/embed-fvwnf5vpefdz.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El drama",
+      "poster": "https://image.tmdb.org/t/p/w500/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+      "rating": "6.9",
+      "anio": 2026,
+      "duracion": "1h 45min",
+      "genero": "Romance, Comedia, Drama",
+      "descripcion": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+      "director": "Kristoffer Borgli",
+      "reparto": "Zendaya, Robert Pattinson, Alana Haim, Mamoudou Athie, Hailey Benton Gates, Sydney Lemmon, Hannah Gross, Anna Baryshnikov, Jordyn Curet, Michael Abbott Jr., Zoë Winters, Dee Nelson",
+      "embedUrl": "https://vimeos.net/embed-v0f2qzieze5h.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Patrulla Nocturna",
+      "poster": "https://image.tmdb.org/t/p/w500/mCIgwwrafyA0oGrEBbjGfNft1B3.jpg",
+      "rating": "5.0",
+      "anio": 2026,
+      "duracion": "1h 44min",
+      "genero": "Terror, Misterio",
+      "descripcion": "Un policía de Los Ángeles descubre que un grupo de trabajo local oculta un secreto que pone en peligro a los vecinos del barrio de su infancia.",
+      "director": "Ryan Prows",
+      "reparto": "Jermaine Fowler, Justin Long, RJ Cyler, Freddie Gibbs, Phil Brooks, Dermot Mulroney, YG, Nicki Micheaux, Flying Lotus, Jon Oswald, Mike Ferguson, Evan Shafran",
+      "embedUrl": "https://vimeos.net/embed-v0v2rophvk6q.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "En tierra de muertos",
+      "poster": "https://image.tmdb.org/t/p/w500/zlK2PIa4APjRQKoyfXbjSSofn2S.jpg",
+      "rating": "6.1",
+      "anio": 2026,
+      "duracion": "1h 35min",
+      "genero": "Terror, Suspense",
+      "descripcion": "Ava, una mujer desesperada cuyo marido ha desaparecido tras un catastrófico experimento militar, se une a una \"unidad de recuperación de cadáveres\", pero su búsqueda da un giro escalofriante cuando los cadáveres que está enterrando empiezan a dar señales de vida.",
+      "director": "Zak Hilditch",
+      "reparto": "Daisy Ridley, Brenton Thwaites, Mark Coles Smith, Matt Whelan, Chloe Hurst, Kym Jackson, Holly Hargreaves, Deanna Cooney, Elijah Williams, Salme Geransar, Luke Jai  McIntosh, Joel Jackson",
+      "embedUrl": "https://vimeos.net/embed-zt8znjqj7gvx.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Deuda de sangre",
+      "poster": "https://image.tmdb.org/t/p/w500/mg55o7TbHCFlyVFpkaLvl2NY8se.jpg",
+      "rating": "6.2",
+      "anio": 2002,
+      "duracion": "1h 51min",
+      "genero": "Suspense, Crimen, Acción, Misterio, Drama",
+      "descripcion": "Terry McCaleb, un veterano investigador del FBI, anda tras la pista de un psicópata apodado por lo medios de comunicación \"el asesino del código\". Tras el último asesinato, Terry visita la escena del crimen y lo descubre entre la multitud; comienza entonces una persecución que le provocará un infarto y su retirada del servicio activo.",
+      "director": "Clint Eastwood",
+      "reparto": "Clint Eastwood, Jeff Daniels, Anjelica Huston, Wanda De Jesus, Tina Lifford, Paul Rodríguez, Dylan Walsh, Mason Lucero, Gerry Becker, Rick Hoffman, Alix Koromzay, Игорь Жижикин",
+      "embedUrl": "https://vimeos.net/embed-7tc72odpse63.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "La muerte de Robin Hood",
+      "poster": "https://image.tmdb.org/t/p/w500/pC2hVl4J522GcMVc5OghRHSs0tq.jpg",
+      "rating": "6.7",
+      "anio": 2026,
+      "duracion": "2h 3min",
+      "genero": "Aventura, Drama, Acción",
+      "descripcion": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
+      "director": "Michael Sarnoski",
+      "reparto": "Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett, Noah Jupe, Jade Croot, Faith Delaney, Tabitha Smyth, Beau Thompson, Alfie Lawless, Asher de Silva, Elijah Ungvary",
+      "embedUrl": "https://bysedikamoum.com/e/zfw9lb28rx6s",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Prácticamente magia 2",
+      "poster": "https://image.tmdb.org/t/p/w500/xCXznyg1BOAKISMuduRJLtcAgCR.jpg",
+      "rating": "7.0",
+      "anio": 2026,
+      "duracion": "2h 10min",
+      "genero": "Romance, Fantasía, Comedia",
+      "descripcion": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+      "director": "Susanne Bier",
+      "reparto": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña, Lee Pace, Dianne Wiest, Stockard Channing, Solly McLeod, Ema Cavolli, Cassie Bradley, Liz Kingsman",
+      "embedUrl": "https://bysedikamoum.com/e/e2jn1i44sowj",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Kraken",
+      "poster": "https://image.tmdb.org/t/p/w500/r0GXlZdBXakqBg9lNoLiMeW5AUc.jpg",
+      "rating": "6.2",
+      "anio": 2026,
+      "duracion": "1h 34min",
+      "genero": "Terror, Acción, Suspense",
+      "descripcion": "Johanne es una bióloga marina que está investigando en una piscifactoría de Vangsnes, una comunidad rural situada junto al fiordo, cuando se topa con varios sucesos extraños. Junto con las brutales muertes de dos adolescentes de la localidad, todos los indicios apuntan al profundo fiordo. ¿Puede haber más en las profundidades de lo que el ojo puede ver? En el fondo del fiordo más profundo de Noruega descansa un monstruo mítico tan grande como una montaña, con una miríada de brazos dispuestos a aplastar y devorar todo lo que puedan agarrar.",
+      "director": "Pål Øie",
+      "reparto": "Sara Khorami, Mikkel Bratt Silset, Ingvild Holthe Bygdnes, Øyvind Brandtzæg, Jenny Evensen, Steinar Klouman Hallert, Filip Bargee Ramberg, Jon Erik Myre, Hans Morten Hansen, Magnús Blöndal Jóhannsson, Jon Kennedy Dushime Niyokindi, Silje Breivik",
+      "embedUrl": "https://bysedikamoum.com/e/8fpm41ojd4ch/kraken",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Mother Mary",
+      "poster": "https://image.tmdb.org/t/p/w500/d4CWItPJIjdnnRsao1DPBO3u5AD.jpg",
+      "rating": "5.7",
+      "anio": 2026,
+      "duracion": "1h 52min",
+      "genero": "Música, Drama, Suspense",
+      "descripcion": "La intensa relación entre la cantante de pop Mary y Sam, una antigua amiga suya, diseñadora de moda, que se vuelven a reunir tras la necesidad de la primera de un vestido para su nueva gira de conciertos.",
+      "director": "David Lowery",
+      "reparto": "Anne Hathaway, Michaela Coel, Hunter Schafer, FKA twigs, Sian Clifford, Kaia Gerber, Alba Baptista, Atheena Frizzell, Jessica Brown Findlay, Isaura Barbé-Brown, Jeanne Nicole Ní Áinle, Taylor Sieve",
+      "embedUrl": "https://bysedikamoum.com/e/r32sky3sluvx/mother-mary-2026latino",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "La primera purga: La noche de las bestias",
+      "poster": "https://image.tmdb.org/t/p/w500/oK3uHrW5BcaFGCdE9ZorFTkI3w2.jpg",
+      "rating": "6.0",
+      "anio": 2018,
+      "duracion": "1h 37min",
+      "genero": "Acción, Terror, Suspense",
+      "descripcion": "Para mantener durante el resto del año la tasa de criminalidad por debajo del 1%, los Nuevos Padres Fundadores de América ponen a prueba una teoría sociológica que da rienda suelta a todo tipo de agresiones durante una noche en una comunidad aislada. Pero cuando la violencia de los opresores se encuentra con la ira de los marginados, el vandalismo explota más allá de esas fronteras “experimentales” para extenderse por todo el país. Detrás de cada tradición hay una revolución. Descubre cómo toda una nación entera abrazó una brutal celebración anual: 12 horas de impunidad criminal. Bienvenidos a un movimiento que comenzó como un simple experimento.",
+      "director": "Gerard McMurray",
+      "reparto": "Y'lan Noel, Lex Scott Davis, Joivan Wade, Steve Harris, Mugga, Patch Darragh, Marisa Tomei, Luna Lauren Vélez, Kristen Solis, Rotimi Paul, Mo McRae, Jermel Howard",
+      "embedUrl": "https://vimeos.net/embed-6uk6ko58eih0.html",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Jitters",
       "poster": "https://image.tmdb.org/t/p/w500/fccvkZkZ9yL6BIxojXdqFxPC8fR.jpg",
       "rating": "5.0",
@@ -59,18 +319,6 @@
       "director": "Rachel Morrison",
       "reparto": "Margaret Qualley, Aaron Pierre, Patrick Schwarzenegger, Gabriel Basso, Catherine Keener, Tamara Lawrance, Corey Johnson, Michael Shelford, Adam Woodward, Gayané Kaligian, Vas Constanti, Mary Pursell",
       "embedUrl": "https://bysedikamoum.com/e/nq2pk8v3m50d/amor-pelicula"
-    },
-    {
-      "titulo": "Operación Teherán",
-      "poster": "https://image.tmdb.org/t/p/w500/5uB1PWP3QHEcgMXKChsaYmtTUkQ.jpg",
-      "rating": "6.8",
-      "anio": 2026,
-      "duracion": "2h 22min",
-      "genero": "Acción, Suspense",
-      "descripcion": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una última misión y viajan a Teherán para llevar a cabo un golpe arriesgado e ilegal que podría ser su opción para perdonarse a sí mismos o para acabar del todo. Mientras el pasado los persigue y la desconfianza entre ellos va en aumento, la operación se transforma en una prueba moral en la que tendrán que decidir si ser soldados obedientes o son hombres dispuestos a recuperar el control de sus vidas.",
-      "director": "Guy Moshe",
-      "reparto": "Zachary Levi, Liam Neeson, Wes Chatham, Titus Welliver, Navid Negahban, Annet Mahendru, Grant Harvey, Augusto Aguilera, Numan Acar, Elnaaz Norouzi, Oliver Trevena, Quincy Isaiah",
-      "embedUrl": "https://bysedikamoum.com/e/7glj7lhqj4p6"
     },
     {
       "titulo": "Morirás en 6 horas",
@@ -4044,8 +4292,7 @@
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "Amor, dulce amor",
@@ -4147,8 +4394,7 @@
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "Neagley",
@@ -5338,7 +5584,7 @@
               "numero": 1,
               "nombre": "Q.H.D.A.",
               "duracion": "45 min",
-              "embedUrl": "https://bysedikamoum.com/e/sckgj3hh9lad/tulsa"
+              "embedUrl": "https://bysedikamoum.com/e/nzyvm9ts47y7/ver-tulsa-king-4x01-online-hd"
             }
           ]
         }
