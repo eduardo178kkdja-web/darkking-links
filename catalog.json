@@ -4290,6 +4290,31 @@
   ],
   "series": [
     {
+      "titulo": "Minami, abogada extraordinaria",
+      "poster": "https://image.tmdb.org/t/p/w500/ax4KpZOjZ59hp6IjYNOfJMAYge0.jpg",
+      "rating": "6.0",
+      "anio": 2026,
+      "genero": "Drama",
+      "descripcion": "Con una memoria prodigiosa y una perspectiva única, Minami se enfrenta a retos dentro y fuera de los tribunales como abogada novata con trastorno del espectro autista",
+      "creador": "",
+      "reparto": "芦田愛菜, Fumiya Takahashi, 細田佳央太, 久保史緒里, 柿原りんか, 山口馬木也, 平岩紙, 角田晃広, 竹内櫻",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "¿Boda o ruptura?",
+              "duracion": "1h 3min",
+              "embedUrl": "https://bysesukior.com/e/2htjkdckdyzs"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
       "titulo": "Brothers",
       "poster": "https://image.tmdb.org/t/p/w500/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
       "rating": "7.6",
@@ -4530,10 +4555,17 @@
               "nombre": "¿Recuerdas cuando nos enamoramos?",
               "duracion": "1h 4min",
               "embedUrl": "https://bysevepoin.com/e/an93v0rnru13"
+            },
+            {
+              "numero": 10,
+              "nombre": "¿Cómo son nuestras cicatrices?",
+              "duracion": "1h 2min",
+              "embedUrl": "https://bysesukior.com/e/1ys40405p12d"
             }
           ]
         }
-      ]
+      ],
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Neagley",
