@@ -1,19 +1,6 @@
 {
   "movies": [
     {
-      "titulo": "Malas manzanas",
-      "poster": "https://image.tmdb.org/t/p/w500/kFQaT7NuZvLx7hFmPhigaTedOOB.jpg",
-      "rating": "6.6",
-      "anio": 2026,
-      "duracion": "1h 40min",
-      "genero": "Comedia, Suspense",
-      "descripcion": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
-      "director": "Jonatan Etzler",
-      "reparto": "Saoirse Ronan, Eddie Waller, Nia Brown, Jacob Anderson, Rakie Ayola, Robert Emms, Sean Gilder, Kerry Howard, Jaye Jacobs, Joanna van Kampen, Kirris Riviere, Dorian Simpson",
-      "embedUrl": "https://morencius.com/embed/80n9qu0ibwli",
-      "recienAgregado": true
-    },
-    {
       "titulo": "El teléfono",
       "poster": "https://image.tmdb.org/t/p/w500/iqqWhCEPzHn1EX04BKFRuRy6cJr.jpg",
       "rating": "7.5",
