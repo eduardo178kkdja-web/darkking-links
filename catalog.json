@@ -1,6 +1,32 @@
 {
   "movies": [
     {
+      "titulo": "Hope",
+      "poster": "https://image.tmdb.org/t/p/w500/lkWqvj24NG3vEgu19ZQ9erG3Vj7.jpg",
+      "rating": "6.9",
+      "anio": 2026,
+      "duracion": "2h 37min",
+      "genero": "Ciencia ficción, Misterio, Acción",
+      "descripcion": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
+      "director": "나홍진",
+      "reparto": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender, Taylor Russell, Cameron Britton, 이상희, 음문석, 임현식, 황석정, 한우열",
+      "embedUrl": "https://audinifer.com/e/9zrnt5sv3wmz",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Malas manzanas",
+      "poster": "https://image.tmdb.org/t/p/w500/kFQaT7NuZvLx7hFmPhigaTedOOB.jpg",
+      "rating": "6.5",
+      "anio": 2026,
+      "duracion": "1h 40min",
+      "genero": "Comedia, Suspense",
+      "descripcion": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
+      "director": "Jonatan Etzler",
+      "reparto": "Saoirse Ronan, Eddie Waller, Nia Brown, Jacob Anderson, Rakie Ayola, Robert Emms, Sean Gilder, Kerry Howard, Jaye Jacobs, Joanna van Kampen, Kirris Riviere, Dorian Simpson",
+      "embedUrl": "https://hanerix.com/e/k4ac4bx2eb5k",
+      "recienAgregado": true
+    },
+    {
       "titulo": "El cobrador de deudas",
       "poster": "https://image.tmdb.org/t/p/w500/pKHqhghLmDRfwIyH7A2pGARX1IQ.jpg",
       "rating": "7.8",
@@ -10,7 +36,7 @@
       "descripcion": "Atormentado por los errores del pasado y un diagnóstico terminal, un excobrador de deudas regresa al mundo del hampa para proteger a las víctimas de una organización violenta.",
       "director": "สุรพงษ์ เพลินแสง",
       "reparto": "ณเดชน์ คูกิมิยะ, พิทยา แซ่ฉั่ว, ชัยวัฒน์ ทองแสง, Nuanprang Treechit, Jonathan Holman, พลอยปภัส ฝนแก้วศิวพร, Kunkanit Khumkrong, Nuttanun Kunnawatt, ปพน จิรหิตะภัทร, สายเชีย วงศ์วิโรจน์, ปิยพงษ์ วงษ์คําเหลา, Isara Nadee",
-      "embedUrl": "https://morencius.com/embed/z5pjsvfqxr7n",
+      "embedUrl": "https://vibuxer.com/e/04odu7pm32q4",
       "recienAgregado": true
     },
     {
