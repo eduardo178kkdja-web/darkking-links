@@ -1,19 +1,6 @@
 {
   "movies": [
     {
-      "titulo": "Trap House",
-      "poster": "https://image.tmdb.org/t/p/w500/p9zbrDpAKyj3jeemkyAoBmlo3KG.jpg",
-      "rating": "6.6",
-      "anio": 2025,
-      "duracion": "1h 42min",
-      "genero": "Acción, Crimen, Suspense",
-      "descripcion": "Un agente de la DEA y su compañero persiguen un peculiar grupo de ladrones: sus propios hijos adolescentes rebeldes, que han empezado a robar a un peligroso cártel, utilizando para ello las tácticas de sus padres y la información de alto secreto.",
-      "director": "Michael Dowse",
-      "reparto": "Dave Bautista, Jack Champion, Sophia Lillis, Whitney Peak, Bobby Cannavale, Kate del Castillo, Tony Dalton, Inde Navarrette, Zaire Adams, Blu del Barrio, Ammie Masterson, Kelsey Landon",
-      "embedUrl": "https://pelicinehd.com/?trembed=0&trid=18347&trtype=1",
-      "recienAgregado": true
-    },
-    {
       "titulo": "El cobrador de deudas",
       "poster": "https://image.tmdb.org/t/p/w500/pKHqhghLmDRfwIyH7A2pGARX1IQ.jpg",
       "rating": "7.8",
