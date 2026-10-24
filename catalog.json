@@ -1,6 +1,45 @@
 {
   "movies": [
     {
+      "titulo": "Llaman a la puerta",
+      "poster": "https://image.tmdb.org/t/p/w500/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg",
+      "rating": "6.2",
+      "anio": 2023,
+      "duracion": "1h 40min",
+      "genero": "Terror, Suspense, Misterio",
+      "descripcion": "Durante unas vacaciones en una cabaña en un bosque alejada de todo, una niña y sus padres se convierten en rehenes de cuatro desconocidos armados que obligan a la familia a tomar una decisión imposible para evitar el apocalipsis. Con acceso limitado al mundo exterior, la familia deberá decidir qué creer antes de que todo esté perdido.",
+      "director": "M. Night Shyamalan",
+      "reparto": "Dave Bautista, Jonathan Groff, Ben Aldridge, Nikki Amuka-Bird, Rupert Grint, Abby Quinn, Kristen Cui, McKenna Kerrigan, Ian Merrill Peakes, Denise Nakano, Rose Luardo, Billy Vargus",
+      "embedUrl": "https://morencius.com/embed/47nwrgn3csc1",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Don't Move",
+      "poster": "https://image.tmdb.org/t/p/w500/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg",
+      "rating": "5.3",
+      "anio": 2026,
+      "duracion": "1h 34min",
+      "genero": "Terror, Suspense",
+      "descripcion": "Un arácnido prehistórico aterroriza a un grupo de excursionistas perdidos que se adentran en el bosque equivocado.",
+      "director": "Maclain Nelson",
+      "reparto": "Lyndsy Fonseca, Russ, Tom Cavanagh, Hunter King, Joseph Lee Anderson, Rob Riggle, Brian Quinn, Matt Biedel, James Murray, Dee Freeman, T-Pain, Tristan Wilder Hallett",
+      "embedUrl": "https://bysedikamoum.com/e/3d6sp8woa7fk/dont-move-2026",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El despertar",
+      "poster": "https://image.tmdb.org/t/p/w500/w3YJx1PPPC6aiVKusxfc9QA0uYS.jpg",
+      "rating": "",
+      "anio": 2026,
+      "duracion": "1h 36min",
+      "genero": "Terror, Acción, Bélica, Fantasía, Suspense",
+      "descripcion": "Una unidad militar de élite en una misión en la selva sudamericana se topa con una fuerza sobrenatural letal que revela una presencia ancestral que sigue cobrando la vida de cualquiera que se atreva a entrar en su dominio",
+      "director": "Jaime Osorio Márquez",
+      "reparto": "Claudio Cataño, Alejandro Buitrago, Hector Sánchez, Andrea Olaya, Quique Sanmartin, Jaisson Jeack, Carlos Mariño, Andres Londono, Salvador Bridges, Sebastian Velasquez, Jarlin Javier Martínez, Carrell Ali Lasso",
+      "embedUrl": "https://bysedikamoum.com/e/epwn6o9aysdi/master",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Hope",
       "poster": "https://image.tmdb.org/t/p/w500/lkWqvj24NG3vEgu19ZQ9erG3Vj7.jpg",
       "rating": "6.9",
@@ -4347,8 +4386,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Brothers",
@@ -4489,10 +4527,17 @@
               "nombre": "El recién llegado bajo vigilancia",
               "duracion": "1h 1min",
               "embedUrl": "https://bysevepoin.com/e/mwztksvpsb7a"
+            },
+            {
+              "numero": 5,
+              "nombre": "Fotografías",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysesukior.com/e/w95qosmplqkt"
             }
           ]
         }
-      ]
+      ],
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Amor, dulce amor",
@@ -4519,10 +4564,17 @@
               "nombre": "Un nuevo comienzo entre fresas",
               "duracion": "48 min",
               "embedUrl": "https://bysesukior.com/e/7sl332g5zlza"
+            },
+            {
+              "numero": 3,
+              "nombre": "Una nueva convivencia",
+              "duracion": "46 min",
+              "embedUrl": "https://bysesukior.com/e/e317dsrm3sjr"
             }
           ]
         }
-      ]
+      ],
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Un amor distinto al tuyo",
@@ -4600,8 +4652,7 @@
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "Neagley",
