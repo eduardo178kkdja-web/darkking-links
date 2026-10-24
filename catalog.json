@@ -1,6 +1,32 @@
 {
   "movies": [
     {
+      "titulo": "Noche fatídica",
+      "poster": "https://image.tmdb.org/t/p/w500/un3NZLu9lMneHtRlzdaMonF7qHY.jpg",
+      "rating": "0.5",
+      "anio": 2026,
+      "duracion": "2h 4min",
+      "genero": "Suspense, Crimen",
+      "descripcion": "La noche de un policía corrupto y atormentado se sale de madre cuando un acto de compasión involuntario hacia una chica herida lo arrastra a una peligrosa red criminal.",
+      "director": "Ritesh Shah",
+      "reparto": "मनोज बाजपेयी, Divya Dutta, Akshay Oberoi, Saqib Saleem, Shraddha Das, Rajiv Gupta, Aditi Sandhya Sharma, Nushrratt Bharuccha, Kiku Sharda, Sunit Tandon, Sumit Gahlawat, Sachin Kathuria",
+      "embedUrl": "https://audinifer.com/e/2tpk0m1zlccc",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Contra el huracán",
+      "poster": "https://image.tmdb.org/t/p/w500/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
+      "rating": "4.8",
+      "anio": 2026,
+      "duracion": "1h 36min",
+      "genero": "Drama",
+      "descripcion": "En medio del mar, Wirpul y su hermanastro Candi luchan por sobrevivir cuando una inesperada tormenta se convierte en el huracán Otis, de categoría 5, frente a las costas de Acapulco.",
+      "director": "Jorge Michel Grau",
+      "reparto": "Benny Emmanuel, Kristyan Ferrer, Mónica del Carmen, Mónica Jiménez, Andrew Leland Rogers, Gonzalo Vega Jr.",
+      "embedUrl": "https://audinifer.com/e/ndhfajcqp2dh",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Llaman a la puerta",
       "poster": "https://image.tmdb.org/t/p/w500/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg",
       "rating": "6.2",
