@@ -4419,26 +4419,26 @@
           "capitulos": [
             {
               "numero": 1,
-              "nombre": "",
-              "duracion": "",
+              "nombre": "Poder",
+              "duracion": "1h 4min",
               "embedUrl": "https://jamespatterncamera.com/e/ssrhqgzbrkyi"
             },
             {
               "numero": 2,
-              "nombre": "",
-              "duracion": "",
+              "nombre": "Codicia",
+              "duracion": "1h",
               "embedUrl": "https://jamespatterncamera.com/e/n8lu18qjglko"
             },
             {
               "numero": 3,
-              "nombre": "",
-              "duracion": "",
+              "nombre": "Confianza",
+              "duracion": "1h 6min",
               "embedUrl": "https://jamespatterncamera.com/e/ju2jrq3askgw"
             },
             {
               "numero": 4,
-              "nombre": "",
-              "duracion": "",
+              "nombre": "Humano",
+              "duracion": "1h 13min",
               "embedUrl": "https://jamespatterncamera.com/e/ju490iefhbsi"
             }
           ]
@@ -4618,8 +4618,7 @@
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "Amor, dulce amor",
@@ -4655,8 +4654,7 @@
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "Un amor distinto al tuyo",
