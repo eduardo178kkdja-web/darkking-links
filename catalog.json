@@ -4404,49 +4404,6 @@
   ],
   "series": [
     {
-      "titulo": "TYSON",
-      "poster": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg",
-      "rating": "8.5",
-      "anio": 2026,
-      "genero": "Documental",
-      "descripcion": "Explora la vida trepidante del boxeador Mike Tyson, una de las figuras más temidas y fascinantes de la historia del deporte.",
-      "creador": "",
-      "reparto": "Mike Tyson",
-      "temporadas": [
-        {
-          "numero": 1,
-          "anio": 2026,
-          "capitulos": [
-            {
-              "numero": 1,
-              "nombre": "Poder",
-              "duracion": "1h 4min",
-              "embedUrl": "https://playmogo.com/e/wukejd6u6ycb"
-            },
-            {
-              "numero": 2,
-              "nombre": "Codicia",
-              "duracion": "1h",
-              "embedUrl": "https://playmogo.com/e/tyds6k8njpck"
-            },
-            {
-              "numero": 3,
-              "nombre": "Confianza",
-              "duracion": "1h 6min",
-              "embedUrl": "https://playmogo.com/e/wnrbcm3bmzgw"
-            },
-            {
-              "numero": 4,
-              "nombre": "Humano",
-              "duracion": "1 h 13 min",
-              "embedUrl": "https://playmogo.com/e/88bwfett9jx2"
-            }
-          ]
-        }
-      ],
-      "recienAgregado": true
-    },
-    {
       "titulo": "Minami, abogada extraordinaria",
       "poster": "https://image.tmdb.org/t/p/w500/ax4KpZOjZ59hp6IjYNOfJMAYge0.jpg",
       "rating": "6.0",
