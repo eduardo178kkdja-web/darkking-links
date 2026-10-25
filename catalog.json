@@ -1,6 +1,19 @@
 {
   "movies": [
     {
+      "titulo": "Noche fatídica",
+      "poster": "https://image.tmdb.org/t/p/w500/un3NZLu9lMneHtRlzdaMonF7qHY.jpg",
+      "rating": "4.5",
+      "anio": 2026,
+      "duracion": "2h 4min",
+      "genero": "Suspense, Crimen",
+      "descripcion": "La noche de un policía corrupto y atormentado se sale de madre cuando un acto de compasión involuntario hacia una chica herida lo arrastra a una peligrosa red criminal.",
+      "director": "Ritesh Shah",
+      "reparto": "मनोज बाजपेयी, Divya Dutta, Akshay Oberoi, Saqib Saleem, Shraddha Das, Rajiv Gupta, Aditi Sandhya Sharma, Nushrratt Bharuccha, Kiku Sharda, Sunit Tandon, Sumit Gahlawat, Sachin Kathuria",
+      "embedUrl": "https://bysedikamoum.com/e/f745bnz5cfa0/noche-fatídica",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Johnny English",
       "poster": "https://image.tmdb.org/t/p/w500/vjC6Rez0CiqHAX3JgeDh1Rsshmv.jpg",
       "rating": "6.3",
