@@ -4404,6 +4404,49 @@
   ],
   "series": [
     {
+      "titulo": "TYSON",
+      "poster": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg",
+      "rating": "8.5",
+      "anio": 2026,
+      "genero": "Documental",
+      "descripcion": "Explora la vida trepidante del boxeador Mike Tyson, una de las figuras más temidas y fascinantes de la historia del deporte.",
+      "creador": "",
+      "reparto": "Mike Tyson",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "",
+              "duracion": "",
+              "embedUrl": "https://jamespatterncamera.com/e/ssrhqgzbrkyi"
+            },
+            {
+              "numero": 2,
+              "nombre": "",
+              "duracion": "",
+              "embedUrl": "https://jamespatterncamera.com/e/n8lu18qjglko"
+            },
+            {
+              "numero": 3,
+              "nombre": "",
+              "duracion": "",
+              "embedUrl": "https://jamespatterncamera.com/e/ju2jrq3askgw"
+            },
+            {
+              "numero": 4,
+              "nombre": "",
+              "duracion": "",
+              "embedUrl": "https://jamespatterncamera.com/e/ju490iefhbsi"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
       "titulo": "Minami, abogada extraordinaria",
       "poster": "https://image.tmdb.org/t/p/w500/ax4KpZOjZ59hp6IjYNOfJMAYge0.jpg",
       "rating": "6.0",
