@@ -4404,6 +4404,275 @@
   ],
   "series": [
     {
+      "titulo": "GIGN: Unidad de élite",
+      "poster": "https://image.tmdb.org/t/p/w500/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
+      "rating": "7.8",
+      "anio": 2026,
+      "genero": "Action & Adventure, Crimen, Drama",
+      "descripcion": "Tras un ataque sin precedentes contra su unidad, un agente de alto rango a punto de retirarse lidera una peligrosa misión que le obliga a enfrentarse a su pasado.",
+      "creador": "Julien Leclercq, Sylvain Caron",
+      "reparto": "Tomer Sisley, Guillaume Gouix, Philip Schurer, Nicolas Wanczycki, Leanna Chea, Géraldine Pailhas, Tristan Zanchi, Thierry Neuvic, Grégori Derangère, Kévin Azaïs, Élodie Menant, Nelly Lawson",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El atentado",
+              "duracion": "55 min",
+              "embedUrl": "https://vimeos.net/embed-gx83zdplrjr9.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "La cacería",
+              "duracion": "52 min",
+              "embedUrl": "https://vimeos.net/embed-dwt2a6ev7pcw.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Pruebas en el bosque",
+              "duracion": "42 min",
+              "embedUrl": "https://vimeos.net/embed-ypibmmvy0rmi.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Una misión secreta",
+              "duracion": "44 min",
+              "embedUrl": "https://vimeos.net/embed-r6xd9n4v410m.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "La verdad de David",
+              "duracion": "51 min",
+              "embedUrl": "https://vimeos.net/embed-v95d1vylmuau.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Rescate de rehenes",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-2vhf9ozjk9pp.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Lucky",
+      "poster": "https://image.tmdb.org/t/p/w500/vZ3GfOoeha2xVCPec0jv2jf3yfC.jpg",
+      "rating": "7.3",
+      "anio": 2026,
+      "genero": "Drama, Crimen",
+      "descripcion": "Cuando un robo de varios millones de dólares sale mal, la estafadora Lucky se ve obligada a huir. Perseguida tanto por el FBI como por un despiadado jefe criminal, Lucky deberá luchar por su vida y buscar una salida.",
+      "creador": "Jonathan Tropper",
+      "reparto": "Anya Taylor-Joy, Annette Bening, Clifton Collins Jr., Aunjanue Ellis-Taylor, Timothy Olyphant",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Sin atajos",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-goe0xnh721z0.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Hacerlos bailar",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-kh7s9oh7xhdy.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Observar el ambiente",
+              "duracion": "45 min",
+              "embedUrl": "https://vimeos.net/embed-xh46mue52815.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Negarse a ver",
+              "duracion": "39 min",
+              "embedUrl": "https://vimeos.net/embed-5ppa3uuiqxmh.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "¿Somos malas personas?",
+              "duracion": "42 min",
+              "embedUrl": "https://vimeos.net/embed-xi3ih0j08f0p.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "A donde vayas, ahí estarás",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-j9zbuzpf67j0.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Cosas buenas",
+              "duracion": "45 min",
+              "embedUrl": "https://vimeos.net/embed-ig4tgg7czkhw.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El hombre contra el bebé",
+      "poster": "https://image.tmdb.org/t/p/w500/15g7XBiKyzHh9D6ZV5kls5JyVJz.jpg",
+      "rating": "6.8",
+      "anio": 2025,
+      "genero": "Comedia, Familia",
+      "descripcion": "¡Hacer de padre no es su fuerte! A pocos días de Navidad, el cuidador de un lujoso ático de Londres se topa con un gran contratiempo... lidiar también con un bebé abandonado.",
+      "creador": "Rowan Atkinson, William Davies",
+      "reparto": "Rowan Atkinson",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2025,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El bebé perdido",
+              "duracion": "27 min",
+              "embedUrl": "https://vimeos.net/embed-61y4y61eitvc.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Bebé escondido",
+              "duracion": "24 min",
+              "embedUrl": "https://vimeos.net/embed-htr6bk6b7mls.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Bebé equivocado",
+              "duracion": "27 min",
+              "embedUrl": "https://vimeos.net/embed-h5cxjeswgmix.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Caos navideño",
+              "duracion": "37 min",
+              "embedUrl": "https://vimeos.net/embed-u1bwxkcnzjz1.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
+      "titulo": "VisionQuest",
+      "poster": "https://image.tmdb.org/t/p/w500/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "rating": "8.8",
+      "anio": 2026,
+      "genero": "Sci-Fi & Fantasy, Drama",
+      "descripcion": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "creador": "Terry Matalas",
+      "reparto": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais, Orla Brady, Diane Morgan, Polly Frame, Henry Lewis, Jonathan Sayer, Emily Hampshire, James D'Arcy",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Sin ataduras",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-hc7i1n95d4vx.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Teseo",
+              "duracion": "45 min",
+              "embedUrl": "https://vimeos.net/embed-kr4k7o11ytq2.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Reinicio",
+              "duracion": "52 min",
+              "embedUrl": "https://vimeos.net/embed-fg5ls1s5ssd5.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Malware",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-vjs3c7xs0mmw.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Carrie",
+      "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "rating": "8.3",
+      "anio": 2026,
+      "genero": "Misterio, Drama, Sci-Fi & Fantasy",
+      "descripcion": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
+      "creador": "Mike Flanagan",
+      "reparto": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette, Josie Totah, Arthur Conti, Thalia Dudek, Amber Midthunder, Matthew Lillard",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Primera regla",
+              "duracion": "55 min",
+              "embedUrl": "https://vimeos.net/embed-x1t1bbwoi9x1.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Lengua extranjera",
+              "duracion": "52 min",
+              "embedUrl": "https://vimeos.net/embed-j23ndtdmuwt1.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Estudios sociales",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-mh122nyqc4d3.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Arte dramático",
+              "duracion": "52 min",
+              "embedUrl": "https://vimeos.net/embed-1ifb08hm8j7s.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Educación física",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-slxno1f42txf.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Economía doméstica",
+              "duracion": "59 min",
+              "embedUrl": "https://vimeos.net/embed-8r8zijr0qo3w.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Literatura romántica",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-z460qm9wxlbd.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Física de la P. A.",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-o5ibt22zco0s.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
       "titulo": "TYSON",
       "poster": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg",
       "rating": "8.5",
