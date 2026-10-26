@@ -4615,10 +4615,17 @@
               "nombre": "Fotografías",
               "duracion": "1h 4min",
               "embedUrl": "https://bysesukior.com/e/w95qosmplqkt"
+            },
+            {
+              "numero": 6,
+              "nombre": "Salvar a hermana",
+              "duracion": "1h",
+              "embedUrl": "https://bysesukior.com/e/mn7cdm4y77zw"
             }
           ]
         }
-      ]
+      ],
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Amor, dulce amor",
@@ -4729,10 +4736,23 @@
               "nombre": "¿Cómo son nuestras cicatrices?",
               "duracion": "1h 2min",
               "embedUrl": "https://bysesukior.com/e/1ys40405p12d"
+            },
+            {
+              "numero": 11,
+              "nombre": "¿Cómo amamos, cómo vivimos?",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysevepoin.com/e/662isa8wair4"
+            },
+            {
+              "numero": 12,
+              "nombre": "¿A quién amamos más?",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysevepoin.com/e/b0z7o9ijwryd"
             }
           ]
         }
-      ]
+      ],
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Neagley",
