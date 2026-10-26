@@ -1,6 +1,45 @@
 {
   "movies": [
     {
+      "titulo": "La milicia",
+      "poster": "https://image.tmdb.org/t/p/w500/yUa5I0Wb4pVbKcrIRBYrLF4guje.jpg",
+      "rating": "7.3",
+      "anio": 2026,
+      "duracion": "1h 57min",
+      "genero": "Drama, Suspense",
+      "descripcion": "Daniel sueña con unirse a la milicia local junto a su padre. Pero cuando su padre se convierte en el objetivo del sheriff, Daniel y sus amigos forman su propia milicia en un esfuerzo desesperado por salvarlo.",
+      "director": "Dylan King Welter",
+      "reparto": "Sam Williamson, Michael Broderick, Luke Stratte-McClure, Chris Bylsma, Laurel Feierbach, Solomon Puckett, Scott Callenberger, Noah Aronstein",
+      "embedUrl": "https://bysedikamoum.com/e/l62ehjbw1cua/la-milicia",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Infirmary",
+      "poster": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
+      "rating": "4.9",
+      "anio": 2026,
+      "duracion": "1h 25min",
+      "genero": "Terror",
+      "descripcion": "Un vigilante desapareció en su primer turno en un antiguo hospital psiquiátrico en 2023. Su cámara corporal captó sucesos inexplicables que siguen desconcertando a los investigadores.",
+      "director": "Nicholas Pineda",
+      "reparto": "Paul Syre, Mark Anthony Williams, Danielle Kennedy, Corinna Wagner-Smith",
+      "embedUrl": "https://bysedikamoum.com/e/zg3v5h79rh0q/infirmary",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Dulce sabor a muerte",
+      "poster": "https://image.tmdb.org/t/p/w500/uVuP2ZTYLn5hdL1aUOe4BiFD6d3.jpg",
+      "rating": "5.0",
+      "anio": 2026,
+      "duracion": "1h 26min",
+      "genero": "Terror, Comedia, Suspense",
+      "descripcion": "Lo que comienza siendo un verano idílico, en un pequeño y tranquilo pueblo vacacional, se convierte en una auténtica pesadilla cuando los más pequeños comienzan a mostrar instintos asesinos y deseos insaciables por acabar con todos los adultos. Son víctimas de una curiosa maldición provocada por los helados que comen que afecta a todos, menos a tres niños que tendrán que intentar escapar y salvar a todo el pueblo.",
+      "director": "Eli Roth",
+      "reparto": "Ari Millen, Charlie Zeltzer, Shiloh O’Reilly, Kiori Mirza Waldman, Sarah Abbott, Benjamin Byron Davis, Karen Cliche, Dylan Hawco, Eli Roth, Lorenzo Antonucci, Luke Dietz, Eli Massillon",
+      "embedUrl": "https://bysedikamoum.com/e/ghan948p3iov/master",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Noche fatídica",
       "poster": "https://image.tmdb.org/t/p/w500/un3NZLu9lMneHtRlzdaMonF7qHY.jpg",
       "rating": "4.5",
@@ -10,8 +49,7 @@
       "descripcion": "La noche de un policía corrupto y atormentado se sale de madre cuando un acto de compasión involuntario hacia una chica herida lo arrastra a una peligrosa red criminal.",
       "director": "Ritesh Shah",
       "reparto": "मनोज बाजपेयी, Divya Dutta, Akshay Oberoi, Saqib Saleem, Shraddha Das, Rajiv Gupta, Aditi Sandhya Sharma, Nushrratt Bharuccha, Kiku Sharda, Sunit Tandon, Sumit Gahlawat, Sachin Kathuria",
-      "embedUrl": "https://bysedikamoum.com/e/f745bnz5cfa0/noche-fatídica",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/f745bnz5cfa0/noche-fatídica"
     },
     {
       "titulo": "Johnny English",
@@ -23,8 +61,7 @@
       "descripcion": "Las joyas de la Corona de su Majestad han desaparecido. Detrás de ello se esconde Pascal Sauvage (John Malkovich), que también conspira para hacerse con el trono de la reina. La misión es asignada a Johnny English (Rowan Atkinson), un agente tan entregado al trabajo como inexperto. Desde ese momento la información confidencial, los coches de lujo y la tecnología más sofisticada forman parte de su rutina diaria. Johnny English aún no se lo acaba de creer. Quizás todo esto le venga algo grande, pero su empeño con la misión y dedicación para llegar hasta el final es incuestionable, especialmente después de conocer a la agente doble Lorna Campbell (Natalie Imbruglia). Parece ser que lo de estar enamorado aún hará más emocionante esto de salvar al país...",
       "director": "Peter Howitt",
       "reparto": "Rowan Atkinson, Natalie Imbruglia, Ben Miller, John Malkovich, Greg Wise, Tasha de Vasconcelos, Douglas McFerran, Steve Nicolson, Terence Harvey, Kevin McNally, Tim Pigott-Smith, Nina Young",
-      "embedUrl": "https://vimeos.net/embed-r8op2vjn3ebi.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-r8op2vjn3ebi.html"
     },
     {
       "titulo": "Contra el huracán",
@@ -36,8 +73,7 @@
       "descripcion": "En medio del mar, Wirpul y su hermanastro Candi luchan por sobrevivir cuando una inesperada tormenta se convierte en el huracán Otis, de categoría 5, frente a las costas de Acapulco.",
       "director": "Jorge Michel Grau",
       "reparto": "Benny Emmanuel, Kristyan Ferrer, Mónica del Carmen, Mónica Jiménez, Andrew Leland Rogers, Gonzalo Vega Jr.",
-      "embedUrl": "https://audinifer.com/e/ndhfajcqp2dh",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/detmfgvomfh7/contra-el-huracán"
     },
     {
       "titulo": "Llaman a la puerta",
@@ -49,8 +85,7 @@
       "descripcion": "Durante unas vacaciones en una cabaña en un bosque alejada de todo, una niña y sus padres se convierten en rehenes de cuatro desconocidos armados que obligan a la familia a tomar una decisión imposible para evitar el apocalipsis. Con acceso limitado al mundo exterior, la familia deberá decidir qué creer antes de que todo esté perdido.",
       "director": "M. Night Shyamalan",
       "reparto": "Dave Bautista, Jonathan Groff, Ben Aldridge, Nikki Amuka-Bird, Rupert Grint, Abby Quinn, Kristen Cui, McKenna Kerrigan, Ian Merrill Peakes, Denise Nakano, Rose Luardo, Billy Vargus",
-      "embedUrl": "https://morencius.com/embed/47nwrgn3csc1",
-      "recienAgregado": true
+      "embedUrl": "https://morencius.com/embed/47nwrgn3csc1"
     },
     {
       "titulo": "Don't Move",
@@ -62,8 +97,7 @@
       "descripcion": "Un arácnido prehistórico aterroriza a un grupo de excursionistas perdidos que se adentran en el bosque equivocado.",
       "director": "Maclain Nelson",
       "reparto": "Lyndsy Fonseca, Russ, Tom Cavanagh, Hunter King, Joseph Lee Anderson, Rob Riggle, Brian Quinn, Matt Biedel, James Murray, Dee Freeman, T-Pain, Tristan Wilder Hallett",
-      "embedUrl": "https://bysedikamoum.com/e/3d6sp8woa7fk/dont-move-2026",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/3d6sp8woa7fk/dont-move-2026"
     },
     {
       "titulo": "El despertar",
@@ -75,8 +109,7 @@
       "descripcion": "Una unidad militar de élite en una misión en la selva sudamericana se topa con una fuerza sobrenatural letal que revela una presencia ancestral que sigue cobrando la vida de cualquiera que se atreva a entrar en su dominio",
       "director": "Jaime Osorio Márquez",
       "reparto": "Claudio Cataño, Alejandro Buitrago, Hector Sánchez, Andrea Olaya, Quique Sanmartin, Jaisson Jeack, Carlos Mariño, Andres Londono, Salvador Bridges, Sebastian Velasquez, Jarlin Javier Martínez, Carrell Ali Lasso",
-      "embedUrl": "https://bysedikamoum.com/e/epwn6o9aysdi/master",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/epwn6o9aysdi/master"
     },
     {
       "titulo": "Hope",
@@ -88,8 +121,7 @@
       "descripcion": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
       "director": "나홍진",
       "reparto": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender, Taylor Russell, Cameron Britton, 이상희, 음문석, 임현식, 황석정, 한우열",
-      "embedUrl": "https://audinifer.com/e/9zrnt5sv3wmz",
-      "recienAgregado": true
+      "embedUrl": "https://audinifer.com/e/9zrnt5sv3wmz"
     },
     {
       "titulo": "Malas manzanas",
@@ -101,8 +133,7 @@
       "descripcion": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
       "director": "Jonatan Etzler",
       "reparto": "Saoirse Ronan, Eddie Waller, Nia Brown, Jacob Anderson, Rakie Ayola, Robert Emms, Sean Gilder, Kerry Howard, Jaye Jacobs, Joanna van Kampen, Kirris Riviere, Dorian Simpson",
-      "embedUrl": "https://hanerix.com/e/k4ac4bx2eb5k",
-      "recienAgregado": true
+      "embedUrl": "https://hanerix.com/e/k4ac4bx2eb5k"
     },
     {
       "titulo": "El cobrador de deudas",
@@ -114,8 +145,7 @@
       "descripcion": "Atormentado por los errores del pasado y un diagnóstico terminal, un excobrador de deudas regresa al mundo del hampa para proteger a las víctimas de una organización violenta.",
       "director": "สุรพงษ์ เพลินแสง",
       "reparto": "ณเดชน์ คูกิมิยะ, พิทยา แซ่ฉั่ว, ชัยวัฒน์ ทองแสง, Nuanprang Treechit, Jonathan Holman, พลอยปภัส ฝนแก้วศิวพร, Kunkanit Khumkrong, Nuttanun Kunnawatt, ปพน จิรหิตะภัทร, สายเชีย วงศ์วิโรจน์, ปิยพงษ์ วงษ์คําเหลา, Isara Nadee",
-      "embedUrl": "https://bysedikamoum.com/e/ayzhddkf4u0l/el-cobrador-de-deudas-2026",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/ayzhddkf4u0l/el-cobrador-de-deudas-2026"
     },
     {
       "titulo": "El teléfono",
