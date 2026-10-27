@@ -1,6 +1,19 @@
 {
   "movies": [
     {
+      "titulo": "Oro sin ley",
+      "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+      "rating": "6.7",
+      "anio": 2026,
+      "duracion": "1h 55min",
+      "genero": "Drama, Suspense",
+      "descripcion": "Oregón, 1933. Samuel Murphy (Ethan Hawke) es separado de su hija y enviado a un campo de trabajo. Un día, el alcaide Clancy (Russell Crowe) le ofrece la posibilidad de liberarlo si consigue pasar oro de contrabando a través de una peligrosa senda salvaje. ¿Hasta dónde será capaz de llegar Murphy por reencontrarse con su querida hija?",
+      "director": "Padraic McKinley",
+      "reparto": "Ethan Hawke, Russell Crowe, Julia Jones, Austin Amelio, Avi Nash, Lucas Lynggaard Tønnesen, Sam Hazeldine, George Burgess, Jeff Hallman, Alec Newman, Avy-Berry Worrall, Cameron Brady",
+      "embedUrl": "https://bysedikamoum.com/e/fealn9rhaczb/oro",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Háblame",
       "poster": "https://image.tmdb.org/t/p/w500/tukqsGK9a0ScPP1UaPUEkNf9Cqx.jpg",
       "rating": "7.1",
