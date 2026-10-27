@@ -1,6 +1,45 @@
 {
   "movies": [
     {
+      "titulo": "MexZombies",
+      "poster": "https://image.tmdb.org/t/p/w500/85zufUxhD97k2s5Bu2u101Qd8Sg.jpg",
+      "rating": "7.0",
+      "anio": 2022,
+      "duracion": "1h 33min",
+      "genero": "Terror, Acción, Comedia",
+      "descripcion": "Dos adolescentes un poco inadaptados socialmente, uno cinéfilo de películas clásicas de antaño y el otro un aspirante a ser experto en parkour, deben enfrentarse a un inesperado reto: prevenir un apocalipsis zombi, al mismo tiempo que ponen a prueba su amistad y buscan su primer amor.",
+      "director": "Chava Cartas",
+      "reparto": "Iñaki Godoy, Marcelo Barcelo, Vincent Michael Webb, Alejandro Puente, Sara Maldonado, Isabella Camil, Mayra Batalla, Bárbara de Regil, Daniel Tovar, Roberta Damián, Ricardo Polanco, Alejandro Cuétara",
+      "embedUrl": "https://bysedikamoum.com/e/wb9lcc167t8d/mexzombies",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Rastro oculto",
+      "poster": "https://image.tmdb.org/t/p/w500/4JVMbjR3d4akI5aqVBX91icfVwR.jpg",
+      "rating": "6.2",
+      "anio": 2008,
+      "duracion": "1h 41min",
+      "genero": "Suspense, Crimen, Misterio, Drama, Terror",
+      "descripcion": "El FBI cuenta con un departamento encargado de delitos cibernéticos que se dedica únicamente a investigar y perseguir a los delincuentes que actúan en Internet. En Portland, la agente especial Jennifer Marsh (Diane Lane) tiene que resolver un caso sin precedentes: un depredador cibernético cuelga torturas y asesinatos en una sofisticada página web que, al no dejar rastro, no puede ser desconectada. El destino de sus víctimas depende del público: cuantas más visitas registre la página web, más deprisa morirán. Cuando el juego del gato y el ratón se convierte en algo personal, Jennifer y su equipo deberán lanzarse a una carrera contrarreloj para encontrar al asesino.",
+      "director": "Gregory Hoblit",
+      "reparto": "Diane Lane, Billy Burke, Colin Hanks, Joseph Cross, Mary Beth Hurt, Peter Gray Lewis, Perla Haney-Jardine, Christopher Cousins, Jesse Tyler Ferguson, Brynn Baron, John Breen, Dan Callahan",
+      "embedUrl": "https://vimeos.net/embed-nv1dlzwsp2vk.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "La trampa del mal",
+      "poster": "https://image.tmdb.org/t/p/w500/utiMhBWoBGf8iQ0l0yDHDlpTA60.jpg",
+      "rating": "6.1",
+      "anio": 2010,
+      "duracion": "1h 20min",
+      "genero": "Terror, Misterio, Suspense",
+      "descripcion": "Basada en una historia de M. Night Shyamalan. Un día cualquiera, cinco personas, que no se conocen, se quedan atrapadas en un ascensor de un gran edificio de oficinas. Muy pronto comienzan a suceder cosas extrañas y, poco a poco, se dan cuenta de que uno de ellos no es quien dice ser: es el mismísimo Satanás",
+      "director": "John Erick Dowdle",
+      "reparto": "Chris Messina, Bojana Novaković, Jenny O'Hara, Logan Marshall-Green, Jacob Vargas, Bokeem Woodbine, Matt Craven, Caroline Dhavernas, Joshua Peace, Zoie Palmer, Joe Cobden, Vincent Laresca",
+      "embedUrl": "https://vimeos.net/embed-cd1t3c1p8l9a.html",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Oro sin ley",
       "poster": "https://image.tmdb.org/t/p/w500/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
       "rating": "6.7",
@@ -2755,7 +2794,7 @@
       "descripcion": "Una chica hawaiana solitaria conoce a un alienígena fugitivo.",
       "director": "Dean Fleischer Camp",
       "reparto": "Maia Kealoha, Sydney Agudong, Chris Sanders",
-      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-KiYag3YQoNaFZaKlQG8TmVugIit2mfJAGuSwJv1fNY9SpRC_bNcYOZh-EjSkOEc240UJjsGle_ShB2OhVELEv0nTSktFLOt4CjtmXbX5A3wZooz1US1whg9nsIVUtfAwkMtYUOq28eFvZYmu6CHxSaajI5qIEqdhpYbUJXkIXPJD-Irfvrl2mYRXe47232bOvUn10IJEdlIc997l0w_IoZGCmQjxJZYjZBUYTZ7-8ZRAoQkaL1jaMpafr1t7XlENUhEFECMLUBZBeHrg-wmWFDY19aHCx8WSx6YVJjJVVKgPjYTyVLfv1K5fuiw3wJGxmRu_nuSSJTqZ57QO8wkFJ5cfawsAi1ng/65c681c59cf90/d1632b2d6ad6e89d57f928965590cd53d59ad24310d4e562cb52bc30864cc151/1080p/playlist.m3u8"
+      "embedUrl": "https://vimeos.net/embed-uzilzbe2bjz3.html"
     },
     {
       "titulo": "Five Nights at Freddy's 2",
@@ -4818,6 +4857,12 @@
               "nombre": "¿Boda o ruptura?",
               "duracion": "1h 3min",
               "embedUrl": "https://bysesukior.com/e/2htjkdckdyzs"
+            },
+            {
+              "numero": 2,
+              "nombre": "Su primer caso difícil",
+              "duracion": "45 min",
+              "embedUrl": "https://bysesukior.com/e/2wen8gy0at9i"
             }
           ]
         }
