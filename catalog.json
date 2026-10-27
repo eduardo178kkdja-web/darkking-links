@@ -1,6 +1,71 @@
 {
   "movies": [
     {
+      "titulo": "Háblame",
+      "poster": "https://image.tmdb.org/t/p/w500/tukqsGK9a0ScPP1UaPUEkNf9Cqx.jpg",
+      "rating": "7.1",
+      "anio": 2023,
+      "duracion": "1h 35min",
+      "genero": "Terror",
+      "descripcion": "La solitaria adolescente Mia se engancha a la emoción de invocar espíritus utilizando una mano embalsamada, pero cuando se enfrenta a un alma que dice ser su madre muerta, desata una plaga de fuerzas sobrenaturales y se debate entre decidir en quién puede confiar: en los vivos o en los muertos.",
+      "director": "Michael Philippou",
+      "reparto": "Sophie Wilde, Alexandra Jensen, Joe Bird, Otis Dhanji, Miranda Otto, Zoe Terakes, Chris Alosio, Marcus Johnson, Alexandria Steffensen, Ari McCarthy, Sunny Johnson, James Oliver",
+      "embedUrl": "https://vimeos.net/embed-8wefdjfu810w.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El fiscal",
+      "poster": "https://image.tmdb.org/t/p/w500/zOcwoiLPJwZ4Xfidr530IIXSebI.jpg",
+      "rating": "7.1",
+      "anio": 2024,
+      "duracion": "1h 57min",
+      "genero": "Acción, Drama, Crimen, Suspense",
+      "descripcion": "Un exdetective se convierte en fiscal y enfrenta la corrupción en el sistema judicial. Al investigar un caso lleno de dudas, se embarca en una misión personal para hacer justicia, enfrentándose a traficantes de drogas, conspiraciones y jueces corruptos en un intenso thriller de acción.",
+      "director": "Donnie Yen",
+      "reparto": "Donnie Yen, 張智霖, 許冠文, 吳鎮宇, 張天賦, 鄭則仕, 劉江, 喻亢, 栢天男, 林家熙, 陳欣妍, 馮皓揚",
+      "embedUrl": "https://vimeos.net/embed-km4c41t6ct1f.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Play Dead",
+      "poster": "https://image.tmdb.org/t/p/w500/5THjBLt4vE9lAnLODqXFf5qEwxa.jpg",
+      "rating": "6.3",
+      "anio": 2025,
+      "duracion": "1h 12min",
+      "genero": "Terror",
+      "descripcion": "Una mujer se despierta herida en un sótano rodeada de cadáveres. Para sobrevivir, finge estar muerta mientras se desarrolla un grotesco ritual en la casa de arriba.",
+      "director": "Carlos Goitia",
+      "reparto": "Paula Brasca, Damián Del Castillo, Marta Quarleri, Milagros Ribet, Catalina Motto",
+      "embedUrl": "https://vimeos.net/embed-e1eyigr6twqi.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Wildcat: Misión Rescate",
+      "poster": "https://image.tmdb.org/t/p/w500/2eQspDQBLDTvDOQtmErmi6uIi2.jpg",
+      "rating": "6.1",
+      "anio": 2025,
+      "duracion": "1h 39min",
+      "genero": "Acción, Suspense",
+      "descripcion": "Londres, hoy. Kate Beckinsale es Ada Williams, una exoperativa de fuerzas especiales que dejó la violencia por su hija. Cuando una deuda criminal provoca el secuestro de la niña, Ada solo tiene una noche para salvarla. Con la ciudad sumida en el caos, reúne a su antiguo equipo y se adentra en el inframundo londinense en una carrera contrarreloj donde cada decisión puede ser mortal.",
+      "director": "James Nunn",
+      "reparto": "Kate Beckinsale, Lewis Tan, Alice Krige, Charles Dance, Rasmus Hardiker, Mathilde Warnier, Bailey Patrick, Tom Bennett, Matt Willis, Roxy Striar, Edmund Kingsley, Martin Razpopov",
+      "embedUrl": "https://vimeos.net/embed-7qku53g6znpo.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Jerarquia: Golpe en la cumbre",
+      "poster": "https://image.tmdb.org/t/p/w500/wxRhVRdOMP7sbWPqIlO169P1pZb.jpg",
+      "rating": "6.1",
+      "anio": 2025,
+      "duracion": "1h 37min",
+      "genero": "Acción, Crimen, Suspense, Película de TV",
+      "descripcion": "En una zona no revelada de Texas, dos hermanos adoptivos se ven envueltos en actividades delictivas, obligados a eludir a las fuerzas del orden y a la codiciosa mafia rusa.",
+      "director": "Russell K Reed",
+      "reparto": "Chiderah Uzowulu, Xavier Alvarado, Dylan Winters, Jenny Frame, Ruben Javier Caballero, Carol Hickey, Neyla Cantu, Ervin Brown, Alec Franco",
+      "embedUrl": "https://vimeos.net/embed-86xm54vbf0sh.html",
+      "recienAgregado": true
+    },
+    {
       "titulo": "La milicia",
       "poster": "https://image.tmdb.org/t/p/w500/yUa5I0Wb4pVbKcrIRBYrLF4guje.jpg",
       "rating": "7.3",
