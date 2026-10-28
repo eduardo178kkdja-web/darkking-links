@@ -4714,11 +4714,23 @@
               "nombre": "Malware",
               "duracion": "48 min",
               "embedUrl": "https://vimeos.net/embed-vjs3c7xs0mmw.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Cortafuegos",
+              "duracion": "46 min",
+              "embedUrl": "https://bysedikamoum.com/e/3hko6p1gdt7p/visionquest-epi-5"
+            },
+            {
+              "numero": 6,
+              "nombre": "Bloqueo",
+              "duracion": "54 min",
+              "embedUrl": "https://bysedikamoum.com/e/kxsavgf6bz8n/visionquest-epi-6"
             }
           ]
         }
       ],
-      "recienAgregado": true
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Carrie",
@@ -6337,10 +6349,17 @@
               "nombre": "Q.H.D.A.",
               "duracion": "45 min",
               "embedUrl": "https://bysedikamoum.com/e/nzyvm9ts47y7/ver-tulsa-king-4x01-online-hd"
+            },
+            {
+              "numero": 2,
+              "nombre": "Gallo ciego",
+              "duracion": "41 min",
+              "embedUrl": "https://bysedikamoum.com/e/hj4o9cpcxnpr/tulsa-king-t4-epi-2"
             }
           ]
         }
-      ]
+      ],
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Acaramelados",
