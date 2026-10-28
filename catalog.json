@@ -1,6 +1,19 @@
 {
   "movies": [
     {
+      "titulo": "El pasajero nocturno",
+      "poster": "https://image.tmdb.org/t/p/w500/iX8D97TG8gVvHZ8S4clcdpCX7Uv.jpg",
+      "rating": "7.3",
+      "anio": 2026,
+      "duracion": "1h 34min",
+      "genero": "Terror",
+      "descripcion": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos y no se detendrá hasta reclamarlos a ambos, convirtiendo su viaje en una auténtica pesadilla.",
+      "director": "André Øvredal",
+      "reparto": "Lou Llobell, Jacob Scipio, Joseph Lopez, Melissa Leo, Miles Fowler, Alan Trong, Devielle Johnson, James William Clark, Tony Doupe, Charles Leggett, June Clemons, Bonni Dichone",
+      "embedUrl": "https://bysedikamoum.com/e/wwsicbpasyyr",
+      "recienAgregado": true
+    },
+    {
       "titulo": "MexZombies",
       "poster": "https://image.tmdb.org/t/p/w500/85zufUxhD97k2s5Bu2u101Qd8Sg.jpg",
       "rating": "7.0",
