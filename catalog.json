@@ -1,6 +1,32 @@
 {
   "movies": [
     {
+      "titulo": "Intocable",
+      "poster": "https://image.tmdb.org/t/p/w500/edPWyHqknFuxFY3sdmC3LtJITWC.jpg",
+      "rating": "8.3",
+      "anio": 2011,
+      "duracion": "1h 52min",
+      "genero": "Drama, Comedia",
+      "descripcion": "Un hombre tetraplégico y millonario contrata como cuidador a domicilio a Driss, un inmigrante de un barrio marginal recién salido de la cárcel. Aunque no parece la persona más indicada, congenian hasta forjar una amistad tan sólida como inesperada.",
+      "director": "Éric Toledano",
+      "reparto": "François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot, Joséphine de Meaux, Clotilde Mollet, Alba Gaïa Bellugi, Cyril Mendy, Salimata Kamate, Absa Diatou Toure, Grégoire Oestermann, Dominique Daguier",
+      "embedUrl": "https://bysedikamoum.com/e/hvvc8b648837/intocable",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "The Mortuary Assistant",
+      "poster": "https://image.tmdb.org/t/p/w500/6wVW8SnkRhIAPPk8QqFuf45kRt8.jpg",
+      "rating": "5.3",
+      "anio": 2026,
+      "duracion": "1h 31min",
+      "genero": "Terror, Misterio",
+      "descripcion": "Rebecca Owens, una licenciada en ciencias mortuorias, acepta un trabajo nocturno en la funeraria River Fields. Lo que comienza como un trabajo rutinario pronto se vuelve siniestro al enfrentarse a terroríficas fuerzas sobrenaturales.",
+      "director": "Jeremiah Kipp",
+      "reparto": "Willa Holland, Paul Sparks, John Adams, Mark Steger, Shelly Gibson, Emily Bennett, Keena Ferguson",
+      "embedUrl": "https://bysedikamoum.com/e/pg9qawkmrpud/la-asistente-de-la-morgue",
+      "recienAgregado": true
+    },
+    {
       "titulo": "El pasajero nocturno",
       "poster": "https://image.tmdb.org/t/p/w500/iX8D97TG8gVvHZ8S4clcdpCX7Uv.jpg",
       "rating": "7.3",
