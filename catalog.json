@@ -1,6 +1,32 @@
 {
   "movies": [
     {
+      "titulo": "Colisión",
+      "poster": "https://image.tmdb.org/t/p/w500/L2SDL6pi8jyvMRmh1vWbqfwHtf.jpg",
+      "rating": "10.0",
+      "anio": 2026,
+      "duracion": "",
+      "genero": "Suspense, Drama, Acción, Crimen",
+      "descripcion": "España, 2013. Tras atracar un banco, un fatal accidente de auto saca a la luz la cara oculta de una banda de ladrones y desvela que las traiciones comenzaron mucho antes del robo.",
+      "director": "Daniel Sánchez Arévalo",
+      "reparto": "Laia Costa, Karra Elejalde, Luis Zahera, Tamar Novas, Álvaro Cervantes, Lluís Homar",
+      "embedUrl": "https://bysedikamoum.com/e/hnouzvryqtq8/colisión",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Apocalipsis Z: Nuevo mundo",
+      "poster": "https://image.tmdb.org/t/p/w500/wgSMJ3083ad5qKC4QzzVNJ4cv5D.jpg",
+      "rating": "9.0",
+      "anio": 2026,
+      "duracion": "1h 36min",
+      "genero": "Acción, Suspense, Terror",
+      "descripcion": "Cuando una misión especial parte hacia la península en busca de suministros vitales, Roberto se une al equipo con dudosas intenciones. La peligrosa operación se transforma en una carrera desesperada por la supervivencia, y Roberto y sus compañeros se encontrarán entre hordas de infectados y lealtades divididas.",
+      "director": "Carles Torrens",
+      "reparto": "Carlos Alcaide, Julia Martínez, Mónica López, Tamara Casellas, Santiago Vaca Narvaja, José María Yázpik, Berta Vázquez, Axel Medrano, Pedro Hernández, Pedro Hernández, Javier Godino, Ujin Moreno",
+      "embedUrl": "https://bysedikamoum.com/e/7ldebvquw6a8/apocalipsis-z-nuevo-mundo",
+      "recienAgregado": true
+    },
+    {
       "titulo": "ネバーアフターダーク",
       "poster": "https://image.tmdb.org/t/p/w500/4rDgzOCBREeTaqZvTeFtEcnrju8.jpg",
       "rating": "7.4",
@@ -49,8 +75,7 @@
       "descripcion": "Rachel Keller es una periodista de investigación que no da mucho crédito a lo que considera una especie de leyenda urbana: al parecer, circula por ahí una cinta de vídeo con imágenes aterradoras, que va acompañada de una llamada telefónica en la que se predice, con una semana de antelación, la muerte de quien las ha visto. Sin embargo, cuando cuatro adolescentes encuentran la muerte exactamente una semana después de ver el vídeo, la curiosidad se apodera de ella y no parará hasta encontrar la cinta y verla.",
       "director": "Gore Verbinski",
       "reparto": "Naomi Watts, Martin Henderson, David Dorfman, Brian Cox, Jane Alexander, Lindsay Frost, Amber Tamblyn, Rachael Bella, Daveigh Chase, Shannon Cochran, Sandra Thigpen, Richard Lineback",
-      "embedUrl": "https://bysedikamoum.com/e/poia1jfrid98/the-ring-2002",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/poia1jfrid98/the-ring-2002"
     },
     {
       "titulo": "Intocable",
@@ -62,8 +87,7 @@
       "descripcion": "Un hombre tetraplégico y millonario contrata como cuidador a domicilio a Driss, un inmigrante de un barrio marginal recién salido de la cárcel. Aunque no parece la persona más indicada, congenian hasta forjar una amistad tan sólida como inesperada.",
       "director": "Éric Toledano",
       "reparto": "François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot, Joséphine de Meaux, Clotilde Mollet, Alba Gaïa Bellugi, Cyril Mendy, Salimata Kamate, Absa Diatou Toure, Grégoire Oestermann, Dominique Daguier",
-      "embedUrl": "https://bysedikamoum.com/e/hvvc8b648837/intocable",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/hvvc8b648837/intocable"
     },
     {
       "titulo": "The Mortuary Assistant",
@@ -75,8 +99,7 @@
       "descripcion": "Rebecca Owens, una licenciada en ciencias mortuorias, acepta un trabajo nocturno en la funeraria River Fields. Lo que comienza como un trabajo rutinario pronto se vuelve siniestro al enfrentarse a terroríficas fuerzas sobrenaturales.",
       "director": "Jeremiah Kipp",
       "reparto": "Willa Holland, Paul Sparks, John Adams, Mark Steger, Shelly Gibson, Emily Bennett, Keena Ferguson",
-      "embedUrl": "https://bysedikamoum.com/e/pg9qawkmrpud/la-asistente-de-la-morgue",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/pg9qawkmrpud/la-asistente-de-la-morgue"
     },
     {
       "titulo": "El pasajero nocturno",
