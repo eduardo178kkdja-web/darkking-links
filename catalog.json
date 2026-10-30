@@ -1,6 +1,45 @@
 {
   "movies": [
     {
+      "titulo": "ネバーアフターダーク",
+      "poster": "https://image.tmdb.org/t/p/w500/4rDgzOCBREeTaqZvTeFtEcnrju8.jpg",
+      "rating": "7.4",
+      "anio": 2026,
+      "duracion": "1h 44min",
+      "genero": "Terror",
+      "descripcion": "Una médium itinerante que ayuda a almas perdidas a cruzar al más allá se encuentra con una entidad poderosa en una casa remota. Al investigar sus orígenes, descubre oscuros secretos y enfrenta una amenaza mortal inesperada.",
+      "director": "Dave Boyle",
+      "reparto": "穂志もえか, 稲垣来泉, 賀来賢人, Tae Kimura, 吉岡睦雄, 正名僕蔵",
+      "embedUrl": "https://bysedikamoum.com/e/hzc13cegy70m/never-after-dark-2026",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Parasomnia",
+      "poster": "https://image.tmdb.org/t/p/w500/hXbKeuO6yIvVpt385E2OLUikKWj.jpg",
+      "rating": "6.2",
+      "anio": 2025,
+      "duracion": "1h 25min",
+      "genero": "Terror",
+      "descripcion": "Tras la desaparición de su amiga, Riley debe enfrentarse al demonio de sus terrores nocturnos que puede haberse convertido en realidad, mientras se enfrenta a su propio pasado trágico.",
+      "director": "James Ross II",
+      "reparto": "Jasmine Mathews, RJ Brown, Sally Stewart, Stephen Barrington, Danny Brown, Simon Longnight, David Girard, River Blossom, Philip Willcox, Eurice McNeal, Gayla Johnson, Dennis Mailu",
+      "embedUrl": "https://bysedikamoum.com/e/h0v1zaseh53n/parasomnia-2025",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "El ciclo",
+      "poster": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+      "rating": "6.8",
+      "anio": 2026,
+      "duracion": "1h 50min",
+      "genero": "Crimen, Terror, Suspense, Misterio",
+      "descripcion": "Una hija desentraña el oscuro pasado de su padre después de que su cuerpo, desaparecido durante 36 años, es encontrado en una horrible escena del crimen.",
+      "director": "Jordan Downey",
+      "reparto": "Deborah Ann Woll, Jeffrey Donovan, Gretchen Corbett, Jack Doolan, Will Hochman, Dana Millican, Phillip Andre Botello, Don Keith Opper, Carl W. Crudup, Danika Golombek, Jeb Berrier, David Myers Gregory",
+      "embedUrl": "https://bysedikamoum.com/e/fq82p0r79oiq/el-ciclo-2026",
+      "recienAgregado": true
+    },
+    {
       "titulo": "The Ring (La señal)",
       "poster": "https://image.tmdb.org/t/p/w500/4TPPSB8OAtgYo9EdFzr7tsTsLDB.jpg",
       "rating": "6.7",
@@ -49,8 +88,7 @@
       "descripcion": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos y no se detendrá hasta reclamarlos a ambos, convirtiendo su viaje en una auténtica pesadilla.",
       "director": "André Øvredal",
       "reparto": "Lou Llobell, Jacob Scipio, Joseph Lopez, Melissa Leo, Miles Fowler, Alan Trong, Devielle Johnson, James William Clark, Tony Doupe, Charles Leggett, June Clemons, Bonni Dichone",
-      "embedUrl": "https://bysedikamoum.com/e/wwsicbpasyyr",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/wwsicbpasyyr"
     },
     {
       "titulo": "MexZombies",
@@ -62,8 +100,7 @@
       "descripcion": "Dos adolescentes un poco inadaptados socialmente, uno cinéfilo de películas clásicas de antaño y el otro un aspirante a ser experto en parkour, deben enfrentarse a un inesperado reto: prevenir un apocalipsis zombi, al mismo tiempo que ponen a prueba su amistad y buscan su primer amor.",
       "director": "Chava Cartas",
       "reparto": "Iñaki Godoy, Marcelo Barcelo, Vincent Michael Webb, Alejandro Puente, Sara Maldonado, Isabella Camil, Mayra Batalla, Bárbara de Regil, Daniel Tovar, Roberta Damián, Ricardo Polanco, Alejandro Cuétara",
-      "embedUrl": "https://bysedikamoum.com/e/wb9lcc167t8d/mexzombies",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/wb9lcc167t8d/mexzombies"
     },
     {
       "titulo": "Rastro oculto",
@@ -4568,6 +4605,37 @@
   ],
   "series": [
     {
+      "titulo": "Operación Cisne Negro",
+      "poster": "https://image.tmdb.org/t/p/w500/C5xxahVUFpHIsyriO6SshhtP02.jpg",
+      "rating": "",
+      "anio": 2026,
+      "genero": "Documental",
+      "descripcion": "El Chapo Guzmán se escapó, por segunda vez, de un penal de máxima seguridad y desató una carrera contra el tiempo. “Operación Cisne Negro” revela, con testimonios y material inédito, cómo fue la cacería que terminó con su recaptura seis meses después",
+      "creador": "",
+      "reparto": "Denise Maerker Salmón, Enrique Peña Nieto, Aurelio Nuño, Miguel Angel Osorio Chong",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El señor de los túneles",
+              "duracion": "1h 4 min",
+              "embedUrl": "https://bysedikamoum.com/e/whj6m9gc4drk/operacion-cisne-negro-t1-epi-1"
+            },
+            {
+              "numero": 2,
+              "nombre": "A quien sea dale 16",
+              "duracion": "1h 13min",
+              "embedUrl": "https://bysedikamoum.com/e/8tvx86b1ch8t/operacion-cisne-negro-t1-epi-2"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
       "titulo": "GIGN: Unidad de élite",
       "poster": "https://image.tmdb.org/t/p/w500/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
       "rating": "7.8",
@@ -4619,8 +4687,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Lucky",
@@ -4680,8 +4747,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "El hombre contra el bebé",
@@ -4723,8 +4789,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "VisionQuest",
@@ -4778,8 +4843,7 @@
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "Carrie",
@@ -4845,8 +4909,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "TYSON",
@@ -5213,8 +5276,7 @@
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "Neagley",
