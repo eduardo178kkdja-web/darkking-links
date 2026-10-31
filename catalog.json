@@ -4651,6 +4651,1399 @@
   ],
   "series": [
     {
+      "titulo": "Anatomía de Grey",
+      "poster": "https://image.tmdb.org/t/p/w500/qn9yYUX73MqHRoivOiq1sAhcdbG.jpg",
+      "rating": "8.2",
+      "anio": 2005,
+      "genero": "Drama",
+      "descripcion": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
+      "creador": "Shonda Rhimes",
+      "reparto": "Ellen Pompeo, Chandra Wilson, James Pickens Jr., Caterina Scorsone, Camilla Luddington, Jason George, Chris Carmack, Anthony Hill, Adelaide Kane, Alexis Floyd, Niko Terho, Harry Shum Jr.",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2005,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Una noche dura",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-0lia6sj0bylg.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "El primer corte es el más profundo",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-65aczseg347u.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Una batalla ganada, una guerra perdida",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-9eeibiv9nlzi.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Tierra de nadie",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-uasjfsx3chck.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Mueve tus caderas",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-bc3mugngj8of.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Si mañana nunca llega",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-h9tgjo0jzmyv.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "El botón de autodestrucción",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-h8eaoexdf79i.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Sálvame",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-kygu5jpnivjx.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "¿Quién controla a quién?",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-287we3tra3ov.html"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "anio": 2005,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Sigue lloviendo sobre mi cabeza",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-1nlw6g6gmpwg.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Suficiente es suficiente",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-mtdr1t2tu5ss.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Hazme perder el control",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-vzgficewp5ei.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Negar, negar, negar",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-af0lzbyo0icq.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Que venga el dolor",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-ol2mc26dxqnr.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Voy hacia ti a toda máquina",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-h5tg1b9dz3uy.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Algo de qué hablar",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-lqmhp6jl11pq.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Déjalo estar",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-bcinp3w3wnfw.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Gracias por los recuerdos",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-iuo0cmzm0n90.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "Más que demasiado",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-oypjqssz1057.html"
+            },
+            {
+              "numero": 11,
+              "nombre": "Corazones solitarios",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-5v8u7ye7n6u3.html"
+            },
+            {
+              "numero": 12,
+              "nombre": "A la abuela le atropelló un reno",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-d4wgfgsgpr06.html"
+            },
+            {
+              "numero": 13,
+              "nombre": "Desde el principio",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-asb41yx29lkv.html"
+            },
+            {
+              "numero": 14,
+              "nombre": "Miénteme",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-a5pvi9ot6t42.html"
+            },
+            {
+              "numero": 15,
+              "nombre": "Cruzando la línea",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-rexczs8l9pez.html"
+            },
+            {
+              "numero": 16,
+              "nombre": "Ha llegado el fin del mundo",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-80vrxuer5k06.html"
+            },
+            {
+              "numero": 17,
+              "nombre": "Como si lo supiéramos",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-phl54sb9b3rd.html"
+            },
+            {
+              "numero": 18,
+              "nombre": "Ayer",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-lycqs8zgd344.html"
+            },
+            {
+              "numero": 19,
+              "nombre": "¿Qué he hecho yo para merecer esto?",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-xsg6grjh15oy.html"
+            },
+            {
+              "numero": 20,
+              "nombre": "Las tiritas cubren las heridas de bala",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-i4268exezgic.html"
+            },
+            {
+              "numero": 21,
+              "nombre": "Superstición",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-uzschwj6mk7r.html"
+            },
+            {
+              "numero": 22,
+              "nombre": "El nombre del juego",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-85cy8t7wv6ua.html"
+            },
+            {
+              "numero": 23,
+              "nombre": "Blues para una desconocida",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-qzejczmtasj1.html"
+            },
+            {
+              "numero": 24,
+              "nombre": "Heridos",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-4ow7vvtm0sjs.html"
+            },
+            {
+              "numero": 25,
+              "nombre": "17 segundos",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-lmwglh8plufq.html"
+            },
+            {
+              "numero": 26,
+              "nombre": "Huye o lucha",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-0tyixc3uc8dq.html"
+            },
+            {
+              "numero": 27,
+              "nombre": "Perdiendo la fe",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-gkzq0ijl20rl.html"
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "anio": 2006,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Ha llegado la hora",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-vj3dbasf6dse.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Soy un árbol",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-9p5itu613fy1.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Fantasías pasajeras",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-iy1v8y0tvvzx.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Lo que soy",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-kaiou5e499f6.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Oh... la culpa",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-7v7e4qz9qeyy.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Deja que los ángeles se suiciden",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-zjektunebca5.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Donde deben estar los chicos",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-8fhx0z2gpoke.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Mirando al sol",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-0r1tyxk4c8r6.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "De un susurro",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-8xwvdfnwn0kw.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "No te quedes tan cerca de mí",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-8u0eno4j868t.html"
+            },
+            {
+              "numero": 11,
+              "nombre": "Seis días: 1.ª parte",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-6k9xk6r1q68p.html"
+            },
+            {
+              "numero": 12,
+              "nombre": "Seis días: 2.ª parte",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-7ap2vfh223xm.html"
+            },
+            {
+              "numero": 13,
+              "nombre": "Grandes esperanzas",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-ycyyoosy0b5s.html"
+            },
+            {
+              "numero": 14,
+              "nombre": "Deseos y esperanzas",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-hj30abqlwbyb.html"
+            },
+            {
+              "numero": 15,
+              "nombre": "Caminando sobre agua",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-33cvdwov24k8.html"
+            },
+            {
+              "numero": 16,
+              "nombre": "Ahogándose en tierra firme",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-uf22fz3zkbrl.html"
+            },
+            {
+              "numero": 17,
+              "nombre": "Una especie de milagro",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-350fgrcdwoz6.html"
+            },
+            {
+              "numero": 18,
+              "nombre": "Cicatrices y recuerdos",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-3v5fbz7xnf1t.html"
+            },
+            {
+              "numero": 19,
+              "nombre": "Mi error preferido",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-7czz11d8jlf8.html"
+            },
+            {
+              "numero": 20,
+              "nombre": "Una y otra vez",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-47xy042f11vv.html"
+            },
+            {
+              "numero": 21,
+              "nombre": "Deseo",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-eb8nzo180cv6.html"
+            },
+            {
+              "numero": 22,
+              "nombre": "El otro lado de esta vida: 1.ª parte",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-f1x4rig4w4lk.html"
+            },
+            {
+              "numero": 23,
+              "nombre": "El otro lado de esta vida: 2.ª parte",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-swomhmweaoxk.html"
+            },
+            {
+              "numero": 24,
+              "nombre": "Probando 1, 2, 3",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-r0cl1nf8bkpq.html"
+            },
+            {
+              "numero": 25,
+              "nombre": "¿No lo teníamos casi todo?",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-2bgyae1a2kwl.html"
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "anio": 2007,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Algo va a ocurrir",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-65ig9nc0dw4i.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Amor / Adicción",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-t8xvg9gvz0fb.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Que la verdad me hiera",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-3k0b02ttk3y9.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "El corazón de la materia",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-d7jy6ndp0vzs.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Persiguiéndote todos los días",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-abt424xb8r8g.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Lucha Kung Fu",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-drhydyezfshj.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Atracción física, reacción química",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-sv697wj3pgwd.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Eternamente jóvenes",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-evrirbiiye00.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Estréllate contra mí (I)",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-z1knevbfvjfq.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "Estréllate contra mí (II)",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-h7rl4xjjhxuh.html"
+            },
+            {
+              "numero": 11,
+              "nombre": "Posa tus manos sobre mí",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-eekpvoj11bj7.html"
+            },
+            {
+              "numero": 12,
+              "nombre": "Desde el instinto",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-8namzs0nrii7.html"
+            },
+            {
+              "numero": 13,
+              "nombre": "Un pedazo de mi corazón",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-xu5edaa7lowm.html"
+            },
+            {
+              "numero": 14,
+              "nombre": "Lo apropiado",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-rcdmfkr7tb5p.html"
+            },
+            {
+              "numero": 15,
+              "nombre": "Perdiendo la cabeza",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-go7fctvgn6qc.html"
+            },
+            {
+              "numero": 16,
+              "nombre": "Libertad (1.ª parte)",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-pb49yzbvdyhu.html"
+            },
+            {
+              "numero": 17,
+              "nombre": "Libertad (2.ª parte)",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-ctezhkoex6ww.html"
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "anio": 2008,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Sueña conmigo (1.ª parte)",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-cnpbztl967c9.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Sueña conmigo (2.ª parte)",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-reopr1x6imlw.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Y llegó la inundación",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-ml3rqo5smids.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Un mundo feliz",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-beuxx2whhuaa.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "No hay «yo» en el equipo",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-ip2w9ng1iky8.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "La vida en tiempos de guerra",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-s5baj064i3u5.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Levántate",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-yzz2k3s7urrs.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Estos lazos que nos atan",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-skhzwjryq07o.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "A medianoche",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-b3wlb00ywyh6.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "Solos",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-2chru78decdn.html"
+            },
+            {
+              "numero": 11,
+              "nombre": "Ojalá estuvieras aquí",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-7dmzipx5bahh.html"
+            },
+            {
+              "numero": 12,
+              "nombre": "Compasión por el demonio",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-mpg0hvek82dz.html"
+            },
+            {
+              "numero": 13,
+              "nombre": "Escalera hacia el cielo",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-xny9xrn2f0jp.html"
+            },
+            {
+              "numero": 14,
+              "nombre": "Aplaca tu corazón",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-7fnpqh2ryj5b.html"
+            },
+            {
+              "numero": 15,
+              "nombre": "Antes y después",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-vvs6j8ez48gw.html"
+            },
+            {
+              "numero": 16,
+              "nombre": "Un error involuntario",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-dnsrvde9oup8.html"
+            },
+            {
+              "numero": 17,
+              "nombre": "Te seguiré hasta la oscuridad",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-pn8miiomvm4d.html"
+            },
+            {
+              "numero": 18,
+              "nombre": "No me abandones",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-1gg2ckn8zq67.html"
+            },
+            {
+              "numero": 19,
+              "nombre": "Carta de amor en el ascensor",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-u78gq4mtgij2.html"
+            },
+            {
+              "numero": 20,
+              "nombre": "Dulce rendición",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-jim1ibdheqhh.html"
+            },
+            {
+              "numero": 21,
+              "nombre": "No sé pedir perdón",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-jx1el3kgw5c9.html"
+            },
+            {
+              "numero": 22,
+              "nombre": "Lo que puede cambiar un día",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-b90d91pnieyc.html"
+            },
+            {
+              "numero": 23,
+              "nombre": "Por los días futuros",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-zauffbnzvby5.html"
+            },
+            {
+              "numero": 24,
+              "nombre": "Ahora o nunca",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-ohwkfk59cavu.html"
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "anio": 2009,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Buen duelo",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-ocb6axz19xj3.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Adiós",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-2jagxl21rapq.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Siempre siento que alguien me observa",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-u0f4ul0jekm6.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Obligación contaminada",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-t1shwmzvho67.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Invasión",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-dfn7h13k401x.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Vi lo que vi",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-h3oapl8pr6rw.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Dale una oportunidad a la paz",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-ku7tcw6vznf3.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Invierte en el amor",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-s2bfmx4asozb.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Historia nueva",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-uzkt6fhq1xya.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "Espíritu festivo",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-wnxx3x3h6sqz.html"
+            },
+            {
+              "numero": 11,
+              "nombre": "En un instante",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-0w0bp449cm5h.html"
+            },
+            {
+              "numero": 12,
+              "nombre": "Me gustas mucho más cuando estás desnuda",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-5p7y070ydput.html"
+            },
+            {
+              "numero": 13,
+              "nombre": "El estado del amor y la confianza",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-h9ktsyu688ng.html"
+            },
+            {
+              "numero": 14,
+              "nombre": "Masacre del día de San Valentín",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-15zjpx9vnyj8.html"
+            },
+            {
+              "numero": 15,
+              "nombre": "La distorsión del tiempo",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-e63t4kvwhumi.html"
+            },
+            {
+              "numero": 16,
+              "nombre": "Un pequeño accidente perfecto",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-f20bz9m9wi3i.html"
+            },
+            {
+              "numero": 17,
+              "nombre": "Exigencia",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-mj4cjbh7uyzw.html"
+            },
+            {
+              "numero": 18,
+              "nombre": "El suicidio es indoloro",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-q2xs01o806zq.html"
+            },
+            {
+              "numero": 19,
+              "nombre": "Compasión por los padres",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-5dzm8uoteiyz.html"
+            },
+            {
+              "numero": 20,
+              "nombre": "Tragándose el anzuelo",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-28kk8isgvayj.html"
+            },
+            {
+              "numero": 21,
+              "nombre": "Qué falta de tacto",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-1ncqssmu6x4j.html"
+            },
+            {
+              "numero": 22,
+              "nombre": "Radiantes de felicidad",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-g3vw4j8cjss8.html"
+            },
+            {
+              "numero": 23,
+              "nombre": "Santuario",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-tanfypehfnut.html"
+            },
+            {
+              "numero": 24,
+              "nombre": "La muerte y todos sus amigos",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-t36qp5q3h0nw.html"
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "anio": 2010,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Contigo nazco de nuevo",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-syo46n22ppub.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Choque al sistema",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-ctq37klf0fkx.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Bichos raros",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-dipcbx8zp82j.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "No puedes enfrentarte a la biología",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-idr4sfqx9d5j.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Casi adultos",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-em48kpy5chxf.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Mis brazos",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-xupz41jgv270.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Lo estoy intentando",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-h75gz8dm3l9g.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Por algún lado tiene que salir",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-yh9wq503g08b.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Una larga y lenta noche",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-xn8htgejfn54.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "A la deriva y en paz",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-qbqvlykf2sct.html"
+            },
+            {
+              "numero": 11,
+              "nombre": "Desarma",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-txbwrvyerjta.html"
+            },
+            {
+              "numero": 12,
+              "nombre": "Ayúdame a empezar",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-vyqf72d4nytz.html"
+            },
+            {
+              "numero": 13,
+              "nombre": "No me engañes",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-wt5s70mh5sf3.html"
+            },
+            {
+              "numero": 14,
+              "nombre": "Bella jovencita",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-bz3ft5zutbv4.html"
+            },
+            {
+              "numero": 15,
+              "nombre": "Hora de oro",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-wrzg2dtvnx3t.html"
+            },
+            {
+              "numero": 16,
+              "nombre": "Irresponsable",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-0t65w5rg0m1f.html"
+            },
+            {
+              "numero": 17,
+              "nombre": "Así es como lo hacemos",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-gfsmdw5ffoo6.html"
+            },
+            {
+              "numero": 18,
+              "nombre": "Canción bajo canción",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-52mdwdfxf08i.html"
+            },
+            {
+              "numero": 19,
+              "nombre": "Un largo camino de vuelta",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-qwhrqgta1346.html"
+            },
+            {
+              "numero": 20,
+              "nombre": "De blanco",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-psnyk86bnxv6.html"
+            },
+            {
+              "numero": 21,
+              "nombre": "Sobreviviré",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-kanr5ayog9wh.html"
+            },
+            {
+              "numero": 22,
+              "nombre": "Menor sin acompañante",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-3zyoomek2dxj.html"
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "anio": 2011,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Caída libre",
+              "duracion": "86 min",
+              "embedUrl": "https://vimeos.net/embed-f36vpyl1q5ka.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Se fue",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-fnl6uy8sn3fn.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Asume el mando",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-ali7migcx79h.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "¿Qué pasa con los hombres?",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-ora616bng2dp.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Pérdidas, amor y legados",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-6j1fmm5l5fa0.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Cara de póquer",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-m1y2nkay35ml.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Sáqueme, entrenador",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-weisloc98yuw.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Una caja con forma de corazón",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-wvfdlfov2h6f.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Oscura fue la noche",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-q834q8zo2h2a.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "De repente",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-a7s0wzx0leg9.html"
+            },
+            {
+              "numero": 11,
+              "nombre": "Este momento mágico",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-i2whdrk9mhva.html"
+            },
+            {
+              "numero": 12,
+              "nombre": "Esperanza para los desesperados",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-co0ezao2me2y.html"
+            },
+            {
+              "numero": 13,
+              "nombre": "¿Y si...?",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-wosuxcnlh5ou.html"
+            },
+            {
+              "numero": 14,
+              "nombre": "Todo lo que necesitas es amor",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-m4dhrj82o7jn.html"
+            },
+            {
+              "numero": 15,
+              "nombre": "¿Me has visto últimamente?",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-ixe1dxfad8ii.html"
+            },
+            {
+              "numero": 16,
+              "nombre": "Ojalá te sintieras solo",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-lcgv9bu40vs4.html"
+            },
+            {
+              "numero": 17,
+              "nombre": "Un paso de más",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-ga4mr4etlwzc.html"
+            },
+            {
+              "numero": 18,
+              "nombre": "El león duerme esta noche",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-yizxn17whxfj.html"
+            },
+            {
+              "numero": 19,
+              "nombre": "Sistema de apoyo",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-74f2on92hfbv.html"
+            },
+            {
+              "numero": 20,
+              "nombre": "La chica sin nombre",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-l4cl3edq56qp.html"
+            },
+            {
+              "numero": 21,
+              "nombre": "Momento de la verdad",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-9g9sjfpm8aol.html"
+            },
+            {
+              "numero": 22,
+              "nombre": "Que vengan los malos tiempos",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-rmnl388uzs1p.html"
+            },
+            {
+              "numero": 23,
+              "nombre": "Migración",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-qclrms1009tv.html"
+            },
+            {
+              "numero": 24,
+              "nombre": "El vuelo",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-e13w51cnl608.html"
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "anio": 2012,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Me voy, me voy, me fui",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-cbsa9jomr7xc.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Recuerda aquellos tiempos",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-pfmggbwbymrt.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Quiere a la persona con la que estás",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-hrehtst0unl2.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "La vi ahí de pie",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-s8i23ll8us44.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Hermoso destino",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-vcmjq67pa03b.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Segunda opinión",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-qyii6bzyw6ez.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Mi destino era quererte",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-zgais00iov3e.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "El amor te revoluciona",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-a6sm2uuigrll.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Corre, pequeña, corre",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-k9owcq8kpbpm.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "Cosas que dijimos hoy",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-4r3svha3w1ju.html"
+            },
+            {
+              "numero": 11,
+              "nombre": "El fin es el principio es el fin",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-0wwcs7dc80mu.html"
+            },
+            {
+              "numero": 12,
+              "nombre": "Caminando en un sueño",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-63nec76pas8p.html"
+            },
+            {
+              "numero": 13,
+              "nombre": "A sangre y fuego",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-kfcke512tszp.html"
+            },
+            {
+              "numero": 14,
+              "nombre": "El rostro del cambio",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-x1kwmhx4694r.html"
+            },
+            {
+              "numero": 15,
+              "nombre": "Dura negociación",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-ju5ojiu846lm.html"
+            },
+            {
+              "numero": 16,
+              "nombre": "Por eso luchamos",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-5zkkl09v1ztx.html"
+            },
+            {
+              "numero": 17,
+              "nombre": "Trasplante en tierra baldía",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-phi309viqul8.html"
+            },
+            {
+              "numero": 18,
+              "nombre": "Manos ociosas",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-hxw3qcrk8u9e.html"
+            },
+            {
+              "numero": 19,
+              "nombre": "No puedo quitarme esta sensación",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-qn0jqbmqddo9.html"
+            },
+            {
+              "numero": 20,
+              "nombre": "Me está matando",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-xvzlv8l69dnj.html"
+            },
+            {
+              "numero": 21,
+              "nombre": "Monstruo durmiente",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-sb2gtywb1zyw.html"
+            },
+            {
+              "numero": 22,
+              "nombre": "¿Crees en la magia?",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-d61mtfie12ac.html"
+            },
+            {
+              "numero": 23,
+              "nombre": "La preparación lo es todo",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-s2l5tapjs4i8.html"
+            },
+            {
+              "numero": 24,
+              "nombre": "Una tormenta perfecta",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-dc35d9v5gvhj.html"
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "anio": 2013,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Sellar nuestro destino",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-hkbjjia1vzs3.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Te quiero junto a mí",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-26gmqpypcggu.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Todos claman piedad",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-77qodkiqp04w.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Ponte tus mejores galas",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-75xg7pi0b8h2.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Seguro que te escoció",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-2yhtlxrl45zy.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Un mapa de ti",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-kdphiu5qi5u5.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Suspense",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-ptzli2p9nv9f.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Dos contra uno",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-6udey80j5u2w.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Lo siento parecen las palabras más difíciles",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-sdszs4xxm3fw.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "Alguien a quien conocía",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-ksgsevrbg7e5.html"
+            },
+            {
+              "numero": 11,
+              "nombre": "Un hombre en la luna",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-gnqutkenm2zf.html"
+            },
+            {
+              "numero": 12,
+              "nombre": "Despierta, levántate",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-1clldmv7wfle.html"
+            },
+            {
+              "numero": 13,
+              "nombre": "Recupéralo",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-4qq4f4gb8nvo.html"
+            },
+            {
+              "numero": 14,
+              "nombre": "Tienes que esconder tu amor",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-hfcezo33gqi1.html"
+            },
+            {
+              "numero": 15,
+              "nombre": "Tirarlo todo por la borda",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-06sc7lod51oc.html"
+            },
+            {
+              "numero": 16,
+              "nombre": "Tenemos que salir de aquí",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-g9h93p103i7t.html"
+            },
+            {
+              "numero": 17,
+              "nombre": "¿Sabes?",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-lamqrv7ge86t.html"
+            },
+            {
+              "numero": 18,
+              "nombre": "Enfermarás",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-etjjp6qwcwj2.html"
+            },
+            {
+              "numero": 19,
+              "nombre": "Voy ganando",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-4zhzrijj7djc.html"
+            },
+            {
+              "numero": 20,
+              "nombre": "Lo conseguí sola",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-k0e4vovyxjv6.html"
+            },
+            {
+              "numero": 21,
+              "nombre": "Con el corazón en la mano",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-b5inqxijdb28.html"
+            },
+            {
+              "numero": 22,
+              "nombre": "Nunca volveremos a estar juntos",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-gal48bw43nhd.html"
+            },
+            {
+              "numero": 23,
+              "nombre": "Nada sale bien a pesar de todos mis esfuerzos",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-soxh2hbnyju3.html"
+            },
+            {
+              "numero": 24,
+              "nombre": "Miedo (a lo desconocido)",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-zaiq7jmehv2p.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
       "titulo": "Operación Cisne Negro",
       "poster": "https://image.tmdb.org/t/p/w500/C5xxahVUFpHIsyriO6SshhtP02.jpg",
       "rating": "",
