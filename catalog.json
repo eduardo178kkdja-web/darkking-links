@@ -4678,8 +4678,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "GIGN: Unidad de élite",
@@ -5192,6 +5191,12 @@
               "nombre": "El último recuerdo",
               "duracion": "1h 4min",
               "embedUrl": "https://bysesukior.com/e/4nftse8rj5sp"
+            },
+            {
+              "numero": 8,
+              "nombre": "Operación de alto riesgo",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysevepoin.com/e/a9hnnpa952bn"
             }
           ]
         }
@@ -5238,8 +5243,7 @@
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "Un amor distinto al tuyo",
@@ -5326,10 +5330,17 @@
               "nombre": "¿A quién amamos más?",
               "duracion": "1h 4min",
               "embedUrl": "https://bysevepoin.com/e/b0z7o9ijwryd"
+            },
+            {
+              "numero": 13,
+              "nombre": "¿Con quién estaremos en diez años?",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysevepoin.com/e/q2h8i7i7vxvt"
             }
           ]
         }
-      ]
+      ],
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Neagley",
