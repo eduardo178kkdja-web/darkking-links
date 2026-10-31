@@ -1,6 +1,32 @@
 {
   "movies": [
     {
+      "titulo": "Mickey's Slayhouse",
+      "poster": "https://image.tmdb.org/t/p/w500/s6ts9TOGZm41FcL4kmSGV8m1XNr.jpg",
+      "rating": "",
+      "anio": 2025,
+      "duracion": "1h 28min",
+      "genero": "Terror",
+      "descripcion": "Un grupo de adolescentes ingresa al desierto parque de diversiones Mickey's Playhouse, enfrentándose a una oscura historia y a sus propios miedos. Lo que inicia como una búsqueda emocionante se convierte en una experiencia aterradora debido a los espíritus que rondan el lugar",
+      "director": "Kjell Dokkvarr",
+      "reparto": "Kaitlyn Jackson, Matthew Perl, Rebi Jordan, Levi Patterson, Michael Robert House, Brooklyn Evans, Jayd Swendseid, James Hawthorn, Lemuel Teferra, Jazlyn Nicolette Sward, Adam Abdsameia, Annika Ross",
+      "embedUrl": "https://bysedikamoum.com/e/mk91c45bhfn0/murder-mouse-parque-de-la-muerte",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Feed",
+      "poster": "https://image.tmdb.org/t/p/w500/7rbcPfN9nOWMCTbeIJvTed5prBi.jpg",
+      "rating": "5.6",
+      "anio": 2026,
+      "duracion": "1h 22min",
+      "genero": "Terror",
+      "descripcion": "Cinco personas influyentes en las redes sociales pasan un fin de semana en un refugio en el bosque, pero sin querer despiertan y se enfrentan al primer vampiro del mundo",
+      "director": "Marco van Belle",
+      "reparto": "Grace Collender, Rhys Mannion, Molly McCann, Charlotte Bradley, Flynn Gray, Daisy Jelley, Clinton Liberty, Niamh Hogan, Noella Brennan, Dominic Wright, Oskar Smith, Jacek Skalmierski",
+      "embedUrl": "https://bysedikamoum.com/e/9icxuem6uc1e/deborador-de-almas",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Colisión",
       "poster": "https://image.tmdb.org/t/p/w500/L2SDL6pi8jyvMRmh1vWbqfwHtf.jpg",
       "rating": "10.0",
@@ -36,8 +62,7 @@
       "descripcion": "Una médium itinerante que ayuda a almas perdidas a cruzar al más allá se encuentra con una entidad poderosa en una casa remota. Al investigar sus orígenes, descubre oscuros secretos y enfrenta una amenaza mortal inesperada.",
       "director": "Dave Boyle",
       "reparto": "穂志もえか, 稲垣来泉, 賀来賢人, Tae Kimura, 吉岡睦雄, 正名僕蔵",
-      "embedUrl": "https://bysedikamoum.com/e/hzc13cegy70m/never-after-dark-2026",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/hzc13cegy70m/never-after-dark-2026"
     },
     {
       "titulo": "Parasomnia",
@@ -49,8 +74,7 @@
       "descripcion": "Tras la desaparición de su amiga, Riley debe enfrentarse al demonio de sus terrores nocturnos que puede haberse convertido en realidad, mientras se enfrenta a su propio pasado trágico.",
       "director": "James Ross II",
       "reparto": "Jasmine Mathews, RJ Brown, Sally Stewart, Stephen Barrington, Danny Brown, Simon Longnight, David Girard, River Blossom, Philip Willcox, Eurice McNeal, Gayla Johnson, Dennis Mailu",
-      "embedUrl": "https://bysedikamoum.com/e/h0v1zaseh53n/parasomnia-2025",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/h0v1zaseh53n/parasomnia-2025"
     },
     {
       "titulo": "El ciclo",
@@ -62,8 +86,7 @@
       "descripcion": "Una hija desentraña el oscuro pasado de su padre después de que su cuerpo, desaparecido durante 36 años, es encontrado en una horrible escena del crimen.",
       "director": "Jordan Downey",
       "reparto": "Deborah Ann Woll, Jeffrey Donovan, Gretchen Corbett, Jack Doolan, Will Hochman, Dana Millican, Phillip Andre Botello, Don Keith Opper, Carl W. Crudup, Danika Golombek, Jeb Berrier, David Myers Gregory",
-      "embedUrl": "https://bysedikamoum.com/e/fq82p0r79oiq/el-ciclo-2026",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/fq82p0r79oiq/el-ciclo-2026"
     },
     {
       "titulo": "The Ring (La señal)",
