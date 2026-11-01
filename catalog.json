@@ -1,6 +1,175 @@
 {
   "movies": [
     {
+      "titulo": "Der Tiger (El tanque)",
+      "poster": "https://image.tmdb.org/t/p/w500/td8bh7p876r36OF0P9PN7fitrCG.jpg",
+      "rating": "7.1",
+      "anio": 2025,
+      "duracion": "1h 56min",
+      "genero": "Bélica, Acción, Drama",
+      "descripcion": "Frente oriental, 1943: la dotación alemana de un tanque Tiger se embarca en una peligrosa misión tras las líneas enemigas. A medida que atraviesan la mortífera tierra de nadie, deberán enfrentarse al enemigo y a sus propios fantasmas del pasado.",
+      "director": "Dennis Gansel",
+      "reparto": "Laurence Rupp, David Schütter, Sebastian Urzendowsky, Leonard Kunz, Yoran Leicher, André Hennicke, Arndt Schwering-Sohnrey, Tilman Strauss, Alžběta Malá, Samuel Himal, Yana Shevchenko",
+      "embedUrl": "https://vimeos.net/embed-tt656uew159s.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Redención",
+      "poster": "https://image.tmdb.org/t/p/w500/7y9HJW8qgcqEZuT9Ioj1CwpArD7.jpg",
+      "rating": "6.2",
+      "anio": 2013,
+      "duracion": "1h 40min",
+      "genero": "Acción, Suspense",
+      "descripcion": "Joey Jones (Jason Statham) es un ex soldado de las Fuerzas Especiales, vagabundo y atormentado por un trágico pasado. Harto de las injusticias que ve constantemente a su alrededor, los acontecimientos le llevan a convertirle en un “ángel vengador”. Pronto verá como su pasado se mezcla con su turbio presente y cómo sus intentos de forjar una nueva vida comienzan a desmontarse.",
+      "director": "Steven Knight",
+      "reparto": "Jason Statham, Agata Buzek, Vicky McClure, Benedict Wong, Ger Ryan, Youssef Kerkour, Anthony Morris, Victoria Bewick, Christian Brassington, Danny Webb, Sang Lui, Bruce Wang",
+      "embedUrl": "https://vimeos.net/embed-djy7tyzoxho8.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Terror Firma",
+      "poster": "https://image.tmdb.org/t/p/w500/h8vBgYWoKgvUXEW2DC3RUyx8ncD.jpg",
+      "rating": "4.4",
+      "anio": 2023,
+      "duracion": "1h 34min",
+      "genero": "Suspense",
+      "descripcion": "Durante el confinamiento, Lola, una artista con dificultades económicas, se ve obligada a pasar la cuarentena con su hermano Louis y su excéntrico compañero de piso, Cage. Tras la llegada de un misterioso lote de semillas que amenaza con cambiar el curso de la existencia, Lola debe luchar por sobrevivir en un paisaje surrealista de fuerzas externas e internas",
+      "director": "Jake Macpherson",
+      "reparto": "Faye Nightingale, Max Carpenter, Robert Brettenaugh, Burt Thakur",
+      "embedUrl": "https://vimeos.net/embed-1odbgp5m9fa7.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Noche de bodas",
+      "poster": "https://image.tmdb.org/t/p/w500/47BlTRVQ43NyzgMWPLOkKYYnHez.jpg",
+      "rating": "7.1",
+      "anio": 2019,
+      "duracion": "1h 35min",
+      "genero": "Terror, Comedia",
+      "descripcion": "Durante la noche de su boda, una mujer recibe la invitación por parte de la rica y excéntrica familia de su marido para participar en una tradición ancestral que se convierte en un juego letal de supervivencia.",
+      "director": "Tyler Gillett",
+      "reparto": "Samara Weaving, Adam Brody, Mark O'Brien, Henry Czerny, Andie MacDowell, Melanie Scrofano, Kristian Bruun, Elyse Levesque, Nicky Guadagni, John Ralston, Liam MacDonald, Ethan Tavares",
+      "embedUrl": "https://vimeos.net/embed-5wlva5nb7k2q.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Mátalos suavemente",
+      "poster": "https://image.tmdb.org/t/p/w500/3b1Gbv2N13ZaTTEsDyDXUqrsPx6.jpg",
+      "rating": "6.0",
+      "anio": 2012,
+      "duracion": "1h 44min",
+      "genero": "Crimen, Suspense",
+      "descripcion": "Cuando una partida ilegal de póquer es saqueada, los bajos fondos se sacuden. Para investigar el caso sin levantar sospechas, los jefes de la mafia se pondrán en contacto con Jackie Cogan (Brad Pitt, 'Seven') para encontrar a los culpables y que paguen por su osadía. Pero la cosa comenzará a complicarse cada vez más, entre los miembros del clan indecisos a la hora de ejecutar las órdenes, los estafadores de medio pelo que se encuentran pululando alrededor, los asesinos que van unos detrás de los otros y aquellos que incitaron a realizar el golpe, la situación se encuentra en estado de ebullición, a punto de explotar por todos los frentes. En medio de todo esto, Jackie Cogan intentará mantener el control antes de que la situación termine salpicándole.",
+      "director": "Andrew Dominik",
+      "reparto": "Brad Pitt, Scoot McNairy, Ben Mendelsohn, James Gandolfini, Ray Liotta, Richard Jenkins, Vincent Curatola, Sam Shepard, George Carroll, Max Casella, Trevor Long, Linara Washington",
+      "embedUrl": "https://vimeos.net/embed-opegwsghacw5.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Los olvidados",
+      "poster": "https://image.tmdb.org/t/p/w500/43P6TrUiRUdd8aC4Z6KjaBz0fnA.jpg",
+      "rating": "5.2",
+      "anio": 2015,
+      "duracion": "1h 24min",
+      "genero": "Acción, Crimen, Suspense",
+      "descripcion": "Brian Barnes, se despierta en el desierto herido y sin memoria y sin tener ni idea de por qué él está rodeado de ocho cuerpos, una camioneta con cuatro millones en efectivo y una furgoneta llena de cocaína. Brian es perseguido por  el señor de las  drogas,  Danny Pérez  que quiere desesperadamente su dinero de vuelta, y por  la DEA, con su agente  Rooker, y también  por el corrupto sheriff Olson  que no se detendrá ante nada ni nadie.",
+      "director": "Timothy Woodward Jr.",
+      "reparto": "Dolph Lundgren, Danny Trejo, Johnny Messner, Vivica A. Fox, Michael Paré, Stefania Spampinato, Erin O'Brien, Natassia Malthe, John Laughlin, Angell Conwell, Jonathan Patrick Foo",
+      "embedUrl": "https://vimeos.net/embed-vv0hqf49pxa7.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "The Plastic Men",
+      "poster": "https://image.tmdb.org/t/p/w500/6uEs5Q0kKqDryRZuGpXvJsr5tQN.jpg",
+      "rating": "6.7",
+      "anio": 2026,
+      "duracion": "1h 20min",
+      "genero": "Bélica, Drama, Terror",
+      "descripcion": "Jonathan Teller, obligado a luchar en Vietnam, sobrevive al conflicto externo, pero libra una dura batalla interna contra el trastorno de estrés postraumático (TEPT), hasta que un encuentro inesperado cambia su trayectoria",
+      "director": "Samuel Gonzalez Jr.",
+      "reparto": "William Fichtner, James Preston, Aaron Dalla Villa, Gigi Gustin, Eva Hamilton, Meredith Thomas, Davee Youngblood, Matthew Fahey, Armie Hicks Jr., Melanie Martyn, Clive Hawkins",
+      "embedUrl": "https://vimeos.net/embed-8ihi1srx15l7.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Ladrones de carretera",
+      "poster": "https://image.tmdb.org/t/p/w500/lw6D3Kil3Kz9qyaKYhC8SWctkOQ.jpg",
+      "rating": "7.5",
+      "anio": 2025,
+      "duracion": "1h 23min",
+      "genero": "Crimen, Suspense, Western, Acción",
+      "descripcion": "Tras un enfrentamiento mortal, el agente de la ley Frank Bennett descubre una enorme red de contrabando. Sin servicio de telefonía móvil y sin su camión, Frank se ve obligado a enfrentarse a una peligrosa banda liderada por un ex comandante militar trastornado. Detenerlos antes de que lleguen a la frontera no es sólo su deber, es su única oportunidad de sobrevivir.",
+      "director": "Jesse V. Johnson",
+      "reparto": "Aaron Eckhart, Devon Sawa, Lucy Martin, Lochlyn Munro, The D.O.C., Ronnie Gene Blevins, Brooke Langton, Michael Shamus Wiles, Johnny Messner, Darin Cooper, Ava Paloma, Shane Graham",
+      "embedUrl": "https://vimeos.net/embed-yszt2v0n7z1n.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Rastreado",
+      "poster": "https://image.tmdb.org/t/p/w500/p54x9dKLWZQ78aSo5jPf2NodFVs.jpg",
+      "rating": "6.5",
+      "anio": 2025,
+      "duracion": "1h 45min",
+      "genero": "Acción, Suspense",
+      "descripcion": "Jack Guy es un brillante científico que desarrolla una revolucionaria fuente de energía limpia con potencial para cambiar el mundo. Cuando descubre que la empresa para la que trabaja pretende convertir su invento en un arma, decide desaparecer junto con sus investigaciones y vivir oculto lejos de la sociedad. Sin embargo, la compañía logra localizarlo y envía mercenarios para capturarlo. Obligado a luchar por su supervivencia, Jack utiliza su inteligencia, conocimientos técnicos y habilidades de combate para enfrentarse a quienes intentan apoderarse de su creación y evitar que sea utilizada con fines destructivos.",
+      "director": "Johnny Martin",
+      "reparto": "Josh Duhamel, Greg Kinnear, María Elisa Camargo, Peter Stormare, Ricky Russert, Michael Zapesotsky, Joe Bucaro III, Daniel Farag, Paul Sampson, Talia Asseraf, Michael Papajohn, David Lipper",
+      "embedUrl": "https://vimeos.net/embed-loglgb9mlfa4.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "The Blackout: La invasión",
+      "poster": "https://image.tmdb.org/t/p/w500/oaG679KAHVgYNFYzWLAoueLPsAg.jpg",
+      "rating": "6.5",
+      "anio": 2019,
+      "duracion": "2h 7min",
+      "genero": "Suspense, Ciencia ficción, Acción",
+      "descripcion": "Aunque no se ha dado ninguna circunstancia sobrenatural, la comunicación entre la mayor parte de los pueblos del planeta se ha cortado. Sin embargo, una ciudad de Europa del Este aún cuenta con electricidad, algo de lo que se percata la Estación Espacial mientras trata de encontrar sentido a lo acontecido. Cuando los ejércitos comienzan a movilizarse, descubren una situación de pesadilla: hay muertos en todos lados, aunque se desconocen las causas por las cuales el ser humano está siendo erradicado. Mientras tanto, el último reducto de la humanidad trata de sobrevivir a cualquier precio. La pregunta es: ¿lo conseguirán?",
+      "director": "Егор Баранов",
+      "reparto": "Лукерья Ильяшенко, Пётр Фёдоров, Светлана Иванова, Alekséi Chádov, Ксения Кутепова, Константин Лавроненко, Филипп Авдеев, Артём Маркарьян, Сергей Годин, Артём Ткаченко, Ангелина Стречина, Александр Недорезов",
+      "embedUrl": "https://vimeos.net/embed-i06x3yrd05kq.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Perro de pelea",
+      "poster": "https://image.tmdb.org/t/p/w500/n0njyECtGMZmaNk1It44yVE8zEB.jpg",
+      "rating": "6.8",
+      "anio": 2024,
+      "duracion": "1h 43min",
+      "genero": "Acción, Crimen, Suspense",
+      "descripcion": "Persigue a un brutal capo, un error lleva a un asesino a sueldo de élite a una espiral descendente que desemboca en una guerra total en las calles de Tailandia.",
+      "director": "Joshua Dixon",
+      "reparto": "Louis Mandylor, วิทยา ปานศรีงาม, Van Quattro, Panya Yimmumphai, วินัย เวียงย่างกุ้ง, สลิตา กลิ่นจันทน์, Jennie Pines, Jakrin Jaruthongchai, Ron Smoorenburg, Tofan Pirani",
+      "embedUrl": "https://vimeos.net/embed-z7vpj88l2537.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Hostile Forces",
+      "poster": "https://image.tmdb.org/t/p/w500/r2XAemrwtIeO8onmflVPlWrj6Bu.jpg",
+      "rating": "6.0",
+      "anio": 2023,
+      "duracion": "1h 49min",
+      "genero": "Acción, Suspense",
+      "descripcion": "Después de descubrir una fortuna en contrabando robado, un veterano militar y su familia deben huir de un escuadrón de la muerte en una lucha desesperada por sobrevivir",
+      "director": "George Basha",
+      "reparto": "George Basha, Maya Stange, Ria Maric, Troy Honeysett, Stephen Anderton, Finnian James, Nassif Elbacha, Stephanie Antonios, Craig Bourke, Franco Flammia, Mike Booth, Abu Fawaz Simon Madrajat",
+      "embedUrl": "https://vimeos.net/embed-2pygwpo3sixt.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Secuestro olvidado",
+      "poster": "https://image.tmdb.org/t/p/w500/diak08Un4expQg94JACbXuJSt0J.jpg",
+      "rating": "6.9",
+      "anio": 2020,
+      "duracion": "1h 30min",
+      "genero": "Suspense, Película de TV",
+      "descripcion": "Cuando Karina se hace amiga de Lena y su hija Mallie, comienza a sospechar que Mallie no es la hija de Lena, sino una niña llamada Emily que fue secuestrada de sus padres biológicos varios años antes.",
+      "director": "Lindsay Hartley",
+      "reparto": "Bree Williamson, Heather McComb, Jason Cermak, David Kelsey, Josie M. Parker, Megan Few, Jeanie Lim, Angie Patterson, Rene Michelle Aranda, Leticia Robles, Redaric Williams, Anthony Richard Pagliaro",
+      "embedUrl": "https://vimeos.net/embed-i2g2wlmw4drv.html",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Mickey's Slayhouse",
       "poster": "https://image.tmdb.org/t/p/w500/s6ts9TOGZm41FcL4kmSGV8m1XNr.jpg",
       "rating": "",
@@ -10,8 +179,7 @@
       "descripcion": "Un grupo de adolescentes ingresa al desierto parque de diversiones Mickey's Playhouse, enfrentándose a una oscura historia y a sus propios miedos. Lo que inicia como una búsqueda emocionante se convierte en una experiencia aterradora debido a los espíritus que rondan el lugar",
       "director": "Kjell Dokkvarr",
       "reparto": "Kaitlyn Jackson, Matthew Perl, Rebi Jordan, Levi Patterson, Michael Robert House, Brooklyn Evans, Jayd Swendseid, James Hawthorn, Lemuel Teferra, Jazlyn Nicolette Sward, Adam Abdsameia, Annika Ross",
-      "embedUrl": "https://bysedikamoum.com/e/mk91c45bhfn0/murder-mouse-parque-de-la-muerte",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/mk91c45bhfn0/murder-mouse-parque-de-la-muerte"
     },
     {
       "titulo": "Feed",
@@ -23,8 +191,7 @@
       "descripcion": "Cinco personas influyentes en las redes sociales pasan un fin de semana en un refugio en el bosque, pero sin querer despiertan y se enfrentan al primer vampiro del mundo",
       "director": "Marco van Belle",
       "reparto": "Grace Collender, Rhys Mannion, Molly McCann, Charlotte Bradley, Flynn Gray, Daisy Jelley, Clinton Liberty, Niamh Hogan, Noella Brennan, Dominic Wright, Oskar Smith, Jacek Skalmierski",
-      "embedUrl": "https://bysedikamoum.com/e/9icxuem6uc1e/deborador-de-almas",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/9icxuem6uc1e/deborador-de-almas"
     },
     {
       "titulo": "Colisión",
@@ -36,8 +203,7 @@
       "descripcion": "España, 2013. Tras atracar un banco, un fatal accidente de auto saca a la luz la cara oculta de una banda de ladrones y desvela que las traiciones comenzaron mucho antes del robo.",
       "director": "Daniel Sánchez Arévalo",
       "reparto": "Laia Costa, Karra Elejalde, Luis Zahera, Tamar Novas, Álvaro Cervantes, Lluís Homar",
-      "embedUrl": "https://bysedikamoum.com/e/hnouzvryqtq8/colisión",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/hnouzvryqtq8/colisión"
     },
     {
       "titulo": "Apocalipsis Z: Nuevo mundo",
@@ -49,8 +215,7 @@
       "descripcion": "Cuando una misión especial parte hacia la península en busca de suministros vitales, Roberto se une al equipo con dudosas intenciones. La peligrosa operación se transforma en una carrera desesperada por la supervivencia, y Roberto y sus compañeros se encontrarán entre hordas de infectados y lealtades divididas.",
       "director": "Carles Torrens",
       "reparto": "Carlos Alcaide, Julia Martínez, Mónica López, Tamara Casellas, Santiago Vaca Narvaja, José María Yázpik, Berta Vázquez, Axel Medrano, Pedro Hernández, Pedro Hernández, Javier Godino, Ujin Moreno",
-      "embedUrl": "https://bysedikamoum.com/e/7ldebvquw6a8/apocalipsis-z-nuevo-mundo",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/7ldebvquw6a8/apocalipsis-z-nuevo-mundo"
     },
     {
       "titulo": "ネバーアフターダーク",
@@ -6040,8 +6205,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Operación Cisne Negro",
@@ -7930,6 +8094,12 @@
               "nombre": "Gallo ciego",
               "duracion": "41 min",
               "embedUrl": "https://bysedikamoum.com/e/hj4o9cpcxnpr/tulsa-king-t4-epi-2"
+            },
+            {
+              "numero": 3,
+              "nombre": "Cese y Desista",
+              "duracion": "44 min",
+              "embedUrl": "https://bysedikamoum.com/e/mdwgic7tbxs6/tulsa-king-t4-epi-3"
             }
           ]
         }
@@ -8591,10 +8761,17 @@
               "nombre": "El mundo es un lugar terrible",
               "duracion": "1h",
               "embedUrl": "https://vimeos.net/embed-u1wcp89jcjzy.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Especial: A Story of Derry",
+              "duracion": "30 min",
+              "embedUrl": "https://bysedikamoum.com/e/5cit7nm4jnl5/ver-it-bienvenidos-a-derry-1x9"
             }
           ]
         }
-      ]
+      ],
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Spider-Noir",
