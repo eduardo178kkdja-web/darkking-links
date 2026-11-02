@@ -1,6 +1,19 @@
 {
   "movies": [
     {
+      "titulo": "The Collector",
+      "poster": "https://image.tmdb.org/t/p/w500/ziEeH0ZoZl2SI60fgqDDcFS3N6m.jpg",
+      "rating": "6.6",
+      "anio": 2009,
+      "duracion": "1h 28min",
+      "genero": "Terror, Suspense",
+      "descripcion": "Arkin (Josh Stewart) es un ladrón ex-convicto que decide entrar en la casa de campo donde comienza a trabajar, para robar una valiosa joya. La desagradable sorpresa para Arkin llegará en forma de un brutal asesino en serie (familiarizado con las técnicas de tortura de la inquisición española) que se encuentra en el interior de la casa y tiene secuestrada a toda la familia.",
+      "director": "Marcus Dunstan",
+      "reparto": "Josh Stewart, Juan Fernández, Michael Reilly Burke, Madeline Zima, Andrea Roth, Karley Scott Collins, Robert Wisdom, Daniella Alonso, Haley Pullos, Diane Ayala Goldner, Alex Feldman, Krystal Mayo",
+      "embedUrl": "https://bysedikamoum.com/e/4crxebe6gn4p/the-collector-2009",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Der Tiger (El tanque)",
       "poster": "https://image.tmdb.org/t/p/w500/td8bh7p876r36OF0P9PN7fitrCG.jpg",
       "rating": "7.1",
