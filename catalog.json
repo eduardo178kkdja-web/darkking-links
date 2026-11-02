@@ -6207,7 +6207,7 @@
         },
         {
           "numero": 11,
-          "anio": "",
+          "anio": 2014,
           "capitulos": [
             {
               "numero": 1,
@@ -6363,7 +6363,7 @@
         },
         {
           "numero": 12,
-          "anio": "",
+          "anio": 2015,
           "capitulos": [
             {
               "numero": 1,
@@ -6511,8 +6511,7 @@
             }
           ]
         }
-      ],
-      "nuevaTemporada": true
+      ]
     },
     {
       "titulo": "Operación Cisne Negro",
