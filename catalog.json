@@ -4829,6 +4829,200 @@
   ],
   "series": [
     {
+      "titulo": "Tierra de mafiosos",
+      "poster": "https://image.tmdb.org/t/p/w500/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "rating": "8.6",
+      "anio": 2025,
+      "genero": "Crimen, Drama",
+      "descripcion": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "creador": "Ronan Bennett",
+      "reparto": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver, Anson Boon, Mandeep Dhillon, Jasmine Jobson, Teddie Allen, Emmett J. Scanlan, Johnny Flynn, Ophelia Lovibond",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2025,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Pegar o torcer",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-plijzvm8sv3g.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Rompecabezas",
+              "duracion": "52 min",
+              "embedUrl": "https://vimeos.net/embed-s1g5vy3y26rn.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Plan B",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-pv63uqhnlt43.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Trampa para ratas",
+              "duracion": "42 min",
+              "embedUrl": "https://vimeos.net/embed-lbp6v0d9ujxb.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Funeral para un amigo",
+              "duracion": "42 min",
+              "embedUrl": "https://vimeos.net/embed-v9df6js1icby.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Melancolía en Amberes",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-6ipr1nvesvp6.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "La encrucijada",
+              "duracion": "41 min",
+              "embedUrl": "https://vimeos.net/embed-h9ebg1ld5c8w.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Caos total",
+              "duracion": "45 min",
+              "embedUrl": "https://vimeos.net/embed-k4ujio2udx7m.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Banquete de mendigos",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-0ulns1hqd31g.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "La bestia que hay en mí",
+              "duracion": "55 min",
+              "embedUrl": "https://vimeos.net/embed-mysh00uczcq5.html"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Quiero ser tu perro",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-ea9b0bbs2iz1.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Canción 2",
+              "duracion": "45 min",
+              "embedUrl": "https://vimeos.net/embed-by5beabttgmg.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Bonzo va a Bitburg",
+              "duracion": "45 min",
+              "embedUrl": "https://vimeos.net/embed-bu9nr71yx8ly.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Cortina en blanco",
+              "duracion": "44 min",
+              "embedUrl": "https://vimeos.net/embed-3jeqn1sza90a.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Birdland",
+              "duracion": "38 min",
+              "embedUrl": "https://vimeos.net/embed-7o0ijlimrscd.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Un rincón diferente",
+              "duracion": "42 min",
+              "embedUrl": "https://vimeos.net/embed-f11cumxf0yd6.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "As de espadas",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-y9kxcpytp1kx.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Crystal Lake",
+      "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "rating": "8.7",
+      "anio": 2026,
+      "genero": "Drama, Misterio",
+      "descripcion": "Cuando dos desconocidos llegan a la puerta de Pam indagando en su pasado, se desencadenan inquietantes acontecimientos que lleva a los habitantes de Crystal Lake a preguntarse: ¿Quién es realmente Pam Voorhees?",
+      "creador": "Brad Caleb Kane",
+      "reparto": "Linda Cardellini, William Catlett, Gwendolyn Sundstrom, Cameron Scoggins, Devin Kessler",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Campamento Crystal",
+              "duracion": "56 min",
+              "embedUrl": "https://vimeos.net/embed-1hg92js4qkdn.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Parte II",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-tvpdk6acdzhf.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Parte III",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-uo9fmple0ftb.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Un nuevo comienzo",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-ebgk2i6vxqt0.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Sangre nueva",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-as5x05teor4x.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Mátalos, mami",
+              "duracion": "44 min",
+              "embedUrl": "https://vimeos.net/embed-ddsgmmu0frzu.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Viernes...",
+              "duracion": "51 min",
+              "embedUrl": "https://vimeos.net/embed-fehgorse7dbi.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "El capítulo final",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-kltqptylcd7y.html"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
       "titulo": "Anatomía de Grey",
       "poster": "https://image.tmdb.org/t/p/w500/qn9yYUX73MqHRoivOiq1sAhcdbG.jpg",
       "rating": "8.2",
