@@ -1,6 +1,71 @@
 {
   "movies": [
     {
+      "titulo": "La mangosta",
+      "poster": "https://image.tmdb.org/t/p/w500/2UkYw2GCXif38KoX3vDFNZnVlbi.jpg",
+      "rating": "7.6",
+      "anio": 2026,
+      "duracion": "1h 39min",
+      "genero": "Acción, Suspense",
+      "descripcion": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, con la ayuda de sus compañeros de armas y de un público comprensivo que anima su huida.",
+      "director": "Mark Vanselow",
+      "reparto": "Liam Neeson, Marisa Tomei, Ving Rhames, Marcus Thomas, Michael Chiklis, Maurice Marvel Meredith, Brett Tucker, Ryan Morgan, Laura Coates, Geoff Morrell, Charles Allen, Jack Kenny",
+      "embedUrl": "https://bysedikamoum.com/e/bpwj42ldi7ar/the-mongoose",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "La historia de Derry",
+      "poster": "https://image.tmdb.org/t/p/w500/5P2wp3vAGnHQvzUiJQDKxhQ3jZm.jpg",
+      "rating": "6.9",
+      "anio": 2026,
+      "duracion": "0h 30min",
+      "genero": "Drama, Terror, Misterio",
+      "descripcion": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
+      "director": "Tazbah Chavez",
+      "reparto": "Kiawentiio, Isabel DeRoy-Olson, Michael Podemski, Zahn McClarnon, MorningStar Angeline, Brandon Oakes, Jennifer Podemski, Kimberly Guerrero, Brenda Odjick, Thosh Collins, Eric Trask, Steven Thompson",
+      "embedUrl": "https://bysedikamoum.com/e/5cit7nm4jnl5/ver-it-bienvenidos-a-derry-1x9",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "The Last Stand of Ellen Cole",
+      "poster": "https://image.tmdb.org/t/p/w500/oq1pGVQ2t3Cy4v7sA4LRhNjtZuJ.jpg",
+      "rating": "8.1",
+      "anio": 2024,
+      "duracion": "1h 32min",
+      "genero": "Acción, Aventura, Western",
+      "descripcion": "Cuando un malvado contratista toma medidas extremas para desalojar a un inquilino irritable que se interpone en el camino de su nuevo proyecto, no tiene en cuenta que esta anciana aparentemente inofensiva es una asesina entrenada y hará cualquier cosa para proteger su amado hogar.",
+      "director": "Derek Lee",
+      "reparto": "Lin Shaye, Liz Caribel Sierra, Craig Tate, Ty Olsson, Karan Gill, Hart Bochner, Sean Owen Roberts, Tanner Bornowsky, Matthew Kevin Anderson, Agnes Tong, Devon Alexander, Paul Lazenby",
+      "embedUrl": "https://vimeos.net/embed-sld1b9djszsh.html?tt=wPKXvKqCfLvFbMFWQttAcPeEa%2Fa32OYRMOcKEUw1L6Dw81jQ3%2BhM%2BJlcFtwyFD86YOLu1KNbVZsssRAMB0mvTA%3D%3D",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "La constelación del perro",
+      "poster": "https://image.tmdb.org/t/p/w500/yLF5V8Ca1cyp8avqABzTZuoHc2K.jpg",
+      "rating": "7.2",
+      "anio": 2026,
+      "duracion": "1h 59min",
+      "genero": "Acción, Suspense, Ciencia ficción",
+      "descripcion": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+      "director": "Ridley Scott",
+      "reparto": "Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong, Allison Janney, Ewen Bremner, Sam Spruell, James Craze, Sai Bennett, Alara-Star Khan, Sebastian Rokison-Woodall",
+      "embedUrl": "https://vimeos.net/embed-smac23kzmbua.html?tt=UTxcaULxBj2rzMhGpg3LzurckUQCG8ZZ7H9kRbJLahhKiwLiQJNEQl9mLNcxW%2Ft8Y6hkSRy5SKoRnSodbumIDg%3D%3D",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "A corazón abierto",
+      "poster": "https://image.tmdb.org/t/p/w500/82FlOKGpr1YSeEKwh2aDmxURs7v.jpg",
+      "rating": "8.0",
+      "anio": 2004,
+      "duracion": "1h 50min",
+      "genero": "Película de TV, Drama",
+      "descripcion": "En Baltimore, en los años 40, el doctor Alfred Blalock (Alan Rickman) y su ayudante Vivien Thomas (Mos Def) trabajaban para encontrar una técnica revolucionaria que garantizaría el éxito de las operaciones de corazón en \"bebés azules\". A pesar de ser colegas, pertenecían a mundos muy distintos: Blalock, blanco y rico, era el jefe de cirugía del Hospital Johns Hopkins; Thomas, en cambio, era un hábil carpintero, negro y pobre. Mientras estos hombres abrían nuevos y espectaculares caminos en el campo de la medicina, las presiones sociales amenazaban con destruir tanto su trabajo como su amistad. (FILMAFFINITY)",
+      "director": "Joseph Sargent",
+      "reparto": "Alan Rickman, Yasiin Bey, Kyra Sedgwick, Gabrielle Union, Merritt Wever, Charles S. Dutton, Mary Stuart Masterson, Irene Ziegler, Luray Cooper, Cliff McMullen, Clayton LeBouef, James Lewis",
+      "embedUrl": "https://vimeos.net/embed-usw81wgy1ggc.html?tt=zw22gZRYxwYzS6mbtxAUYOKKp0L%2BDunqWF441LEd3fdo53L9901ZlUXFmH9Py18N%2BMMvQ6L%2BUE6O5kzna09iKg%3D%3D",
+      "recienAgregado": true
+    },
+    {
       "titulo": "The Collector",
       "poster": "https://image.tmdb.org/t/p/w500/ziEeH0ZoZl2SI60fgqDDcFS3N6m.jpg",
       "rating": "6.6",
@@ -10,8 +75,7 @@
       "descripcion": "Arkin (Josh Stewart) es un ladrón ex-convicto que decide entrar en la casa de campo donde comienza a trabajar, para robar una valiosa joya. La desagradable sorpresa para Arkin llegará en forma de un brutal asesino en serie (familiarizado con las técnicas de tortura de la inquisición española) que se encuentra en el interior de la casa y tiene secuestrada a toda la familia.",
       "director": "Marcus Dunstan",
       "reparto": "Josh Stewart, Juan Fernández, Michael Reilly Burke, Madeline Zima, Andrea Roth, Karley Scott Collins, Robert Wisdom, Daniella Alonso, Haley Pullos, Diane Ayala Goldner, Alex Feldman, Krystal Mayo",
-      "embedUrl": "https://bysedikamoum.com/e/4crxebe6gn4p/the-collector-2009",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/4crxebe6gn4p/the-collector-2009"
     },
     {
       "titulo": "Der Tiger (El tanque)",
@@ -23,8 +87,7 @@
       "descripcion": "Frente oriental, 1943: la dotación alemana de un tanque Tiger se embarca en una peligrosa misión tras las líneas enemigas. A medida que atraviesan la mortífera tierra de nadie, deberán enfrentarse al enemigo y a sus propios fantasmas del pasado.",
       "director": "Dennis Gansel",
       "reparto": "Laurence Rupp, David Schütter, Sebastian Urzendowsky, Leonard Kunz, Yoran Leicher, André Hennicke, Arndt Schwering-Sohnrey, Tilman Strauss, Alžběta Malá, Samuel Himal, Yana Shevchenko",
-      "embedUrl": "https://vimeos.net/embed-tt656uew159s.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-tt656uew159s.html"
     },
     {
       "titulo": "Redención",
@@ -36,8 +99,7 @@
       "descripcion": "Joey Jones (Jason Statham) es un ex soldado de las Fuerzas Especiales, vagabundo y atormentado por un trágico pasado. Harto de las injusticias que ve constantemente a su alrededor, los acontecimientos le llevan a convertirle en un “ángel vengador”. Pronto verá como su pasado se mezcla con su turbio presente y cómo sus intentos de forjar una nueva vida comienzan a desmontarse.",
       "director": "Steven Knight",
       "reparto": "Jason Statham, Agata Buzek, Vicky McClure, Benedict Wong, Ger Ryan, Youssef Kerkour, Anthony Morris, Victoria Bewick, Christian Brassington, Danny Webb, Sang Lui, Bruce Wang",
-      "embedUrl": "https://vimeos.net/embed-djy7tyzoxho8.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-djy7tyzoxho8.html"
     },
     {
       "titulo": "Terror Firma",
@@ -49,8 +111,7 @@
       "descripcion": "Durante el confinamiento, Lola, una artista con dificultades económicas, se ve obligada a pasar la cuarentena con su hermano Louis y su excéntrico compañero de piso, Cage. Tras la llegada de un misterioso lote de semillas que amenaza con cambiar el curso de la existencia, Lola debe luchar por sobrevivir en un paisaje surrealista de fuerzas externas e internas",
       "director": "Jake Macpherson",
       "reparto": "Faye Nightingale, Max Carpenter, Robert Brettenaugh, Burt Thakur",
-      "embedUrl": "https://vimeos.net/embed-1odbgp5m9fa7.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-1odbgp5m9fa7.html"
     },
     {
       "titulo": "Noche de bodas",
@@ -62,8 +123,7 @@
       "descripcion": "Durante la noche de su boda, una mujer recibe la invitación por parte de la rica y excéntrica familia de su marido para participar en una tradición ancestral que se convierte en un juego letal de supervivencia.",
       "director": "Tyler Gillett",
       "reparto": "Samara Weaving, Adam Brody, Mark O'Brien, Henry Czerny, Andie MacDowell, Melanie Scrofano, Kristian Bruun, Elyse Levesque, Nicky Guadagni, John Ralston, Liam MacDonald, Ethan Tavares",
-      "embedUrl": "https://vimeos.net/embed-5wlva5nb7k2q.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-5wlva5nb7k2q.html"
     },
     {
       "titulo": "Mátalos suavemente",
@@ -75,8 +135,7 @@
       "descripcion": "Cuando una partida ilegal de póquer es saqueada, los bajos fondos se sacuden. Para investigar el caso sin levantar sospechas, los jefes de la mafia se pondrán en contacto con Jackie Cogan (Brad Pitt, 'Seven') para encontrar a los culpables y que paguen por su osadía. Pero la cosa comenzará a complicarse cada vez más, entre los miembros del clan indecisos a la hora de ejecutar las órdenes, los estafadores de medio pelo que se encuentran pululando alrededor, los asesinos que van unos detrás de los otros y aquellos que incitaron a realizar el golpe, la situación se encuentra en estado de ebullición, a punto de explotar por todos los frentes. En medio de todo esto, Jackie Cogan intentará mantener el control antes de que la situación termine salpicándole.",
       "director": "Andrew Dominik",
       "reparto": "Brad Pitt, Scoot McNairy, Ben Mendelsohn, James Gandolfini, Ray Liotta, Richard Jenkins, Vincent Curatola, Sam Shepard, George Carroll, Max Casella, Trevor Long, Linara Washington",
-      "embedUrl": "https://vimeos.net/embed-opegwsghacw5.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-opegwsghacw5.html"
     },
     {
       "titulo": "Los olvidados",
@@ -88,8 +147,7 @@
       "descripcion": "Brian Barnes, se despierta en el desierto herido y sin memoria y sin tener ni idea de por qué él está rodeado de ocho cuerpos, una camioneta con cuatro millones en efectivo y una furgoneta llena de cocaína. Brian es perseguido por  el señor de las  drogas,  Danny Pérez  que quiere desesperadamente su dinero de vuelta, y por  la DEA, con su agente  Rooker, y también  por el corrupto sheriff Olson  que no se detendrá ante nada ni nadie.",
       "director": "Timothy Woodward Jr.",
       "reparto": "Dolph Lundgren, Danny Trejo, Johnny Messner, Vivica A. Fox, Michael Paré, Stefania Spampinato, Erin O'Brien, Natassia Malthe, John Laughlin, Angell Conwell, Jonathan Patrick Foo",
-      "embedUrl": "https://vimeos.net/embed-vv0hqf49pxa7.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-vv0hqf49pxa7.html"
     },
     {
       "titulo": "The Plastic Men",
@@ -101,8 +159,7 @@
       "descripcion": "Jonathan Teller, obligado a luchar en Vietnam, sobrevive al conflicto externo, pero libra una dura batalla interna contra el trastorno de estrés postraumático (TEPT), hasta que un encuentro inesperado cambia su trayectoria",
       "director": "Samuel Gonzalez Jr.",
       "reparto": "William Fichtner, James Preston, Aaron Dalla Villa, Gigi Gustin, Eva Hamilton, Meredith Thomas, Davee Youngblood, Matthew Fahey, Armie Hicks Jr., Melanie Martyn, Clive Hawkins",
-      "embedUrl": "https://vimeos.net/embed-8ihi1srx15l7.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-8ihi1srx15l7.html"
     },
     {
       "titulo": "Ladrones de carretera",
@@ -114,8 +171,7 @@
       "descripcion": "Tras un enfrentamiento mortal, el agente de la ley Frank Bennett descubre una enorme red de contrabando. Sin servicio de telefonía móvil y sin su camión, Frank se ve obligado a enfrentarse a una peligrosa banda liderada por un ex comandante militar trastornado. Detenerlos antes de que lleguen a la frontera no es sólo su deber, es su única oportunidad de sobrevivir.",
       "director": "Jesse V. Johnson",
       "reparto": "Aaron Eckhart, Devon Sawa, Lucy Martin, Lochlyn Munro, The D.O.C., Ronnie Gene Blevins, Brooke Langton, Michael Shamus Wiles, Johnny Messner, Darin Cooper, Ava Paloma, Shane Graham",
-      "embedUrl": "https://vimeos.net/embed-yszt2v0n7z1n.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-yszt2v0n7z1n.html"
     },
     {
       "titulo": "Rastreado",
@@ -127,8 +183,7 @@
       "descripcion": "Jack Guy es un brillante científico que desarrolla una revolucionaria fuente de energía limpia con potencial para cambiar el mundo. Cuando descubre que la empresa para la que trabaja pretende convertir su invento en un arma, decide desaparecer junto con sus investigaciones y vivir oculto lejos de la sociedad. Sin embargo, la compañía logra localizarlo y envía mercenarios para capturarlo. Obligado a luchar por su supervivencia, Jack utiliza su inteligencia, conocimientos técnicos y habilidades de combate para enfrentarse a quienes intentan apoderarse de su creación y evitar que sea utilizada con fines destructivos.",
       "director": "Johnny Martin",
       "reparto": "Josh Duhamel, Greg Kinnear, María Elisa Camargo, Peter Stormare, Ricky Russert, Michael Zapesotsky, Joe Bucaro III, Daniel Farag, Paul Sampson, Talia Asseraf, Michael Papajohn, David Lipper",
-      "embedUrl": "https://vimeos.net/embed-loglgb9mlfa4.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-loglgb9mlfa4.html"
     },
     {
       "titulo": "The Blackout: La invasión",
@@ -140,8 +195,7 @@
       "descripcion": "Aunque no se ha dado ninguna circunstancia sobrenatural, la comunicación entre la mayor parte de los pueblos del planeta se ha cortado. Sin embargo, una ciudad de Europa del Este aún cuenta con electricidad, algo de lo que se percata la Estación Espacial mientras trata de encontrar sentido a lo acontecido. Cuando los ejércitos comienzan a movilizarse, descubren una situación de pesadilla: hay muertos en todos lados, aunque se desconocen las causas por las cuales el ser humano está siendo erradicado. Mientras tanto, el último reducto de la humanidad trata de sobrevivir a cualquier precio. La pregunta es: ¿lo conseguirán?",
       "director": "Егор Баранов",
       "reparto": "Лукерья Ильяшенко, Пётр Фёдоров, Светлана Иванова, Alekséi Chádov, Ксения Кутепова, Константин Лавроненко, Филипп Авдеев, Артём Маркарьян, Сергей Годин, Артём Ткаченко, Ангелина Стречина, Александр Недорезов",
-      "embedUrl": "https://vimeos.net/embed-i06x3yrd05kq.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-i06x3yrd05kq.html"
     },
     {
       "titulo": "Perro de pelea",
@@ -153,8 +207,7 @@
       "descripcion": "Persigue a un brutal capo, un error lleva a un asesino a sueldo de élite a una espiral descendente que desemboca en una guerra total en las calles de Tailandia.",
       "director": "Joshua Dixon",
       "reparto": "Louis Mandylor, วิทยา ปานศรีงาม, Van Quattro, Panya Yimmumphai, วินัย เวียงย่างกุ้ง, สลิตา กลิ่นจันทน์, Jennie Pines, Jakrin Jaruthongchai, Ron Smoorenburg, Tofan Pirani",
-      "embedUrl": "https://vimeos.net/embed-z7vpj88l2537.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-z7vpj88l2537.html"
     },
     {
       "titulo": "Hostile Forces",
@@ -166,8 +219,7 @@
       "descripcion": "Después de descubrir una fortuna en contrabando robado, un veterano militar y su familia deben huir de un escuadrón de la muerte en una lucha desesperada por sobrevivir",
       "director": "George Basha",
       "reparto": "George Basha, Maya Stange, Ria Maric, Troy Honeysett, Stephen Anderton, Finnian James, Nassif Elbacha, Stephanie Antonios, Craig Bourke, Franco Flammia, Mike Booth, Abu Fawaz Simon Madrajat",
-      "embedUrl": "https://vimeos.net/embed-2pygwpo3sixt.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-2pygwpo3sixt.html"
     },
     {
       "titulo": "Secuestro olvidado",
@@ -179,8 +231,7 @@
       "descripcion": "Cuando Karina se hace amiga de Lena y su hija Mallie, comienza a sospechar que Mallie no es la hija de Lena, sino una niña llamada Emily que fue secuestrada de sus padres biológicos varios años antes.",
       "director": "Lindsay Hartley",
       "reparto": "Bree Williamson, Heather McComb, Jason Cermak, David Kelsey, Josie M. Parker, Megan Few, Jeanie Lim, Angie Patterson, Rene Michelle Aranda, Leticia Robles, Redaric Williams, Anthony Richard Pagliaro",
-      "embedUrl": "https://vimeos.net/embed-i2g2wlmw4drv.html",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-i2g2wlmw4drv.html"
     },
     {
       "titulo": "Mickey's Slayhouse",
@@ -2616,7 +2667,7 @@
       "descripcion": "Mario y Luigi se enfrentan a una nueva amenaza en Bowser Jr.",
       "director": "Aaron Horvath y Michael Jelenic",
       "reparto": "Chris Pratt, Charlie Day, Anya Taylor-Joy, Jack Black",
-      "embedUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_ZkLWFqvEZoaUhZjXkCqGfhPEwnKWssO8fZ9Q0r6qx85IjOIMFlVRWbLEv1S02rzoTbj8gc7r9hzord9C1meSAe4GFAAmTneQxRscU2hQO5khcZZpng8Dq6HPqFx1hJtyGaNWxscTDoe_uXQpWHKCo01NCMiU0jXI1UgrpQkt_2C2WxjIJV7jqIiMkuDvRBSSlvNoVDUfwUy-Uwu4bPWerZv17cHATdhibhXda4TWLHIahVtCmXXQvUKWI-0Y5w6QLcqzVrLwM1XTPqZY0M17g2xCsSkZNM8w-7k0clJYaASVAvA4j7vbQk13JGWusayu9Y0KNNoCC0lz1UqzRlzdUewBYHT5ZD4s/65c67b3f60e50/20262b569b3eeabcdc86e70fab575ed1be695c8df44069515b78c6da715ba107/1080p/playlist.m3u8"
+      "embedUrl": "https://vimeos.net/embed-v7hdakih9470.html?tt=x1ejBEKfZ%2FnASLuQkNwSUDGPFcice7qp%2FeFma3d8ZqquEDKnrRPaMSL0dX%2FJx9FedflHLjqb7RuJeMBEkmlx8g%3D%3D"
     },
     {
       "titulo": "Avatar: Fuego y ceniza",
@@ -3336,7 +3387,7 @@
       "descripcion": "Mientras deambula por su antigua y desvarotada casa en su aburrida nueva ciudad, Coraline, de 11 años, descubre una puerta oculta hacia una versión extrañamente idealizada de su vida. Para permanecer en la fantasía, debe hacer un sacrificio aterradoramente real",
       "director": "Henry Selick",
       "reparto": "Dakota Fanning, Teri Hatcher, John Hodgman, Jennifer Saunders, Dawn French, Keith David, Robert Bailey Jr, Ian McShane",
-      "embedUrl": "https://gscdn.cam/video/embed/gacqoeasz0lf"
+      "embedUrl": "https://vimeos.net/embed-u9g40elruo97.html?tt=TNHlPKmpR3bUduSsif4%2B2gEB5i%2F04Xyj%2FoeG2wL2wdQq9mm2KILnyeS%2FiBmFN05L2Fsf2OKzFxwyQP3QfSTV8A%3D%3D"
     },
     {
       "titulo": "Alicia en el país de las maravillas",
@@ -4716,7 +4767,7 @@
       "descripcion": "D.J. Walters es un chico de doce años al que se le ha metido en la cabeza que en la casa del anciano Nebbercracker, al otro lado de la calle, ocurre algo extraño. La víspera de Halloween, el balón con el que juegan D.J. y su amigo va a parar al jardín del señor Nebbercracker, pero misteriosamente llega al interior de la vivienda. Cuando su amiga Jenny está a punto de ser engullida por la extraña casa, nadie cree a los asustados chicos; así que los tres deciden investigar qué sucede en esa extraña casa.",
       "director": "Gil Kenan",
       "reparto": "Mitchel Musso, Sam Lerner, Spencer Locke, Steve Buscemi, Maggie Gyllenhaal, Kevin James, Nick Cannon, Jon Heder, Jason Lee, Catherine O'Hara, Fred Willard, Kathleen Turner",
-      "embedUrl": "https://gscdn.cam/video/embed/zngyxgyds90s"
+      "embedUrl": "https://vimeos.net/embed-kfxg43rmjr5d.html?tt=4Iam0A%2FY3ry0bzBcDei4fXQyXmUmYzpq%2BMxvMCf40aB72px9gucSEcmPYibAwsSpfIW2W9XM5Uojb8MiIol9JA%3D%3D"
     },
     {
       "titulo": "Descubriendo a los Robinsons",
@@ -4828,6 +4879,85 @@
     }
   ],
   "series": [
+    {
+      "titulo": "Between steps",
+      "poster": "https://image.tmdb.org/t/p/w500/yA4jv2ZJSVCbJ1s5F8oEpmhHxu2.jpg",
+      "rating": "9.1",
+      "anio": 2026,
+      "genero": "Drama, Comedia",
+      "descripcion": "Minjae, un antiguo nadador que perdió una pierna debido a una enfermedad, lleva una vida tranquila y controlada mientras estudia un doctorado. Sin embargo, todo cambia cuando conoce a Yujin, una estudiante de máster que intenta empezar de nuevo tras perder el rumbo de su vida. En un laboratorio de robótica, surge entre ellos un romance apasionado, agridulce y lleno de ternura.",
+      "creador": "",
+      "reparto": "Choo Young-woo, 김소현, 장인섭",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Un encuentro inesperado",
+              "duracion": "1h 10min",
+              "embedUrl": "https://vimeos.net/embed-iiyvmogui5z4.html?tt=db%2FGjTdwSeTNbgK623baF7CcRjLGkm4osSt4%2BmLSGSvw8vF7nJsNZxksgyRXVc2lr1B6WB2GkMbbKZcMo28gUg%3D%3D"
+            },
+            {
+              "numero": 2,
+              "nombre": "Un accidente en el laboratorio",
+              "duracion": "1h 13min",
+              "embedUrl": "https://vimeos.net/embed-xkcij6guy0wg.html?tt=esbOz143xEQbPDiAKkjmc9UciaFrZqCKM04sBm%2BxXC1v9FiSusRciAl0p%2BVMBtW%2FC9yn2qm3XsRJlkuW60Dg3g%3D%3D"
+            },
+            {
+              "numero": 3,
+              "nombre": "Un comienzo difícil",
+              "duracion": "1h 10min",
+              "embedUrl": "https://vimeos.net/embed-3cqpdtuuwbsz.html?tt=5I3c6JXmOdoG%2BT5Gnn9376ednbYdAO5%2FP62xXVIWjAmRwntCAd9d64L5u%2Fzjky9yEHRjoa7uCcEVQCXZQSTekQ%3D%3D"
+            },
+            {
+              "numero": 4,
+              "nombre": "Celos y sospechas",
+              "duracion": "1h 14min",
+              "embedUrl": "https://vimeos.net/embed-iiyvmogui5z4.html?tt=zRcbCEL36VwRFQyG%2FrcYCozl%2B%2FRId%2Bd8weN3%2BcF%2FZABlS9zr%2BYGo4LD8lI3Zj2jTdh70C5LU5vnp%2FCOUqwgPUg%3D%3D"
+            },
+            {
+              "numero": 5,
+              "nombre": "Una confesión bajo la lluvia",
+              "duracion": "1h 7min",
+              "embedUrl": "https://vimeos.net/embed-bj8v565ng966.html?tt=8fgcXZK0Mu0EI9vD0R3s7KR6Cc1pXSUoFEEPm7Yzmbi7tWYRMnpRuYK%2BJgNLiw%2BRfSW9riHepiDWjHGRYO1qGA%3D%3D"
+            },
+            {
+              "numero": 6,
+              "nombre": "Un romance secreto",
+              "duracion": "1h 7min",
+              "embedUrl": "https://vimeos.net/embed-k60l93eu2t0l.html?tt=Cu19B%2FvolMpSNM3zXX%2FkiB3Suaz70f9i0hVwmWU0aj7PE5s3qodC3SNkGkXMa665z7t7L6xdEJFh%2FfMnGoNcKQ%3D%3D"
+            },
+            {
+              "numero": 7,
+              "nombre": "Una prueba de amor",
+              "duracion": "1h 3min",
+              "embedUrl": "https://vimeos.net/embed-k9aiyasiqghj.html?tt=vGSDhE9c36qZgoWTr9DPbNHS6pbIuEQGOovEDsNlUkLVDuo%2FkRfPWOtiXcvFY5MiHylHbKfasQVikkGr2xT6NQ%3D%3D"
+            },
+            {
+              "numero": 8,
+              "nombre": "Una apuesta peligrosa",
+              "duracion": "1h 3min",
+              "embedUrl": "https://vimeos.net/embed-pk6080yftbia.html?tt=nVOB%2B%2FqjpBljTkTeszFN7fy8LCy07CnIz%2FwRbC5RxnDOB%2BmloLt6PTvhnlOWT0BqvNLnUA%2FODfgUMO9YgEfUCQ%3D%3D"
+            },
+            {
+              "numero": 9,
+              "nombre": "Un amor que quedó atrás",
+              "duracion": "1h 11min",
+              "embedUrl": "https://bysedikamoum.com/e/6horjrkze5ma/between-steps-epi-9"
+            },
+            {
+              "numero": 10,
+              "nombre": "El reencuentro y las heridas del pasado",
+              "duracion": "1h 10min",
+              "embedUrl": "https://bysedikamoum.com/e/nn2olmg2s3jj/between-steps-epi-10"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
     {
       "titulo": "Tierra de mafiosos",
       "poster": "https://image.tmdb.org/t/p/w500/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
@@ -8197,10 +8327,17 @@
               "nombre": "Bloqueo",
               "duracion": "54 min",
               "embedUrl": "https://bysedikamoum.com/e/kxsavgf6bz8n/visionquest-epi-6"
+            },
+            {
+              "numero": 7,
+              "nombre": "Inmolación",
+              "duracion": "1h 2min",
+              "embedUrl": "https://vimeos.net/embed-ugrrne4qyona.html?tt=hl8J4OMwLiQLede%2FUkSqLHFiOn8Px2aAFnm277RRIQ2VKpSu5eBGUIcR1wEIxJVAwOF4D0fvdcrTjZLKNfXCfg%3D%3D"
             }
           ]
         }
-      ]
+      ],
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Carrie",
@@ -10522,17 +10659,10 @@
               "nombre": "El mundo es un lugar terrible",
               "duracion": "1h",
               "embedUrl": "https://vimeos.net/embed-u1wcp89jcjzy.html"
-            },
-            {
-              "numero": 9,
-              "nombre": "Especial: A Story of Derry",
-              "duracion": "30 min",
-              "embedUrl": "https://bysedikamoum.com/e/5cit7nm4jnl5/ver-it-bienvenidos-a-derry-1x9"
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "Spider-Noir",
