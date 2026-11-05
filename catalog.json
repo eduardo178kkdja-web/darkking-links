@@ -1,6 +1,45 @@
 {
   "movies": [
     {
+      "titulo": "Dolly",
+      "poster": "https://image.tmdb.org/t/p/w500/umDXoAiEMb7RxB4gaPAlT02XLAS.jpg",
+      "rating": "5.7",
+      "anio": 2026,
+      "duracion": "1h 23min",
+      "genero": "Terror",
+      "descripcion": "Macy, una joven mujer, es secuestrada por una figura monstruosa que pretende criarla como si fuera su propia hija.",
+      "director": "Rod Blackhurst",
+      "reparto": "Max the Impaler, Fabianne Therese, Seann William Scott, Ethan Suplee, Russ Tiller, Michalina Scorzelli, Kate Cobb",
+      "embedUrl": "https://bysedikamoum.com/e/50to1r9oxxhe/dolly-juega-conmigo",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Zom 100: Cien cosas que quiero hacer antes de convertirme en zombi",
+      "poster": "https://image.tmdb.org/t/p/w500/o7mf6YZepJA6nbWrYUTtWb0xvSw.jpg",
+      "rating": "6.5",
+      "anio": 2023,
+      "duracion": "2h 9min",
+      "genero": "Comedia, Terror",
+      "descripcion": "Su jefe lo maltrata. Trabaja sin parar. No es más que un esclavo de la empresa... hasta que estalla una epidemia zombi y vuelve a sentirse vivo otra vez.",
+      "director": "石田雄介",
+      "reparto": "赤楚衛二, 白石麻衣, 栁俊太郎, Kazuki Kitamura, 市川由衣, 川﨑麻世, 早見あかり, Yo Takahashi, Miwako Kakei, 中田クルミ, ドロンズ石本, 中村無何有",
+      "embedUrl": "https://vimeos.net/embed-8jcgje6d4n4u.html",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Just Play Dead",
+      "poster": "https://image.tmdb.org/t/p/w500/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
+      "rating": "5.7",
+      "anio": 2026,
+      "duracion": "1h 37min",
+      "genero": "Suspense, Crimen",
+      "descripcion": "Un hombre planea fingir su muerte y culpar al amante de su esposa por dinero del seguro. Ella trama matarlo de verdad y quedarse todo, iniciando un juego mortal.",
+      "director": "Martin Campbell",
+      "reparto": "Samuel L. Jackson, Eva Green, María Pedraza, Eoin Macken, Jason Fernández, Paulo Rivera, Nicole Ansari-Cox, Lee Boardman, Dar Dash, Eduardo Aladro, Carlo Spano, César Martel",
+      "embedUrl": "https://bysedikamoum.com/e/jx4mowiaf8s0/just-play-dead",
+      "recienAgregado": true
+    },
+    {
       "titulo": "La mangosta",
       "poster": "https://image.tmdb.org/t/p/w500/2UkYw2GCXif38KoX3vDFNZnVlbi.jpg",
       "rating": "7.6",
@@ -4949,7 +4988,7 @@
             },
             {
               "numero": 10,
-              "nombre": "El reencuentro y las heridas del pasado",
+              "nombre": "Reencuentros del pasado",
               "duracion": "1h 10min",
               "embedUrl": "https://bysedikamoum.com/e/nn2olmg2s3jj/between-steps-epi-10"
             }
@@ -8526,10 +8565,17 @@
               "nombre": "El baile",
               "duracion": "29 min",
               "embedUrl": "https://vimeos.net/embed-slijvn8oow5r.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "La entrevista",
+              "duracion": "25 min",
+              "embedUrl": "https://vimeos.net/embed-u4rljw6t30lw.html?tt=H1FqL3v9kz6iaeo9o1tdowCjAREuN3POWEk5af0HrTfvoGIEZ7MfF5CjaXwpN8ltxtvuVXG%2BwGEMhmiLdgElkw%3D%3D"
             }
           ]
         }
-      ]
+      ],
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Delirio mortal",
@@ -8649,8 +8695,7 @@
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "Amor, dulce amor",
@@ -8689,10 +8734,17 @@
               "nombre": "Festival de fresas y amor",
               "duracion": "47 min",
               "embedUrl": "https://bysesukior.com/e/jm1x96g76ctz"
+            },
+            {
+              "numero": 5,
+              "nombre": "Un beso inesperado",
+              "duracion": "45 min",
+              "embedUrl": "https://bysedikamoum.com/e/olx3ufark50u/amor-dulce-amor-epi-5"
             }
           ]
         }
-      ]
+      ],
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Un amor distinto al tuyo",
@@ -8794,8 +8846,7 @@
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "Neagley",
@@ -10001,8 +10052,7 @@
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "Acaramelados",
