@@ -1,6 +1,45 @@
 {
   "movies": [
     {
+      "titulo": "The Witch: Part 2. The Other One",
+      "poster": "https://image.tmdb.org/t/p/w500/69PKcXBS3Y7TONH1BTGI078kMCi.jpg",
+      "rating": "7.5",
+      "anio": 2022,
+      "duracion": "2h 17min",
+      "genero": "Acción, Misterio, Suspense, Ciencia ficción",
+      "descripcion": "Una niña se despierta en un enorme laboratorio secreto. luego, accidentalmente conoce a otra chica que está tratando de proteger su casa de una pandilla. La chica misteriosa derroca a la pandilla con sus poderes inesperados y el personal del laboratorio se dispuso a encontrarla.",
+      "director": "박훈정",
+      "reparto": "신시아, Park Eun-Bin, 서은수, 진구, 성유빈, Justin Harvey, 차순배, 조민수, 이종석, 김다미, 채서안, 채원빈",
+      "embedUrl": "https://bysedikamoum.com/e/0vwo3bwyjxhy/la-bruja-parte-2-la-caceria-2022",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "The Witch: Part 1 - The Subversion",
+      "poster": "https://image.tmdb.org/t/p/w500/ub1JJnAWAp6HjnymIuOJMpGuhK4.jpg",
+      "rating": "7.9",
+      "anio": 2018,
+      "duracion": "2h 6min",
+      "genero": "Acción, Drama, Ciencia ficción",
+      "descripcion": "Una estudiante de instituto con amnesia intenta averiguar lo que le sucede, pero esto le mete en más problemas, hasta que descubre algo que no imaginaba.",
+      "director": "박훈정",
+      "reparto": "김다미, 조민수, Park Hee-soon, Choi Woo-shik, 고민시, 최정우, 오미희, 김병옥, 정다은, 이주원, 김하나, 이시우",
+      "embedUrl": "https://bysedikamoum.com/e/uvif3fwoe3na/la-bruja-parte-1-el-experimento-2018",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "En el corazón de la bestia",
+      "poster": "https://image.tmdb.org/t/p/w500/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "rating": "7.3",
+      "anio": 2026,
+      "duracion": "1h 41min",
+      "genero": "Aventura, Suspense",
+      "descripcion": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "director": "David Ayer",
+      "reparto": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern",
+      "embedUrl": "https://bysedikamoum.com/e/ouhsd9rhmwws/el-corazon-de-la-bestia-2026",
+      "recienAgregado": true
+    },
+    {
       "titulo": "Dolly",
       "poster": "https://image.tmdb.org/t/p/w500/umDXoAiEMb7RxB4gaPAlT02XLAS.jpg",
       "rating": "5.7",
@@ -49,8 +88,7 @@
       "descripcion": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, con la ayuda de sus compañeros de armas y de un público comprensivo que anima su huida.",
       "director": "Mark Vanselow",
       "reparto": "Liam Neeson, Marisa Tomei, Ving Rhames, Marcus Thomas, Michael Chiklis, Maurice Marvel Meredith, Brett Tucker, Ryan Morgan, Laura Coates, Geoff Morrell, Charles Allen, Jack Kenny",
-      "embedUrl": "https://bysedikamoum.com/e/bpwj42ldi7ar/the-mongoose",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/bpwj42ldi7ar/the-mongoose"
     },
     {
       "titulo": "La historia de Derry",
@@ -62,8 +100,7 @@
       "descripcion": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
       "director": "Tazbah Chavez",
       "reparto": "Kiawentiio, Isabel DeRoy-Olson, Michael Podemski, Zahn McClarnon, MorningStar Angeline, Brandon Oakes, Jennifer Podemski, Kimberly Guerrero, Brenda Odjick, Thosh Collins, Eric Trask, Steven Thompson",
-      "embedUrl": "https://bysedikamoum.com/e/5cit7nm4jnl5/ver-it-bienvenidos-a-derry-1x9",
-      "recienAgregado": true
+      "embedUrl": "https://bysedikamoum.com/e/5cit7nm4jnl5/ver-it-bienvenidos-a-derry-1x9"
     },
     {
       "titulo": "The Last Stand of Ellen Cole",
@@ -75,8 +112,7 @@
       "descripcion": "Cuando un malvado contratista toma medidas extremas para desalojar a un inquilino irritable que se interpone en el camino de su nuevo proyecto, no tiene en cuenta que esta anciana aparentemente inofensiva es una asesina entrenada y hará cualquier cosa para proteger su amado hogar.",
       "director": "Derek Lee",
       "reparto": "Lin Shaye, Liz Caribel Sierra, Craig Tate, Ty Olsson, Karan Gill, Hart Bochner, Sean Owen Roberts, Tanner Bornowsky, Matthew Kevin Anderson, Agnes Tong, Devon Alexander, Paul Lazenby",
-      "embedUrl": "https://vimeos.net/embed-sld1b9djszsh.html?tt=wPKXvKqCfLvFbMFWQttAcPeEa%2Fa32OYRMOcKEUw1L6Dw81jQ3%2BhM%2BJlcFtwyFD86YOLu1KNbVZsssRAMB0mvTA%3D%3D",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-sld1b9djszsh.html?tt=wPKXvKqCfLvFbMFWQttAcPeEa%2Fa32OYRMOcKEUw1L6Dw81jQ3%2BhM%2BJlcFtwyFD86YOLu1KNbVZsssRAMB0mvTA%3D%3D"
     },
     {
       "titulo": "La constelación del perro",
@@ -88,8 +124,7 @@
       "descripcion": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
       "director": "Ridley Scott",
       "reparto": "Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong, Allison Janney, Ewen Bremner, Sam Spruell, James Craze, Sai Bennett, Alara-Star Khan, Sebastian Rokison-Woodall",
-      "embedUrl": "https://vimeos.net/embed-smac23kzmbua.html?tt=UTxcaULxBj2rzMhGpg3LzurckUQCG8ZZ7H9kRbJLahhKiwLiQJNEQl9mLNcxW%2Ft8Y6hkSRy5SKoRnSodbumIDg%3D%3D",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-smac23kzmbua.html?tt=UTxcaULxBj2rzMhGpg3LzurckUQCG8ZZ7H9kRbJLahhKiwLiQJNEQl9mLNcxW%2Ft8Y6hkSRy5SKoRnSodbumIDg%3D%3D"
     },
     {
       "titulo": "A corazón abierto",
@@ -101,8 +136,7 @@
       "descripcion": "En Baltimore, en los años 40, el doctor Alfred Blalock (Alan Rickman) y su ayudante Vivien Thomas (Mos Def) trabajaban para encontrar una técnica revolucionaria que garantizaría el éxito de las operaciones de corazón en \"bebés azules\". A pesar de ser colegas, pertenecían a mundos muy distintos: Blalock, blanco y rico, era el jefe de cirugía del Hospital Johns Hopkins; Thomas, en cambio, era un hábil carpintero, negro y pobre. Mientras estos hombres abrían nuevos y espectaculares caminos en el campo de la medicina, las presiones sociales amenazaban con destruir tanto su trabajo como su amistad. (FILMAFFINITY)",
       "director": "Joseph Sargent",
       "reparto": "Alan Rickman, Yasiin Bey, Kyra Sedgwick, Gabrielle Union, Merritt Wever, Charles S. Dutton, Mary Stuart Masterson, Irene Ziegler, Luray Cooper, Cliff McMullen, Clayton LeBouef, James Lewis",
-      "embedUrl": "https://vimeos.net/embed-usw81wgy1ggc.html?tt=zw22gZRYxwYzS6mbtxAUYOKKp0L%2BDunqWF441LEd3fdo53L9901ZlUXFmH9Py18N%2BMMvQ6L%2BUE6O5kzna09iKg%3D%3D",
-      "recienAgregado": true
+      "embedUrl": "https://vimeos.net/embed-usw81wgy1ggc.html?tt=zw22gZRYxwYzS6mbtxAUYOKKp0L%2BDunqWF441LEd3fdo53L9901ZlUXFmH9Py18N%2BMMvQ6L%2BUE6O5kzna09iKg%3D%3D"
     },
     {
       "titulo": "The Collector",
@@ -4918,6 +4952,49 @@
     }
   ],
   "series": [
+    {
+      "titulo": "La emperatriz divorciada",
+      "poster": "https://image.tmdb.org/t/p/w500/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+      "rating": "8.3",
+      "anio": 2026,
+      "genero": "Drama, Sci-Fi & Fantasy",
+      "descripcion": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
+      "creador": "",
+      "reparto": "Shin Min-a, Ju Ji-hoon, 이종석, 이세영",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "La llegada de Rashta",
+              "duracion": "51 min",
+              "embedUrl": "https://bysedikamoum.com/e/6qvhf3hz0aac/emperatriz-divorciada-epi-1"
+            },
+            {
+              "numero": 2,
+              "nombre": "El amor del emperador",
+              "duracion": "59 min",
+              "embedUrl": "https://bysedikamoum.com/e/xfurjr3jmbuu/emperatriz-divorciada-epi-2"
+            },
+            {
+              "numero": 3,
+              "nombre": "La fiesta de Año Nuevo",
+              "duracion": "54 min",
+              "embedUrl": "https://bysedikamoum.com/e/ucnlnmml64dl/emperatriz-divorciada-epi-3"
+            },
+            {
+              "numero": 4,
+              "nombre": "Una alianza inesperada",
+              "duracion": "53 min",
+              "embedUrl": "https://bysedikamoum.com/e/lhusmtfc5bqj/emperatriz-divorciada-epi-4"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
     {
       "titulo": "Between steps",
       "poster": "https://image.tmdb.org/t/p/w500/yA4jv2ZJSVCbJ1s5F8oEpmhHxu2.jpg",
