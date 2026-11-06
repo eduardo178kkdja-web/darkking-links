@@ -4953,6 +4953,49 @@
   ],
   "series": [
     {
+      "titulo": "La mesa final",
+      "poster": "https://image.tmdb.org/t/p/w500/v1VV1eSf5oE4hz6hf2W8niHlCmx.jpg",
+      "rating": "8.5",
+      "anio": 2026,
+      "genero": "Drama",
+      "descripcion": "La Mesa: K-chef 2026 reúne a los mejores chefs coreanos para competir por el título de mejor chef. Chris K, misterioso y famosísimo chef, conocido como Kang Han, Song-yi, que quiere salvar su restaurante, Woo-jin, chef estrella perfeccionista, entre otros, se enfrentan en una feroz batalla culinaria. Más allá de la competición, encuentran consuelo en la comida y los unos en los otros.",
+      "creador": "",
+      "reparto": "Ahn Hyo Seop, 홍화연, 장률, 정유진, 장영남, 차지연, Lee Je-hyeong, Bret Allan Lindquist, 곽민호",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": "",
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El regreso del chef Kang Han",
+              "duracion": "1h 11min",
+              "embedUrl": "https://bysevepoin.com/e/r98ijazqbqi3"
+            },
+            {
+              "numero": 2,
+              "nombre": "Una propuesta inesperada",
+              "duracion": "1h 7min",
+              "embedUrl": "https://bysevepoin.com/e/o56evwf2s856"
+            },
+            {
+              "numero": 3,
+              "nombre": "El equipo de Famiglia",
+              "duracion": "1h 7min",
+              "embedUrl": "https://bysevepoin.com/e/mmqgjq3i7new"
+            },
+            {
+              "numero": 4,
+              "nombre": "El desafío de la isla",
+              "duracion": "1h 7min",
+              "embedUrl": "https://bysevepoin.com/e/33m5boc3vh1u"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
+    {
       "titulo": "La emperatriz divorciada",
       "poster": "https://image.tmdb.org/t/p/w500/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
       "rating": "8.3",
@@ -5071,8 +5114,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Tierra de mafiosos",
@@ -5195,11 +5237,17 @@
               "nombre": "As de espadas",
               "duracion": "53 min",
               "embedUrl": "https://vimeos.net/embed-y9kxcpytp1kx.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Ya no nos hablamos",
+              "duracion": "43 min",
+              "embedUrl": "https://bysedikamoum.com/e/g901gty9wamg/tierra-de-mafia-epi-8"
             }
           ]
         }
       ],
-      "recienAgregado": true
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Crystal Lake",
@@ -5265,8 +5313,7 @@
             }
           ]
         }
-      ],
-      "recienAgregado": true
+      ]
     },
     {
       "titulo": "Anatomía de Grey",
@@ -8452,8 +8499,7 @@
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "Carrie",
@@ -8588,10 +8634,17 @@
               "nombre": "Su primer caso difícil",
               "duracion": "45 min",
               "embedUrl": "https://bysesukior.com/e/2wen8gy0at9i"
+            },
+            {
+              "numero": 3,
+              "nombre": "Esa es nuestra realidad",
+              "duracion": "54 min",
+              "embedUrl": "https://bysesukior.com/e/9lk163r3mr2e"
             }
           ]
         }
-      ]
+      ],
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Brothers",
@@ -8651,8 +8704,7 @@
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "Delirio mortal",
@@ -8769,10 +8821,17 @@
               "nombre": "Operación de alto riesgo",
               "duracion": "1h 4min",
               "embedUrl": "https://bysedikamoum.com/e/8nvls016xabk/doctora-x-t1-epi-8"
+            },
+            {
+              "numero": 9,
+              "nombre": "La cirugía imposible",
+              "duracion": "1h 5min",
+              "embedUrl": "https://bysevepoin.com/e/j5o5extmyn9d"
             }
           ]
         }
-      ]
+      ],
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Amor, dulce amor",
@@ -8820,8 +8879,7 @@
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "Un amor distinto al tuyo",
@@ -10126,10 +10184,17 @@
               "nombre": "Cese y Desista",
               "duracion": "44 min",
               "embedUrl": "https://bysedikamoum.com/e/mdwgic7tbxs6/tulsa-king-t4-epi-3"
+            },
+            {
+              "numero": 4,
+              "nombre": "Volver al punto de partida",
+              "duracion": "44 min",
+              "embedUrl": "https://bysedikamoum.com/e/hsj4sd5b7p65/tulsa-king-t4-epi-4"
             }
           ]
         }
-      ]
+      ],
+      "nuevoEpisodio": true
     },
     {
       "titulo": "Acaramelados",
