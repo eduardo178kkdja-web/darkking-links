@@ -4971,42 +4971,6 @@
   ],
   "series": [
     {
-      "titulo": "Nocturno",
-      "poster": "https://image.tmdb.org/t/p/w500/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "rating": "7.7",
-      "anio": 2026,
-      "genero": "Crimen, Drama, Misterio",
-      "descripcion": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
-      "creador": "Rowan Joffé",
-      "reparto": "Liev Schreiber, Zazie Beetz, Stephen Graham, Bill Camp, Rory Culkin, Chrissy Metz, Poorna Jagannathan, Gary Carr, Landon Valentin",
-      "temporadas": [
-        {
-          "numero": 1,
-          "anio": "",
-          "capitulos": [
-            {
-              "numero": 1,
-              "nombre": "¡Lázaro, levántate!",
-              "duracion": "1h 2min",
-              "embedUrl": "https://vimeos.net/embed-hi2gk2dv7398.html?tt=Ckwy15WeMnfEYGNIm9OPsrQQiyFMXMKSIaKpu3JVkEUN8YTbyrN1Cee41D8rIBJFg12c5G90Ne%2BXt0i98Iyfvw%3D%3D"
-            },
-            {
-              "numero": 2,
-              "nombre": "En tiempos como estos",
-              "duracion": "52 min",
-              "embedUrl": "https://vimeos.net/embed-yk9zchfvp329.html?tt=Q6pDTGmgaTNlHf2HcPIjfFolTndtJqM0QUSpxrql6nLhPw5bMT7RDdx6gwidJ1EoOo%2FOJwhz2HR4X3VJZBiYyw%3D%3D"
-            },
-            {
-              "numero": 3,
-              "nombre": "Ojos en el interior",
-              "duracion": "47 min",
-              "embedUrl": "https://bysedikamoum.com/e/tslymjjwuvtc/nocturno-epi-3"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "titulo": "La mesa final",
       "poster": "https://image.tmdb.org/t/p/w500/v1VV1eSf5oE4hz6hf2W8niHlCmx.jpg",
       "rating": "8.5",
