@@ -1,6 +1,45 @@
 {
   "movies": [
     {
+      "titulo": "Nosotros, pero un poco mejor",
+      "poster": "https://image.tmdb.org/t/p/w500/bxIjfl7NFM9ON8m38bsFhwYaTKC.jpg",
+      "rating": "6.0",
+      "anio": 2026,
+      "duracion": "1h 47min",
+      "genero": "Drama, Comedia",
+      "descripcion": "Una mujer llega a Roma en 1965, huyendo de un marido maltratador y de acusaciones como el adulterio y el abandono del domicilio conyugal, dejando atrás a su hija recién nacida.",
+      "director": "Daniele Luchetti",
+      "reparto": "Elio Germano, Maria Chiara Giannetta, Lidia Vitale, Anna Bonaiuto, Diop Virginia, Francesca De Martini, Caterina Guzzanti, Sofia Luchetti, Filippo Nigro, Bianca Mastromonaco, Dajana Roncione, Ilaria Spada",
+      "embedUrl": "https://bysedikamoum.com/e/v6wbd3fr0y9u/nosotros-pero-un-poco-mejor-2026",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "A dos metros de ti",
+      "poster": "https://image.tmdb.org/t/p/w500/4F5LggLzv2VIa0MJT2ETN8bWtr2.jpg",
+      "rating": "8.2",
+      "anio": 2019,
+      "duracion": "2h 5min",
+      "genero": "Romance, Drama",
+      "descripcion": "Will y Stella son dos adolescentes que padecen fibrosis quística y están ingresados en el hospital para tratarse. Aunque ambos tratan de refugiarse en su propio mundo, de forma inevitable acaban enamorándose. La pareja deberá luchar para mantener viva su relación, con una única regla: separarse con una distancia de alrededor de dos metros para evitar que ambos se puedan contagiar. Sin embargo, la vida de ambos estará en peligro.",
+      "director": "Justin Baldoni",
+      "reparto": "Haley Lu Richardson, Cole Sprouse, Moisés Arias, Kimberly Hébert Gregory, Parminder Nagra, Claire Forlani, Emily Baldoni, Gary Weeks, Cynthia Evans, Brett Austin Johnson, Ariana Guerra, Sophia Bernard",
+      "embedUrl": "https://bysedikamoum.com/e/yrcsfl1rkl4f/a-dos-metros-de-ti",
+      "recienAgregado": true
+    },
+    {
+      "titulo": "Antes de ti",
+      "poster": "https://image.tmdb.org/t/p/w500/vVIDt9FjuTLbXeuc2mJRYnqMh1F.jpg",
+      "rating": "7.9",
+      "anio": 2016,
+      "duracion": "1h 50min",
+      "genero": "Drama, Romance",
+      "descripcion": "Louisa “Lou” Clark (Emilia Clarke), una chica inestable y creativa, reside en un pequeño pueblo de la campiña inglesa. Vive sin rumbo y va de un trabajo a otro para ayudar a su familia a llegar a fin de mes. Sin embargo, un nuevo trabajo pondrá a prueba su habitual alegría. En el castillo local, se ocupa de cuidar y acompañar a Will Traynor (Sam Claflin), un joven y rico banquero que se quedó paralítico tras un accidente.",
+      "director": "Thea Sharrock",
+      "reparto": "Emilia Clarke, Sam Claflin, Janet McTeer, Charles Dance, Brendan Coyle, Jenna Coleman, Matthew Lewis, Samantha Spiro, Stephen Peacocke, Vanessa Kirby, Ben Lloyd-Hughes, Joanna Lumley",
+      "embedUrl": "https://vimeos.net/embed-u9mzox35tjjx.html",
+      "recienAgregado": true
+    },
+    {
       "titulo": "The Witch: Part 2. The Other One",
       "poster": "https://image.tmdb.org/t/p/w500/69PKcXBS3Y7TONH1BTGI078kMCi.jpg",
       "rating": "7.5",
@@ -4946,6 +4985,43 @@
     }
   ],
   "series": [
+    {
+      "titulo": "Nocturno",
+      "poster": "https://image.tmdb.org/t/p/w500/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
+      "rating": "7.7",
+      "anio": 2026,
+      "genero": "Crimen, Drama, Misterio",
+      "descripcion": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
+      "creador": "Rowan Joffé",
+      "reparto": "Liev Schreiber, Zazie Beetz, Stephen Graham, Bill Camp, Rory Culkin, Chrissy Metz, Poorna Jagannathan, Gary Carr, Landon Valentin",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": "",
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "¡Lázaro, levántate!",
+              "duracion": "1h 2min",
+              "embedUrl": "https://vimeos.net/embed-hi2gk2dv7398.html?tt=Ckwy15WeMnfEYGNIm9OPsrQQiyFMXMKSIaKpu3JVkEUN8YTbyrN1Cee41D8rIBJFg12c5G90Ne%2BXt0i98Iyfvw%3D%3D"
+            },
+            {
+              "numero": 2,
+              "nombre": "En tiempos como estos",
+              "duracion": "52 min",
+              "embedUrl": "https://vimeos.net/embed-yk9zchfvp329.html?tt=Q6pDTGmgaTNlHf2HcPIjfFolTndtJqM0QUSpxrql6nLhPw5bMT7RDdx6gwidJ1EoOo%2FOJwhz2HR4X3VJZBiYyw%3D%3D"
+            },
+            {
+              "numero": 3,
+              "nombre": "Ojos en el interior",
+              "duracion": "47 min",
+              "embedUrl": "https://bysedikamoum.com/e/tslymjjwuvtc/nocturno-epi-3"
+            }
+          ]
+        }
+      ],
+      "recienAgregado": true
+    },
     {
       "titulo": "La mesa final",
       "poster": "https://image.tmdb.org/t/p/w500/v1VV1eSf5oE4hz6hf2W8niHlCmx.jpg",
