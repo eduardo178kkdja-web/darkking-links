@@ -1,4 +1,9 @@
-{
+/* ============================================================
+   CATÁLOGO PARA LA APP — CineFlix
+   Generado por CineFlix Admin (App)
+   ============================================================ */
+
+var CATALOG = {
   "movies": [
     {
       "titulo": "Nosotros, pero un poco mejor",
@@ -11823,4 +11828,18 @@
       ]
     }
   ]
+};
+
+if (typeof window !== 'undefined') {
+  window.CATALOG = CATALOG;
+  window.movies = CATALOG.movies;
+  window.series = CATALOG.series;
+}
+
+// Compatibilidad: también expone MOVIES / SERIES si la app los espera
+var MOVIES = CATALOG.movies;
+var SERIES = CATALOG.series;
+if (typeof window !== 'undefined') {
+  window.MOVIES = MOVIES;
+  window.SERIES = SERIES;
 }
