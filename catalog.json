@@ -1,6 +1,30 @@
 {
   "movies": [
     {
+      "titulo": "La razón de estar contigo: Una Navidad perfecta",
+      "poster": "https://image.tmdb.org/t/p/w500/eixA3LDfxqMKpz2L8uIM1kTIJ8g.jpg",
+      "rating": "8.3",
+      "anio": 2026,
+      "duracion": "1h 42min",
+      "genero": "Comedia, Drama",
+      "descripcion": "Una urgencia médica separa a la familia Goss y Winstead, su fiel perro, hará todo lo posible por reunirlos de nuevo antes de Nochebuena.",
+      "director": "Cathryn Michon",
+      "reparto": "Dennis Quaid, Milo Ventimiglia, Brooke Lena Johnson, Kathleen Rose Perkins, Jennifer Tilly, Thomas Haden Church, Mary Steenburgen, Ethan Loomis, Marissa Jaret Winokur, Cathryn Michon, W. Bruce Cameron, Karen LeBlanc",
+      "embedUrl": "https://vimeos.net/embed-0fut5mtisqd5.html"
+    },
+    {
+      "titulo": "Un poco de compañía antes de morir",
+      "poster": "https://image.tmdb.org/t/p/w500/4mdyjojUihFbw76GBl6ZO8E8bCh.jpg",
+      "rating": "7.6",
+      "anio": 2026,
+      "duracion": "1h 49min",
+      "genero": "Romance, Drama, Comedia",
+      "descripcion": "Yui Katakura (Ko Shibasaki) tiene 40 años, está soltera y vive entregada a una afición muy particular: ahorrar. Poco a poco, ha ido reuniendo un buen colchón para disfrutar de una jubilación tranquila. Pero todos sus planes se desmoronan cuando, tras un chequeo gratuito, le diagnostican cáncer y le dan un año de vida. Todavía conmocionada por la noticia, se cruza de repente con Yoshitaka Sena, alias Ryuma (Eiji Akaso), un atractivo ‘host’ de pelo rosa que le pide dinero prestado. Si de todas formas se va a morir, ya no tiene sentido seguir ahorrando. Así que Yui acepta su insólita petición y «compra» a Sena por 720 000 yenes. Así comienza una relación tan insólita como imprevisible, que pronto dará un giro inesperado.",
+      "director": "Hiroki Kazama",
+      "reparto": "柴咲コウ, 赤楚衛二, 筒井道隆, Naomi Nishida, 鳴海唯, 宮世琉弥, 近藤公園, 濱田マリ, 森口瑤子, 尾碕真花",
+      "embedUrl": "https://vimeos.net/embed-dmc73w0xgncq.html"
+    },
+    {
       "titulo": "Antes de ti",
       "poster": "https://image.tmdb.org/t/p/w500/vVIDt9FjuTLbXeuc2mJRYnqMh1F.jpg",
       "rating": "7.9",
@@ -8877,6 +8901,12 @@
               "nombre": "La cirugía imposible",
               "duracion": "1h 5min",
               "embedUrl": "https://bysevepoin.com/e/j5o5extmyn9d"
+            },
+            {
+              "numero": 10,
+              "nombre": "La mafia hospitalaria",
+              "duracion": "1h 4min",
+              "embedUrl": "https://bysevepoin.com/e/u31ocqa54voz"
             }
           ]
         }
