@@ -1,6 +1,42 @@
 {
   "movies": [
     {
+      "titulo": "El árbol muy muy lejano",
+      "poster": "https://image.tmdb.org/t/p/w500/fpW5GntifGxAG7Js99Wdhq9K0s5.jpg",
+      "rating": "6.7",
+      "anio": 2026,
+      "duracion": "1h 50min",
+      "genero": "Aventura, Familia, Fantasía",
+      "descripcion": "Polly, Tim, y sus tres hijos son una familia moderna que se ve obligada a mudarse a la remota campiña inglesa. Poco después de su llegada, los niños descubren un árbol mágico y a sus extraordinarios y excéntricos habitantes.",
+      "director": "Ben Gregor",
+      "reparto": "Billie Gadsdon, Nicola Coughlan, Delilah Bennett-Cardy, Phoenix Laroche, Nonso Anozie, Andrew Garfield, Rebecca Ferguson, Claire Foy, Jessica Gunning, Dustin Demri-Burns, Jennifer Saunders, Simon Farnaby",
+      "embedUrl": "https://vimeos.net/embed-uhdci5sxxtu9.html"
+    },
+    {
+      "titulo": "Detrás de las paredes",
+      "poster": "https://image.tmdb.org/t/p/w500/kxolAi6NW7a8gWTu8Ua1zM5nvIA.jpg",
+      "rating": "6.2",
+      "anio": 2011,
+      "duracion": "1h 31min",
+      "genero": "Misterio, Drama, Suspense",
+      "descripcion": "Will Atenton, un editor de gran éxito, abandona su trabajo, un puesto con mucho poder en Manhattan, para irse a vivir con su mujer, Libby, y sus dos hijas a un pintoresco pueblo de Nueva Inglaterra. Pero cuando se empiezan a acostumbrar a su nueva vida, descubren que su perfecta casa ha sido el escenario del asesinato de una madre y sus hijos. Y todo el pueblo piensa que el crimen fue cometido por el marido, el único superviviente. Cuando Will comienza a investigar, no está seguro de si está empezando a ver fantasmas o es que la trágica historia le resulta demasiado cercana. Las únicas pistas provienen de Ann Patterson, una misteriosa vecina que conocía a los desaparecidos. Mientras Will y Ann van encajando las piezas del inquietante puzzle, tienen que descubrir quién asesinó a la familia antes de que vuelva a matar.",
+      "director": "Jim Sheridan",
+      "reparto": "Daniel Craig, Naomi Watts, Rachel Weisz, Marton Csokas, Elias Koteas, Taylor Geare, Claire Geare, Rachel Fox, Jane Alexander, Brian Murray, Bernadette Quigley, Sarah Gadon",
+      "embedUrl": "https://vimeos.net/embed-h8oo1d41ppv0.html?tt=MXr1srVbqFcCacyytBM6jMIFtKFJzdAKP6ftTz%2BlvL1jGkVrS4sWeUlMtfDXC0LnisXjw4CNpZ%2F7NBKSpPFtPA%3D%3D"
+    },
+    {
+      "titulo": "Un amor posible",
+      "poster": "https://image.tmdb.org/t/p/w500/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
+      "rating": "7.4",
+      "anio": 2026,
+      "duracion": "2h 45min",
+      "genero": "Drama, Romance",
+      "descripcion": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
+      "director": "Lee Chang-dong",
+      "reparto": "전도연, 설경구, 조인성, Cho Yeo-jeong, 조유리, 최민, 정섶, 강창권, 전운종, 이주환, 이혜린, 이지윤",
+      "embedUrl": "https://vimeos.net/embed-1coptw3pqgw2.html?tt=oVFs%2F3mJhkvyefEtn4z%2BY9C7cMZgyNDvVCHFN15o2q%2FVM2yk15lFXaFOJTu6llsDqxpQYBOznDblWCtQXTubVg%3D%3D"
+    },
+    {
       "titulo": "La razón de estar contigo: Una Navidad perfecta",
       "poster": "https://image.tmdb.org/t/p/w500/eixA3LDfxqMKpz2L8uIM1kTIJ8g.jpg",
       "rating": "8.3",
