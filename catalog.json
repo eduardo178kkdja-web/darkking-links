@@ -1,6 +1,18 @@
 {
   "movies": [
     {
+      "titulo": "La otra madre",
+      "poster": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+      "rating": "5.8",
+      "anio": 2026,
+      "duracion": "1h 33min",
+      "genero": "Terror",
+      "descripcion": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+      "director": "Rob Savage",
+      "reparto": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed, Dichen Lachman, Sean Kaufman, Adam Silver, Alec Secăreanu, Millie Wood, Travis Nelson, Carrie Dimaculangan",
+      "embedUrl": "https://bysedikamoum.com/e/6wjuyykwsgzu/la-madre"
+    },
+    {
       "titulo": "El árbol muy muy lejano",
       "poster": "https://image.tmdb.org/t/p/w500/fpW5GntifGxAG7Js99Wdhq9K0s5.jpg",
       "rating": "6.7",
@@ -1342,7 +1354,7 @@
       "descripcion": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
       "director": "Christopher Nolan",
       "reparto": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel, Charlize Theron, John Leguizamo, Travis Scott, Corey Hawkins, Jarreth J. Merz, Niko Nicotera, Elliot Page",
-      "embedUrl": "https://bysedikamoum.com/e/eutiedj2uyn9/la-odisea-2026"
+      "embedUrl": "https://vimeos.net/embed-m62pdrnlvwpw.html"
     },
     {
       "titulo": "Absolución",
@@ -8775,6 +8787,12 @@
               "nombre": "Esa es nuestra realidad",
               "duracion": "54 min",
               "embedUrl": "https://bysesukior.com/e/9lk163r3mr2e"
+            },
+            {
+              "numero": 4,
+              "nombre": "La amistad de Minami y Ririi",
+              "duracion": "54 min",
+              "embedUrl": "https://bysedikamoum.com/e/p3yj22nxx7an/minami-epi-4"
             }
           ]
         }
