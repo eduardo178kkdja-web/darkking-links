@@ -5151,6 +5151,60 @@
   ],
   "series": [
     {
+      "titulo": "Campus Drivers",
+      "poster": "https://image.tmdb.org/t/p/w500/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+      "rating": "8.4",
+      "anio": 2026,
+      "genero": "Drama",
+      "descripcion": "Loïs llega a Belrose junto a Max, el amor de su vida. Allí conoce a Lane, famoso por no comprometerse con nadie y el creador de Campus Drivers, la aplicación más popular del campus. Sus caminos nunca debieron cruzarse, pero ciertos encuentros lo cambian todo y reabren viejas heridas. Cuando el amor aparece donde menos te lo esperas, nada volverá a ser igual.",
+      "creador": "Thomas Boullé",
+      "reparto": "Carmen Kassovitz, Baptiste Masseline, Prune Pauchet, Esteban Vial, Madior Fall, Félix Nebel, Cassandra Cano, Eloïse Rey, Enzo Lorente, Paolo Luka Noé, Louna Balavoine, Eva Hatik",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Corazón roto",
+              "duracion": "46 min",
+              "embedUrl": "https://vimeos.net/embed-ksqy9bzh8fja.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "La chica nueva",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-if4l45s7hj9f.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Chica zombi",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-tx5xgj7yjjkp.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Vacaciones de invierno",
+              "duracion": "38 min",
+              "embedUrl": "https://vimeos.net/embed-281rz1t9294k.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Fin del juego",
+              "duracion": "28 min",
+              "embedUrl": "https://vimeos.net/embed-b790rno66e56.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Superenojado",
+              "duracion": "42 min",
+              "embedUrl": "https://vimeos.net/embed-7x601yo3hbk1.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titulo": "Nocturno",
       "poster": "https://image.tmdb.org/t/p/w500/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
       "rating": "7.7",
@@ -9165,6 +9219,12 @@
               "nombre": "Un beso inesperado",
               "duracion": "45 min",
               "embedUrl": "https://bysedikamoum.com/e/olx3ufark50u/amor-dulce-amor-epi-5"
+            },
+            {
+              "numero": 6,
+              "nombre": "Secretos revelados",
+              "duracion": "47 min",
+              "embedUrl": "https://bysevepoin.com/e/78iy00oln268"
             }
           ]
         }
