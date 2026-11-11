@@ -1,6 +1,18 @@
 {
   "movies": [
     {
+      "titulo": "0.0MHz",
+      "poster": "https://image.tmdb.org/t/p/w500/9usnHrtzl6CejBTr8JTvQtxTLAS.jpg",
+      "rating": "5.0",
+      "anio": 2019,
+      "duracion": "1h 42min",
+      "genero": "Terror",
+      "descripcion": "Un grupo de jóvenes investigadores de fenómenos paranormales visita una casa abandonada conocida por sus aterradoras apariciones. Decididos a demostrar científicamente la existencia de los fantasmas, realizan un ritual para invocar espíritus, pero despiertan una presencia maligna que comienza a perseguirlos y amenaza con acabar con sus vidas",
+      "director": "You Sun-dong",
+      "reparto": "정원창, 최윤영, 신주환, Jung Eun-ji, 이성열, 남정희, Park Myung-shin, 김난희, 황연희, Kim Won-shik, 주예빈, 김진옥",
+      "embedUrl": "https://bysedikamoum.com/e/vzoc1q97kjhl/0-0mhz"
+    },
+    {
       "titulo": "La otra madre",
       "poster": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "rating": "5.8",
