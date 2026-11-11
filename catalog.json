@@ -1,6 +1,18 @@
 {
   "movies": [
     {
+      "titulo": "Psycho Killer",
+      "poster": "https://image.tmdb.org/t/p/w500/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
+      "rating": "6.7",
+      "anio": 2026,
+      "duracion": "1h 31min",
+      "genero": "Crimen, Terror, Misterio",
+      "descripcion": "Una agente de policía sigue la pista de un asesino después de que su marido, un patrullero de carretera, se convierta en una de sus víctimas.",
+      "director": "Gavin Polone",
+      "reparto": "Georgina Campbell, James Preston Rogers, Malcolm McDowell, Logan Miller, Grace Dove, Aaron Merke, Joshua Banman, Cassandra Ebner, Darren Martens, Sydney Sabiston, Nigel Shawn Williams, Terry Ray",
+      "embedUrl": "https://bysedikamoum.com/e/cgyzj85pghgf/psycho-killer-2026"
+    },
+    {
       "titulo": "El gran diluvio",
       "poster": "https://image.tmdb.org/t/p/w500/qIzSyT2AmDxkcQ0zOAeTbtZR9EQ.jpg",
       "rating": "6.0",
@@ -8907,6 +8919,12 @@
               "nombre": "La entrevista",
               "duracion": "25 min",
               "embedUrl": "https://vimeos.net/embed-u4rljw6t30lw.html?tt=H1FqL3v9kz6iaeo9o1tdowCjAREuN3POWEk5af0HrTfvoGIEZ7MfF5CjaXwpN8ltxtvuVXG%2BwGEMhmiLdgElkw%3D%3D"
+            },
+            {
+              "numero": 8,
+              "nombre": "De vuelta a la carretera",
+              "duracion": "27 min",
+              "embedUrl": "https://vimeos.net/embed-0j0f6lvxcodz.html"
             }
           ]
         }
