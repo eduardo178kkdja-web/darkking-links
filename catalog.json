@@ -1,6 +1,42 @@
 {
   "movies": [
     {
+      "titulo": "El gran diluvio",
+      "poster": "https://image.tmdb.org/t/p/w500/qIzSyT2AmDxkcQ0zOAeTbtZR9EQ.jpg",
+      "rating": "6.0",
+      "anio": 2025,
+      "duracion": "1h 47min",
+      "genero": "Ciencia ficción, Aventura, Drama",
+      "descripcion": "En el que podría ser el último día en la Tierra, una lucha a vida o muerte en un piso inundado se convierte en la única esperanza de supervivencia de la humanidad.",
+      "director": "김병우",
+      "reparto": "김다미, 박해수, 권은성, 전혜진, 박병은, 이학주, 유나, 박미현, 이동찬, 권민경, Kim Dong‑young, 김강빈",
+      "embedUrl": "https://bysesukior.com/e/cx12fypb7my3"
+    },
+    {
+      "titulo": "Mantis",
+      "poster": "https://image.tmdb.org/t/p/w500/9sihe2hWxAy94INlWoB07J8yskU.jpg",
+      "rating": "6.4",
+      "anio": 2025,
+      "duracion": "1h 53min",
+      "genero": "Acción, Crimen, Suspense",
+      "descripcion": "La sociedad secreta de asesinos a sueldo se sume en el caos y surge una nueva generación de asesinos. Sin las viejas reglas, ¿quién se atreverá a reclamar las sombras?",
+      "director": "이태성",
+      "reparto": "Yim Si-wan, 박규영, 최현욱, 배강희, 황성빈, 유수빈, 전배수, 조우진, 설경구, 전도연, 양동근, 김준배",
+      "embedUrl": "https://bysesukior.com/e/smssca5x80tz"
+    },
+    {
+      "titulo": "Verity. La sombra de un engaño",
+      "poster": "https://image.tmdb.org/t/p/w500/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
+      "rating": "7.0",
+      "anio": 2026,
+      "duracion": "1h 57min",
+      "genero": "Misterio, Suspense",
+      "descripcion": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+      "director": "Michael Showalter",
+      "reparto": "Dakota Johnson, Anne Hathaway, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova, Iryna Dvorovenko, Sienna Kulovitz, K.K. Moggie, Tom Galantich, Lou Martini Jr., Clark Carmichael, Michael Abbott Jr.",
+      "embedUrl": "https://vimeos.net/embed-47mzknktvhwk.html"
+    },
+    {
       "titulo": "0.0MHz",
       "poster": "https://image.tmdb.org/t/p/w500/9usnHrtzl6CejBTr8JTvQtxTLAS.jpg",
       "rating": "5.0",
@@ -22,7 +58,7 @@
       "descripcion": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
       "director": "Rob Savage",
       "reparto": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed, Dichen Lachman, Sean Kaufman, Adam Silver, Alec Secăreanu, Millie Wood, Travis Nelson, Carrie Dimaculangan",
-      "embedUrl": "https://bysedikamoum.com/e/6wjuyykwsgzu/la-madre"
+      "embedUrl": "https://bysedikamoum.com/e/37dcshbtk874/madre-siniestra-2026"
     },
     {
       "titulo": "El árbol muy muy lejano",
@@ -8655,6 +8691,12 @@
               "nombre": "Inmolación",
               "duracion": "1h 2min",
               "embedUrl": "https://vimeos.net/embed-ugrrne4qyona.html?tt=hl8J4OMwLiQLede%2FUkSqLHFiOn8Px2aAFnm277RRIQ2VKpSu5eBGUIcR1wEIxJVAwOF4D0fvdcrTjZLKNfXCfg%3D%3D"
+            },
+            {
+              "numero": 8,
+              "nombre": "Para siempre",
+              "duracion": "1h 8min",
+              "embedUrl": "https://bysedikamoum.com/e/l0w84cfadbeh/visionquest-epi-8"
             }
           ]
         }
