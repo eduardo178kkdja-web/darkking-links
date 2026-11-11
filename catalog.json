@@ -1,6 +1,54 @@
 {
   "movies": [
     {
+      "titulo": "Por encima de tu cadáver",
+      "poster": "https://image.tmdb.org/t/p/w500/sdbBMUVo7ddm5CsJNf11Zb0Oho5.jpg",
+      "rating": "6.4",
+      "anio": 2026,
+      "duracion": "1h 45min",
+      "genero": "Acción, Comedia, Suspense",
+      "descripcion": "Una pareja con problemas se dirige a una cabaña remota supuestamente para reconectar, pero cada uno tiene planes secretos para matar al otro. Remake del film noruego de 2021 'El viaje', de Tommy Wirkola.",
+      "director": "Jorma Taccone",
+      "reparto": "Jason Segel, Samara Weaving, Paul Guilfoyle, Keith Jardine, Timothy Olyphant, Juliette Lewis, Nikolai Kinski, Kayla Jenee Radomski, Jennifer Amaka Pettersson, Yoon Cha-Lee, Danusia Samal, Jake Curran",
+      "embedUrl": "https://bysedikamoum.com/e/6r8a63e8uflv"
+    },
+    {
+      "titulo": "Maridos en acción",
+      "poster": "https://image.tmdb.org/t/p/w500/12TfQSbwyb3t9PN0KTOTE4NB7lq.jpg",
+      "rating": "7.3",
+      "anio": 2026,
+      "duracion": "1h 50min",
+      "genero": "Comedia, Acción, Crimen",
+      "descripcion": "Un detective se une al nuevo marido de su exmujer para buscar a los que la han secuestrado. ¿Podrán dejar a un lado sus diferencias y llevar a cabo este rescate trepidante?",
+      "director": "박규태",
+      "reparto": "진선규, 공명, 김지석, 윤경호, 강한나, Lee Da-hee, 전소민, 윤아, 오은서, 이현걸, 이한솔, 김요한",
+      "embedUrl": "https://bysedikamoum.com/e/ec459zbprbn6"
+    },
+    {
+      "titulo": "Muerte en la nieve",
+      "poster": "https://image.tmdb.org/t/p/w500/Ac0Lm6Pj5LT2joGfMWmmLf5hRi9.jpg",
+      "rating": "6.5",
+      "anio": 2025,
+      "duracion": "1h 37min",
+      "genero": "Suspense, Acción",
+      "descripcion": "Una mujer, que viaja sola por el norte nevado de Minnesota, interrumpe el secuestro de una adolescente. A horas del pueblo más cercano y sin cobertura telefónica, se da cuenta de que es la única esperanza de la joven.",
+      "director": "Brian Kirk",
+      "reparto": "Emma Thompson, Judy Greer, Marc Menchaca, Laurel Marsden, Gaia Wise, Cúán Hosty-Blaney, Dalton Leeb, Lloyd Hutchinson, Brían F. O'Byrne, Paul Hamilton",
+      "embedUrl": "https://bysedikamoum.com/e/qjl09dtg2ugn"
+    },
+    {
+      "titulo": "Titán: La tragedia de OceanGate",
+      "poster": "https://image.tmdb.org/t/p/w500/9xTBAMbuADcxvwcAB4hiSDPVv9x.jpg",
+      "rating": "7.1",
+      "anio": 2025,
+      "duracion": "1h 52min",
+      "genero": "Documental, Drama",
+      "descripcion": "El submarino Titán de OceanGate implosionó en 2023 durante una inmersión a los restos del Titanic. Este documental narra cómo una visión ambiciosa acabó en tragedia.",
+      "director": "Mark Monroe",
+      "reparto": "Stockton Rush, Emily Hammermeister, David Lochridge, Tony Nissen, Jason Neubauer, Joseph Assi, Bonnie Carl, David Pogue",
+      "embedUrl": "https://bysedikamoum.com/e/hewib5ya4s75"
+    },
+    {
       "titulo": "Psycho Killer",
       "poster": "https://image.tmdb.org/t/p/w500/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
       "rating": "6.7",
@@ -5229,6 +5277,18 @@
               "nombre": "Una alianza inesperada",
               "duracion": "53 min",
               "embedUrl": "https://bysedikamoum.com/e/lhusmtfc5bqj/emperatriz-divorciada-epi-4"
+            },
+            {
+              "numero": 5,
+              "nombre": "El caos provocado por Rashta",
+              "duracion": "55 min",
+              "embedUrl": "https://bysesukior.com/e/szun5ci3vq21"
+            },
+            {
+              "numero": 6,
+              "nombre": "La decisión de Navier",
+              "duracion": "46 min",
+              "embedUrl": "https://bysesukior.com/e/w0s00z26gr7x"
             }
           ]
         }
