@@ -5187,6 +5187,72 @@
   ],
   "series": [
     {
+      "titulo": "Un trabajo maldito",
+      "poster": "https://image.tmdb.org/t/p/w500/vxXNPQjCZkdTWmXZEkgxVVrftex.jpg",
+      "rating": "7.5",
+      "anio": 2026,
+      "genero": "Misterio, Drama",
+      "descripcion": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
+      "creador": "한준희",
+      "reparto": "이재욱, 고민시, 김민하, 이희준",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Las normas de la tienda",
+              "duracion": "44 min",
+              "embedUrl": "https://bysedikamoum.com/e/w1hmehlzvbou/un-trabajo-maldito-t1-epi-1"
+            },
+            {
+              "numero": 2,
+              "nombre": "Un viaje con un pierrot",
+              "duracion": "40 min",
+              "embedUrl": "https://bysedikamoum.com/e/qm4nfydeebh9/un-trabajo-maldito-t1-epi-2"
+            },
+            {
+              "numero": 3,
+              "nombre": "El videoblog del repartidor de leche",
+              "duracion": "38 min",
+              "embedUrl": "https://bysedikamoum.com/e/mcjx2i4lewhj/un-trabajo-maldito-t1-epi-3"
+            },
+            {
+              "numero": 4,
+              "nombre": "Cine fantástico de medianoche",
+              "duracion": "40 min",
+              "embedUrl": "https://bysedikamoum.com/e/rzbp6bczu6gq/un-trabajo-maldito-t1-epi-4"
+            },
+            {
+              "numero": 5,
+              "nombre": "El ensayo clínico",
+              "duracion": "35 min",
+              "embedUrl": "https://bysedikamoum.com/e/4vln5tncamw0/un-trabajo-maldito-t1-epi-5"
+            },
+            {
+              "numero": 6,
+              "nombre": "Las paredes no hablan",
+              "duracion": "33 min",
+              "embedUrl": "https://bysedikamoum.com/e/8gjsrj16t1ij/un-trabajo-maldito-t1-epi-6"
+            },
+            {
+              "numero": 7,
+              "nombre": "Neo World después del anochecer",
+              "duracion": "37 min",
+              "embedUrl": "https://bysedikamoum.com/e/w03ylgugg9v6/un-trabajo-maldito-t1-epi-7"
+            },
+            {
+              "numero": 8,
+              "nombre": "La última función",
+              "duracion": "36 min",
+              "embedUrl": "https://bysedikamoum.com/e/n6eeqikowid6/un-trabajo-maldito-t1-epi-8"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titulo": "Campus Drivers",
       "poster": "https://image.tmdb.org/t/p/w500/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
       "rating": "8.4",
