@@ -1,6 +1,30 @@
 {
   "movies": [
     {
+      "titulo": "Carter",
+      "poster": "https://image.tmdb.org/t/p/w500/7EOVeD2fCn4KS4pi7pjwOZCewl4.jpg",
+      "rating": "6.0",
+      "anio": 2022,
+      "duracion": "2h 12min",
+      "genero": "Acción, Suspense, Crimen",
+      "descripcion": "Carter, quien despierta dos meses después de una pandemia mortal originada en la Zona Desmilitarizada (DMZ) que ya ha devastado a Estados Unidos y Corea del Norte, descubre un misterioso dispositivo en su cabeza y una bomba letal en su boca. Una voz en sus oídos le ordena evitar ser asesinado y se ve envuelto en una misteriosa operación mientras la CIA y el golpe de Estado norcoreano lo persiguen de cerca.",
+      "director": "정병길",
+      "reparto": "주원, 이성재, 정소리, 도영서, Camilla Belle, Mike Colter, 정재영, 정해균, 여대현, Gina Theresa Williamson, 채서안, Maurice Turner Jr.",
+      "embedUrl": "https://bysedikamoum.com/e/bdphmz8ie044/carter-2022-es"
+    },
+    {
+      "titulo": "El vestido",
+      "poster": "https://image.tmdb.org/t/p/w500/2SoHOeFWgF4pP9yVlEch76ja7r5.jpg",
+      "rating": "6.0",
+      "anio": 2026,
+      "duracion": "1h 15min",
+      "genero": "Terror",
+      "descripcion": "Una mujer y su hija se mudan a una casa nueva en las afueras para intentar empezar de cero, pero lo que empieza como una segunda oportunidad desembocará en una sucesión de eventos extraños.",
+      "director": "Jacob Santana",
+      "reparto": "Belén Rueda, Vera Centenera, Santiago Molero, Elena Irureta, Belén Écija",
+      "embedUrl": "https://bysedikamoum.com/e/oxq5iizx01rb/el-vestido-2026"
+    },
+    {
       "titulo": "Por encima de tu cadáver",
       "poster": "https://image.tmdb.org/t/p/w500/sdbBMUVo7ddm5CsJNf11Zb0Oho5.jpg",
       "rating": "6.4",
