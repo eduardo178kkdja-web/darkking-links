@@ -5187,6 +5187,84 @@
   ],
   "series": [
     {
+      "titulo": "Agente Kim reactivado",
+      "poster": "https://image.tmdb.org/t/p/w500/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+      "rating": "8.4",
+      "anio": 2026,
+      "genero": "Action & Adventure, Crimen, Drama",
+      "descripcion": "Un padre normal y corriente desempolva su talento como agente de operaciones encubiertas para dar con su hija desaparecida... pero atrae una atención indeseada.",
+      "creador": "남대중, 이승영, 이소은",
+      "reparto": "소지섭, 최대훈, 윤경호, 주상욱, 손나은, 서수민, 박진우, 원현준, 엄현경, 함은정",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "La desaparición de Min-ji",
+              "duracion": "1h 8min",
+              "embedUrl": "https://bysevepoin.com/e/ha171fsfh3yo"
+            },
+            {
+              "numero": 2,
+              "nombre": "El regreso del agente Kim",
+              "duracion": "1h 3min",
+              "embedUrl": "https://bysevepoin.com/e/jspqzlv8bo7z"
+            },
+            {
+              "numero": 3,
+              "nombre": "Viejos aliados",
+              "duracion": "1h 3min",
+              "embedUrl": "https://vimeos.net/embed-306ob14nostq.html?tt=jrOyues8KctJJbimRyVVyoTylPCbZXUeT11V0Y2quhYrBRM2miFPELKMVRzIeYfz3KR8l3O%2BAgd1qpNf7HSMHw%3D%3D"
+            },
+            {
+              "numero": 4,
+              "nombre": "Enemigos del pasado",
+              "duracion": "1h 2min",
+              "embedUrl": "https://vimeos.net/embed-9f9juzgpipw6.html?tt=jI%2FCUitKVSImLchRuZKmWaOz%2FFapj7m2zrKNcCoFm29t3F6w%2FAuxSq1YbgPy1mCpSRna0sgHEo0cWtMT9Es47w%3D%3D"
+            },
+            {
+              "numero": 5,
+              "nombre": "Un viejo amigo",
+              "duracion": "1h 8min",
+              "embedUrl": "https://vimeos.net/embed-a4fbalgn94g8.html?tt=3KXzIUpUqG2YE0vAQC%2BiemTCFwMSmpwf9Yqjv%2B0%2BOoVqd2bqzsogbQbPakaaeIQi15og4f3nQZl3g%2FO%2BNwQCOQ%3D%3D"
+            },
+            {
+              "numero": 6,
+              "nombre": "Una nueva aliada",
+              "duracion": "1h 9min",
+              "embedUrl": "https://vimeos.net/embed-gkhl147ni0eb.html?tt=4f0nyteymvNKQFdNqjOjxHw7gzLmdv1ZdZhkui9oVjh5Uj9y%2FBe0fvmHe4ES1LfspV2SGrGguWI6DG4Nr%2FB%2BSw%3D%3D"
+            },
+            {
+              "numero": 7,
+              "nombre": "El reencuentro",
+              "duracion": "1h 9min",
+              "embedUrl": "https://vimeos.net/embed-27sm9rm0bhan.html?tt=epgUNalVftzcl%2FdobIhdS5IXisobYxQ6ZY2OUfEFxXOf7Enzljc1FQGXcFE0YyXZZCOqAoRu6gq349S6YxQtrQ%3D%3D"
+            },
+            {
+              "numero": 8,
+              "nombre": "La última misión",
+              "duracion": "1h 8min",
+              "embedUrl": "https://vimeos.net/embed-h6tkx717axmn.html?tt=h2u4dVXbVL%2B1Zx3NWRLhiBA0I1lVCRa%2FfI%2FbHwJ9JCdCDqnWZMW6PFV6hmc%2BfJ39AJjsx9Ui8F%2BxjvjkJswZFQ%3D%3D"
+            },
+            {
+              "numero": 9,
+              "nombre": "Una misión desesperada",
+              "duracion": "1h 1min",
+              "embedUrl": "https://vimeos.net/embed-isqze1nbwrw0.html?tt=K1F4hNmomi2L%2BZzM5vUYvjM8OnkX5shKVNnyBwjg05Tnhxtn6zxWOArfsWOjutJrgCpCNLSEnFwg6f1wcMLKWA%3D%3D"
+            },
+            {
+              "numero": 10,
+              "nombre": "La decisión final",
+              "duracion": "1h 13min",
+              "embedUrl": "https://vimeos.net/embed-5lzmwqdp0cjo.html?tt=7CzCKURhGMdf4t8PxB1LvvlgeeJnHAKJPhsghjTkpRnWBgF9To2InPX%2BEmg76m56vjq5xjNmqn6ho%2FFd3W1l1A%3D%3D"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titulo": "Un trabajo maldito",
       "poster": "https://image.tmdb.org/t/p/w500/vxXNPQjCZkdTWmXZEkgxVVrftex.jpg",
       "rating": "7.5",
