@@ -1,6 +1,18 @@
 {
   "movies": [
     {
+      "titulo": "Avatar Aang",
+      "poster": "https://image.tmdb.org/t/p/w500/gXyICsxc1amVyziopCT4yhnelNv.jpg",
+      "rating": "9.0",
+      "anio": 2026,
+      "duracion": "1h 39min",
+      "genero": "Animación, Aventura, Fantasía, Acción",
+      "descripcion": "Cuando el Avatar Aang, el último maestro del aire del mundo, descubre un poder ancestral que podría salvar a su cultura de la extinción, él y sus amigos se lanzan a la búsqueda de ese poder antes de que caiga en malas manos.",
+      "director": "Lauren Montgomery",
+      "reparto": "Eric Nam, Dave Bautista, Jessica Matten, Román Zaragoza, Steven Yeun, Dionne Quan, Dee Bradley Baker, Freida Pinto, Ke Huy Quan, Taika Waititi, Geraldine Viswanathan, Peta Sergeant",
+      "embedUrl": "https://bysedikamoum.com/e/hg8pwit04m59"
+    },
+    {
       "titulo": "Carter",
       "poster": "https://image.tmdb.org/t/p/w500/7EOVeD2fCn4KS4pi7pjwOZCewl4.jpg",
       "rating": "6.0",
