@@ -5187,6 +5187,138 @@
   ],
   "series": [
     {
+      "titulo": "Palacio",
+      "poster": "https://image.tmdb.org/t/p/w500/w7r5J4JPA0xku3ubCTXlDbuyoFs.jpg",
+      "rating": "6.2",
+      "anio": 2026,
+      "genero": "Drama, Crimen",
+      "descripcion": "Narra los acontecimientos que tuvieron lugar durante el asedio del Palacio de Justicia de Colombia por parte del grupo guerrillero M-19 en 1985.",
+      "creador": "Natalia Santa, Mariana Berenguer",
+      "reparto": "Natalia Reyes, Luna Baxter, Mariana Gómez, Robinson Díaz, Carlos-Manuel Vesga, Santiago Alarcón, Jose Restrepo, Camilo Amores, Santiago Londoño, Rafael Zea",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Un país destinado al caos",
+              "duracion": "51 min",
+              "embedUrl": "https://vimeos.net/embed-q2lbfzwiz53m.html?tt=0JuNCRMm%2BIMvH6aXhgdaZSeWUR5%2FZ%2BjnNlUub33xuI657C8zOQLapbGD0rUARd0yj3WIpX13TKAfTHWujWWyvA%3D%3D"
+            },
+            {
+              "numero": 2,
+              "nombre": "Nada que negociar",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-h3o3he2nlmp9.html?tt=8Ig4oXpYGwytltW2lkzKKsXCjnRFTE4PR%2FycoQF93bQ0uO4%2FzNxBbu8HEVxcbDPIjb%2BjAZJfQTRsHDu53G0t1A%3D%3D"
+            },
+            {
+              "numero": 3,
+              "nombre": "Que cese el fuego",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-05p443079t75.html?tt=%2Bv5nYn0wLzOpbiDluAs0RVMdWC91qdKtQMiRKY2we0%2FDIrf32cV%2F4EpF4r3Bse4iWgrb%2FpL1b4XAnuZloxk5DQ%3D%3D"
+            },
+            {
+              "numero": 4,
+              "nombre": "Un juicio desde las trincheras",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-t9axvfzvuosa.html?tt=C68ocgJbczxklusw6gj3LjZeSt00dXQmHSHrEK3unPSi61ertmuUA5mCNslC2t7mr7S2PtZSI7rS8jh9SSdMng%3D%3D"
+            },
+            {
+              "numero": 5,
+              "nombre": "Morir por algo",
+              "duracion": "46 min",
+              "embedUrl": "https://vimeos.net/embed-xd7fbia8m9bx.html?tt=2ipm1O8KbUYkvkaeaymDezXBmpQtNVUyeSFLWlUu3Yj1oGyikZQZ9GnJOJuAp7WWU1%2ByxAjGqoMDDQlGxTFsKQ%3D%3D"
+            },
+            {
+              "numero": 6,
+              "nombre": "Búsqueda de la verdad",
+              "duracion": "52 min",
+              "embedUrl": "https://vimeos.net/embed-pnyv6nwym3vx.html?tt=xbt%2BQP5o5RpV%2Ba%2BT%2B8JvMjNI6zZy2n7VUlafRZzpSfedUoxLxZIoDhC1Kv%2F25xOr19Kj8yIogzBDiTpNGTBp2w%3D%3D"
+            },
+            {
+              "numero": 7,
+              "nombre": "Una propuesta sensata",
+              "duracion": "47 min",
+              "embedUrl": "https://vimeos.net/embed-6nulvbaparyj.html?tt=8iQLCPiwHVNgeAfQPdXMu%2BhEuEDCH4rTO4eTzni0PkpHgse%2BJwkWmpzn9psVNdbHaklciJSLxwrdlzvpPbZz%2FQ%3D%3D"
+            },
+            {
+              "numero": 8,
+              "nombre": "Sin olvido",
+              "duracion": "1h 4min",
+              "embedUrl": "https://vimeos.net/embed-wcwc1j997yvz.html?tt=jEzqMYA98%2FQDwWl1OTdjOpa3OJzvuGbkiXzdTTcj0GPKHJBSN0W%2BTRA5lix06iNRLBfJsppgZ5r7zwaGH95f8g%3D%3D"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "El palacio del este",
+      "poster": "https://image.tmdb.org/t/p/w500/zlKETP9iErKueFfNRuKxivsDLWe.jpg",
+      "rating": "8.1",
+      "anio": 2026,
+      "genero": "Misterio, Action & Adventure, Sci-Fi & Fantasy, Drama",
+      "descripcion": "Un hombre que transita el mundo de los espíritus y una dama de la corte que oye a los muertos entran en el palacio del este por orden del rey. ¿Lograrán desentrañar sus secretos?",
+      "creador": "권소라, 서재원",
+      "reparto": "남주혁, 노윤서, 조승우, 장영남",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El espíritu del estanque",
+              "duracion": "46 min",
+              "embedUrl": "https://vimeos.net/embed-slidanx47nng.html?tt=GUxMQcEgpGxRq98toMv1%2BIolhTupR%2FIfg0aPp5nvR8yfDTaRXrtdu9hf9KuTeswRVhNF2XZtBtvxxeQa65dY3g%3D%3D"
+            },
+            {
+              "numero": 2,
+              "nombre": "El secreto del almacén de sal",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-uekqwy3aas7g.html?tt=KrDgbbG%2Bjjqu8jh1z7NFtGTud21jVSgxqziZmih1rX8eEN3CNm7JnEhlGzvYEUOCR9QXfwIpHlF0zntOuzWMwA%3D%3D"
+            },
+            {
+              "numero": 3,
+              "nombre": "En el reino de los espíritus",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-m2b0qrpq3thi.html?tt=tANoOks2VRG8%2BjZIZa1EB%2F%2BBymYd7Fe6pUzaxpUCz2nHak05lBXRWY05RqjUMdjrEL5gE4QdYkp7lGvICAAacg%3D%3D"
+            },
+            {
+              "numero": 4,
+              "nombre": "La maldición del palacio",
+              "duracion": "54 min",
+              "embedUrl": "https://vimeos.net/embed-cix893ihbvki.html?tt=oBheXm1dTQXzTWEuPG9FZmkLKt%2Fi7et85C2SnbB1epVuxhKNqei2T2AxWj6nblOBnts2gVuMZVF3QCVgSo0wlw%3D%3D"
+            },
+            {
+              "numero": 5,
+              "nombre": "El regreso del espíritu maligno",
+              "duracion": "46 min",
+              "embedUrl": "https://vimeos.net/embed-qsxa71ssmye9.html?tt=K3pFaK6hla4v61tQKruVW7%2B5dvAh7B0DMRHOf6qXc8XVwsPzqFVLhFFQ6hkUYkbHWnsc8w6dlCUd%2BbwePSJ7qg%3D%3D"
+            },
+            {
+              "numero": 6,
+              "nombre": "La verdad oculta",
+              "duracion": "50 min",
+              "embedUrl": "https://vimeos.net/embed-55rw3r9u0lq0.html?tt=IvNAiugWkolSrR311mJqq2RUxk0FjoSVmFXD%2B1L474HIjGK%2B%2BkGViD6xSYMBtqFleieyYQzfMpCEbnEi1fxd3w%3D%3D"
+            },
+            {
+              "numero": 7,
+              "nombre": "El enfrentamiento final",
+              "duracion": "46 min",
+              "embedUrl": "https://vimeos.net/embed-ksohf7s77mlp.html?tt=nfVxhkDhfngvd87i1BfK3jUHajDfBDDi%2BC9Fm9yNGva9oRsFvaN1rR8G3vWxPVHe%2F9PHdtdgS%2BKtqfwrCULg8Q%3D%3D"
+            },
+            {
+              "numero": 8,
+              "nombre": "La última batalla",
+              "duracion": "59 min",
+              "embedUrl": "https://vimeos.net/embed-pql8fc3f3s7c.html?tt=tigZbJIGWQZ%2FSLQ2%2BdABRRYSIjcNUj1CEvQbd4FT8NNu5eJPTnScgHdwVI5hjxIOKXS5DcifLylQneBbCwY7fw%3D%3D"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titulo": "Agente Kim reactivado",
       "poster": "https://image.tmdb.org/t/p/w500/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
       "rating": "8.4",
