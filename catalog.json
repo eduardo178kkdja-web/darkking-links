@@ -1,6 +1,30 @@
 {
   "movies": [
     {
+      "titulo": "No nos rendimos",
+      "poster": "https://image.tmdb.org/t/p/w500/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
+      "rating": "7.9",
+      "anio": 2026,
+      "duracion": "2h 17min",
+      "genero": "Acción, Crimen, Suspense",
+      "descripcion": "Un exsoldado y sus nietos luchan contra despiadados criminales en un pueblo aislado. Si quieren sobrevivir, también deben enfrentarse a sus miedos y a los remordimientos.",
+      "director": "Sidharta Tata",
+      "reparto": "Lukman Sardi, Callista Arum, Sulthan Hamonangan, Derby Romero, Donny Alamsyah, Ismi Melinda, Laras Sardi, Dennis Adishwara, Erick Estrada, M. N. Qomaruddin, Amos Putra, Winky Wiryawan",
+      "embedUrl": "https://bysedikamoum.com/e/7mcjz8ee4e8m/never-surrender-2026"
+    },
+    {
+      "titulo": "Carolina Caroline",
+      "poster": "https://image.tmdb.org/t/p/w500/9Jkylw7Y5NQyi7C8IwXLBvVSrH2.jpg",
+      "rating": "6.6",
+      "anio": 2026,
+      "duracion": "1h 47min",
+      "genero": "Crimen, Drama, Romance, Suspense",
+      "descripcion": "Una joven se une a un encantador estafador a la fuga, dejando un rastro de crimen y pasión mientras recorren el sudeste en busca de su distanciada madre.",
+      "director": "Adam Rehmeier",
+      "reparto": "Samara Weaving, Kyle Gallner, Kyra Sedgwick, Jon Gries, Tommy G. Kendrick, P.J. Sosko, Gregg Gilmore, Jamald Gardner, Matthew Smitley, Ed Formica, Robert Stevens Wayne, Bryan McClure",
+      "embedUrl": "https://bysedikamoum.com/e/5bljlbg876p7/carolina-caroline-2026"
+    },
+    {
       "titulo": "Avatar Aang",
       "poster": "https://image.tmdb.org/t/p/w500/gXyICsxc1amVyziopCT4yhnelNv.jpg",
       "rating": "9.0",
