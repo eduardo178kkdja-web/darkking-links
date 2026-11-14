@@ -1,6 +1,30 @@
 {
   "movies": [
     {
+      "titulo": "하이재킹",
+      "poster": "https://image.tmdb.org/t/p/w500/wNwN0F85lrOOpytOqLBRVk3lmkh.jpg",
+      "rating": "6.8",
+      "anio": 2024,
+      "duracion": "1h 40min",
+      "genero": "Acción, Suspense, Crimen",
+      "descripcion": "En 1971, Tae-In (Ha Jung-Woo), un expiloto de combate de la Fuerza Aérea Coreana, trabaja como piloto para una aerolínea comercial. Se enfrenta a una crisis a bordo de un vuelo secuestrado junto con los pasajeros, entre ellos Yong-Dae (Yeo Jin-Goo), y los miembros de su tripulación, como el capitán Kyu-Sik (Sung Dong-Il) y la azafata Ok-Soon (Chae Soo-Bin)",
+      "director": "Kim Sung-han",
+      "reparto": "하정우, 여진구, 성동일, 채수빈, 문유강, Kim Sun-young, 임세미, 김동욱, 최광일, 김종수, 정예진, 문우진",
+      "embedUrl": "https://bysedikamoum.com/e/vztlrky1xx3o/hijack-1971-2024"
+    },
+    {
+      "titulo": "Lector omnisciente: La profecía",
+      "poster": "https://image.tmdb.org/t/p/w500/tithUTyMVsBZwqIEw4BU9YppeCr.jpg",
+      "rating": "7.6",
+      "anio": 2025,
+      "duracion": "2h 0min",
+      "genero": "Acción, Aventura, Fantasía",
+      "descripcion": "La novela favorita de Dokja se hace ominosamente realidad; utilizando sus intrincados conocimientos sobre la inminente historia apocalíptica, el oficinista cambia el destino.",
+      "director": "김병우",
+      "reparto": "Ahn Hyo Seop, Lee Min-ho, 채수빈, 신승호, 나나, 권은성, 지수, Park Ho-san, 최영준, 정성일, 이석, 이유진",
+      "embedUrl": "https://bysedikamoum.com/e/lq184i1a4wtp/lector-omnisciente-la-profecía-2025"
+    },
+    {
       "titulo": "No nos rendimos",
       "poster": "https://image.tmdb.org/t/p/w500/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
       "rating": "7.9",
@@ -5571,6 +5595,12 @@
               "nombre": "Ojos en el interior",
               "duracion": "47 min",
               "embedUrl": "https://bysedikamoum.com/e/tslymjjwuvtc/nocturno-epi-3"
+            },
+            {
+              "numero": 4,
+              "nombre": "El mensajero",
+              "duracion": "46 min",
+              "embedUrl": "https://bysedikamoum.com/e/2d4ie6ccm8pw/nocturno-epi-4"
             }
           ]
         }
@@ -5901,6 +5931,12 @@
               "nombre": "Ya no nos hablamos",
               "duracion": "43 min",
               "embedUrl": "https://bysedikamoum.com/e/g901gty9wamg/tierra-de-mafia-epi-8"
+            },
+            {
+              "numero": 9,
+              "nombre": "Colapso nervioso",
+              "duracion": "47 min",
+              "embedUrl": "https://bysedikamoum.com/e/pgu11wgi7jof/tierra-de-mafia-t2-epi-9"
             }
           ]
         }
@@ -9507,6 +9543,12 @@
               "nombre": "La mafia hospitalaria",
               "duracion": "1h 4min",
               "embedUrl": "https://bysevepoin.com/e/u31ocqa54voz"
+            },
+            {
+              "numero": 11,
+              "nombre": "El último desafío de la doctora X",
+              "duracion": "1h 2 min",
+              "embedUrl": "https://bysedikamoum.com/e/4p14f73mmwjq/doctor-x-mafia-in-white-capitulo-11"
             }
           ]
         }
@@ -10875,6 +10917,12 @@
               "nombre": "Volver al punto de partida",
               "duracion": "44 min",
               "embedUrl": "https://bysedikamoum.com/e/hsj4sd5b7p65/tulsa-king-t4-epi-4"
+            },
+            {
+              "numero": 5,
+              "nombre": "Dinosaurios",
+              "duracion": "42 min",
+              "embedUrl": "https://bysedikamoum.com/e/8ikvvlhjogxw/tulsa-king-t4-epi-5"
             }
           ]
         }
