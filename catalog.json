@@ -1,6 +1,18 @@
 {
   "movies": [
     {
+      "titulo": "Pelé",
+      "poster": "https://image.tmdb.org/t/p/w500/h4NnleSubeOosvmyBRZmjq2A6iX.jpg",
+      "rating": "7.3",
+      "anio": 2021,
+      "duracion": "1h 48min",
+      "genero": "Documental",
+      "descripcion": "Con un turbulento Brasil como telón de fondo, este documental retrata la historia de Pelé: desde sus inicios como nuevo talento hasta su transformación en héroe nacional.",
+      "director": "David Tryhorn",
+      "reparto": "Pelé, Zagallo, Gilberto Gil, Benedita da Silva, Fernando Henrique Cardoso, Amarildo, Rivelino, Robert F. Kennedy, Muhammad Ali",
+      "embedUrl": "https://vimeos.net/embed-hz6yui14q5wo.html"
+    },
+    {
       "titulo": "Mamá te quiere",
       "poster": "https://image.tmdb.org/t/p/w500/rEeTuQSsEyM2bSG7rwvm23WJjfg.jpg",
       "rating": "7.2",
@@ -5246,6 +5258,42 @@
     }
   ],
   "series": [
+    {
+      "titulo": "La fiscal",
+      "poster": "https://image.tmdb.org/t/p/w500/nJgoICwjYNgih3RMSJgeMX4KI3a.jpg",
+      "rating": "9.0",
+      "anio": 2026,
+      "genero": "Documental, Crimen",
+      "descripcion": "Esta cruda serie documental sigue a la primera directora de la Fiscalía para Delitos de Feminicidio de la Ciudad de México, dedicada a erradicar la violencia contra las mujeres.",
+      "creador": "",
+      "reparto": "Sayuri Herrera Román",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Entrar al Estado",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-1cuj6tk921al.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "La mejor terapia",
+              "duracion": "1h 1 min",
+              "embedUrl": "https://vimeos.net/embed-zzygno4x6rab.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Los límites",
+              "duracion": "1h 2min",
+              "embedUrl": "https://vimeos.net/embed-tjm9ov4ki28n.html"
+            }
+          ]
+        }
+      ]
+    },
     {
       "titulo": "El beso de la sirena",
       "poster": "https://image.tmdb.org/t/p/w500/x4Se5oHeTmA6NuDuYVP2nQWTjtU.jpg",
