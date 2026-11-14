@@ -1,6 +1,18 @@
 {
   "movies": [
     {
+      "titulo": "Mamá te quiere",
+      "poster": "https://image.tmdb.org/t/p/w500/rEeTuQSsEyM2bSG7rwvm23WJjfg.jpg",
+      "rating": "7.2",
+      "anio": 2020,
+      "duracion": "1h 29min",
+      "genero": "Suspense, Terror, Drama",
+      "descripcion": "Dicen que el amor de una madre es para siempre... pero para Chloe esto no es un consuelo, sino una amenaza. Hay algo extraño, incluso siniestro en la relación de Chloe y su madre, Diane (Sarah Paulson). Diane ha criado a su hija completamente aislada, controlando cada uno de sus movimientos, pero Chloe pronto empezará a descubrir los oscuros secretos que guarda su madre...",
+      "director": "Aneesh Chaganty",
+      "reparto": "Sarah Paulson, Kiera Allen, Pat Healy, Sara Sohn, Erik Athavale, BJ Harrison, Sharon Bajer, Onalee Ames, Joanne Rodriguez, Ernie Foort, Bradley Sawatzky, Cory Wojcik",
+      "embedUrl": "https://vimeos.net/embed-mot0m8fe5ob5.html"
+    },
+    {
       "titulo": "하이재킹",
       "poster": "https://image.tmdb.org/t/p/w500/wNwN0F85lrOOpytOqLBRVk3lmkh.jpg",
       "rating": "6.8",
@@ -5234,6 +5246,210 @@
     }
   ],
   "series": [
+    {
+      "titulo": "El beso de la sirena",
+      "poster": "https://image.tmdb.org/t/p/w500/x4Se5oHeTmA6NuDuYVP2nQWTjtU.jpg",
+      "rating": "7.4",
+      "anio": 2026,
+      "genero": "Drama, Crimen, Misterio",
+      "descripcion": "El investigador de fraudes al seguro Cha Woo-seok recibe una misteriosa llamada de una informante que afirma tener pruebas de un asesinato relacionado con un fraude. Antes de revelar la verdad, la informante muere. La investigación de Woo-seok lo lleva a la Subastas Royal y a su subastadora principal, Han Seol-ah, cuyos tres prometidos han muerto en circunstancias sospechosas. Para revelar la verdad, o quizás para ponerla a prueba, Woo-seok propone fingir una relación. Al descubrir sus secretos, se da cuenta de que podría haber caído en una red de la que no puede escapar, y que escapar podría costarle todo.",
+      "creador": "Lee Young",
+      "reparto": "Park Min-young, 위하준, 김정현, 한준우, 공성하, 홍기준, 김금순, 하석진, 윤종훈, 정의제, Kim Dong-jun, Heo Jae-ho",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "La informante asesinada",
+              "duracion": "1h 04min",
+              "embedUrl": "https://vimeos.net/embed-epewq2w9imeu.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "El patrón de los amantes muertos",
+              "duracion": "1h 02min",
+              "embedUrl": "https://vimeos.net/embed-z39g03vvfnct.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Una herencia peligrosa",
+              "duracion": "1h 02min",
+              "embedUrl": "https://vimeos.net/embed-eqbj3vnuc8vo.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Arrestada en plena subasta",
+              "duracion": "1h 03min",
+              "embedUrl": "https://vimeos.net/embed-79u83pnxi570.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Una relación fingida",
+              "duracion": "1h 03min",
+              "embedUrl": "https://vimeos.net/embed-1ldykjgu50ef.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Una amenaza mortal",
+              "duracion": "1h 02min",
+              "embedUrl": "https://vimeos.net/embed-0rujgm8vee95.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Los secretos del incendio",
+              "duracion": "1h 01min",
+              "embedUrl": "https://vimeos.net/embed-1ixnbyazedky.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "La verdad sobre el accidente",
+              "duracion": "1h 02min",
+              "embedUrl": "https://vimeos.net/embed-qcmjhdqsugl8.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Una muerte inesperada",
+              "duracion": "1h 02min",
+              "embedUrl": "https://vimeos.net/embed-4w0mxikdfz2x.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "El secreto de la bóveda",
+              "duracion": "1h 02min",
+              "embedUrl": "https://vimeos.net/embed-kkdurpmpotmy.html"
+            },
+            {
+              "numero": 11,
+              "nombre": "La última subasta",
+              "duracion": "1h 04min",
+              "embedUrl": "https://vimeos.net/embed-k35k8tj0hsgt.html"
+            },
+            {
+              "numero": 12,
+              "nombre": "Una nueva oportunidad",
+              "duracion": "1h 07min",
+              "embedUrl": "https://vimeos.net/embed-56m6uv3y7kc9.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "El valor absoluto del amor",
+      "poster": "https://image.tmdb.org/t/p/w500/97PM3x5ejUtWRYbkHYNL8u0BYHM.jpg",
+      "rating": "8.8",
+      "anio": 2026,
+      "genero": "Drama, Comedia",
+      "descripcion": "Eui-ju, tímida estudiante de día y escritora de novelas románticas de noche, encuentra la inspiración ante la llegada de cuatro profesores guapísimos: Woo-su, Da-ju, Gi-jeon y Dong-ju. Los incluye en su nueva novela, ¡que se convierte en un éxito! Woo-su, su peor enemigo, descubre su secreto. Ella acepta el trato que le ofrece a cambio de su silencio, pero ¿terminará la novela sin sobresaltos?",
+      "creador": "이민주",
+      "reparto": "김향기, 차학연, 김재현, DEMIAN, 김동규",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "La doble vida de Eui-ju",
+              "duracion": "29 min",
+              "embedUrl": "https://vimeos.net/embed-ukzideatnb9s.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Cuatro profesores y una inspiración",
+              "duracion": "33 min",
+              "embedUrl": "https://vimeos.net/embed-5c2oewtgnelt.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Los lentes de Woo-su",
+              "duracion": "33 min",
+              "embedUrl": "https://vimeos.net/embed-s0jl0fi620lz.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Nace una novela viral",
+              "duracion": "28 min",
+              "embedUrl": "https://vimeos.net/embed-b6oayifuigbr.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Éramos amigos",
+              "duracion": "32 min",
+              "embedUrl": "https://vimeos.net/embed-ewu7w0rxr8h1.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "El trato de Woo-su",
+              "duracion": "35 min",
+              "embedUrl": "https://vimeos.net/embed-rlt4sdhn18bq.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Un accidente en la escuela",
+              "duracion": "28 min",
+              "embedUrl": "https://vimeos.net/embed-35rchsyuo509.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Un corazón acelerado",
+              "duracion": "33 min",
+              "embedUrl": "https://vimeos.net/embed-ci01kz0ccz8x.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Celos y sentimientos ocultos",
+              "duracion": "30 min",
+              "embedUrl": "https://vimeos.net/embed-kx4ayubvfmmj.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "Una propuesta que duele",
+              "duracion": "28 min",
+              "embedUrl": "https://vimeos.net/embed-wjgj4jyu6ula.html"
+            },
+            {
+              "numero": 11,
+              "nombre": "Un rescate inesperado",
+              "duracion": "28 min",
+              "embedUrl": "https://vimeos.net/embed-8cau8gwjeb85.html"
+            },
+            {
+              "numero": 12,
+              "nombre": "Secretos y confesiones",
+              "duracion": "29 min",
+              "embedUrl": "https://vimeos.net/embed-d86qbpkbshp0.html"
+            },
+            {
+              "numero": 13,
+              "nombre": "El miedo a confesar el amor",
+              "duracion": "31 min",
+              "embedUrl": "https://vimeos.net/embed-xg3xjpvm8iyk.html"
+            },
+            {
+              "numero": 14,
+              "nombre": "La verdad sale a la luz",
+              "duracion": "30 min",
+              "embedUrl": "https://vimeos.net/embed-rrbvtzorbfdl.html"
+            },
+            {
+              "numero": 15,
+              "nombre": "El problema matemático del amor",
+              "duracion": "39 min",
+              "embedUrl": "https://vimeos.net/embed-94cclbpuxmnu.html"
+            },
+            {
+              "numero": 16,
+              "nombre": "La promesa de hace diez años",
+              "duracion": "39 min",
+              "embedUrl": "https://vimeos.net/embed-nu3fq7ibbjiw.html"
+            }
+          ]
+        }
+      ]
+    },
     {
       "titulo": "Palacio",
       "poster": "https://image.tmdb.org/t/p/w500/w7r5J4JPA0xku3ubCTXlDbuyoFs.jpg",
