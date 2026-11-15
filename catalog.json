@@ -1,6 +1,30 @@
 {
   "movies": [
     {
+      "titulo": "El sol nace para todos",
+      "poster": "https://image.tmdb.org/t/p/w500/wUXFMv8ElNIIGjxrORF9SdLGiVk.jpg",
+      "rating": "5.7",
+      "anio": 2025,
+      "duracion": "2h 11min",
+      "genero": "Romance, Drama",
+      "descripcion": "Él se sacrificó por amor, asumiendo la culpa de un delito que ella cometió. Incapaz de corresponder a tal sacrificio, ella se marcha para comenzar una nueva vida. Muchos años después, los antiguos amantes se reencuentran; sus vidas, distanciadas pero a la vez entrelazadas, van revelando poco a poco su trágico pasado. Mientras uno busca la redención, el otro anhela la liberación. En una dolorosa despedida definitiva, ambos despiertan de su errar para fundirse en un último y desgarrador abrazo.",
+      "director": "蔡尚君",
+      "reparto": "辛芷蕾, 张颂文, 冯绍峰, 薛媛媛, 乔琳凯, 易歆韵, 叶沛诗, Shan Baozhong",
+      "embedUrl": "https://bysedikamoum.com/e/8t9rqicjeb5y/el-sol-nace-para-todos-2025"
+    },
+    {
+      "titulo": "Número 9",
+      "poster": "https://image.tmdb.org/t/p/w500/hRzsKmr3NxRIbKwr4myGKylMaXB.jpg",
+      "rating": "7.0",
+      "anio": 2009,
+      "duracion": "1h 19min",
+      "genero": "Acción, Aventura, Animación, Ciencia ficción, Suspense",
+      "descripcion": "Aventura post-apocalíptica protagonizada por nueve muñecos de trapo que deberán enfrentarse a unas máquinas gigantes si quieren preservar el futuro de la civilización. La historia transcurre en un futuro muy próximo. El invento conocido como la Gran Máquina activa y aporta energía a las máquinas que se han alzado contra la raza humana, diezmando a la población, antes de empezar a apagarse. El mundo pronto quedará destruido, pero un grupo de pequeños seres intenta salvar lo poco que queda de la civilización.",
+      "director": "Shane Acker",
+      "reparto": "Elijah Wood, Christopher Plummer, Martin Landau, John C. Reilly, Crispin Glover, Jennifer Connelly, Fred Tatasciore, Alan Oppenheimer, Tom Kane, Helen Wilson",
+      "embedUrl": "https://bysedikamoum.com/e/87xo0ftvcspr/nueve-2009"
+    },
+    {
       "titulo": "Pelé",
       "poster": "https://image.tmdb.org/t/p/w500/h4NnleSubeOosvmyBRZmjq2A6iX.jpg",
       "rating": "7.3",
@@ -5259,6 +5283,120 @@
   ],
   "series": [
     {
+      "titulo": "King the Land",
+      "poster": "https://image.tmdb.org/t/p/w500/auknE4JO3oLXNe2Go8tz6v4DPhY.jpg",
+      "rating": "8.2",
+      "anio": 2023,
+      "genero": "Drama, Comedia",
+      "descripcion": "En plena disputa por el control de la empresa familiar, un encantador heredero choca con una empleada conocida por su irresistible sonrisa... que él no puede soportar.",
+      "creador": "천성일",
+      "reparto": "준호, 윤아, 고원희, 김가은, 안세하, Kim Jae-won, Kim Sun-young, 손병호, 김영옥, Choi Tae-hwan, Lee Ye-joo, Kong Ye-ji",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2023,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Primer encuentro",
+              "duracion": "1h 8min",
+              "embedUrl": "https://bysesukior.com/e/63uiuwq3v9s4"
+            },
+            {
+              "numero": 2,
+              "nombre": "Malentendidos",
+              "duracion": "1h 10min",
+              "embedUrl": "https://bysesukior.com/e/mlss4wkp2qyt"
+            },
+            {
+              "numero": 3,
+              "nombre": "Viaje inesperado",
+              "duracion": "1h 8min",
+              "embedUrl": "https://bysesukior.com/e/osc4j264d56x"
+            },
+            {
+              "numero": 4,
+              "nombre": "Nuevos sentimientos",
+              "duracion": "1h 9min",
+              "embedUrl": "https://bysesukior.com/e/mvwqkwumfl7p"
+            },
+            {
+              "numero": 5,
+              "nombre": "Acercamiento",
+              "duracion": "1h 12min",
+              "embedUrl": "https://bysesukior.com/e/0vutn8taornk"
+            },
+            {
+              "numero": 6,
+              "nombre": "Confesiones",
+              "duracion": "1h 17min",
+              "embedUrl": "https://bysesukior.com/e/lqmqs91dtuj2"
+            },
+            {
+              "numero": 7,
+              "nombre": "Rivalidad",
+              "duracion": "1h 14min",
+              "embedUrl": "https://bysesukior.com/e/0j42g2y8113m"
+            },
+            {
+              "numero": 8,
+              "nombre": "Celos",
+              "duracion": "1h 16min",
+              "embedUrl": "https://bysesukior.com/e/bfa5lbvmuwww"
+            },
+            {
+              "numero": 9,
+              "nombre": "Enamorados",
+              "duracion": "1h 9min",
+              "embedUrl": "https://bysesukior.com/e/uo7dpu0rw9ny"
+            },
+            {
+              "numero": 10,
+              "nombre": "Juntos",
+              "duracion": "1h 6min",
+              "embedUrl": "https://bysesukior.com/e/k9lwx7ywz40r"
+            },
+            {
+              "numero": 11,
+              "nombre": "Celebración",
+              "duracion": "1h 17min",
+              "embedUrl": "https://bysesukior.com/e/o0h7mfgmp0uv"
+            },
+            {
+              "numero": 12,
+              "nombre": "Sorpresa",
+              "duracion": "1h 5min",
+              "embedUrl": "https://bysesukior.com/e/cqfqhmib1r37"
+            },
+            {
+              "numero": 13,
+              "nombre": "El futuro",
+              "duracion": "1h 13min",
+              "embedUrl": "https://bysesukior.com/e/p07aofqqlzkx"
+            },
+            {
+              "numero": 14,
+              "nombre": "Rumores",
+              "duracion": "1h 6min",
+              "embedUrl": "https://bysesukior.com/e/zr7xhdhol8v6"
+            },
+            {
+              "numero": 15,
+              "nombre": "Decisiones",
+              "duracion": "1h 15min",
+              "embedUrl": "https://bysesukior.com/e/5sazue1cnll4"
+            },
+            {
+              "numero": 16,
+              "nombre": "Felices para siempre",
+              "duracion": "1h 13min",
+              "embedUrl": "https://bysesukior.com/e/3uqn5di8n238"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titulo": "La fiscal",
       "poster": "https://image.tmdb.org/t/p/w500/nJgoICwjYNgih3RMSJgeMX4KI3a.jpg",
       "rating": "9.0",
@@ -5919,6 +6057,12 @@
               "nombre": "Dudas y secretos del pasado",
               "duracion": "1h 6min",
               "embedUrl": "https://bysesukior.com/e/his395sylxiu"
+            },
+            {
+              "numero": 7,
+              "nombre": "Secretos del pasado",
+              "duracion": "1h 8min",
+              "embedUrl": "https://bysedikamoum.com/e/a2elurvses1l/la-mesa-final-epi-7"
             }
           ]
         }
@@ -9813,6 +9957,12 @@
               "nombre": "El último desafío de la doctora X",
               "duracion": "1h 2 min",
               "embedUrl": "https://bysedikamoum.com/e/4p14f73mmwjq/doctor-x-mafia-in-white-capitulo-11"
+            },
+            {
+              "numero": 12,
+              "nombre": "La batalla final",
+              "duracion": "1h 5 min",
+              "embedUrl": "https://bysesukior.com/e/ogajdy1zcwti"
             }
           ]
         }
