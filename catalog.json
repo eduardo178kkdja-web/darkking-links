@@ -5283,6 +5283,72 @@
   ],
   "series": [
     {
+      "titulo": "Tú siempre estuviste ahí",
+      "poster": "https://image.tmdb.org/t/p/w500/1mCAo5XkkaW67xeF2aAW26HaPFh.jpg",
+      "rating": "8.3",
+      "anio": 2025,
+      "genero": "Crimen, Drama, Misterio",
+      "descripcion": "Cuando dos mujeres planean acabar con un matrimonio abusivo mediante un asesinato, la llegada de un visitante inesperado amenaza con destruirlo todo.",
+      "creador": "이정림",
+      "reparto": "전소니, 이유미, 장승조, 이무생, 이현준",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2025,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Eun-su",
+              "duracion": "1h 3min",
+              "embedUrl": "https://bysesukior.com/e/ermivsd1zde3"
+            },
+            {
+              "numero": 2,
+              "nombre": "Hui-su",
+              "duracion": "1h 2min",
+              "embedUrl": "https://bysesukior.com/e/d3m07azv97cb"
+            },
+            {
+              "numero": 3,
+              "nombre": "Eun-su, Hui-su y Jin-pyo",
+              "duracion": "1h 1min",
+              "embedUrl": "https://bysesukior.com/e/uuz2iva4aa4j"
+            },
+            {
+              "numero": 4,
+              "nombre": "Eun-su y Hui-su",
+              "duracion": "1h 2min",
+              "embedUrl": "https://bysesukior.com/e/u97yuhnwd5o9"
+            },
+            {
+              "numero": 5,
+              "nombre": "Eun-su, Hui-su y Jin So-baek",
+              "duracion": "1h 3min",
+              "embedUrl": "https://bysesukior.com/e/m75nh46kwkz3"
+            },
+            {
+              "numero": 6,
+              "nombre": "Eun-su, Hui-su y Jang Kang",
+              "duracion": "56 min",
+              "embedUrl": "https://bysesukior.com/e/ikk4nnm41dz9"
+            },
+            {
+              "numero": 7,
+              "nombre": "Eun-su, Hui-su y Jin-young",
+              "duracion": "1h 11min",
+              "embedUrl": "https://bysesukior.com/e/8zgs3mi819l6"
+            },
+            {
+              "numero": 8,
+              "nombre": "Eun-su, Hui-su y nosotras",
+              "duracion": "58 min",
+              "embedUrl": "https://bysesukior.com/e/v8j7zhqk0gvm"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titulo": "King the Land",
       "poster": "https://image.tmdb.org/t/p/w500/auknE4JO3oLXNe2Go8tz6v4DPhY.jpg",
       "rating": "8.2",
@@ -6063,6 +6129,12 @@
               "nombre": "Secretos del pasado",
               "duracion": "1h 8min",
               "embedUrl": "https://bysedikamoum.com/e/a2elurvses1l/la-mesa-final-epi-7"
+            },
+            {
+              "numero": 8,
+              "nombre": "Un reencuentro inesperado",
+              "duracion": "1h 3min",
+              "embedUrl": "https://bysesukior.com/e/lpgwbscrd9lg"
             }
           ]
         }
