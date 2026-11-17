@@ -1,6 +1,18 @@
 {
   "movies": [
     {
+      "titulo": "Snoopy presenta: 12 días para Navidad",
+      "poster": "https://image.tmdb.org/t/p/w500/vRgNjtr3TnhnBHqX3b7OdGprMgV.jpg",
+      "rating": "7.3",
+      "anio": 2026,
+      "duracion": "0h 33min",
+      "genero": "Animación, Familia",
+      "descripcion": "Para salir de la lista de los traviesos de Papá Noel, Snoopy hace buenas acciones.",
+      "director": "Matt Ferguson",
+      "reparto": "Terry McGurrin, Rob Tinkler",
+      "embedUrl": "https://vimeos.net/embed-yzds0it3za5n.html"
+    },
+    {
       "titulo": "Drive: Los farsantes",
       "poster": "https://image.tmdb.org/t/p/w500/dL0nwYw4CC0164W4kM663Rgi1ZL.jpg",
       "rating": "7.6",
