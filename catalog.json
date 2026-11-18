@@ -1066,7 +1066,8 @@
       "descripcion": "Conectadas por un teléfono, pero separadas por el tiempo. Una asesina en serie pone en peligro el pasado y la vida de otra mujer para cambiar su propio destino.",
       "director": "이충현",
       "reparto": "박신혜, 전종서, 김성령, 이엘, Park Ho-san, 오정세, 이동휘, Um Chae-young, Jo Kyung-sook, 김민하, 문창길, 류경수",
-      "embedUrl": "https://vimeos.net/embed-qbcowzlhjlr7.html"
+      "embedUrl": "https://vimeos.net/embed-qbcowzlhjlr7.html",
+      "recienAgregado": true
     },
     {
       "titulo": "Hitman: Agente 47",
@@ -1078,7 +1079,8 @@
       "descripcion": "\"Agente 47\" narra la historia de un asesino de élite que ha sido genéticamente alterado para convertirse en una perfecta máquina de matar. Su objetivo es acabar con una gran corporación que planea desvelar los secretos de su organización secreta. Para ello, forma equipo con una joven.",
       "director": "Aleksander Bach",
       "reparto": "Rupert Friend, Zachary Quinto, Hannah Ware, Emilio Rivera, Rolf Kanies, Thomas Kretschmann, Dan Bakkedahl, Ciarán Hinds, Mona Pirzad, Michaela Caspar, Jerry Hoffmann, 杨颖",
-      "embedUrl": "https://vimeos.net/embed-7gcefslsbmpr.html"
+      "embedUrl": "https://vimeos.net/embed-7gcefslsbmpr.html",
+      "recienAgregado": true
     },
     {
       "titulo": "Hitman",
@@ -1090,7 +1092,8 @@
       "descripcion": "Basada en el famoso videojuego del mismo nombre. El agente 47 (Olyphant) es contratado por una misteriosa organización conocida como 'La Agencia' para matar por dinero. El cazador se convertirá en la presa tras un cambio de régimen político. Tanto la Interpol como el ejército ruso perseguirá al asesino por toda Europa del Este, mientras él intenta averiguar quién le tendió la trampa y por qué.",
       "director": "Xavier Gens",
       "reparto": "Timothy Olyphant, Dougray Scott, Ольга Куриленко, Robert Knepper, Ulrich Thomsen, Henry Ian Cusick, Michael Offei, Christian Erickson, Ériq Ebouaney, Joe Sheridan, James Faulkner, Jean-Marc Bellu",
-      "embedUrl": "https://vimeos.net/embed-8kfg9hqn7i69.html"
+      "embedUrl": "https://vimeos.net/embed-8kfg9hqn7i69.html",
+      "recienAgregado": true
     },
     {
       "titulo": "Hellfire",
@@ -6213,6 +6216,18 @@
               "nombre": "La decisión de Navier",
               "duracion": "46 min",
               "embedUrl": "https://bysesukior.com/e/w0s00z26gr7x"
+            },
+            {
+              "numero": 7,
+              "nombre": "Secretos revelados",
+              "duracion": "53 min",
+              "embedUrl": "https://morencius.com/embed/0l6fpa2qaexu"
+            },
+            {
+              "numero": 8,
+              "nombre": "Un nuevo acercamiento",
+              "duracion": "53 min",
+              "embedUrl": "https://morencius.com/embed/kx1zg2i39yv2"
             }
           ]
         }
