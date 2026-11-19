@@ -1,6 +1,42 @@
 {
   "movies": [
     {
+      "titulo": "Jugada maestra",
+      "poster": "https://image.tmdb.org/t/p/w500/xMZkXK0j2HqUplyTXotXOr2SHGx.jpg",
+      "rating": "6.9",
+      "anio": 2026,
+      "duracion": "1h 45min",
+      "genero": "Comedia, Suspense, Crimen",
+      "descripcion": "Becket, un potencial heredero de una fortuna millonaria, solo tiene un pequeño problema: que es el octavo en la línea de sucesión. Lo cual, por supuesto, tiene una fácil solución: matarlos a todos hasta que solo quede él.",
+      "director": "John Patton Ford",
+      "reparto": "Glen Powell, Margaret Qualley, Jessica Henwick, Bill Camp, Zach Woods, Topher Grace, Ed Harris, Raff Law, Nell Williams, Alexander Hanson, James Frecheville, Adrian Lukis",
+      "embedUrl": "https://bysedikamoum.com/e/dfvv23t6lgnq"
+    },
+    {
+      "titulo": "Culpa tuya: Londres",
+      "poster": "https://image.tmdb.org/t/p/w500/oeOmayFaiGz6km5vShPpDBQnZf1.jpg",
+      "rating": "7.4",
+      "anio": 2026,
+      "duracion": "2h 3min",
+      "genero": "Romance, Drama",
+      "descripcion": "Noah y Nick regresan más fuertes, unidos y enamorados que nunca. Pero a medida que la vida empieza a tirar de ellos en direcciones diferentes, su relación se enfrenta a su reto más difícil hasta la fecha. Noah se marcha a Oxford para proseguir sus estudios, mientras que Nick se ve consumido por las crecientes exigencias del trabajo. Cuando nuevas personas entran en sus vidas, despertando emociones inesperadas y celos persistentes, empiezan a formarse grietas. La confianza se pone a prueba, las pasiones se desatan y el vínculo que una vez creyeron irrompible empieza a tensarse. Ahora, en una encrucijada, Noah y Nick deben decidir: luchar por el amor que los unió... o arriesgarse a perderlo para siempre.",
+      "director": "Dani Girdwood",
+      "reparto": "Asha Banks, Matthew Broome, Louisa Binder, Joel Nankervis, Scarlett Rayner, Orlando Norman, Ray Fearon, Enva Lewis, Eve Macklin, Nicole Ansari-Cox, Sam Buchanan, Kerim Hassan",
+      "embedUrl": "https://bysedikamoum.com/e/qnwfegmjkjv0"
+    },
+    {
+      "titulo": "Besar, casar o matar",
+      "poster": "https://image.tmdb.org/t/p/w500/ouSqCU275wmXHsnFuQSywb3tnSb.jpg",
+      "rating": "6.1",
+      "anio": 2025,
+      "duracion": "1h 37min",
+      "genero": "Comedia, Suspense, Terror",
+      "descripcion": "Cuando Eva Vaugh, una adicta a los crímenes reales, es empujada al mundo de las aplicaciones de citas por sus amigas en su 30 cumpleaños, de repente se encuentra en el centro de un caso de asesinato en la vida real. A medida que se revelan nuevos detalles sobre los asesinatos en su podcast favorito, se da cuenta de que uno de los tres hombres con los que está saliendo podría ser el infame \"asesino del deslizamiento a la derecha\" que aterroriza a la ciudad. Ahora depende de Eva y de sus amigas descubrir qué cita es un f-boy, un marido potencial o un asesino.",
+      "director": "Laura Murphy",
+      "reparto": "Lucy Hale, Jedidiah Goodacre, Virginia Gardner, RJ Fetherstonhaugh, Brooke Nevin, Brendan Morgan, Samer Salem, Bethany Brown, JayR Tinaco, Edem Nyamadi, Laura Yenga, Pete MacLeod",
+      "embedUrl": "https://bysedikamoum.com/e/zppfj7y1fmju"
+    },
+    {
       "titulo": "Snoopy presenta: 12 días para Navidad",
       "poster": "https://image.tmdb.org/t/p/w500/vRgNjtr3TnhnBHqX3b7OdGprMgV.jpg",
       "rating": "7.3",
