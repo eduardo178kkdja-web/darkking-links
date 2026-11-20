@@ -5346,6 +5346,42 @@
   ],
   "series": [
     {
+      "titulo": "El crimen de Pazos",
+      "poster": "https://image.tmdb.org/t/p/w500/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
+      "rating": "6.4",
+      "anio": 2026,
+      "genero": "Crimen, Misterio, Drama",
+      "descripcion": "En el tranquilo pueblo de Pazos, Aniceto y su mujer Irene parecen ser la pareja perfecta hasta que, una noche, ella sufre un brutal ataque como resultado de un presunto robo, lo que le lleva al hospital a luchar por su vida. Elías, un sargento de la Guardia Civil, está convencido de que Aniceto es el autor del crimen.",
+      "creador": "Curro Serrano, Ramón Campos, Gema R. Neira, David Orea",
+      "reparto": "Tristán Ulloa, Carlos Blanco, Fer Fraga, Miguel Borines, Marta Nieto, Verónica Sánchez, Fernando Guillén Cuervo, Nacho Fresneda, Tito Asorey",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Madrugada",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-t39sct412f4w.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Noche",
+              "duracion": "44 min",
+              "embedUrl": "https://vimeos.net/embed-b3ruf6rrvn4p.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Mañana",
+              "duracion": "43 min",
+              "embedUrl": "https://vimeos.net/embed-2gbwwr3cqgja.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titulo": "Dragon Ball Super: Beerus",
       "poster": "https://image.tmdb.org/t/p/w500/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
       "rating": "9.6",
