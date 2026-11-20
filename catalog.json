@@ -5346,6 +5346,48 @@
   ],
   "series": [
     {
+      "titulo": "Dragon Ball Super: Beerus",
+      "poster": "https://image.tmdb.org/t/p/w500/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
+      "rating": "9.6",
+      "anio": 2026,
+      "genero": "Animación, Action & Adventure, Sci-Fi & Fantasy",
+      "descripcion": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
+      "creador": "",
+      "reparto": "Masako Nozawa, Ryo Horikawa, Naoko Watanabe, Unsho Ishizuka, Koichi Yamadera",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "El dios que destruye",
+              "duracion": "23 min",
+              "embedUrl": "https://bysetayico.com/e/eoj8vwpng6vb/dragón-ball-super-beerus-epi-1"
+            },
+            {
+              "numero": 2,
+              "nombre": "Rumbo al planeta de Kaio",
+              "duracion": "23 min",
+              "embedUrl": "https://bysetayico.com/e/teyi3va0xauz/dragón-ball-super-beerus-epi-2"
+            },
+            {
+              "numero": 3,
+              "nombre": "El dios llega a la Tierra",
+              "duracion": "23 min",
+              "embedUrl": "https://bysetayico.com/e/h6doh60p67dr/dragón-ball-super-beerus-epi-3"
+            },
+            {
+              "numero": 4,
+              "nombre": "El dios de los saiyajin",
+              "duracion": "23 min",
+              "embedUrl": "https://bysetayico.com/e/or5qejq11222/dragón-ball-super-beerus-epi-4"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titulo": "Tú siempre estuviste ahí",
       "poster": "https://image.tmdb.org/t/p/w500/1mCAo5XkkaW67xeF2aAW26HaPFh.jpg",
       "rating": "8.3",
