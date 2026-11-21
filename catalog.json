@@ -5382,6 +5382,30 @@
   ],
   "series": [
     {
+      "titulo": "Infamia",
+      "poster": "https://image.tmdb.org/t/p/w500/ngq8DgkTahjjMM4UGbfmPIopjUX.jpg",
+      "rating": "8.4",
+      "anio": 2026,
+      "genero": "Misterio, Drama",
+      "descripcion": "Dos niñas desaparecieron hace veinte años. Ahora, la búsqueda de Emma amenaza a quienes creían haber enterrado la verdad.",
+      "creador": "",
+      "reparto": "Susana Abaitua, Jorge Bosch, Jon Olivares, Ane Gabarain, Iñigo Gastesi, Iñigo Azpitarte, Eva Llorach, Asier Oruesagasti, Kandido Uranga",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Agua",
+              "duracion": "53 min",
+              "embedUrl": "https://bysetayico.com/e/q3ai9iuxr9u6/infamia-epi-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titulo": "El crimen de Pazos",
       "poster": "https://image.tmdb.org/t/p/w500/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
       "rating": "6.4",
