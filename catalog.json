@@ -1,6 +1,30 @@
 {
   "movies": [
     {
+      "titulo": "Tadeo Jones y La Lámpara Maravillosa",
+      "poster": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "rating": "8.3",
+      "anio": 2026,
+      "duracion": "1h 34min",
+      "genero": "Animación, Comedia, Familia",
+      "descripcion": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+      "director": "Enrique Gato",
+      "reparto": "Óscar Barberán, Michelle Jenner, Luis Posada, Joseph Balderrama, Trevor White",
+      "embedUrl": "https://bysetayico.com/e/eharw7gqqfsm/master"
+    },
+    {
+      "titulo": "Blood Covenant",
+      "poster": "https://image.tmdb.org/t/p/w500/1lskMEArKsp7pzQck90q6ttXAbn.jpg",
+      "rating": "5.5",
+      "anio": 2026,
+      "duracion": "1h 25min",
+      "genero": "Terror",
+      "descripcion": "Sigue a un prometedor escritor de terror en el momento más bajo de su vida: años sin éxito, ahogado por las deudas y al borde del colapso. Desesperado, lleva a cabo un ritual ocultista para invocar a un demonio que le concederá las historias que ya no puede escribir. El pacto funciona, pero a un precio terrible. Cada cuento que crea exige un sacrificio: una libra de carne. A medida que su fama crece, su cuerpo y su alma se deterioran, y la inspiración se vuelve inseparable del dolor.",
+      "director": "Mariano Cattaneo",
+      "reparto": "Joe Keery",
+      "embedUrl": "https://bysetayico.com/e/efkpo5y2pmn6/blood-covenant-2026"
+    },
+    {
       "titulo": "Tu nombre",
       "poster": "https://image.tmdb.org/t/p/w500/iaiy3tg9QVkDpObm1IGqmbC9A5C.jpg",
       "rating": "8.5",
@@ -6582,6 +6606,12 @@
               "nombre": "Colapso nervioso",
               "duracion": "47 min",
               "embedUrl": "https://bysedikamoum.com/e/pgu11wgi7jof/tierra-de-mafia-t2-epi-9"
+            },
+            {
+              "numero": 10,
+              "nombre": "La reina ha muerto",
+              "duracion": "47 min",
+              "embedUrl": "https://bysetayico.com/e/67xoqowt0gsb/tierra-de-mafia-t2-epi-10"
             }
           ]
         }
@@ -11580,6 +11610,12 @@
               "nombre": "Dinosaurios",
               "duracion": "42 min",
               "embedUrl": "https://bysedikamoum.com/e/8ikvvlhjogxw/tulsa-king-t4-epi-5"
+            },
+            {
+              "numero": 6,
+              "nombre": "Club de raqueta",
+              "duracion": "39 min",
+              "embedUrl": "https://bysetayico.com/e/s2p10zup4057/tulsa-king-t4-epi-6"
             }
           ]
         }
