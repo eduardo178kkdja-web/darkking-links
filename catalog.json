@@ -1,6 +1,18 @@
 {
   "movies": [
     {
+      "titulo": "Allen",
+      "poster": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+      "rating": "6.5",
+      "anio": 2026,
+      "duracion": "1h 47min",
+      "genero": "Ciencia ficción, Aventura, Comedia",
+      "descripcion": "Veinte años después de su encuentro con un alienígena, Petey aún no ha conseguido pasar página. Ahora, su viejo amigo ha vuelto, y el motivo es tan complicado como inesperado.",
+      "director": "Daley Pearson",
+      "reparto": "T.J. Power, Charlotte Nicdao, Josh Helman, Emily Barclay, Benedict Hardie, Elijah Tamati, Edward A O'Sullivan, Caitlin Niemotko, Tommy Broadmore, Kelly Butler, Mark Doggett, Christopher Sommers",
+      "embedUrl": "https://vimeos.net/embed-leyzi0ko46ru.html"
+    },
+    {
       "titulo": "Tadeo Jones y La Lámpara Maravillosa",
       "poster": "https://image.tmdb.org/t/p/w500/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
       "rating": "8.3",
@@ -6342,6 +6354,12 @@
               "nombre": "Un reencuentro inesperado",
               "duracion": "1h 3min",
               "embedUrl": "https://bysesukior.com/e/lpgwbscrd9lg"
+            },
+            {
+              "numero": 9,
+              "nombre": "La cocina queda a oscuras",
+              "duracion": "1h 8min",
+              "embedUrl": "https://bysesukior.com/e/69jumzc6nutz"
             }
           ]
         }
