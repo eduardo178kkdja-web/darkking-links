@@ -5453,12 +5453,12 @@
       "temporadas": [
         {
           "numero": 1,
-          "anio": "",
+          "anio": 2026,
           "capitulos": [
             {
               "numero": 1,
-              "nombre": "",
-              "duracion": "",
+              "nombre": "Un nuevo comienzo",
+              "duracion": "1h 10min",
               "embedUrl": "https://bysesukior.com/e/sc5c8bs70npe"
             }
           ]
