@@ -1,6 +1,18 @@
 {
   "movies": [
     {
+      "titulo": "Pacífico",
+      "poster": "https://image.tmdb.org/t/p/w500/nB1Hq2Gz8Q5lUQAGDHNdXbyfoIF.jpg",
+      "rating": "10.0",
+      "anio": 2026,
+      "duracion": "1h 45min",
+      "genero": "Terror, Ciencia ficción",
+      "descripcion": "Un grupo de jóvenes viajeros queda varado en una isla del Pacífico donde luchan por escapar de una presencia maligna que se ha mantenido oculta a la humanidad durante siglos",
+      "director": "Gonzalo Gutiérrez",
+      "reparto": "María Gabriela de Faría, Manolo Cardona, Claudio Cataño, Ricardo Abarca, Diana Neira, Patricia Castañeda, Christopher Von Uckermann, María Nela Sinisterra, Francesca Luce Cardinale",
+      "embedUrl": "https://bysetayico.com/e/417rak4dqfey/pacifico-2026"
+    },
+    {
       "titulo": "Hermanastras",
       "poster": "https://image.tmdb.org/t/p/w500/5f69fuZBiPoa8H1AJ3UHH4AztOb.jpg",
       "rating": "7.2",
@@ -5430,6 +5442,30 @@
   ],
   "series": [
     {
+      "titulo": "De nueve a seis",
+      "poster": "https://image.tmdb.org/t/p/w500/uI1kQ1w6qmqF8cljpnd7AtcBE9J.jpg",
+      "rating": "",
+      "anio": 2026,
+      "genero": "Drama, Comedia",
+      "descripcion": "Tras ser acusada del incendio de un coche, la directora de Chronic Motors es degradada de su cargo. ¿Encontrará el amor y la felicidad en la oficina?",
+      "creador": "최지오",
+      "reparto": "Park Min-young, 육성재, 고수, 주현영, 김미경, 남윤호, 천우진, 최지수, 옥진욱, Song Byeong-geun, 윤영주, 정해균",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": "",
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "",
+              "duracion": "",
+              "embedUrl": "https://bysesukior.com/e/sc5c8bs70npe"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titulo": "Infamia",
       "poster": "https://image.tmdb.org/t/p/w500/ngq8DgkTahjjMM4UGbfmPIopjUX.jpg",
       "rating": "8.4",
@@ -6339,8 +6375,7 @@
             }
           ]
         }
-      ],
-      "nuevoEpisodio": true
+      ]
     },
     {
       "titulo": "La mesa final",
@@ -6409,6 +6444,12 @@
               "nombre": "La cocina queda a oscuras",
               "duracion": "1h 8min",
               "embedUrl": "https://bysesukior.com/e/69jumzc6nutz"
+            },
+            {
+              "numero": 10,
+              "nombre": "Cocina a oscuras",
+              "duracion": "1h 8min",
+              "embedUrl": "https://bysetayico.com/e/0c3zq15l3ujt/la-mesa-final-epi-10"
             }
           ]
         }
@@ -6475,6 +6516,18 @@
               "nombre": "Un nuevo acercamiento",
               "duracion": "53 min",
               "embedUrl": "https://bysetayico.com/e/mav53aen80b8/la-emperatriz-divorciada-epi-8"
+            },
+            {
+              "numero": 9,
+              "nombre": "La decisión de Navier",
+              "duracion": "52 min",
+              "embedUrl": "https://bysetayico.com/e/enampw406wd6/emperatriz-epi-9"
+            },
+            {
+              "numero": 10,
+              "nombre": "Un nuevo comienzo para la emperatriz",
+              "duracion": "57 min",
+              "embedUrl": "https://bysetayico.com/e/njzuf405jfes/emperatriz-epi-10"
             }
           ]
         }
