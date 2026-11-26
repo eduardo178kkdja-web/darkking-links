@@ -5442,6 +5442,402 @@
   ],
   "series": [
     {
+      "titulo": "Una tienda para asesinos",
+      "poster": "https://image.tmdb.org/t/p/w500/bAduH6ZG3EetGgl8cdpMmDkoi5B.jpg",
+      "rating": "8.5",
+      "anio": 2024,
+      "genero": "Drama, Action & Adventure, Misterio",
+      "descripcion": "El único adulto que cuida de Jian es su tío. Tras su repentina muerte, Jian se entera de que ha dejado un sospechoso centro comercial. ¿Quién era su tío y qué clase de comercio dirigía? Antes de que Jian pueda siquiera intuir lo que pasa, es atacada por unos desconocidos que quieren la mercancía de su tío. Ahora que está sola, ¿podrá Jian sobrevivir?",
+      "creador": "이언희, 이권",
+      "reparto": "이동욱, 김혜준, 금해나, 김민, 이태영, 조한선, 서현우, 정윤하, Hyunri, 岡田将生",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2024,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Murthehelp",
+              "duracion": "50min",
+              "embedUrl": "https://vimeos.net/embed-6hb05ek81pjl.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Jin Man repetido",
+              "duracion": "54min",
+              "embedUrl": "https://vimeos.net/embed-co7cszekls6k.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Los fuertes no aúllan",
+              "duracion": "45min",
+              "embedUrl": "https://vimeos.net/embed-601pcpbivwq5.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "El centro comercial",
+              "duracion": "1h 3min",
+              "embedUrl": "https://vimeos.net/embed-wisx8u5tm0hh.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Babilonia",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-53z9xfbzc2ye.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Jeong Jin-man",
+              "duracion": "56min",
+              "embedUrl": "https://vimeos.net/embed-75k71a62nmk7.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Trampa",
+              "duracion": "1h 1min",
+              "embedUrl": "https://vimeos.net/embed-jc6jw5wwgwrh.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Escucha, Ji An",
+              "duracion": "1h 1min",
+              "embedUrl": "https://vimeos.net/embed-tlr1z3i8wapm.html"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Jinman, ese mismo día",
+              "duracion": "1h",
+              "embedUrl": "https://vimeos.net/embed-qnuyous3ody2.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Jin Man y la llamada",
+              "duracion": "54min",
+              "embedUrl": "https://vimeos.net/embed-18nrxtumxm2n.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Pasado y presente",
+              "duracion": "1h 7min",
+              "embedUrl": "https://vimeos.net/embed-44yxuf46y6lw.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Ataque",
+              "duracion": "56min",
+              "embedUrl": "https://vimeos.net/embed-2776d0dx0flb.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Negociación",
+              "duracion": "1h 5min",
+              "embedUrl": "https://vimeos.net/embed-1y0unw6s7q5t.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "El Caballo de Troya",
+              "duracion": "57min",
+              "embedUrl": "https://vimeos.net/embed-41f00prxg32y.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "El Enemigo de mi Enemigo",
+              "duracion": "58min",
+              "embedUrl": "https://vimeos.net/embed-wn4d2f3hhxsl.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Escucha, Jinman",
+              "duracion": "1h 1min",
+              "embedUrl": "https://vimeos.net/embed-289vd94tosbl.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Made in Korea",
+      "poster": "https://image.tmdb.org/t/p/w500/7sTnLKLRyOL91WNKJeOHjdddiTk.jpg",
+      "rating": "8.1",
+      "anio": 2025,
+      "genero": "Crimen, Drama",
+      "descripcion": "Un hombre movido por la ambición de riqueza y poder, y un fiscal que lo sacrifica todo para detenerlo: una historia que se desarrolla en el torbellino de una época turbulenta.",
+      "creador": "우민호",
+      "reparto": "현빈, 정우성, 우도환, 차희, 이세호",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2025,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Un hombre de negocios",
+              "duracion": "54min",
+              "embedUrl": "https://vimeos.net/embed-y4wc94isvk5f.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "El poder del perro",
+              "duracion": "1h 9min",
+              "embedUrl": "https://vimeos.net/embed-3wn8z93l6y04.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "La era de la prohibición",
+              "duracion": "1h 5min",
+              "embedUrl": "https://vimeos.net/embed-zq08yd7er0tc.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "En el nombre del padre",
+              "duracion": "1h 7min",
+              "embedUrl": "https://vimeos.net/embed-6f8qh88jq9lp.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Guerra de sangre",
+              "duracion": "1h 3min",
+              "embedUrl": "https://vimeos.net/embed-cjf1jftr8zfr.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Made in Korea",
+              "duracion": "1h 22min",
+              "embedUrl": "https://vimeos.net/embed-o0nwr7o4cdlf.html"
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Kumicho (El jefe)",
+              "duracion": "1h 2min",
+              "embedUrl": "https://vimeos.net/embed-ewolmlmih000.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "La supervivencia del más apto",
+              "duracion": "52min",
+              "embedUrl": "https://vimeos.net/embed-5x9uuahxv4l0.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "El enemigo de mi enemigo",
+              "duracion": "1h 7min",
+              "embedUrl": "https://vimeos.net/embed-ylnbtv3pa95t.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "El principio del fin",
+              "duracion": "58min",
+              "embedUrl": "https://vimeos.net/embed-99t4hd1y8l02.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "La voluntad de Dios",
+              "duracion": "1h 7min",
+              "embedUrl": "https://vimeos.net/embed-68a8w7l2nmx8.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Made in Korea",
+              "duracion": "1h 17min",
+              "embedUrl": "https://vimeos.net/embed-z1034fu978mq.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "El sinuoso camino del derecho",
+      "poster": "https://image.tmdb.org/t/p/w500/y9Hs78ZgAxlTH6bitgPv9uPDITE.jpg",
+      "rating": "8.1",
+      "anio": 2025,
+      "genero": "Drama",
+      "descripcion": "Un abogado joven y novato con un fuerte sentido de la justicia se une a un bufete de abogados de primer nivel, navegando por el complejo mundo legal bajo un mentor frío y exigente.",
+      "creador": "Kim Jae-hong",
+      "reparto": "이진욱, 정채연, 이학주, 전혜빈, 강상준, 김강민, 이주연, 표재겸",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2025,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Iniciación",
+              "duracion": "1h 1min",
+              "embedUrl": "https://vimeos.net/embed-2rayf9p0fugs.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Té, amor y pruebas",
+              "duracion": "1h 7min",
+              "embedUrl": "https://vimeos.net/embed-gvxh5zny19ch.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Crisálida",
+              "duracion": "1h 9min",
+              "embedUrl": "https://vimeos.net/embed-ltq5zvnmwefe.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Lex talionis",
+              "duracion": "1h 9min",
+              "embedUrl": "https://vimeos.net/embed-sp1sdz8w86s0.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "El monólogo de Salieri",
+              "duracion": "1h 9min",
+              "embedUrl": "https://vimeos.net/embed-kcez1b65lwtw.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "El amor es una discapacidad",
+              "duracion": "1h 14min",
+              "embedUrl": "https://vimeos.net/embed-atgagr92ad9t.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Amor con todos sus colores",
+              "duracion": "1h 10min",
+              "embedUrl": "https://vimeos.net/embed-pzxwiq9gtz35.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Wonder Woman",
+              "duracion": "1h 5min",
+              "embedUrl": "https://vimeos.net/embed-fcu1r3ktylvk.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Derecho a la vida",
+              "duracion": "1h 4min",
+              "embedUrl": "https://vimeos.net/embed-5csk274nd6r9.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "El que no hace nada",
+              "duracion": "1h 15min",
+              "embedUrl": "https://vimeos.net/embed-wuxf02kn6chd.html"
+            },
+            {
+              "numero": 11,
+              "nombre": "La bestia bípeda",
+              "duracion": "1h 17min",
+              "embedUrl": "https://vimeos.net/embed-z6hfxcvf4iiq.html"
+            },
+            {
+              "numero": 12,
+              "nombre": "Más allá del amor prometido",
+              "duracion": "1h 27min",
+              "embedUrl": "https://vimeos.net/embed-hzc0l4z7wr7n.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Hacemos lo que podemos",
+      "poster": "https://image.tmdb.org/t/p/w500/EQMMCm2IMUxU8m9Opq0trg7vAN.jpg",
+      "rating": "8.4",
+      "anio": 2026,
+      "genero": "Drama",
+      "descripcion": "Tras 20 años tratando de hacer su primera película, un aspirante a director toca fondo. Pero entonces conoce a una productora saturada que le ayuda a volver a creer en sí mismo.",
+      "creador": "박해영, 차영훈",
+      "reparto": "구교환, 고윤정, 오정세, 강말금, 박해준, 배종옥, 한선화, 최원영, 전배수, 심희섭, 박예니, 배명진",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2026,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Un sueño que no termina",
+              "duracion": "1h 11min",
+              "embedUrl": "https://vimeos.net/embed-ocp9d3070hw9.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Tocando fondo",
+              "duracion": "1h 5min",
+              "embedUrl": "https://vimeos.net/embed-ru3g4u1tyq0e.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Entre encuentros y rivalidades",
+              "duracion": "1h 5min",
+              "embedUrl": "https://vimeos.net/embed-xu9qwbh9zbzx.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Venganza y presión laboral",
+              "duracion": "1h 2min",
+              "embedUrl": "https://vimeos.net/embed-f1muq5ksw64d.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "El peso del desprecio",
+              "duracion": "1h 5min",
+              "embedUrl": "https://vimeos.net/embed-xgmlrmqjps5v.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Una llamada inesperada",
+              "duracion": "1h 8min",
+              "embedUrl": "https://vimeos.net/embed-7c5eb1bsfxf2.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Decisiones que cambian todo",
+              "duracion": "1h 7min",
+              "embedUrl": "https://vimeos.net/embed-ohkfuhi0cfdo.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "Envidia y confrontaciones",
+              "duracion": "1h 6min",
+              "embedUrl": "https://vimeos.net/embed-iy9mkn3zwuxn.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "El miedo al debut",
+              "duracion": "1h 2min",
+              "embedUrl": "https://vimeos.net/embed-hnbpz1b0is6d.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "Una oportunidad para actuar",
+              "duracion": "1h 4min",
+              "embedUrl": "https://vimeos.net/embed-keho22l1d2nz.html"
+            },
+            {
+              "numero": 11,
+              "nombre": "La soledad del éxito",
+              "duracion": "1h 5min",
+              "embedUrl": "https://vimeos.net/embed-pkbt2pfzyq3r.html"
+            },
+            {
+              "numero": 12,
+              "nombre": "Un nuevo comienzo",
+              "duracion": "1h 22min",
+              "embedUrl": "https://vimeos.net/embed-ycpm7hv56y9i.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titulo": "De nueve a seis",
       "poster": "https://image.tmdb.org/t/p/w500/uI1kQ1w6qmqF8cljpnd7AtcBE9J.jpg",
       "rating": "",
@@ -10446,6 +10842,18 @@
               "nombre": "Secretos revelados",
               "duracion": "47 min",
               "embedUrl": "https://bysevepoin.com/e/78iy00oln268"
+            },
+            {
+              "numero": 7,
+              "nombre": "Un reencuentro destinado al amor",
+              "duracion": "47 min",
+              "embedUrl": "https://bysetayico.com/e/4fh1tix3cw8s/amor-dulce-epi-7"
+            },
+            {
+              "numero": 8,
+              "nombre": "Nuevos sentimientos en Corea",
+              "duracion": "48 min",
+              "embedUrl": "https://bysesukior.com/e/1m2d1xpacknm"
             }
           ]
         }
