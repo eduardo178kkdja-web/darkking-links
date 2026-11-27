@@ -1,6 +1,30 @@
 {
   "movies": [
     {
+      "titulo": "Guardaespaldas por navidad",
+      "poster": "https://image.tmdb.org/t/p/w500/baYwDjfwRQud2Eibpay4XgvYSmv.jpg",
+      "rating": "6.7",
+      "anio": 2026,
+      "duracion": "1h 49min",
+      "genero": "Romance, Comedia",
+      "descripcion": "Una estricta guardaespaldas viaja a un rancho de Montana con el famoso actor al que protege. Pero al fingir ser pareja por Navidad surge un amor real.",
+      "director": "Elizabeth Allen Rosenbaum",
+      "reparto": "Leighton Meester, Jared Padalecki, Andie MacDowell, Noah LaLonde, Shaun Johnston, Toby Sandeman, Rachael Ancheril, Phil Brooks, Siobhan Williams, Greg Lawson, Tess Degenstein, Walker Hayes",
+      "embedUrl": "https://bysedikamoum.com/e/56mo7ovobipo"
+    },
+    {
+      "titulo": "SpongeBob SquarePants: Merry Christmas, Mr. Plankton",
+      "poster": "https://image.tmdb.org/t/p/w500/sZiPj77l3AzazIuZSckzat2stpy.jpg",
+      "rating": "",
+      "anio": 2026,
+      "duracion": "0h 44min",
+      "genero": "Animación, Familia, Comedia",
+      "descripcion": "Cuando el Plancton se apodere del Polo Norte, Bob Esponja, Sr. Cangrejo y un grupo de inadaptados se unen para salvar la Navidad",
+      "director": "Dave Cunningham",
+      "reparto": "Tom Kenny, Bill Fagerbakke, Rodger Bumpass, Clancy Brown, Mr. Lawrence, Dee Bradley Baker, Lewis Black, Danny Giovannini, Crissy Guerrero, Sirena Irwin, Jill Talley",
+      "embedUrl": "https://bysetayico.com/e/scmqss3wuwpu/spongebob-squarepants-merry-christmas-2026"
+    },
+    {
       "titulo": "Oscar Shaw",
       "poster": "https://image.tmdb.org/t/p/w500/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
       "rating": "6.8",
@@ -12246,6 +12270,12 @@
               "nombre": "Club de raqueta",
               "duracion": "39 min",
               "embedUrl": "https://bysetayico.com/e/s2p10zup4057/tulsa-king-t4-epi-6"
+            },
+            {
+              "numero": 7,
+              "nombre": "Diamantes negros",
+              "duracion": "36 min",
+              "embedUrl": "https://bysetayico.com/e/htjtqg3rxgdf/tulsa-king-t4-epi-7"
             }
           ]
         }
