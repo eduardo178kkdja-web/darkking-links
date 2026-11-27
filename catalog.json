@@ -1,6 +1,18 @@
 {
   "movies": [
     {
+      "titulo": "Heartland",
+      "poster": "https://image.tmdb.org/t/p/w500/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
+      "rating": "6.2",
+      "anio": 2026,
+      "duracion": "1h 54min",
+      "genero": "Suspense, Misterio",
+      "descripcion": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
+      "director": "Shana Feste",
+      "reparto": "Jessica Chastain, Carter Faith, Ross Lynch, John Hawkes, Garrett Hedlund, Norbert Leo Butz, Hill Harper, Ben Dickey, Paul Sparks, Jennifer Nettles, Tracy Lawrence, Matt Lowe",
+      "embedUrl": "https://bysedikamoum.com/e/phxsihjy753x"
+    },
+    {
       "titulo": "La Última Casa",
       "poster": "https://image.tmdb.org/t/p/w500/CIGQ7ONbNaSDK3KGkXjBILcj1d.jpg",
       "rating": "6.7",
@@ -5880,6 +5892,12 @@
               "nombre": "Un nuevo comienzo",
               "duracion": "1h 10min",
               "embedUrl": "https://bysesukior.com/e/sc5c8bs70npe"
+            },
+            {
+              "numero": 2,
+              "nombre": "La degradación de Yi-ji",
+              "duracion": "1h",
+              "embedUrl": "https://bysevepoin.com/e/1ds4vexn77lv"
             }
           ]
         }
