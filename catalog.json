@@ -1,6 +1,30 @@
 {
   "movies": [
     {
+      "titulo": "Oscar Shaw",
+      "poster": "https://image.tmdb.org/t/p/w500/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+      "rating": "6.8",
+      "anio": 2026,
+      "duracion": "1h 33min",
+      "genero": "Acción, Crimen, Suspense, Western",
+      "descripcion": "Tras retirarse de la policía, un implacable detective atormentado por la trágica pérdida de su mejor amigo emprende una peligrosa búsqueda de venganza, buscando la redención y luchando también por devolver la justicia a las calles que una vez juró proteger.",
+      "director": "R. Ellis Frazier",
+      "reparto": "Michael Jai White, Tyrese Gibson, Isaiah Washington, Andrew C. English Jr., Cecile Cubiló, Jeanette Josue, Hiro Ortiz, James Choi, Rich Paul, Vince Jolivette, Jabari Striblin, Kayo Terrell",
+      "embedUrl": "https://bysetayico.com/e/7r827if94y62/oscar-shaw-2026"
+    },
+    {
+      "titulo": "Mosquito Bowl: Un partido en plena guerra",
+      "poster": "https://image.tmdb.org/t/p/w500/yWhMnr8pkhgZ1rGlj4z2dxLbS99.jpg",
+      "rating": "7.5",
+      "anio": 2026,
+      "duracion": "2h 9min",
+      "genero": "Bélica, Drama",
+      "descripcion": "Tras el ataque a Pearl Harbor, cuatro estrellas del fútbol americano se alistan en el cuerpo de Marines y descubren la importancia de la camaradería y el coste de la guerra.",
+      "director": "Peter Berg",
+      "reparto": "Nicholas Galitzine, Bill Skarsgård, Ray Nicholson, Tom Francis, Brent Comer, Jack Ingram, Ella Newton, Peter Berg, Dominic Bogart, Lola Bond, Stacy Clausen, Billy Smith",
+      "embedUrl": "https://bysetayico.com/e/htaxfln1krq0/mosquito-bowl-un-partido-en-plena-guerra-2026"
+    },
+    {
       "titulo": "Heartland",
       "poster": "https://image.tmdb.org/t/p/w500/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
       "rating": "6.2",
