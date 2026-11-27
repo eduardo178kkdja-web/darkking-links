@@ -1,6 +1,30 @@
 {
   "movies": [
     {
+      "titulo": "La Última Casa",
+      "poster": "https://image.tmdb.org/t/p/w500/CIGQ7ONbNaSDK3KGkXjBILcj1d.jpg",
+      "rating": "6.7",
+      "anio": 2026,
+      "duracion": "1h 50min",
+      "genero": "Terror, Ciencia ficción",
+      "descripcion": "Una familia encerrada en su casa misteriosamente tendrá que unirse para sobrevivir a la escasez de recursos y a la siniestra amenaza que no los deja salir.",
+      "director": "Louis Leterrier",
+      "reparto": "Greta Lee, Wagner Moura, Riley Chung, Noah Alexander Sosnowski, Emma Ho, Gabriel Barbosa, Arden Cho, Audrey Anderson, Sid Edwards, Eveline Reynolds-Boison, Lewis Goody, Nancy Baldwin",
+      "embedUrl": "https://bysedikamoum.com/e/64qbkv0fonen"
+    },
+    {
+      "titulo": "Klaus",
+      "poster": "https://image.tmdb.org/t/p/w500/aLniylyJlbXEdxvaGSuQkRACWUx.jpg",
+      "rating": "8.2",
+      "anio": 2019,
+      "duracion": "1h 37min",
+      "genero": "Animación, Familia, Comedia",
+      "descripcion": "Un cartero egoísta y un juguetero huraño forjan una amistad muy especial, que sembrará la alegría en un pueblo frío y oscuro.",
+      "director": "Sergio Pablos",
+      "reparto": "Jason Schwartzman, J.K. Simmons, Rashida Jones, Joan Cusack, Norm Macdonald, Will Sasso, Sergio Pablos, Mila Brener, Neda Margrethe Labba, Sydney Brower, Teddy Blum, Julian Zane",
+      "embedUrl": "https://bysedikamoum.com/e/qfnlwt41se4t"
+    },
+    {
       "titulo": "Pacífico",
       "poster": "https://image.tmdb.org/t/p/w500/nB1Hq2Gz8Q5lUQAGDHNdXbyfoIF.jpg",
       "rating": "10.0",
