@@ -1,6 +1,18 @@
 {
   "movies": [
     {
+      "titulo": "Quasimodo, el alma de París",
+      "poster": "https://image.tmdb.org/t/p/w500/4EEuqprSmPmQhgRfGlqzlL97R2b.jpg",
+      "rating": "8.0",
+      "anio": 2026,
+      "duracion": "1h 46min",
+      "genero": "Drama",
+      "descripcion": "París, 1830. Mientras el cólera se extiende, un jorobado al que persiguen para hacer experimentos médicos con él se ve atrapado entre la inestabilidad política y un amor imposible.",
+      "director": "Jean-François Richet",
+      "reparto": "Vincent Cassel, Karim Leklou, Daphné Patakia, Benjamin Voisin, Noémie Lvovsky, Sébastien Pouderoux, Eli Nachmani, Alexis Rosenstiehl, Julie Nicola, Olivier Bayart, Quentin D'Hainaut, Loly Toublanc",
+      "embedUrl": "https://vimeos.net/embed-p48oidhq24dp.html"
+    },
+    {
       "titulo": "Guardaespaldas por navidad",
       "poster": "https://image.tmdb.org/t/p/w500/baYwDjfwRQud2Eibpay4XgvYSmv.jpg",
       "rating": "6.7",
@@ -5525,6 +5537,60 @@
     }
   ],
   "series": [
+    {
+      "titulo": "Pandemia",
+      "poster": "https://image.tmdb.org/t/p/w500/a1HwzDbytC87vFTyQz7K40Jv2L8.jpg",
+      "rating": "6.9",
+      "anio": 2020,
+      "genero": "Documental",
+      "descripcion": "Una docuserie para conocer a los héroes al frente de la batalla contra la gripe y los esfuerzos que hacen para detener el próximo brote mundial.",
+      "creador": "",
+      "reparto": "Syra Madad",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2020,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Nos persigue",
+              "duracion": "52 min",
+              "embedUrl": "https://vimeos.net/embed-cx0jpu0k6vo5.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "La pandemia es ahora",
+              "duracion": "50 min",
+              "embedUrl": "https://vimeos.net/embed-2spjivh3gfj0.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "No te escondas",
+              "duracion": "50 min",
+              "embedUrl": "https://vimeos.net/embed-c14kfi5dxmxm.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Aférrate a tus raíces",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-xoaou5rqgw1f.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "Rezar podría funcionar",
+              "duracion": "41 min",
+              "embedUrl": "https://vimeos.net/embed-zw6np3fq0951.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "No te detengas ahora",
+              "duracion": "40 min",
+              "embedUrl": "https://vimeos.net/embed-2h62mw9mhj49.html"
+            }
+          ]
+        }
+      ]
+    },
     {
       "titulo": "Una tienda para asesinos",
       "poster": "https://image.tmdb.org/t/p/w500/bAduH6ZG3EetGgl8cdpMmDkoi5B.jpg",
