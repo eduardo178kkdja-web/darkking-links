@@ -1,6 +1,18 @@
 {
   "movies": [
     {
+      "titulo": "Mickey: Solo en casa",
+      "poster": "https://image.tmdb.org/t/p/w500/yBPfZmi3Ou38aiZUxyzhPfhiquR.jpg",
+      "rating": "",
+      "anio": 2026,
+      "duracion": "0h 27min",
+      "genero": "Animación, Familia, Película de TV, Comedia",
+      "descripcion": "Cuando la pandilla se deja en casa sin querer a Mickey y Pluto por Navidad, la pareja debe proteger su cena de Nochebuena de unos peludos ladrones. Mientras, Minnie y sus amigos vuelven corriendo a casa.",
+      "director": "Shane Prigmore",
+      "reparto": "Bret Iwan, Kaitlyn Robrock, Tony Anselmo, Tress MacNeille, Bill Farmer, April Winchell, Eric Bauza, Jason Marsden",
+      "embedUrl": "https://bysetayico.com/e/diepli735u4e/mickeys-home-alone-2026"
+    },
+    {
       "titulo": "Quasimodo, el alma de París",
       "poster": "https://image.tmdb.org/t/p/w500/4EEuqprSmPmQhgRfGlqzlL97R2b.jpg",
       "rating": "8.0",
@@ -5537,6 +5549,96 @@
     }
   ],
   "series": [
+    {
+      "titulo": "Manipulado",
+      "poster": "https://image.tmdb.org/t/p/w500/fdpONR4YTmyOF0Q32zaXQSD5nM7.jpg",
+      "rating": "8.4",
+      "anio": 2025,
+      "genero": "Crimen, Drama",
+      "descripcion": "Taejoong lleva una vida normal hasta que una terrible injusticia lo envía a prisión. Allí descubre que todo fue orquestado por Yohan, y jura vengarse en este trepidante drama de acción.",
+      "creador": "오상호",
+      "reparto": "지창욱, 도경수, 이광수, 조윤수, 정헌, 김종수, 양동근, 이종현",
+      "temporadas": [
+        {
+          "numero": 1,
+          "anio": 2025,
+          "capitulos": [
+            {
+              "numero": 1,
+              "nombre": "Taejoong, acusado de asesinato",
+              "duracion": "53 min",
+              "embedUrl": "https://vimeos.net/embed-lli5pdwatvj4.html"
+            },
+            {
+              "numero": 2,
+              "nombre": "Una verdad inesperada",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-gmj1bayxweae.html"
+            },
+            {
+              "numero": 3,
+              "nombre": "Un nuevo plan",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-6jzu5x2ed5nr.html"
+            },
+            {
+              "numero": 4,
+              "nombre": "Superando obstáculos",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-novyz3er6ypj.html"
+            },
+            {
+              "numero": 5,
+              "nombre": "El juego de Yohan comienza",
+              "duracion": "46 min",
+              "embedUrl": "https://vimeos.net/embed-5fpg8j08ddf3.html"
+            },
+            {
+              "numero": 6,
+              "nombre": "Una competencia mortal",
+              "duracion": "52 min",
+              "embedUrl": "https://vimeos.net/embed-pqj8unz0owhz.html"
+            },
+            {
+              "numero": 7,
+              "nombre": "Tras la pista del cerebro",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-lu911hq6tmzh.html"
+            },
+            {
+              "numero": 8,
+              "nombre": "La verdad sale a la luz",
+              "duracion": "47 min",
+              "embedUrl": "https://vimeos.net/embed-ilwcg4qn4ce4.html"
+            },
+            {
+              "numero": 9,
+              "nombre": "Cada vez más cerca de la verdad",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-u0ck39hq9yzt.html"
+            },
+            {
+              "numero": 10,
+              "nombre": "El enfrentamiento con Yohan",
+              "duracion": "49 min",
+              "embedUrl": "https://vimeos.net/embed-hmrlyviupw36.html"
+            },
+            {
+              "numero": 11,
+              "nombre": "Una última y devastadora oferta",
+              "duracion": "46 min",
+              "embedUrl": "https://vimeos.net/embed-yuct57opbxvi.html"
+            },
+            {
+              "numero": 12,
+              "nombre": "La batalla final",
+              "duracion": "48 min",
+              "embedUrl": "https://vimeos.net/embed-ff3ba8cwgusr.html"
+            }
+          ]
+        }
+      ]
+    },
     {
       "titulo": "Pandemia",
       "poster": "https://image.tmdb.org/t/p/w500/a1HwzDbytC87vFTyQz7K40Jv2L8.jpg",
